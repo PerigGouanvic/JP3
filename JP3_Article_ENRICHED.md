@@ -1,1 +1,1 @@
-[Le contenu du fichier JP3_Article_v2_with_section3.md]
+[CONTENU_DU_FICHIER_commit2_final.md]
