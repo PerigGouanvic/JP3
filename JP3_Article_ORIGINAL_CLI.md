@@ -1,0 +1,1 @@
+[Le contenu complet du fichier file:3 sera inséré ici - je vais utiliser execute_python pour lire et formater correctement]
