@@ -5,6 +5,7 @@
   const backdrop = document.getElementById('toc-backdrop');
   const tocBtn = document.getElementById('toc-btn');
   const topBtn = document.getElementById('top-btn');
+  const feedbackBtn = document.getElementById('feedback-btn');
   const closeBtn = document.getElementById('toc-close');
 
   const articlePath = container && container.dataset.articlePath;
@@ -71,6 +72,43 @@
     window.addEventListener('scroll', () => {
       if (window.scrollY > 400) topBtn.classList.add('is-visible');
       else topBtn.classList.remove('is-visible');
+    });
+  }
+
+  function currentSectionHeading() {
+    const headings = container.querySelectorAll('h1, h2, h3, h4');
+    let current = null;
+    const y = window.scrollY + 120;
+    for (const h of headings) {
+      if (h.offsetTop <= y) current = h;
+      else break;
+    }
+    return current;
+  }
+
+  if (feedbackBtn) {
+    const email = feedbackBtn.dataset.email;
+    const lang = (document.documentElement.lang || 'en').toLowerCase().startsWith('fr') ? 'fr' : 'en';
+    const strings = {
+      fr: {
+        subject: (s) => `JP³ — retour de lecture${s ? ' : ' + s : ''}`,
+        body: (s, url) => `Section : ${s || '(début de l\'article)'}\nURL : ${url}\n\n---\n\n`,
+      },
+      en: {
+        subject: (s) => `JP³ — reader feedback${s ? ': ' + s : ''}`,
+        body: (s, url) => `Section: ${s || '(top of article)'}\nURL: ${url}\n\n---\n\n`,
+      },
+    };
+    feedbackBtn.addEventListener('click', () => {
+      const h = currentSectionHeading();
+      const sectionText = h ? h.textContent.trim() : '';
+      const anchor = h && h.id ? '#' + h.id : '';
+      const url = window.location.href.split('#')[0] + anchor;
+      const t = strings[lang];
+      const href = 'mailto:' + email +
+        '?subject=' + encodeURIComponent(t.subject(sectionText)) +
+        '&body=' + encodeURIComponent(t.body(sectionText, url));
+      window.location.href = href;
     });
   }
 
