@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JP³ — Jogging sur Place, à Son Propre Rythme, dans Son Propre Espace</title>
+  <meta name="description" content="Un protocole d'exercice minimaliste qui élimine ~80% des barrières traditionnelles à l'activité physique.">
+  <link rel="stylesheet" href="../static/css/bulma.min.css">
+  <link rel="stylesheet" href="../static/css/index.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    .article-body { max-width: 780px; margin: 0 auto; padding: 2rem 1rem 4rem; font-size: 1.05rem; line-height: 1.7; }
+    .article-body h1 { font-size: 2rem; margin-top: 2rem; }
+    .article-body h2 { font-size: 1.6rem; margin-top: 2.5rem; border-bottom: 1px solid #eee; padding-bottom: 0.4rem; }
+    .article-body h3 { font-size: 1.3rem; margin-top: 2rem; }
+    .article-body h4 { font-size: 1.1rem; margin-top: 1.6rem; color: #555; }
+    .article-body p { margin: 1rem 0; }
+    .article-body blockquote { border-left: 3px solid #2563eb; padding-left: 1rem; color: #555; margin: 1.5rem 0; }
+    .article-body ul, .article-body ol { margin: 1rem 0 1rem 1.5rem; }
+    .loading { text-align: center; padding: 4rem; color: #888; }
+  </style>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="navigation principale">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/jp3/"><strong>JP³</strong></a>
+    </div>
+    <div class="navbar-end">
+      <a class="navbar-item" href="/jp3/">🇬🇧 English</a>
+    </div>
+  </div>
+</nav>
+
+<main class="article-body">
+  <div id="article" class="loading">Chargement de l'article…</div>
+</main>
+
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      Contenu de <strong>Perig Gouanvic</strong> — sous licence
+      <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0</a>.<br>
+      Code du site sous MIT. Source sur <a href="https://github.com/PerigGouanvic/jp3">GitHub</a>.
+    </p>
+    <p>
+      Fait partie de l'écosystème du format
+      <a href="https://github.com/PerigGouanvic/ada-format"><code>.ada</code></a> —
+      des documents qui s'adaptent à chaque lecteur.
+    </p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  fetch('../content/fr/article.md')
+    .then(r => {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.text();
+    })
+    .then(md => {
+      document.getElementById('article').classList.remove('loading');
+      document.getElementById('article').innerHTML = marked.parse(md);
+    })
+    .catch(err => {
+      document.getElementById('article').innerHTML =
+        '<p style="color:#b00">Erreur de chargement de l\'article : ' + err.message + '</p>';
+    });
+</script>
+
+</body>
+</html>
