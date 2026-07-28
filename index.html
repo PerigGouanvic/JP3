@@ -10,10 +10,17 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
     .article-body { max-width: 780px; margin: 0 auto; padding: 2rem 1rem 6rem; font-size: 1.05rem; line-height: 1.7; }
-    .article-body h1 { font-size: 2rem; margin-top: 2rem; }
-    .article-body h2 { font-size: 1.6rem; margin-top: 2.5rem; border-bottom: 1px solid #eee; padding-bottom: 0.4rem; }
-    .article-body h3 { font-size: 1.3rem; margin-top: 2rem; }
-    .article-body h4 { font-size: 1.1rem; margin-top: 1.6rem; color: #555; }
+    .article-body h1 { font-size: 1.75rem; margin-top: 1.5rem; line-height: 1.25; font-weight: 700; }
+    .article-body .subtitle-lead { font-size: 1rem; color: #666; font-style: italic; font-weight: 400; margin: 0.5rem 0 2rem; line-height: 1.4; }
+    .article-body h2 { font-size: 1.35rem; margin-top: 2.5rem; border-bottom: 1px solid #eee; padding-bottom: 0.4rem; }
+    .article-body h3 { font-size: 1.15rem; margin-top: 2rem; }
+    .article-body h4 { font-size: 1.02rem; margin-top: 1.6rem; color: #555; }
+    @media (min-width: 640px) {
+      .article-body h1 { font-size: 2.1rem; }
+      .article-body .subtitle-lead { font-size: 1.1rem; }
+      .article-body h2 { font-size: 1.5rem; }
+      .article-body h3 { font-size: 1.25rem; }
+    }
     .article-body p { margin: 1rem 0; }
     .article-body blockquote { border-left: 3px solid #2563eb; padding-left: 1rem; color: #555; margin: 1.5rem 0; }
     .article-body ul, .article-body ol { margin: 1rem 0 1rem 1.5rem; }

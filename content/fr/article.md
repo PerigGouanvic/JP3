@@ -1,4 +1,6 @@
-# JP³ : Jogging in Place, at Your Own Pace, in Your Own Place – Un Protocole Universellement Accessible pour l'Activation Comportementale, la Régulation Émotionnelle et le Bien-être Physique, Capacitant Même les Populations les Plus Vulnérables
+# JP³ : Jogging in Place, at Your Own Pace, in Your Own Place
+
+<p class="subtitle-lead">Un protocole universellement accessible pour l'activation comportementale, la régulation émotionnelle et le bien-être physique — capacitant même les populations les plus vulnérables</p>
 
 ## Abstract
 
