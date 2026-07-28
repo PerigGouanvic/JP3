@@ -27,6 +27,31 @@
     .article-body ul, .article-body ol { margin: 1rem 0 1rem 1.5rem; }
     .loading { text-align: center; padding: 4rem; color: #888; }
 
+    .article-body details {
+      border: 1px solid #d1d5db;
+      border-radius: 6px;
+      padding: 0.75rem 1rem;
+      margin: 1rem 0;
+      background: #f9fafb;
+    }
+    .article-body details[open] { background: #fff; }
+    .article-body details summary {
+      cursor: pointer;
+      font-weight: 500;
+      padding: 0.25rem 0;
+      list-style: none;
+      color: #1f2937;
+    }
+    .article-body details summary::-webkit-details-marker { display: none; }
+    .article-body details summary::marker { content: ''; }
+    .article-body details[open] > summary { margin-bottom: 0.75rem; border-bottom: 1px dashed #e5e7eb; padding-bottom: 0.5rem; }
+    .article-body details details {
+      background: #eef2ff;
+      border-color: #c7d2fe;
+      margin-top: 1rem;
+    }
+    .article-body details details[open] { background: #f5f7ff; }
+
     .fab {
       position: fixed; right: 1rem;
       width: 3rem; height: 3rem;
