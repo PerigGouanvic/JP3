@@ -74,7 +74,7 @@
     });
   }
 
-  fetch(articlePath)
+  fetch(articlePath, { cache: 'no-cache' })
     .then((r) => {
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.text();
@@ -82,6 +82,11 @@
     .then((md) => {
       container.classList.remove('loading');
       container.innerHTML = marked.parse(md);
+      const firstH1 = container.querySelector('h1');
+      if (firstH1) {
+        let next = firstH1.nextElementSibling;
+        if (next && next.tagName === 'P') next.classList.add('subtitle-lead');
+      }
       buildToc(container);
       if (window.location.hash) {
         const target = document.getElementById(window.location.hash.slice(1));
