@@ -67,10 +67,10 @@ Trois erreurs matérielles + une erreur d'interprétation :
 1. **Auteurs faux** — L'étude est de **Marc T. Hamilton, Deborah G. Hamilton, Theodore W. Zderic** (pas "Raper"). "Raper" n'apparaît ni dans les auteurs, ni dans la liste des affiliations. Vraisemblablement une hallucination LLM.
 2. **Volume/article faux** — Volume 25**(9)**, article **104869** (pas 25(8), 104270).
 3. **DOI/PMID absents** — DOI réel `10.1016/j.isci.2022.104869`, PMID `36034224`.
-4. **Interprétation des chiffres inversée** dans le texte principal (§2.2.1) :
-   - Article : *"52% less postprandial glucose excursion"* et *"60% less hyperinsulinemia"*.
-   - Texte JP³ actuel : *"une captation de glucose augmentant jusqu'à 52% et l'oxydation des graisses s'améliorant de 60%"*.
-   - Ce n'est pas une paraphrase, c'est un **contresens** : l'étude mesure une **baisse** de l'excursion glucose et de l'hyperinsulinémie postprandiales, pas une **hausse** de captation musculaire ni une hausse d'oxydation lipidique quantifiée à ces chiffres.
+4. **Misattribution des chiffres** dans le texte principal (§2.2.1) :
+   - Article : *"52% less postprandial glucose excursion"* et *"60% less hyperinsulinemia"* — deux grandeurs mesurées directement.
+   - Texte JP³ actuel : *"une captation de glucose augmentant jusqu'à 52% et l'oxydation des graisses s'améliorant de 60%"* — deux grandeurs différentes (captation musculaire, oxydation lipidique), qui sont des **mécanismes sous-jacents** discutés dans l'article mais non chiffrés directement à ces valeurs.
+   - **Nuance importante** : la direction physiologique est cohérente (un soléaire actif capte bien du glucose ; une hyperinsulinémie réduite implique plus de lipolyse). Ce n'est donc pas un renversement de sens, mais un déplacement chiffré : les valeurs 52% et 60% sont attribuées à des grandeurs différentes de celles mesurées. Un lecteur qui vérifie la ref trouvera *"52% less postprandial glucose excursion"*, pas *"52% more glucose uptake"*.
 5. **Position** — l'étude porte sur des sujets **assis** pendant des heures, pas debout. Le lien avec un jogging debout de 30-90 min doit être posé comme extrapolation, pas comme équivalence.
 
 ### Bloc proposé au format cible
@@ -102,7 +102,7 @@ L'étude teste le « soleus push-up » **en position assise** pendant plusieurs 
 
 ### Actions à effectuer dans `content/fr/article.md` (après validation du format)
 
-- **§2.2.1** — Corriger l'interprétation des chiffres (contresens sur 52% / 60%).
+- **§2.2.1** — Corriger la misattribution des chiffres : préserver les valeurs exactes appliquées aux grandeurs mesurées (excursion glucose −52%, hyperinsulinémie −60%) et déplacer les mécanismes (captation soléaire, oxydation lipidique) en glose explicative.
 - **Réf 30 et 32** — Fusionner en une seule entrée (`[30]`) puisqu'il s'agit du même article, ou conserver deux appels [30] et [32] au même bloc si les deux extraits différents restent utiles (dans ce cas, deux gloses contextuelles différentes).
 - **Renuméroter** la bibliographie en aval de 32.
 

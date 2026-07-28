@@ -23,7 +23,7 @@ _A universally accessible protocol for behavioral activation, emotional regulati
 
 **Author's interpretation** (supports the claim in §2.2.1 that the soleus acts as a disproportionate metabolic engine)
 
-This study establishes that the soleus, even in isolated low-intensity solicitation, can sustain elevated oxidative metabolism for hours and significantly modulate postprandial glucose and insulin levels. I use it to support the claim that the soleus is a metabolic engine disproportionate to its mass, and that sustained solicitation — of which JP³ is one possible mode — can have systemic metabolic effects. The 52% and 60% figures are **reductions** of postprandial glucose excursion and hyperinsulinemia, not increases in glucose uptake or fat oxidation.
+This study establishes that the soleus, even in isolated low-intensity solicitation, can sustain elevated oxidative metabolism for hours and significantly modulate postprandial glucose and insulin levels. I use it to support the claim that the soleus is a metabolic engine disproportionate to its mass, and that sustained solicitation — of which JP³ is one possible mode — can have systemic metabolic effects. The 52% and 60% figures refer specifically to reductions in postprandial glucose excursion and in hyperinsulinemia — the two quantities directly measured — related to, but numerically distinct from, glucose uptake and fat oxidation (which are underlying mechanisms discussed by the authors).
 
 **What this text does not say**
 
@@ -44,11 +44,11 @@ Cette référence apparaît actuellement dans l'article comme *"Raper, D. P., et
 
 Le texte actuel du §2.2.1 dit : *« une captation de glucose augmentant jusqu'à 52% et l'oxydation des graisses s'améliorant de 60% lors de contractions prolongées »*.
 
-C'est un **contresens** — pas une paraphrase :
+**Ce n'est pas un renversement de direction physiologique.** Le mécanisme évoqué est cohérent avec l'article : un soléaire actif capte effectivement du glucose sanguin, ce qui explique en partie la baisse d'excursion mesurée par Hamilton ; et une hyperinsulinémie réduite implique mécaniquement une lipolyse et une oxydation lipidique accrues. Sur le fond, la direction est bonne.
 
-- L'étude mesure une **baisse de 52% de l'excursion glucose postprandial** (pas une hausse de captation de 52%).
-- L'étude mesure une **baisse de 60% de l'hyperinsulinémie** (pas une hausse d'oxydation des graisses de 60%).
-- Deux grandeurs différentes, directions opposées, à corriger dans le §2.2.1.
+**Mais les chiffres 52% et 60% sont mal attribués.** Dans l'article, ils s'appliquent à l'excursion glucose postprandial (−52%) et à l'hyperinsulinémie (−60%). Les déplacer vers « captation de glucose » (+52%) et « oxydation des graisses » (+60%) transfère les valeurs à des grandeurs que l'article ne mesure pas directement. Un lecteur qui vérifie la ref trouvera *« 52% less postprandial glucose excursion »*, pas *« 52% more glucose uptake »* — l'imprécision se voit au premier regard critique.
+
+Correction minimale possible dans le §2.2.1 : préserver les valeurs exactes et leurs grandeurs (« excursion glucose postprandial réduite de ~52%, hyperinsulinémie réduite de 60% ») et déplacer les mécanismes (captation soléaire soutenue, demande insulinique réduite) en glose explicative.
 
 **À propos de la posture**
 
