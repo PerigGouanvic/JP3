@@ -22,8 +22,6 @@ This section constitutes the core of the scientific and practical justification 
 
 ### 2.1 The Multiplicative Synergy of JP³: When the "P"s Amplify One Another
 
-The "³" in JP³ (Jogging in Place × at Your Own Pace × in Your Own Place) is not merely a symbol, but represents a **multiplicative synergy** where each dimension amplifies the efficacy of the other two. This interaction creates a unique environment that overcomes traditional exercise barriers and optimizes physiological and psychological benefits.
-
 #### 2.1.1 Place × Pace = Crystallized Postural Correction and Unaltered Internal Rhythm
 
 The intimacy and safety of "In Your Own Place" (zero judgment, familiar environment) combined with "At Your Own Pace" (low tempo, freed cognitive bandwidth) allow for **full attention to motor mechanics**. The individual can focus on engaging the big toe, activating the soleus, and reprogramming dysfunctional motor chains without distraction or self-consciousness. This is also the ideal context for the **natural internal rhythm** to emerge without being disrupted by external cues or spatial/social vigilance, promoting reduced muscular tension and cognitive load.
