@@ -287,11 +287,6 @@ Au-delà de ses bénéfices physiologiques (métabolisme aérobie, renforcement 
 17. **Mohamed, O. A., & Mohamed, A. A. (2015).** *Comparison of soleus and gastrocnemius muscle activity during different types of vertical jump.* Journal of Applied Sports Science, 1(1), 1-6.
     - *Extrait validé :* « Soleus muscle showed the highest activation in vertical jump movements, highlighting its key role in producing propulsive force without horizontal displacement, notably during vertical movements or jumping in place. »
 
-**Sur la définition générale et importance de la plantarflexion :**
-
-18. **Sciencedirect.com (2025).** *Plantarflexion.*
-    - *Extrait validé :* « Plantarflexion is the movement of the foot where the toes flex downward toward the sole of the foot, playing a crucial role in propulsion during walking, running, and jumping, primarily driven by the gastrocnemius and soleus muscles. »
-
 #### 2.1.3 Pace × In Place = Activation Comportementale Sans Effort et Progression Naturelle
 
 **Sur l'auto-régulation de l'intensité par l'effort perçu (RPE) :**
@@ -347,8 +342,6 @@ Au-delà de ses bénéfices physiologiques (métabolisme aérobie, renforcement 
 
 32. **Hamilton, M. T., Hamilton, D. G., & Zderic, T. W. (2022).** *A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation.* iScience, 25(9), 104869. [DOI 10.1016/j.isci.2022.104869](https://doi.org/10.1016/j.isci.2022.104869) · PMID 36034224.
     - *Extrait vérifiable :* "Sustained low-intensity contractions of the soleus muscle markedly increase whole-body oxidative metabolism. The resulting fat oxidation and glucose uptake are comparable to those observed during certain HIIT protocols."
-33. **Physio-pedia,** *Soleus Push Up,* 2024.
-    - *Extrait vérifiable :* "Prolonged and continuous activation of the soleus improves postprandial lipid oxidation and has been shown to increase metabolic flexibility, making it particularly relevant for populations affected by metabolic syndrome."
 
 #### 2.2.2 Optimisation du Métabolisme Aérobie : Flexibilité Métabolique et Endurance Fondamentale
 
@@ -403,13 +396,11 @@ Au-delà de ses bénéfices physiologiques (métabolisme aérobie, renforcement 
 
 46. **Kleim, J. A., & Jones, T. A. (2008).** *Principles of experience-dependent neural plasticity: implications for rehabilitation after brain damage.* Journal of Speech, Language, and Hearing Research, 51(1), S225-S239.
     - *Extrait vérifiable :* "Repetition is a critical variable in driving experience-dependent plasticity. Intensive, repetitive practice of motor skills is essential for inducing cortical reorganization and functional recovery."
-47. **Physio-pedia. (n.d.).** *Running Gait Retraining.*
-    - *Extrait vérifiable (le plus fidèle au concept) :* "Gait retraining involves targeted, repetitive exercises designed to modify specific aspects of an individual's running or walking pattern."
+47. **Barton, C. J., Bonanno, D. R., Carr, J., et al. (2016).** *Running retraining to treat lower limb injuries: a mixed-methods study of current evidence synthesised with expert opinion.* British Journal of Sports Medicine, 50(9), 513-526. [DOI 10.1136/bjsports-2015-095278](https://doi.org/10.1136/bjsports-2015-095278).
 
 **Le rôle des yeux fermés pour amplifier la conscience corporelle :**
 
-48. **Advanced Human Performance. (n.d.).** *Eyes-Closed Training For Strength, Performance, & Function.*
-    - *Extrait vérifiable (le plus fidèle au concept) :* "Training with eyes closed removes visual input, forcing the somatosensory and vestibular systems to work harder. This heightened reliance on proprioception and balance mechanisms significantly enhances body awareness, stability, and neuromuscular control."
+48. **Peterka, R. J. (2002).** *Sensorimotor integration in human postural control.* Journal of Neurophysiology, 88(3), 1097-1118. [DOI 10.1152/jn.2002.88.3.1097](https://doi.org/10.1152/jn.2002.88.3.1097).
 49. **Adamo, D. E., & Alexander, M. A. (2005).** *The effect of vision on postural stability during quiet standing in healthy young adults.* Journal of Electromyography and Kinesiology, 15(6), 614-622.
     - *Extrait vérifiable :* "Removal of visual input significantly increased postural sway (p < 0.001) for all subjects, indicating a greater reliance on somatosensory and vestibular systems for maintaining balance."
 
@@ -437,8 +428,7 @@ Au-delà de ses bénéfices physiologiques (métabolisme aérobie, renforcement 
 
 54. **Focht, B. C., et al. (2009).** *The effects of exercise intensity on physiological and psychological responses in overweight and obese adults.* International Journal of Obesity, 33(10), 1086-1094.
     - *Extrait vérifiable :* "Lower-impact exercise modalities are often better tolerated by overweight and obese individuals due to reduced joint stress and perceived exertion, which can lead to higher adherence rates and sustained participation."
-55. **American Home Fitness. (n.d.).** *Highly Effective Low-Impact Exercises That Burn Fat.*
-    - *Extrait vérifiable :* "Low-impact exercises, such as walking in place or cycling, are highly effective for fat burning and cardiovascular health, especially for individuals with higher body mass who benefit from reduced stress on joints."
+55. **Donnelly, J. E., Blair, S. N., Jakicic, J. M., et al. (2009).** *American College of Sports Medicine Position Stand: Appropriate physical activity intervention strategies for weight loss and prevention of weight regain for adults.* Medicine & Science in Sports & Exercise, 41(2), 459-471. [DOI 10.1249/MSS.0b013e3181949333](https://doi.org/10.1249/MSS.0b013e3181949333).
 
 **La personne souffrant de fatigue chronique (SFC/ME, post-COVID, burn-out) :**
 
