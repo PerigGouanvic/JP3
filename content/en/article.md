@@ -142,27 +142,27 @@ The major advantage of this variant lies in the ability to apply maximal intensi
 
 For practitioners looking to improve their running efficiency or develop exceptional propulsive power, this variant can be integrated as 30- to 60-second intervals within a regular JP³ session, alternating with the classic format to allow for active recovery. Intensity can be modulated very precisely simply by adjusting the force applied to the support, offering a progression perfectly adaptable to individual capacities.
 
-## 4. Anticipated Benefits and In-Depth Clinical Applications
+## 4. Multi-Domain Benefits — Synthesis
 
-This section synthesizes the benefits of JP³ more broadly, drawing on the mechanisms and case types described above but grouping them by domain of impact (physiological, psychological, behavioral) and emphasizing their relevance for clinicians.
+Index of JP³ benefits by domain of impact, for quick reference. Underlying mechanisms are detailed in §2; concrete clinical grounding is found in the case types of §3.2.
 
-### 4.1 Physiological Benefits
+### 4.1 Physiological
 
-- **Cardiovascular and Metabolic Health:** Improved aerobic capacity (Zone 2, MAF) without intense stress, promoting heart health and metabolic flexibility. Optimization of fat oxidation and blood glucose management, relevant to the prevention and management of type 2 diabetes and obesity. Strengthening of the soleus muscle, acting as a "blood pump" crucial for venous return and peripheral circulation—particularly important for older or sedentary individuals.
-- **Musculoskeletal and Postural Health:** Strengthening of the intrinsic foot muscles and improved proprioception, reducing fall risk and improving balance. Correction of biomechanical imbalances and improved posture through constant proprioceptive feedback and a controlled environment. Low joint impact, making exercise accessible even in cases of joint pain or frailty.
-- **Impact on Fatigue and Energy:** Increased energy levels and reduced fatigue, even in people suffering from chronic fatigue, thanks to gentle and progressive mitochondrial activation. Improved sleep quality through better regulation of circadian rhythms and reduced stress.
+- **Cardiovascular and metabolic** — aerobic capacity (Zone 2, MAF), fat oxidation, glycemia, soleus pump for venous return. → cases *obese, elderly, sleep debt*.
+- **Musculoskeletal and postural** — intrinsic foot muscles, proprioception, biomechanical correction, low joint impact. → cases *elderly, obese, post-injury*.
+- **Fatigue and energy** — gentle mitochondrial activation, sleep regulation, stress reduction. → cases *CFS/ME, sleep debt*.
 
-### 4.2 Psychological and Emotional Benefits
+### 4.2 Psychological and emotional
 
-- **Acute Emotional Regulation:** Rapid transformation of negative emotional states (anger, anxiety, indignation, rumination) into more positive states (calm, laughter, euphoria) through the release of endorphins, endocannabinoids, BDNF, and dopamine. An effective tool for "keeping one's head above water" and gaining perspective in emotionally charged situations.
-- **Stress and Anxiety Reduction:** Reduction of hyperarousal and the stress response through activation of the parasympathetic nervous system. The repetitive movement acts as a form of "meditation in motion," reducing rumination and fostering a state of mindfulness without formal effort.
-- **Improved Cognitive Function:** Increased blood flow to the prefrontal cortex, improving attention, memory, planning, and creativity (the "cognitive golden window"). Potential for "creative insights" and divergent thinking, even after short sessions.
+- **Acute emotional regulation** — endorphins, endocannabinoids, BDNF, dopamine; rapid exit from negative states. → cases *anxious, depressed*.
+- **Stress and anxiety** — parasympathetic activation, "movement meditation." → case *anxious*.
+- **Cognitive function** — prefrontal blood flow, attention, creativity ("golden window"). → case *hyper-busy*.
 
-### 4.3 Behavioral and Adherence Benefits
+### 4.3 Behavioral and adherence
 
-- **Facilitated Behavioral Activation:** JP³ bypasses the traditional psychological and physical barriers to exercise, offering a "point of entry" even for the most unmotivated individuals or those with a history of failure. Its radical simplicity and accessibility reduce decisional load and self-judgment, turning exercise into a nearly "effortless" act.
-- **Reinforcement of Autonomy and Competence:** Self-regulation of intensity ("At Your Own Pace") strengthens the sense of control and competence—key factors for intrinsic motivation and long-term adherence. Immediate and tangible benefits (mood change, energy) provide "immediate experiential validation," countering the difficulty that unmotivated individuals have in projecting themselves into the future.
-- **Sustainable Integration into Daily Life:** The ability to multitask during exercise (household tasks, cognitive work) eliminates the perception of "wasted time," fostering natural and lasting integration into daily routine.
+- **Behavioral activation** — frictionless entry point for the demotivated. → case *depressed*.
+- **Autonomy and competence** — self-regulation ("At Your Own Pace"), immediate experiential validation. → cases *depressed, body-shame*.
+- **Sustainable integration** — dual-task, elimination of "wasted time." → case *hyper-busy*.
 
 ## 5. Discussion
 
