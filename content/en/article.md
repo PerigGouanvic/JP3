@@ -434,22 +434,19 @@ Beyond its physiological benefits (aerobic metabolism, soleus strengthening, pro
 
 56. **Vercoulen, J. H., et al. (1998).** *The effect of graded exercise therapy on symptoms and functional status in patients with chronic fatigue syndrome.* Annals of Internal Medicine, 129(8), 629-637.
     - *Verifiable excerpt:* "Graded exercise therapy (GET), which involves a gradual and carefully managed increase in physical activity, can be beneficial for patients with chronic fatigue syndrome when implemented with strict pacing to avoid post-exertional malaise (PEM)."
-57. **Luks, H. (n.d.).** *Your Brain Is Telling You To Stop, Should You Listen?*
-    - *Verifiable excerpt (synthesis):* "For individuals with conditions like chronic fatigue syndrome or post-exertional malaise, listening to the body's signals and adhering to strict pacing strategies, even if it means minimal activity, is crucial to prevent symptom exacerbation and promote gradual recovery."
+57. **Vink, M., & Vink-Niese, A. (2020).** *The updated NICE guidance exposed the serious flaws in CBT and graded exercise therapy trials for ME/CFS.* Healthcare, 8(4), 552. [DOI 10.3390/healthcare8040552](https://doi.org/10.3390/healthcare8040552).
 
 **The person recovering from a minor injury or post-surgery (controlled movement, adapted intensity, safe rehabilitation):**
 
 58. **Khan, K. M., & Scott, A. (2009).** *Mechanotherapy: how physical therapists' prescription of exercise promotes tissue repair.* British Journal of Sports Medicine, 43(4), 247-252.
     - *Verifiable excerpt:* "Exercise, when appropriately dosed and progressed, acts as mechanotherapy, stimulating cellular responses that promote tissue repair and adaptation. Controlled, low-impact movements are particularly beneficial in early rehabilitation phases to facilitate healing without overloading compromised structures."
-59. **Henry Ford Health. (n.d.).** *7 Tips for Recovery After Sports Injury.*
-    - *Verifiable excerpt:* "Early, gentle, and controlled movement is often recommended after an injury to promote blood flow, reduce stiffness, and maintain range of motion without causing further damage. The intensity and duration should always be guided by comfort and pain levels."
+59. **Bleakley, C. M., Glasgow, P., & MacAuley, D. C. (2012).** *PRICE needs updating, should we call the POLICE?* British Journal of Sports Medicine, 46(4), 220-221. [DOI 10.1136/bjsports-2011-090297](https://doi.org/10.1136/bjsports-2011-090297).
 
 **The person with chronic sleep debt or in stimulant withdrawal (emotional regulation, improved sleep):**
 
 60. **Youngstedt, S. D., et al. (2008).** *Effects of exercise on sleep: a systematic review.* Sleep Medicine Reviews, 12(4), 323-332.
     - *Verifiable excerpt:* "Regular physical activity, particularly moderate-intensity aerobic exercise, can significantly improve sleep quality and duration, reduce sleep latency, and decrease symptoms of insomnia, contributing to overall better sleep health."
-61. **University of Chicago Medicine. (n.d.).** *How Sleep Deprivation and Sleep Apnea Impact Heart Health.*
-    - *Verifiable excerpt (synthesis):* "Engaging in consistent, moderate physical activity can help regulate the body's circadian rhythms and reduce stress, thereby facilitating natural sleep onset and improving sleep efficiency, which is vital for recovery from sleep debt and managing withdrawal symptoms."
+61. **Kredlow, M. A., Capozzoli, M. C., Hearon, B. A., Calkins, A. W., & Otto, M. W. (2015).** *The effects of physical activity on sleep: a meta-analytic review.* Journal of Behavioral Medicine, 38(3), 427-449. [DOI 10.1007/s10865-015-9617-6](https://doi.org/10.1007/s10865-015-9617-6).
 
 #### 3.3 Integration of Artificial Intelligence (AI) Coaching
 
