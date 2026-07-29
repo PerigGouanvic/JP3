@@ -2,64 +2,6 @@
 
 _A universally accessible protocol for behavioral activation, emotional regulation, and physical well-being — empowering even the most vulnerable populations._
 
-<!-- BEGIN PILOT TEST — augmented-traceability citation format. Remove after format validation. -->
-
-> ⚠ **Pilot test — augmented-traceability citation format.** This block is a live test of the citation format planned for the whole article. It will be removed once the format is validated. Try clicking the accordion below, then the nested one inside it.
-
-**Example — reference `[30]` used in §2.2.1 (soleus as metabolic engine):**
-
-<details>
-<summary>▸ <strong>[30]</strong> Hamilton, Hamilton &amp; Zderic (2022) — <em>Soleus oxidative metabolism improves glucose and lipid regulation</em></summary>
-
-**Bibliography** — Hamilton, M. T., Hamilton, D. G., & Zderic, T. W. (2022). *A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation.* iScience, 25(9), 104869.
-
-**Type** — `[primary study]`
-
-**Access** — [DOI 10.1016/j.isci.2022.104869](https://doi.org/10.1016/j.isci.2022.104869) · [PubMed PMID 36034224](https://pubmed.ncbi.nlm.nih.gov/36034224/) · [full text (Cell/iScience)](https://www.cell.com/iscience/fulltext/S2589-0042(22)01141-5)
-
-**Quoted excerpt (original language)**
-
-> « Slow oxidative muscle, most notably the soleus, is inherently well equipped with the molecular machinery for regulating blood-borne substrates. […] The human soleus muscle could raise local oxidative metabolism to high levels for hours without fatigue, during a type of soleus-dominant activity while sitting, even in unfit volunteers. […] Postprandial glucose excursion was reduced by 52% (approximately 50 mg/dL less between ~1 and 2 hours) with 60% less hyperinsulinemia. »
-
-**Author's interpretation** (supports the claim in §2.2.1 that the soleus acts as a disproportionate metabolic engine)
-
-This study establishes that the soleus, even in isolated low-intensity solicitation, can sustain elevated oxidative metabolism for hours and significantly modulate postprandial glucose and insulin levels. I use it to support the claim that the soleus is a metabolic engine disproportionate to its mass, and that sustained solicitation — of which JP³ is one possible mode — can have systemic metabolic effects. The 52% and 60% figures refer specifically to reductions in postprandial glucose excursion and in hyperinsulinemia — the two quantities directly measured — related to, but numerically distinct from, glucose uptake and fat oxidation (which are underlying mechanisms discussed by the authors).
-
-**What this text does not say**
-
-The study tests the "soleus push-up" **in a seated position**, over several hours. It does not establish that standing jogging in place (JP³) reproduces the same metabolic profile. The link is theoretically plausible (dominant soleus activation, low intensity, duration) but remains an extrapolation to be empirically validated.
-
-<details>
-<summary>▸ <em>Auditor's commentary — nested accordion (in French, for the author)</em></summary>
-
-**À propos de la ref elle-même**
-
-Cette référence apparaît actuellement dans l'article comme *"Raper, D. P., et al. (2022), iScience 25(8), 104270"* — trois erreurs matérielles :
-
-1. Nom d'auteur faux (« Raper » n'existe ni dans les auteurs ni dans les affiliations — probable hallucination LLM).
-2. Volume/article faux — c'est **25(9)** article **104869**, pas 25(8) 104270.
-3. DOI et PMID absents.
-
-**À propos de l'usage de la ref dans le §2.2.1 actuel**
-
-Le texte actuel du §2.2.1 dit : *« une captation de glucose augmentant jusqu'à 52% et l'oxydation des graisses s'améliorant de 60% lors de contractions prolongées »*.
-
-**Ce n'est pas un renversement de direction physiologique.** Le mécanisme évoqué est cohérent avec l'article : un soléaire actif capte effectivement du glucose sanguin, ce qui explique en partie la baisse d'excursion mesurée par Hamilton ; et une hyperinsulinémie réduite implique mécaniquement une lipolyse et une oxydation lipidique accrues. Sur le fond, la direction est bonne.
-
-**Mais les chiffres 52% et 60% sont mal attribués.** Dans l'article, ils s'appliquent à l'excursion glucose postprandial (−52%) et à l'hyperinsulinémie (−60%). Les déplacer vers « captation de glucose » (+52%) et « oxydation des graisses » (+60%) transfère les valeurs à des grandeurs que l'article ne mesure pas directement. Un lecteur qui vérifie la ref trouvera *« 52% less postprandial glucose excursion »*, pas *« 52% more glucose uptake »* — l'imprécision se voit au premier regard critique.
-
-Correction minimale possible dans le §2.2.1 : préserver les valeurs exactes et leurs grandeurs (« excursion glucose postprandial réduite de ~52%, hyperinsulinémie réduite de 60% ») et déplacer les mécanismes (captation soléaire soutenue, demande insulinique réduite) en glose explicative.
-
-**À propos de la posture**
-
-L'étude Hamilton porte sur des sujets **assis** pendant des heures, dans un dispositif où seul le soléaire travaille contre gravité. Le jogging debout mobilise gastrocnémien et fibres rapides en plus — l'équivalence métabolique est **une hypothèse plausible, pas un résultat démontré**. La contre-lecture ci-dessus doit rester visible pour que le lecteur ne prenne pas l'analogie pour un résultat.
-
-</details>
-
-</details>
-
-<!-- END PILOT TEST -->
-
 ## Abstract
 
 **JP³: Jogging in Place × at Your Own Pace × in Your Own Place**. The "³" in JP³ is not merely symbolic; it represents a **multiplicative synergy** where each "P" exponentially amplifies the efficacy of the other two. The contemporary landscape of physical activity is characterized by a striking paradox: a pervasive social discourse glorifying intense, performance-driven exercise, yet an alarming reality where the vast majority of the global population fails to meet minimal physical activity guidelines. This creates a cycle of inactivity, particularly for vulnerable populations facing amplified barriers. JP³ emerges as a revolutionary exercise modality that, through its inherently accessible, self-paced, and private nature, **eliminates 80% of traditional exercise obstacles**. This protocol leverages biomechanical (soleus activation, proprioception), physiological (aerobic metabolism, slow VO2 kinetics), and psychological principles (behavioral activation, anxiety reduction). It is designed to be a pragmatic tool for diverse healthcare professionals, offering a unique and robust entry point to movement for all, including those traditionally excluded from physical activity. Key benefits include improved exercise adherence, emotional regulation, behavioral activation, and broad physiological gains.
@@ -100,7 +42,7 @@ The unique synergies of JP³ create an optimal environment for the activation an
 
 #### 2.2.1 Targeted Activation of the Soleus Muscle: The "Second Heart" and Metabolic Engine
 
-The soleus muscle, often overlooked, is a critical component in age-related mobility decline, being the first to atrophy and losing up to 35% of its strength after age 60. The "Jogging in Place × In Your Own Place" combination is ideal for targeted activation. The absence of horizontal displacement concentrates 100% of the force into vertical plantarflexion, forcing the soleus to work continuously against gravity without the assistance of momentum. This enables **maximal activation of the slow, oxidative fibers** of the soleus, which functions as the body's "second heart" by improving venous return and maintaining the "soleus pump." Research on "soleus push-ups" has shown that this muscle can reach metabolic rates comparable to HIIT, with glucose uptake increasing by up to 52% and fat oxidation improving by 60% during sustained contractions. JP³ reproduces these conditions of intense and prolonged activation, favoring a predominantly oxidative metabolism and the use of fat as fuel. JP³ thus offers a unique intervention to counter soleus decline, improve propulsion efficiency, and stimulate fat metabolism, even in individuals with low exercise capacity.
+The soleus muscle, often overlooked, is a critical component in age-related mobility decline, being the first to atrophy and losing up to 35% of its strength after age 60. The "Jogging in Place × In Your Own Place" combination is ideal for targeted activation. The absence of horizontal displacement concentrates 100% of the force into vertical plantarflexion, forcing the soleus to work continuously against gravity without the assistance of momentum. This enables **maximal activation of the slow, oxidative fibers** of the soleus, which functions as the body's "second heart" by improving venous return and maintaining the "soleus pump." A study on "soleus push-ups" (Hamilton et al., 2022) — a setup in which the soleus is solicited in a seated position for several hours — documented a **52% reduction in postprandial glucose excursion** and a **60% reduction in hyperinsulinemia**. The authors attribute these effects to sustained soleus uptake of blood glucose and to reduced insulin demand. Transposition to standing jogging in place such as JP³ remains mechanistically plausible but has not been empirically established. JP³ reproduces these conditions of intense and prolonged activation, favoring a predominantly oxidative metabolism and the use of fat as fuel. JP³ thus offers a unique intervention to counter soleus decline, improve propulsion efficiency, and stimulate fat metabolism, even in individuals with low exercise capacity.
 
 #### 2.2.2 Optimizing Aerobic Metabolism: Metabolic Flexibility and Foundational Endurance
 
@@ -398,14 +340,14 @@ Beyond its physiological benefits (aerobic metabolism, soleus strengthening, pro
 
 **Maximal activation of slow, oxidative soleus fibers with vertical/in-place movements:**
 
-30. **Raper, D. P., et al. (2022).** *A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation.* iScience, 25(8), 104270.
+30. **Hamilton, M. T., Hamilton, D. G., & Zderic, T. W. (2022).** *A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation.* iScience, 25(9), 104869. [DOI 10.1016/j.isci.2022.104869](https://doi.org/10.1016/j.isci.2022.104869) · PMID 36034224.
     - *Verifiable excerpt:* "The soleus, primarily composed of slow-twitch, oxidative fibers, demonstrates sustained high activity during isometric and low-level endurance contractions, such as during repetitive plantarflexions in standing or 'soleus push-ups'."
 31. **MacIntosh, B. R., Gardiner, P. F., & McComas, A. J. (2006).** *Skeletal Muscle: Form and Function.* Human Kinetics.
     - *Verifiable excerpt:* "Electromyographic studies show that the soleus muscle demonstrates higher activation compared to the gastrocnemius during plantarflexion exercises with the knee flexed, reflecting its role in sustained contractions and posture."
 
 **The metabolic benefits of the soleus (glucose uptake, fat oxidation, comparable to HIIT) via "soleus push-ups" or prolonged contractions:**
 
-32. **Raper, D. P., et al. (2022).** *A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation.* iScience, 25(8), 104270.
+32. **Hamilton, M. T., Hamilton, D. G., & Zderic, T. W. (2022).** *A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation.* iScience, 25(9), 104869. [DOI 10.1016/j.isci.2022.104869](https://doi.org/10.1016/j.isci.2022.104869) · PMID 36034224.
     - *Verifiable excerpt:* "Sustained low-intensity contractions of the soleus muscle markedly increase whole-body oxidative metabolism. The resulting fat oxidation and glucose uptake are comparable to those observed during certain HIIT protocols."
 33. **Physio-pedia,** *Soleus Push Up,* 2024.
     - *Verifiable excerpt:* "Prolonged and continuous activation of the soleus improves postprandial lipid oxidation and has been shown to increase metabolic flexibility, making it particularly relevant for populations affected by metabolic syndrome."
