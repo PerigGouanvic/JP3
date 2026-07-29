@@ -142,27 +142,27 @@ L'avantage majeur de cette variante réside dans la possibilité d'appliquer une
 
 Pour les pratiquants cherchant à améliorer leur efficacité de course ou à développer une puissance propulsive exceptionnelle, cette variante peut être intégrée en intervalles de 30 à 60 secondes au sein d'une session régulière de JP³, en alternant avec le format classique pour permettre une récupération active. L'intensité peut être modulée de façon très précise simplement en ajustant la force de poussée appliquée sur le support, offrant ainsi une progression parfaitement adaptable aux capacités individuelles.
 
-## 4. Bénéfices Anticipés et Cas d'Application Clinique Approfondis
+## 4. Bénéfices Multi-Domaines — Synthèse
 
-Cette section synthétise les bénéfices du JP³ de manière plus générale, en s'appuyant sur les mécanismes décrits précédemment et les cas types, mais en les regroupant par domaines d'impact (physiologique, psychologique, comportemental) et en soulignant l'importance pour les cliniciens.
+Index des bénéfices du JP³ par domaine d'impact, pour consultation rapide. Les mécanismes sous-jacents sont détaillés en §2 ; l'ancrage clinique concret figure dans les cas types de §3.2.
 
-### 4.1 Bénéfices Physiologiques
+### 4.1 Physiologiques
 
-- **Santé Cardiovasculaire et Métabolique :** Amélioration de la capacité aérobie (Zone 2, MAF) sans stress intense, favorisant la santé cardiaque et la flexibilité métabolique. Optimisation de l'oxydation des graisses et de la gestion de la glycémie, pertinent pour la prévention et la gestion du diabète de type 2 et de l'obésité. Renforcement du muscle soléaire, agissant comme une "pompe sanguine" cruciale pour le retour veineux et la circulation périphérique, particulièrement important pour les personnes âgées ou sédentaires.
-- **Santé Musculo-Squelettique et Posturale :** Renforcement des muscles intrinsèques du pied et amélioration de la proprioception, réduisant le risque de chutes et améliorant l'équilibre. Correction des déséquilibres biomécaniques et amélioration de la posture grâce au feedback proprioceptif constant et à l'environnement contrôlé. Faible impact articulaire, rendant l'exercice accessible même en cas de douleurs articulaires ou de fragilité.
-- **Impact sur la Fatigue et l'Énergie :** Augmentation des niveaux d'énergie et réduction de la fatigue, même chez les personnes souffrant de fatigue chronique, grâce à une activation mitochondriale douce et progressive. Amélioration de la qualité du sommeil par une meilleure régulation des rythmes circadiens et une réduction du stress.
+- **Cardiovasculaire et métabolique** — capacité aérobie (Zone 2, MAF), oxydation des graisses, glycémie, pompe soléaire pour le retour veineux. → cas *obèse, âgé, dette de sommeil*.
+- **Musculo-squelettique et postural** — muscles intrinsèques du pied, proprioception, correction biomécanique, faible impact articulaire. → cas *âgé, obèse, post-blessure*.
+- **Fatigue et énergie** — activation mitochondriale douce, régulation du sommeil, réduction du stress. → cas *SFC/ME, dette de sommeil*.
 
-### 4.2 Bénéfices Psychologiques et Émotionnels
+### 4.2 Psychologiques et émotionnels
 
-- **Régulation Émotionnelle Aiguë :** Transformation rapide des états émotionnels négatifs (colère, anxiété, indignation, rumination) en états plus positifs (calme, rire, euphorique) grâce à la libération d'endorphines, d'endocannabinoïdes, de BDNF et de dopamine. Outil efficace pour "sortir la tête de l'eau" et prendre du recul face à des situations émotionnellement chargées.
-- **Réduction du Stress et de l'Anxiété :** Diminution de l'hyperarousal et de la réponse au stress par l'activation du système nerveux parasympathique. Le mouvement répétitif agit comme une forme de "méditation en mouvement", réduisant les ruminations et favorisant un état de pleine conscience sans effort formel.
-- **Amélioration des Fonctions Cognitives :** Augmentation du flux sanguin vers le cortex préfrontal, améliorant l'attention, la mémoire, la planification et la créativité (la "fenêtre d'or cognitive"). Potentiel pour des "insights créatifs" et une pensée divergente, même après de courtes sessions.
+- **Régulation émotionnelle aiguë** — endorphines, endocannabinoïdes, BDNF, dopamine ; sortie rapide des états négatifs. → cas *anxieux, dépressif*.
+- **Stress et anxiété** — activation parasympathique, "méditation en mouvement". → cas *anxieux*.
+- **Fonctions cognitives** — flux préfrontal, attention, créativité ("fenêtre d'or"). → cas *hyper-occupé*.
 
-### 4.3 Bénéfices Comportementaux et d'Adhésion
+### 4.3 Comportementaux et adhésion
 
-- **Activation Comportementale Facilitée :** Le JP³ contourne les barrières psychologiques et physiques traditionnelles à l'exercice, offrant une "porte d'entrée" même pour les individus les plus démotivés ou ayant un historique d'échec. La simplicité et l'accessibilité radicale réduisent la charge décisionnelle et l'auto-jugement, transformant l'exercice en un acte "sans effort".
-- **Renforcement de l'Autonomie et de la Compétence :** L'auto-régulation de l'intensité ("At Your Own Pace") renforce le sentiment de contrôle et de compétence, des facteurs clés pour la motivation intrinsèque et l'adhésion à long terme. Les bénéfices immédiats et tangibles (changement d'humeur, énergie) offrent une "validation expérientielle immédiate", contrecarrant la difficulté à se projeter dans l'avenir chez les personnes démotivées.
-- **Intégration Durable au Quotidien :** La capacité à "multitasker" pendant l'exercice (tâches domestiques, travail cognitif) élimine la perception de "perte de temps", favorisant une intégration naturelle et durable dans la routine quotidienne.
+- **Activation comportementale** — porte d'entrée sans friction pour les démotivés. → cas *dépressif*.
+- **Autonomie et compétence** — auto-régulation ("At Your Own Pace"), validation expérientielle immédiate. → cas *dépressif, honte corporelle*.
+- **Intégration durable** — dual-task, élimination de la "perte de temps". → cas *hyper-occupé*.
 
 ## 5. Discussion
 
