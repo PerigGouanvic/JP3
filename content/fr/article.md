@@ -269,8 +269,6 @@ Au-delà de ses bénéfices physiologiques (métabolisme aérobie, renforcement 
     - *Extrait vérifié :* "The current study confirmed that barefoot running changes foot strike patterns towards a more anterior strike and increases proprioception, leading to improved balance and foot muscle strength."
 13. **Robbins, S. E., & Gouw, G. J. (1990).** *Athletic footwear and chronic overloading/functional orthotics.* Sports Medicine.
     - *Extrait vérifié :* "Footwear can reduce sensory feedback from the plantar surface, potentially diminishing proprioceptive awareness and the ability of the foot to adapt to varied terrains and movements. Training barefoot can restore and enhance these sensory capabilities."
-14. **Mirrorsdelivered.com (2025).** *How Mirrors Impact Posture and Injury Prevention in Workouts.*
-    - *Extrait vérifié :* "Mirrors offer immediate visual feedback, allowing individuals to observe their body's movements and make real-time corrections to their form, significantly enhancing kinesthetic awareness and technique for posture improvement and injury prevention."
 
 #### 2.1.2 In Place × Place = Intégration Totale à la Vie Quotidienne et Charge Métabolique Ciblée
 
