@@ -26,8 +26,8 @@ Praticable depuis un état "détruit" (fatigue matinale, dépression, malaise). 
 **Axe B — Retrait structurel de la métrique performance**
 Pas juste "sans montre" — **structurellement** hors du paradigme sportif : pas de distance parcourue, pas de destination, pas de FC cible, pas de coach vidéo, pas de leaderboard, pas de progression numérique.
 
-**Axe C — Trajectoire à courbure positive (x² depuis zéro, non 2x)**
-La session commence délibérément *sous* le régime linéaire conventionnel (allure quasi-nulle, effort infra-warm-up) — ce qui est la **condition mécanique** pour dépasser durablement la trajectoire 2x. L'état détruit n'est pas un handicap toléré : c'est la **garantie physique** d'être bien dans le segment initial de x², pas déjà installé en 2x. Chaque minute *hérite* de toutes les précédentes (LC tonique qui monte, cross-frequency coupling qui se stabilise, perfusion pulsée qui augmente, glymphatique qui s'active — cf. [research-mecanismes §4.7](research.html)) au lieu de la consommer. C'est le point le plus radical et le plus contre-intuitif : la culture de l'exercice conventionnelle refuse par construction le sous-régime initial qui *seul* permet à cette courbure de s'exprimer — elle démarre en 2x par crainte de "gaspiller" les premières minutes, et rate définitivement x².
+**Axe C — Trajectoire au cube (y = x³, non y = 3x)**
+La session commence délibérément *sous* le régime linéaire conventionnel (allure quasi-nulle, effort infra-warm-up) — ce qui est la **condition mécanique** pour dépasser durablement la droite 3x. Chaque minute *hérite* de toutes les précédentes (LC tonique qui monte, cross-frequency coupling qui se stabilise, perfusion pulsée qui augmente, glymphatique qui s'active — cf. [research-mecanismes §4.7](research.html)) au lieu de la consommer. L'exposant 3 n'est pas décoratif : c'est la **multiplication des trois P** (In Place × Own Pace × Own Place) — chaque P débloque une dimension que les deux autres seuls ne peuvent pas activer, et le produit est un **volume**, pas une somme. L'état détruit n'est pas un handicap toléré : c'est la **garantie physique** d'être bien dans le segment initial de x³, pas déjà installé en 3x. La culture de l'exercice conventionnelle refuse par construction le sous-régime initial qui *seul* permet à cette courbure de s'exprimer — elle démarre en 3x par crainte de "gaspiller" les premières minutes, et rate définitivement x³.
 
 Convention de notation dans les matrices : **✓** = présent / **~** = partiel ou ambigu / **✗** = absent ou contraire.
 
@@ -248,13 +248,13 @@ Positionnement A/B/C : A ✓✓✓ / B ✓ / C ✓✓✓
 
 ## 3. Matrice synthétique — les 3 axes contre les 21 pratiques
 
-L'axe C est le plus discriminant après reformulation en **courbure x²** (voir §1 et §4.6) : il exige non seulement que la pratique tolère l'état détruit, mais qu'elle exploite la sous-intensité initiale comme *mécanisme d'accélération intra-session*. Notation C :
-- **✓✓✓** = courbe x² depuis segment initial sous 2x, monotone croissante, chaque cycle hérite du précédent
-- **✓** = courbe croissante mais linéaire (2x) ou courte
+L'axe C est le plus discriminant après reformulation en **trajectoire au cube (x³)** (voir §1 et §4.6) : il exige non seulement que la pratique tolère l'état détruit, mais qu'elle exploite la sous-intensité initiale comme *mécanisme d'accélération intra-session multiplicatif*. Notation C :
+- **✓✓✓** = courbe x³ depuis segment initial sous 3x, monotone croissante, chaque cycle hérite du précédent (les trois axes se multiplient)
+- **✓** = courbe croissante mais linéaire (3x) ou courte
 - **~** = plateau (constante horizontale) ou trajectoire ambiguë
 - **✗** = trajectoire discontinue, interrompue, ou décroissante
 
-| Pratique | A (entrée basse) | B (métrique-free) | C (courbure x²) | Verticalité | Cardio | Précédent nommé ? | Donnée en dépression sévère |
+| Pratique | A (entrée basse) | B (métrique-free) | C (trajectoire x³) | Verticalité | Cardio | Précédent nommé ? | Donnée en dépression sévère |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **JP³ (hypothèse)** | ✓✓✓ | ✓✓✓ | ✓✓✓ | ✓ | ✓ | **NON** | À tester |
 | **Slow jogging (Tanaka)** | ✓ | ✓ | ~ (plateau niko-niko) | ✗ | ✓ | Oui | Non |
@@ -271,7 +271,7 @@ L'axe C est le plus discriminant après reformulation en **courbure x²** (voir 
 | **Joyful Movement** | ✓ | ✓✓✓ | ~ (non-thématisé) | ✗ | ~ | Oui (trend) | Non |
 | Peloton / digital fitness | ✗✗ | ✗✗✗ | ✗ (interval scripté) | ~ | ✓✓ | Oui | Non |
 | Fitness snacks (Gibala) | ~ | ✗ | ✗ (discontinu par déf.) | ~ | ✓✓ | Oui | Non |
-| Zone 2 (San Millán / Attia) | ✗ | ✗ | ✗ (droite 2x prescrite) | — | ✓✓ | Oui | Non |
+| Zone 2 (San Millán / Attia) | ✗ | ✗ | ✗ (droite 3x prescrite) | — | ✓✓ | Oui | Non |
 | Warm-up conventionnel | ~ | ✗ | ✗ (interrompu par séance principale) | — | ~ | Oui | Non |
 | NEAT | ✓✓✓ | ✓ | ✗ (dispersé, non-continu) | ✗ | ~ | Oui (concept) | Non |
 | Chair-based cardio | ✓✓✓ | ~ | ~ (dosé) | ✗ | ~ | Oui | Non |
@@ -280,7 +280,7 @@ L'axe C est le plus discriminant après reformulation en **courbure x²** (voir 
 | Minimum Effective Dose | ~ | ✗ | ✗ (dose minimale, plafonnée) | ✗ | ✗ | Oui | Non |
 | Daoyin adaptatif (TCM) | ✓ | ✓ | ~ (variable, non-thématisé) | ~ | ~ | Oui (2000 ans) | Non |
 
-Lecture après re-notation stricte de C : **aucune pratique ne combine A + B + C x². JP³ est le seul candidat au triplet complet**. Les rivaux les plus proches sur A et B (slow jogging, kinhin, intuitive exercise, pacing) plafonnent tous sur C — soit par plateau (niko-niko, kinhin), soit par plafond structurel (pacing), soit par discontinuité (fitness snacks, HIIT, warm-up), soit par linéarité prescrite (Zone 2). Seule la Behavioral Activation touche la courbure croissante — mais comportementalement, pas physiologiquement dans une session unique.
+Lecture après re-notation stricte de C : **aucune pratique ne combine A + B + C x³. JP³ est le seul candidat au triplet complet**. Les rivaux les plus proches sur A et B (slow jogging, kinhin, intuitive exercise, pacing) plafonnent tous sur C — soit par plateau (niko-niko, kinhin), soit par plafond structurel (pacing), soit par discontinuité (fitness snacks, HIIT, warm-up), soit par linéarité prescrite (Zone 2). Seule la Behavioral Activation touche la courbure croissante — mais comportementalement, pas physiologiquement dans une session unique.
 
 Cette case pleine reste *par hypothèse*, pas par preuve empirique. Mais la contrainte est maintenant assez fine pour que la singularité — si elle tient — soit véritablement discriminante.
 
@@ -360,51 +360,80 @@ C'est cette **synthèse dispositive** qui pourrait constituer le vrai "³". Pas 
 
 **Si JP³ était empiriquement validé sur ce point, ce serait une contribution scientifique originale**, indépendamment des mécanismes physiologiques (déjà connus). Ce test — même artisanal (journal minute par minute, protocole comparatif "détruit vs. en forme") — est probablement le meilleur usage du temps de recherche à venir.
 
-### 4.6 L'axe manquant, précisé — la courbure de session (x² vs 2x)
+### 4.6 L'axe manquant, précisé — la trajectoire au cube (x³ vs 3x)
 
-Ce qui précède reformulait l'axe C comme "inversion épistémologique". Cette formulation est vraie mais **sous-déterminée** — elle décrit une propriété statique (l'état détruit facilite l'entrée) plutôt que la **dynamique** qui la rend intelligible. La formulation stricte est une analogie mathématique.
+Ce qui précède reformulait l'axe C comme "inversion épistémologique". Cette formulation est vraie mais **sous-déterminée** — elle décrit une propriété statique (l'état détruit facilite l'entrée) plutôt que la **dynamique** qui la rend intelligible. La formulation stricte est mathématique — et le nom du dispositif l'encodait déjà.
 
-**L'analogie x² vs 2x.** Deux régimes temporels de session d'exercice :
+**Point de départ : le "³" du JP³ n'est pas décoratif.** Les trois P (In Place · Own Pace · Own Place) ne s'*ajoutent* pas — ils se **multiplient**. Chaque P débloque une dimension que les deux autres seuls ne peuvent pas activer :
 
-- **Régime linéaire (2x)** : chaque minute est équivalente à la précédente. Zone 2 conventionnel, course à allure constante, tempo prescrit — la plupart des séances de cardio culturellement légitimes. La droite est prédictible, la trajectoire ne s'accélère pas.
+- **In Place** sans Own Pace = protocole prescrit (marching physio, Walk at Home). Verticalité mais plancher externe.
+- **Own Pace** sans Own Place = terrain public, on se force à démarrer visiblement productif (slow jogging Tanaka en parc). Autonomie mais regard qui impose 3x.
+- **Own Place** sans In Place = home-cardio vidéo (Peloton, Walk at Home). Lieu mais coach qui impose le tempo.
 
-- **Régime exponentiel (x²)** : chaque minute *hérite* de toutes les précédentes. LC tonique qui monte cycle après cycle (Poe et al. 2020, Aston-Jones & Cohen), cross-frequency coupling theta/gamma qui se stabilise et s'amplifie (Canolty & Knight, Buzsáki), perfusion pulsée qui monte progressivement via foot-strike waves accumulées, système glymphatique qui s'active en fenêtre différée. Chaque cycle *inherit* du précédent au lieu de le consommer.
+Le "volume" n'existe que si les trois axes composent. Le produit est un **volume**, pas une somme. C'est structurellement du x³.
 
-**Le paradoxe qui définit la singularité.** La courbe x² **passe sous la droite 2x** en début de session. Elle a l'air *gaspilleuse*. Elle *doit* avoir l'air gaspilleuse — c'est le prix mécanique de sa concavité positive. Puis elle croise 2x et la dépasse durablement.
+**Les deux régimes temporels de session.** Une fois posé que les 3 P produisent un volume, la trajectoire d'effort intra-session en hérite :
 
-**La conséquence culturelle immédiate.** La culture fitness rejette systématiquement le segment initial de x² parce qu'il *ressemble* à de la perte de temps ("un warm-up prolongé n'est pas un entraînement"). Elle démarre en 2x — 65% FCmax dès la 3ᵉ minute, 130 pas/min dès le départ, "no junk miles" — et rate définitivement la courbure. C'est pourquoi Zone 2, HIIT, fitness snacks, warm-up conventionnel, marching in place dosé, slow jogging à cadence niko-niko constante — tous — s'installent en 2x. Aucun ne laisse la courbure s'exprimer.
+- **Régime linéaire (y = 3x)** : chaque minute est équivalente à la précédente. Zone 2 conventionnel, course à allure constante, tempo prescrit — la plupart des séances de cardio culturellement légitimes. La droite est prédictible, la trajectoire ne s'accélère pas.
+
+- **Régime cubique (y = x³)** : chaque minute *hérite* de toutes les précédentes. LC tonique qui monte cycle après cycle (Poe et al. 2020, Aston-Jones & Cohen), cross-frequency coupling theta/gamma qui se stabilise et s'amplifie (Canolty & Knight, Buzsáki), perfusion pulsée qui monte progressivement via foot-strike waves accumulées, système glymphatique qui s'active en fenêtre différée. Chaque cycle *hérite* du précédent au lieu de le consommer.
+
+**Le paradoxe qui définit la singularité.** La courbe x³ **passe sous la droite 3x** pour tout t < √3 ≈ 1,73 (unités arbitraires). Elle a l'air *gaspilleuse*. Elle *doit* avoir l'air gaspilleuse — c'est le prix mécanique de sa concavité positive. Puis elle croise 3x, la dépasse durablement, et l'écart devient vertigineux (à t=3 : x³ = 27, 3x = 9, ratio ×3 ; à t=5 : x³ = 125, 3x = 15, ratio ×8).
+
+<svg viewBox="0 0 500 360" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;display:block;margin:2rem auto;background:#fafafa;border-radius:6px;">
+  <title>Comparaison des deux régimes : y = 3x (linéaire) et y = x³ (JP³)</title>
+  <text x="250" y="22" font-size="13" fill="#333" text-anchor="middle" font-weight="600">Deux régimes de session : y = 3x (linéaire) vs y = x³ (JP³)</text>
+  <path d="M 70,320 L 137,303 L 203,287 L 270,270 L 301,262 L 270,282 L 203,309 L 137,319 L 70,320 Z" fill="#fef3c7" opacity="0.7"/>
+  <line x1="70" y1="320" x2="480" y2="320" stroke="#666" stroke-width="1.5"/>
+  <line x1="70" y1="320" x2="70" y2="35" stroke="#666" stroke-width="1.5"/>
+  <text x="475" y="342" font-size="11" fill="#666">t (durée de session)</text>
+  <text x="65" y="45" font-size="11" fill="#666" text-anchor="end">bénéfice cumulé</text>
+  <text x="60" y="325" font-size="11" fill="#666" text-anchor="end">0</text>
+  <line x1="70" y1="320" x2="470" y2="220" stroke="#888" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="475" y="220" font-size="12" fill="#666" font-style="italic">y = 3x</text>
+  <polyline points="70,320 137,318.6 203,308.9 270,282.5 301,262.3 337,231.1 403,146.4 470,20" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <text x="465" y="40" font-size="13" fill="#2563eb" font-weight="bold" text-anchor="end">y = x³</text>
+  <circle cx="301" cy="262.3" r="4.5" fill="#f59e0b" stroke="white" stroke-width="1.5"/>
+  <text x="308" y="255" font-size="10" fill="#78350f">croisement à t = √3</text>
+  <text x="115" y="290" font-size="10.5" fill="#78350f" font-style="italic"><tspan x="115" dy="0">« coût apparent »</tspan><tspan x="115" dy="12">(concavité positive)</tspan></text>
+  <text x="355" y="115" font-size="10.5" fill="#2563eb" font-style="italic"><tspan x="355" dy="0">dépassement</tspan><tspan x="355" dy="12">durable</tspan></text>
+</svg>
+
+*Géométrie de secondaire : la courbe cubique passe sous la droite avant croisement, puis la dépasse. Zone crème : le "gaspillage apparent" que la culture fitness refuse de traverser.*
+
+**La conséquence culturelle immédiate.** La culture fitness rejette systématiquement le segment initial de x³ parce qu'il *ressemble* à de la perte de temps ("un warm-up prolongé n'est pas un entraînement"). Elle démarre en 3x — 65% FCmax dès la 3ᵉ minute, 130 pas/min dès le départ, "no junk miles" — et rate définitivement la courbure. C'est pourquoi Zone 2, HIIT, fitness snacks, warm-up conventionnel, marching in place dosé, slow jogging à cadence niko-niko constante — tous — s'installent en 3x. Aucun ne laisse la courbure cubique s'exprimer.
 
 **Pourquoi seul JP³ y accède.** Trois raisons mécaniques, pas une seule :
 
-1. **L'état détruit interdit 2x.** Depuis l'état fatigué/déprimé, le corps ne *peut pas* démarrer en 2x — il tombe forcément dans le segment initial de x². L'état détruit n'est plus un handicap toléré : c'est la **garantie physique** qu'on n'est pas déjà installé en 2x. On ne peut pas tricher.
-2. **L'absence de tempo/coach/cadence externe** empêche l'imposition d'un plancher 2x par la structure de la séance. Slow jogging Tanaka pose "niko-niko" comme *plancher stable* — donc plateau, pas courbure. JP³ ne pose aucun plancher.
+1. **L'état détruit interdit 3x.** Depuis l'état fatigué/déprimé, le corps ne *peut pas* démarrer en 3x — il tombe forcément dans le segment initial de x³. L'état détruit n'est plus un handicap toléré : c'est la **garantie physique** qu'on n'est pas déjà installé en 3x. On ne peut pas tricher.
+2. **L'absence de tempo/coach/cadence externe** empêche l'imposition d'un plancher 3x par la structure de la séance. Slow jogging Tanaka pose "niko-niko" comme *plancher stable* — donc plateau, pas courbure. JP³ ne pose aucun plancher.
 3. **La verticalité pure** maximise les foot-strike waves à faible dépense énergétique — permettant que la perfusion pulsée monte *sans* nécessiter une augmentation d'allure. La dynamique intra-corporelle a le temps de se déployer avant que la ventilation ne devienne contrainte.
 
 **Positionnement contre les rivaux, reformulé.** Chaque rival échoue sur C non par accident mais par *structure* :
 
 - **Slow jogging (niko-niko)** : *plateau horizontal* — cadence stable, pas de croissance intra-session. Tanaka a formalisé le plancher, pas la courbure.
-- **Zone 2 (San Millán / Attia)** : *droite 2x prescrite* — cible FC/FCmax dès le début, aucune concavité.
+- **Zone 2 (San Millán / Attia)** : *droite 3x prescrite* — cible FC/FCmax dès le début, aucune concavité.
 - **HIIT / fitness snacks** : *créneaux discontinus* — pas de courbure, mais des marches.
 - **Warm-up conventionnel** : *segment initial interrompu* par la "vraie" séance, la courbure n'a pas le temps de s'accomplir. Ironie : "warm-up as the workout" nommerait précisément JP³.
 - **Pacing ME/CFS** : *plafonné par définition* — l'energy envelope interdit précisément de laisser la courbure s'accélérer au-delà d'un seuil sécuritaire.
 - **Marching in place (physio)** : *dosé par protocole* — plancher et plafond prescrits, pas de courbure libre.
-- **Behavioral Activation** : *croissance atomique inter-session* (5 min → 10 min → 20 min) — la seule qui touche vraiment x², mais entre sessions, pas dans une session unique, et comportementalement, pas physiologiquement.
+- **Behavioral Activation** : *croissance atomique inter-session* (5 min → 10 min → 20 min) — la seule qui touche une courbure croissante, mais *entre* sessions et *comportementalement*, pas dans une session unique et pas physiologiquement.
 
-**Ce que cela change pour la contribution potentielle de JP³.** L'axe C reformulé ainsi n'est plus une propriété que JP³ *pourrait* satisfaire — c'est la **contrainte définissante** qui distingue JP³ de tous les rivaux nommés. Le "³" du JP³ n'est pas la somme des 3 P : c'est le fait que les 3 P sont exactement les conditions minimales pour que la courbure x² s'exprime :
+**Ce que cela change pour la contribution potentielle de JP³.** L'axe C reformulé ainsi n'est plus une propriété que JP³ *pourrait* satisfaire — c'est la **contrainte définissante** qui distingue JP³ de tous les rivaux nommés. Les 3 P sont exactement les conditions minimales pour que la trajectoire x³ s'exprime :
 
 - **In Place** garantit que la verticalité pulsée peut monter sans contrainte spatiale.
 - **Own Pace** garantit qu'aucun plancher externe n'écrase le segment initial de la courbe.
-- **Own Place** garantit qu'aucun coach/regard n'impose de démarrer visiblement "productif" (donc 2x).
+- **Own Place** garantit qu'aucun coach/regard n'impose de démarrer visiblement "productif" (donc 3x).
 
-L'exposant "³" est *littéralement* mathématique : c'est le prix à payer pour que la courbe soit x², non 2x.
+L'exposant "³" est *littéralement* mathématique : c'est à la fois le nombre de dimensions qui se multiplient dans le dispositif *et* la puissance de la courbe de session qu'il rend possible. Le nom encodait la loi.
 
-**Le test empirique correspondant.** Journal minute par minute d'une session JP³ : mesurer FC, VFC, ressenti subjectif d'énergie à t=0, 5, 10, 15, 20, 30 min. Comparer à une session Zone 2 équivalente. Prédiction JP³ : à t=5 min, valeurs *inférieures* à Zone 2 (concavité positive) ; à t=20-30 min, valeurs *supérieures* à Zone 2 (dépassement durable) ; ressenti subjectif *croissant* (contra Zone 2 souvent plateau ou décroissant). Si la prédiction se vérifie, la courbure x² n'est plus une analogie — c'est une observation.
+**Le test empirique correspondant.** Journal minute par minute d'une session JP³ : mesurer FC, VFC, ressenti subjectif d'énergie à t=0, 5, 10, 15, 20, 30 min. Comparer à une session Zone 2 équivalente. Prédiction JP³ : à t=5 min, valeurs *inférieures* à Zone 2 (concavité positive) ; à t=20-30 min, valeurs *supérieures* à Zone 2 (dépassement durable) ; ressenti subjectif *croissant* (contra Zone 2 souvent plateau ou décroissant). Si la prédiction se vérifie, la trajectoire x³ n'est plus une analogie — c'est une observation.
 
 ### 4.6.1 Vérification : ce concept a-t-il déjà été nommé ?
 
 Recherche web dédiée (dépouillement 2026-08-15) sur les formulations candidates : *auto-emergent effort profile*, *self-reinforcing exercise trajectory*, *warm-up as the workout*, *exponential recruitment*, *monotonically increasing session profile*, *session curvature*, *auto-catalytic training*, *self-priming exercise*, *intra-session progression*.
 
-**Verdict : ce concept nommé n'existe pas.** L'idée traîne fragmentée dans quatre à cinq silos, mais aucune source ne théorise la **courbure x² auto-renforçante intra-session** comme régime propre. Le champ lexical du fitness reste dominé par la métaphore linéaire ou par des courbes *externement imposées* (ramp protocols). L'espace nominal est libre.
+**Verdict : ce concept nommé n'existe pas.** L'idée traîne fragmentée dans quatre à cinq silos, mais aucune source ne théorise la **trajectoire cubique auto-renforçante intra-session** comme régime propre. Le champ lexical du fitness reste dominé par la métaphore linéaire ou par des courbes *externement imposées* (ramp protocols). L'espace nominal est libre.
 
 **Rivaux partiels — convergences honnêtes, divergences structurelles :**
 
@@ -422,7 +451,7 @@ Recherche web dédiée (dépouillement 2026-08-15) sur les formulations candidat
 
 **Ce que cela change pour JP³.** Trois choses :
 
-1. **Le nom est libre.** Candidats plausibles : *auto-catalytic session curvature*, *self-priming intra-session profile*, ou simplement *le régime x²*. Nommer, c'est déjà contribuer — parce qu'aucun paradigme concurrent n'occupe l'espace.
+1. **Le nom est libre.** Candidats plausibles : *auto-catalytic session curvature*, *self-priming intra-session profile*, ou simplement *le régime x³*. Nommer, c'est déjà contribuer — parce qu'aucun paradigme concurrent n'occupe l'espace.
 2. **Le positionnement scientifique se précise.** JP³ n'est pas contre Zone 2, pas contre HIIT, pas contre le warm-up — il est contre le **paradigme bipartite** (préparation → travail) et contre le **paradigme plateau** (une intensité stable maintenue). Il propose un troisième régime : **la courbure continue**.
 3. **Le pont trans-silo (§4.4) devient plus fort.** Les substrats neurophysiologiques nécessaires existent tous, distincts (LC tonique, theta-gamma, VO2 kinetics, glymphatique, foot-strike waves). Ce qui manque n'est pas le mécanisme — c'est **leur intégration narrative** en un régime de session unique. C'est cette intégration qui pourrait être la vraie contribution.
 
@@ -434,15 +463,15 @@ Résumé opérationnel des singularités potentielles, en enlevant ce qui n'en e
 
 1. **Combinaison stricte des 3 P** en un dispositif cardiovasculaire actif — jamais proposée telle quelle (marching in place s'en approche mais reste institutionnellement encadré ; slow jogging s'en approche mais garde le déplacement spatial).
 
-2. **Nomination du régime x² — la courbure de session auto-catalytique.** L'idée qu'une session peut avoir une **concavité positive intra-continue** — commencer *sous* la droite 2x conventionnelle, puis la dépasser durablement par auto-renforcement neurophysiologique — n'est **nommée nulle part** dans la littérature d'exercice (cf. §4.6.1). Les rivaux partiels (negative split, priming exercise, Zone 2, cardiovascular drift, RAMP) touchent chacun une facette sans jamais théoriser la courbure elle-même. L'espace nominal est libre ; nommer, c'est déjà contribuer.
+2. **Nomination du régime x³ — la trajectoire de session auto-catalytique cubique.** L'idée qu'une session peut avoir une **concavité positive intra-continue** — commencer *sous* la droite 3x conventionnelle, puis la dépasser durablement par auto-renforcement neurophysiologique — n'est **nommée nulle part** dans la littérature d'exercice (cf. §4.6.1). Les rivaux partiels (negative split, priming exercise, Zone 2, cardiovascular drift, RAMP) touchent chacun une facette sans jamais théoriser la courbure cubique elle-même. L'espace nominal est libre ; nommer, c'est déjà contribuer. L'exposant est le même que celui du dispositif — ce n'est pas un hasard : les 3 P se multiplient en volume, et le volume gouverne la trajectoire de session.
 
-3. **Formulation explicite de l'inversion épistémologique** — corollaire du point 2 : l'état détruit n'est pas un handicap toléré mais la **garantie physique** d'être dans le segment initial de x². Cette thèse existe implicitement dans plusieurs silos (pacing, BA, Daoyin), mais n'est jamais nommée ni testée comme telle.
+3. **Formulation explicite de l'inversion épistémologique** — corollaire du point 2 : l'état détruit n'est pas un handicap toléré mais la **garantie physique** d'être dans le segment initial de x³. Cette thèse existe implicitement dans plusieurs silos (pacing, BA, Daoyin), mais n'est jamais nommée ni testée comme telle.
 
 4. **Pont trans-silo** — cristallisation en un dispositif praticable de principes dispersés (pacing, BA, MED, Daoyin, intuitive movement) *et* de substrats neurophysiologiques dispersés (LC tonique, theta-gamma coupling, VO2 on-kinetics, foot-strike waves, glymphatique). Ni l'un ni l'autre pontage n'existe.
 
-5. **Accessibilité empirique aux dépressions sévères** — la population où *toutes* les autres pratiques échouent au seuil d'entrée. Ce serait le test critique de l'axe C dans sa version stricte : la courbure x² se déploie-t-elle même depuis l'état détruit ?
+5. **Accessibilité empirique aux dépressions sévères** — la population où *toutes* les autres pratiques échouent au seuil d'entrée. Ce serait le test critique de l'axe C dans sa version stricte : la trajectoire x³ se déploie-t-elle même depuis l'état détruit ?
 
-6. **Refus absolu de la codification interne** — pas de dosage, pas de protocole, pas de progression prescrite. Même Tanaka a "niko-niko" comme critère ; JP³ n'a même pas ça (juste "faire"). C'est le degré zéro de la codification — mécaniquement nécessaire pour que la courbure x² ne soit pas écrasée par un plancher externe.
+6. **Refus absolu de la codification interne** — pas de dosage, pas de protocole, pas de progression prescrite. Même Tanaka a "niko-niko" comme critère ; JP³ n'a même pas ça (juste "faire"). C'est le degré zéro de la codification — mécaniquement nécessaire pour que la trajectoire x³ ne soit pas écrasée par un plancher externe.
 
 ---
 
@@ -605,3 +634,5 @@ Malgré ces limites, le dépouillement est suffisant pour conclure : **JP³ n'es
 - **2026-08-15 — Création de la page.** Comparaison systématique de JP³ contre 21 pratiques/courants (locomoteurs, méditatifs, philosophiques, populations à haut seuil), sur trois axes (A entrée basse, B métrique-free, C inversion épistémologique). Basée sur trois recherches web parallèles dépouillant les littératures scientifiques et culturelles. Verdict honnête : JP³ n'est pas singulier sur ses composants ni ses principes ; il pourrait l'être sur (a) leur combinaison stricte, (b) la formulation explicite de l'inversion épistémologique (axe C, empiriquement non testé nulle part), (c) le rôle de pont trans-silo entre pacing, BA, MED, Daoyin et intuitive movement. Rival principal : **slow jogging Tanaka**, qui converge sur A et B mais garde le déplacement spatial et ne teste pas l'axe C.
 
 - **2026-08-15 (soir) — Reformulation de l'axe C en courbure x² vs 2x.** Suite à une intuition de Perig : "commencer par un état détruit sous-entend finir avec beaucoup de rapidité, énergie, puissance" — reformulée mathématiquement comme "y = x² vs 2x. Ce début dans le très très lent est comme le début de la courbe x². Si on le manque on rentre en 2x". L'axe C n'est plus une propriété statique ("l'état détruit facilite l'entrée") mais une propriété **dynamique** : la session commence *sous* le régime linéaire conventionnel comme condition mécanique pour le dépasser durablement. L'état détruit devient la garantie physique d'être dans le segment initial de x². Rescoring complet de la matrice §3 (axe C, ajout de 2 lignes : Zone 2, warm-up conventionnel). Ajout §4.6 dédié + §4.6.1 avec recherche web ciblée (agent parallèle) confirmant que **le concept nommé n'existe pas dans la littérature** — rivaux partiels : negative split, priming exercise, MAF/Zone 2, cardiovascular drift, RAMP. L'espace nominal est libre. Ajout §7.6 avec sources correspondantes. §5 réécrit (point 2 nouveau : nomination du régime x²).
+
+- **2026-08-15 (nuit) — Passage de x² à x³ (au cube).** Perig : "est-ce que par hasard la métaphore du cube (³) serait indiquée? y=x³". Reformulation acceptée pour trois raisons cumulatives : (1) **cohérence sémantique** — le "³" du JP³ *est* littéralement l'exposant de la courbe (le nom encodait la loi), (2) **cohérence physique** — les 3 P sont multiplicatifs, pas additifs : chaque P débloque une dimension que les deux autres seuls ne peuvent pas activer, le produit est un volume (structurellement x³), (3) **paradoxe plus intense** — la courbe x³ passe sous 3x pour tout t < √3 ≈ 1.73 (fenêtre gaspillée plus longue), et le dépassement ensuite est vertigineux (à t=5, ratio ×8). Substitution systématique dans §1 (définition axe C), §3 (matrice + notation), §4.6 (réécriture avec la multiplication des 3 P comme point pivot d'entrée), §4.6.1 et §5 (nomination). **Ajout d'un graphique SVG** dans §4.6 rappelant la géométrie de secondaire (deux courbes, croisement à √3, zone crème "coût apparent"). Coût pédagogique : nécessite une phrase de plus pour introduire la puissance 3 ; compensé par l'auto-cohérence du nom + la logique multiplicative qui rend l'explication plus fluide.
