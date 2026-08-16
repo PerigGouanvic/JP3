@@ -112,6 +112,47 @@
     });
   }
 
+  function insertVersionStamp(path) {
+    const normalizedPath = path.replace(/^(\.\.\/)+/, '');
+    const apiUrl = 'https://api.github.com/repos/PerigGouanvic/jp3/commits?path=' +
+      encodeURIComponent(normalizedPath) + '&per_page=1';
+    fetch(apiUrl)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data) => {
+        if (!data || !data.length) return;
+        const commit = data[0];
+        const date = new Date(commit.commit.author.date);
+        const sha = commit.sha.slice(0, 7);
+        const commitUrl = commit.html_url;
+        const lang = (document.documentElement.lang || 'en')
+          .toLowerCase()
+          .startsWith('fr')
+          ? 'fr'
+          : 'en';
+        const yyyy = date.getUTCFullYear();
+        const mm = String(date.getUTCMonth() + 1).padStart(2, '0');
+        const dd = String(date.getUTCDate()).padStart(2, '0');
+        const hh = String(date.getUTCHours()).padStart(2, '0');
+        const min = String(date.getUTCMinutes()).padStart(2, '0');
+        const dateStr = yyyy + '-' + mm + '-' + dd + ' ' + hh + ':' + min + ' UTC';
+        const label = lang === 'fr' ? 'Publié' : 'Published';
+        const el = document.createElement('p');
+        el.className = 'version-stamp';
+        el.style.cssText =
+          'font-size:0.8rem;color:#999;font-style:italic;margin:-0.5rem 0 2rem;';
+        el.innerHTML =
+          label + ' : ' + dateStr +
+          ' · <a href="' + commitUrl + '" target="_blank" rel="noopener" style="color:#999;">commit ' + sha + '</a>';
+        const subtitle = container.querySelector('.subtitle-lead');
+        if (subtitle) subtitle.after(el);
+        else {
+          const firstH1 = container.querySelector('h1');
+          if (firstH1) firstH1.after(el);
+        }
+      })
+      .catch(() => {});
+  }
+
   fetch(articlePath, { cache: 'no-cache' })
     .then((r) => {
       if (!r.ok) throw new Error('HTTP ' + r.status);
@@ -126,6 +167,7 @@
         if (next && next.tagName === 'P') next.classList.add('subtitle-lead');
       }
       buildToc(container);
+      insertVersionStamp(articlePath);
       if (window.location.hash) {
         const target = document.getElementById(window.location.hash.slice(1));
         if (target) target.scrollIntoView();
