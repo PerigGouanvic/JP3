@@ -30,3 +30,7 @@ A minimalist exercise protocol — jogging in place, at your own pace, in your o
 
 - Code: MIT
 - Content (article, illustrations, `JP³.ada`): CC BY 4.0
+
+---
+
+*Fait partie de l'écosystème `~/projects/` — voir [`../INDEX.md`](../INDEX.md) pour la vue d'ensemble et les recoupements (santé/exercice avec `_coach-sante/`, `_weakest-link-coach/`, `physiological-rights/` ; encodage via `ada-format/`).*
