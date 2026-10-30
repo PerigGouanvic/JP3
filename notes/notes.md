@@ -30,3 +30,26 @@ Session JP³ en état de maladie. Conditions exactes du paradoxe décrit dans le
 **Insight clé :** L'ennui n'est pas un obstacle — c'est le mécanisme de progression. Le corps accélère par ennui, pas par volonté.
 
 **Slogan en évolution :** "La destination est l'euphorie, mais l'ennui est..."
+
+---
+
+## 2026-01-25 — Le paradoxe du démarrage volontaire
+
+**Problème fondamental :**
+- Démarrer l'exercice = acte volontaire
+- Acte volontaire = recrutement automatique des muscles phasiques (quadriceps, gastrocnémiens)
+- Muscles phasiques = glycolytiques, fatigables, dette métabolique
+- Donc : l'intention même de commencer sabote le régime optimal
+
+**Solution : le talon-activateur**
+- Pas "commencer à courir" mais "laisser tomber le poids sur les talons"
+- Geste si minimal et passif qu'il ne déclenche pas le recrutement volontaire des muscles phasiques
+- Entrée par effraction : le corps entre en régime élastique avant que le cerveau n'ait eu le temps de recruter les mauvais muscles
+
+**Point de bascule critique :**
+- Les cuisses crient au démarrage → signal d'erreur
+- Micro-ajustements posturaux (flexion genou, bascule bassin, engagement orteil)
+- Transfert de charge : muscles phasiques → soléaire + structure élastique
+- Ce transfert est le moment crucial qui détermine si la session peut durer ou s'arrête en 2-3 minutes
+
+**Insight :** Le protocole doit explicitement enseigner ce point de bascule comme compétence à acquérir, pas juste comme phénomène qui "arrive".
