@@ -30,7 +30,29 @@
 
 ## Front matter
 
-<!-- FRONT-MATTER-CONTENT -->
+> **source:** `content/en/article.md` lignes 1-7 (titre + sous-titre + abstract) + métadonnées projet
+
+**Title.** JP³ : Jogging in Place, at Your Own Pace, in Your Own Place.
+
+**Subtitle.** *A universally accessible protocol for behavioral activation, emotional regulation, and physical well-being — empowering even the most vulnerable populations.*
+
+**Author.** Perig Gouanvic (perig.gouanvic@gmail.com).
+
+**Date.** First consolidated draft 2026-11-05 (migration massive dans le manuel central EN). Successor to the 2025-07-30 ³-centered refonte and the 2026-08 doctrinal enrichissement (research-singularite.md §4.6.x).
+
+**Licence.** À trancher avec Perig — défaut proposé : CC BY-SA 4.0 (contenu doctrinal) + MIT (code éventuel associé : agent prompts, dérivations ada-format). Non verrouillé.
+
+**Status.** Working manuscript. This is the central EN manual (source unique) dont toutes les autres productions — article FR, pitch deck JGH, leaflets patient, prompts agent, versions Hamilton/collaborative — dérivent par extraction/traduction/adaptation (voir `project_manuel_central_anglais_architecture.md` 2026-09-05 pour la décision architecturale).
+
+**Abstract.**
+
+JP³ : Jogging in Place × at Your Own Pace × in Your Own Place. The "³" in JP³ is not merely symbolic; it represents a **multiplicative synergy** where each "P" exponentially amplifies the efficacy of the other two — formally, the within-session trajectory of effort is cubic (*y = x³*) rather than linear (*y = 3x*), with the paradoxical property of passing *below* the linear line for all *t < √3* before overtaking it durably (see §1.2). The contemporary landscape of physical activity is characterized by a striking paradox: a pervasive social discourse glorifying intense, performance-driven exercise, yet an alarming reality where the vast majority of the global population fails to meet minimal physical activity guidelines. This creates a cycle of inactivity, particularly for vulnerable populations facing amplified barriers. JP³ emerges as a revolutionary exercise modality that, through its inherently accessible, self-paced, and private nature, **eliminates 80% of traditional exercise obstacles**. This protocol leverages biomechanical (soleus activation via standing SPU-family logic, spring-mass ankle-dominant regime, deep postural chain reactivation), physiological (aerobic metabolism, slow VO2 kinetics, osteogenic loading via heel-activator), and psychological principles (behavioral activation, anxiety reduction, "ego and echo" doctrine of body-autonomous / mind-free). It is designed to be a pragmatic tool for diverse healthcare professionals, offering a unique and robust entry point to movement for all, including those traditionally excluded from physical activity — notably older adults (sarcopenia/osteoporosis, cf. JGH strategic voie), people with chronic fatigue (CFS/ME, post-COVID), individuals with social anxiety or body-image barriers, and anyone in a depleted starting state where the conventional *3x* regime is physically unreachable. Key benefits include improved exercise adherence, emotional regulation, behavioral activation, and broad physiological gains across the full stack documented in §4.
+
+**Keywords.** behavioral activation ; soleus ; SPU (soleus pushup) ; sarcopenia ; osteoporosis ; proprioception ; barefoot training ; home exercise adherence ; self-paced exercise ; Zone 2 ; Hamilton muscle tuning ; deep postural chain ; via negativa ; cubic trajectory ; priming ; AI coaching.
+
+**Citation.** Gouanvic, P. (2026). *JP³ : Jogging in Place, at Your Own Pace, in Your Own Place — central EN manual.* First consolidated draft, 2026-11-05.
+
+**Note to readers.** This manuscript is in **migration-draft state**. Content from multiple sources (research-singularite.md, research-mecanismes.md, memory fiches, facts/, drafts/) has been versed verbatim per section — FR blocks remain FR, EN blocks remain EN, each block carries a `> **source:**` header for traceability. Harmonization (FR→EN translation, redundancy pruning, final editorial pass) is a subsequent phase. Reading order recommended: §1 (singularity framing) → §2 (via negativa anatomy of the 3 Ps) → §4.6.x (deep postural chain and cubic-trajectory mechanisms) for the theoretical core ; §5 (protocol) + §7 (applied cases) for clinical use ; §8.4 (JGH strategic voie) + §8.5 (Hamilton outreach + research agenda) for collaborative/academic context.
 
 ---
 
