@@ -41,7 +41,125 @@
 - §1.2 The "³" as cubic trajectory — formal *y = x³* vs *y = 3x*
 - §1.3 Scope of this manual — single EN source; announced derivations (FR article, clinical deck, patient leaflets, agent); citation policy
 
-<!-- SECTION-1-CONTENT -->
+### §1.1 The gap this fills
+
+> **source:** `content/en/article.md` §1 Introduction + abstract
+
+**Abstract (verbatim) :** JP³: Jogging in Place × at Your Own Pace × in Your Own Place. The "³" in JP³ is not merely symbolic; it represents a **multiplicative synergy** where each "P" exponentially amplifies the efficacy of the other two. The contemporary landscape of physical activity is characterized by a striking paradox: a pervasive social discourse glorifying intense, performance-driven exercise, yet an alarming reality where the vast majority of the global population fails to meet minimal physical activity guidelines. This creates a cycle of inactivity, particularly for vulnerable populations facing amplified barriers. JP³ emerges as a revolutionary exercise modality that, through its inherently accessible, self-paced, and private nature, **eliminates 80% of traditional exercise obstacles**. This protocol leverages biomechanical (soleus activation, proprioception), physiological (aerobic metabolism, slow VO2 kinetics), and psychological principles (behavioral activation, anxiety reduction). It is designed to be a pragmatic tool for diverse healthcare professionals, offering a unique and robust entry point to movement for all, including those traditionally excluded from physical activity. Key benefits include improved exercise adherence, emotional regulation, behavioral activation, and broad physiological gains.
+
+**Introduction body (verbatim) :**
+
+The contemporary public health landscape is shadowed by a global pandemic of physical inactivity, with profound consequences for both physical and mental well-being. Despite widespread awareness of the benefits of exercise, a significant share of the population struggles to engage in regular physical activity. Common barriers include lack of time, financial cost, unfavorable weather, intimidation by fitness environments, and the sheer mental effort required to initiate and sustain a routine. These universal obstacles are considerably amplified for vulnerable populations—individuals grappling with chronic fatigue, anxiety disorders, depression, obesity, social anxiety, or frailties linked to aging. For these groups, traditional exercise prescriptions often prove unworkable, leading to the perpetuation of sedentary lifestyles and a growing sense of inadequacy.
+
+It is in response to this critical unmet need that **JP³: Jogging in Place, at Your Own Pace, in Your Own Place** is introduced as an innovative and radically accessible solution. The "³" in the acronym is not a mere stylistic choice; it represents a **multiplicative synergy** where each "P" exponentially amplifies the efficacy of the other two. This foundational principle is the key to understanding why JP³ transcends simple exercise, offering a universally applicable approach while being particularly robust for those who need it most. This interaction creates a unique environment that overcomes traditional exercise barriers and optimizes physiological and psychological benefits. By systematically dismantling the most common barriers to physical activity, JP³ opens a powerful and sustainable path to movement.
+
+This article aims to elucidate the theoretical foundations, practical protocol, synergistic mechanisms of action, and broad clinical benefits of JP³. It will demonstrate how JP³ can empower a wide range of individuals, including those traditionally marginalized by conventional exercise paradigms, and will explore the transformative potential of integrating AI coaching into its deployment.
+
+---
+
+### §1.2 The "³" as cubic trajectory — formal *y = x³* vs *y = 3x*
+
+> **source:** `content/en/manual/01.2-cubic-trajectory.md` (pilot section drafted 2026-10-08, derived from `content/fr/research-singularite.md` §4.6) + `memory/project_axe_c_courbure_x2.md`
+
+The exponent "³" in JP³ is not stylistic. It is literal, in two senses that compose: it names both the number of dimensions the protocol forces to multiply, and the shape of the session-time trajectory those multiplications produce. This section states that double literalness formally. All subsequent sections (§ 3 synergies, § 4 mechanistic stack, § 5 protocol, § 6 doctrine) presuppose it.
+
+#### 1.2.1 The three Ps multiply — they do not add
+
+Each P removes a different class of constraint. Taken alone, two Ps still leave the third constraint active, which collapses the device to a known category:
+
+- **In Place without Own Pace** = prescribed protocol (physio marching, Walk at Home). Verticality is present; the external tempo-floor is not lifted.
+- **Own Pace without Own Place** = public ground. One starts visibly productive to a gaze that imposes an output rate (slow jogging in a park). Autonomy is nominal; the surrounding look restores a floor.
+- **Own Place without In Place** = home-cardio with video (Peloton, Walk at Home). The place is private; the coach imposes the tempo.
+
+In each pair, the missing third P reinstates a floor that the remaining two cannot cancel. The device therefore has a **volume**, not a sum: its characteristic action appears only when the three dimensions compose. Structurally, this is *x³*, not *3x*. The notation is a reminder that one P alone is one-dimensional (a line), two Ps are two-dimensional (a surface), and three Ps are a volume whose magnitude grows faster than the sum of its sides.
+
+#### 1.2.2 Two session-time regimes
+
+Once the three Ps compose a volume, the within-session trajectory of effort inherits the geometry. Two regimes are then distinguishable:
+
+- **Linear regime (y = 3x).** Each minute is equivalent to the preceding one. Conventional Zone 2, constant-pace running, prescribed tempo — the bulk of culturally legitimate cardio. The line is predictable; the trajectory does not accelerate.
+- **Cubic regime (y = x³).** Each minute **inherits** the preceding ones. Tonic locus coeruleus firing rises cycle after cycle (Poe et al. 2020; Aston-Jones & Cohen 2005); theta–gamma cross-frequency coupling stabilizes and amplifies (Canolty & Knight; Buzsáki); pulsed cerebral perfusion rises progressively via accumulated foot-strike waves; the glymphatic system engages on a delayed window. Each cycle inherits from the preceding one rather than consuming it.
+
+The two regimes are not two intensities of the same thing. They differ in **curvature**, not in slope. A fast linear session and a slow linear session are both *3x* (different coefficients). A JP³ session is *x³* at any coefficient.
+
+#### 1.2.3 The paradox that defines the singularity
+
+The cubic curve **passes below** the linear line for all *t < √3 ≈ 1.73* (in arbitrary normalized units). Over that initial segment the cubic trajectory looks wasteful. It **must** look wasteful — that appearance is the mechanical price of its positive concavity. Then the curves cross; the cubic trajectory overtakes the linear one durably; and the gap grows disproportionately (at *t = 3*: *x³ = 27, 3x = 9*, ratio ×3; at *t = 5*: *x³ = 125, 3x = 15*, ratio ×8).
+
+![Two session regimes: y = 3x (linear) vs y = x³ (JP³). The cubic curve passes below the linear line until crossing at t = √3, then overtakes it durably. The cream-tinted zone is the "apparent waste" region that mainstream fitness refuses to traverse.](../assets/cubic-trajectory.svg)
+
+<!-- SVG asset to be exported from research-singularite §4.6 inline SVG; placeholder reference above. Caption source: "Two session regimes. The cubic curve passes below the line before the crossing, then overtakes it. The cream-tinted region is the 'apparent waste' zone that fitness culture refuses to traverse." -->
+
+#### 1.2.4 Why mainstream fitness systematically fails the cubic regime
+
+The cubic regime cannot be reached by lowering intensity within a linear protocol. Zone 2 at low heart-rate is still *3x* (small coefficient). What forbids the cubic regime in mainstream formats is not the pace — it is the **floor**:
+
+- **Prescribed cardio** (Zone 2 à la San Millán / Attia) targets a heart-rate band from the first minute. The initial segment is cut off by the lower bound of the band.
+- **High-intensity formats** (HIIT, fitness snacks) are discontinuous steps. There is no concavity; there are jumps.
+- **Conventional warm-up** places the initial segment *before* the "real" session. The curvature is interrupted exactly when it would be about to overtake the linear line.
+- **Slow jogging (niko-niko)** installs a stable floor cadence. Tanaka formalized the floor, not the curvature; the result is a horizontal plateau.
+- **Marching in place (physio-prescribed)** is dosed by protocol — floor and ceiling imposed, no free curvature.
+- **Pacing (ME/CFS)** caps the trajectory by energy-envelope safety; the curvature is explicitly forbidden to accelerate past a threshold.
+- **Behavioral Activation** grows *between* sessions (5 min → 10 min → 20 min). This is a curvature of adherence, not of physiology, and it operates inter-session rather than intra-session.
+
+Each of these formats fails the cubic regime by **structural design**, not by accident. They impose a floor — of pace, of cadence, of heart rate, of visible productivity — that cuts off the sub-√3 segment where the cubic trajectory is slower than the line.
+
+#### 1.2.5 Why JP³ accesses it
+
+Three independent mechanical reasons, not one:
+
+1. **A depleted starting state forbids *3x*.** From a fatigued, anxious, or depressed state, the body **cannot** start on the linear line — it falls into the initial segment of the cubic curve by necessity. The depleted state ceases to be a tolerated handicap and becomes the **physical guarantee** that the trajectory is not already parked at *3x*. One cannot cheat. (See § 6.1 — *The paradox of liberating weakness*.)
+2. **No external tempo-floor.** The absence of a coach, a cadence target, a music beat, or a visible gaze removes every mechanism that could install a floor. Slow jogging prescribes "niko-niko" as a **stable floor** — hence a plateau, not a curvature. JP³ prescribes no floor at all; it specifies three exclusions (§ 2) and lets the trajectory find its own geometry.
+3. **Pure verticality maximizes foot-strike waves at low energetic cost.** Horizontal displacement is expensive and ventilation-bound. Pure vertical oscillation generates the periodic impact wave required for pulsed cerebral perfusion and for the deep postural chain to tune (§ 4.4, § 4.2) **without** requiring an increase in pace. The intra-corporeal dynamics have time to deploy before ventilation becomes a limiting constraint.
+
+These three reasons are **properties of the three Ps**, respectively: the depleted-state logic is a corollary of *Own Place* (private = no performance pressure); the tempo-floor absence is *Own Pace*; the verticality is *In Place*. Each P is one necessary condition for the cubic regime; the three together are sufficient. This is the formal sense in which the three Ps multiply.
+
+#### 1.2.6 The nominal space is empty
+
+A dedicated web search (2026-08-15) on candidate formulations — *auto-emergent effort profile*, *self-reinforcing exercise trajectory*, *warm-up as the workout*, *exponential recruitment*, *monotonically increasing session profile*, *session curvature*, *auto-catalytic training*, *self-priming exercise*, *intra-session progression* — returned no theorized concept of a **self-reinforcing cubic intra-session trajectory**. The underlying substrates are each described separately (VO2 on-kinetics are modelled by exponentials; locus coeruleus is characterized under mild exercise; theta–gamma coupling scales with running speed; cardiovascular drift is documented), but their integration into a single session-time narrative is absent. The nominal space is empty.
+
+Partial rivals converge on fragments and diverge structurally:
+
+- **Negative split** (middle-distance running) — second half faster than first. Converges on "starting below the mean = economy." Diverges: tactical race-pacing, not physiological theory. ([PMC12307312](https://pmc.ncbi.nlm.nih.gov/articles/PMC12307312/))
+- **Priming exercise / VO2 priming** — moderate-intensity bolus *before* the main set, to accelerate VO2 kinetics. Converges on "prior state alters trajectory." Diverges radically: separate bolus, not internal curvature of a continuous session. ([PMC10115720](https://pmc.ncbi.nlm.nih.gov/articles/PMC10115720/))
+- **MAF method / Zone 2** — "training slow." Converges on "start/stay slower than intuition." Diverges: stable ceiling; auto-reinforcement is *between* sessions (chronic adaptation), not *within*. ([Maffetone](https://philmaffetone.com/method/); [Attia × San Millán](https://peterattiamd.com/inigosanmillan/))
+- **Cardiovascular drift / reversed drift** — intra-session drift at constant load. Converges on "non-flat internal dynamic." Diverges: pathological/defensive frame, not deliberate architecture. ([PubMed 19486489](https://pubmed.ncbi.nlm.nih.gov/19486489/))
+- **RAMP protocol** (Raise–Activate–Mobilize–Potentiate) — structured warm-up. Converges on "progressive preparatory phase." Diverges: stays in the bipartite paradigm (warm-up → session), not continuous curvature.
+
+#### 1.2.7 What this changes for the manual
+
+Three consequences organize the rest of this document:
+
+1. **The claim is not that JP³ is a better *3x*.** It is that JP³ opens a regime (*x³*) that no other format reaches. The comparison in § 8.2 (adjacent practices) is therefore not a performance comparison but a **structural** one.
+2. **The three Ps are the formal conditions, not the branding.** § 2 treats each P as a *via negativa* definition (what it excludes) because that is what makes the cubic regime physically possible. The "³" is the geometric name of the device the Ps compose.
+3. **The empirical falsification is specific.** The prediction is minute-by-minute: at *t = 5 min*, JP³ values of heart rate, HRV, and subjective energy are **lower** than a matched Zone 2 session (positive concavity); at *t = 20–30 min*, they are **higher** (durable overshoot); the subjective-energy trace is **monotonically increasing** (contra Zone 2, which typically plateaus or decreases). § 5.4 formalizes this test. If the prediction holds, the cubic trajectory ceases to be an analogy and becomes an observation.
+
+**Notes for integration into the full manual.**
+
+- The SVG at § 1.2.3 must be exported as `content/en/assets/cubic-trajectory.svg` from the inline SVG currently in `content/fr/research-singularite.md` §4.6 (line 385). Labels require EN translation ("coût apparent" → "apparent cost"; "croisement à t = √3" → "crossing at t = √3"; "dépassement durable" → "durable overshoot"; axis labels "t (durée de session)" → "t (session duration)", "bénéfice cumulé" → "cumulative benefit").
+- Cross-references § 2 (via negativa), § 3.4 (confluence), § 4.4 (neuro-circulatory substrates), § 5.4 (initial segment, empirical test), § 6.1 (liberating weakness), § 8.2 (comparison with adjacent practices) must be resolved once the full manual numbering is locked.
+- References Poe 2020, Aston-Jones & Cohen 2005, Canolty & Knight, Buzsáki, and the partial-rivals block need full PILOTE-refs expansion (bibliography + type + access + extract + author gloss + counter-reading). Current citations are placeholder short-forms.
+
+**Pivot pédagogique (fiche project_axe_c_courbure_x2) :** *"Les 3 P ne s'ajoutent pas — ils se multiplient. Le produit est un volume, pas une somme. Le nom encodait la loi."* — Rivaux à réfuter par structure : Zone 2 (droite 3x prescrite), niko-niko (plateau horizontal), HIIT/fitness snacks (créneaux), pacing (plafonné par déf.), warm-up conventionnel (interrompu), BA (courbure inter-session pas intra-session).
+
+---
+
+### §1.3 Scope of this manual — single EN source; announced derivations
+
+> **source:** manuel central (header SKELETON) + `memory/project_manuel_central_anglais_architecture.md`
+
+Ce manuel est la **source unique canonique** du framework JP³, écrite en anglais, destinée à être lue intégralement et à servir de référence pour toutes les dérivations futures. Il consolide en un seul document l'intégralité du contenu auparavant dispersé dans `content/en/article.md`, `content/fr/article.md`, `content/fr/research-singularite.md`, `content/fr/research-mecanismes.md`, les fiches mémoire projet, les facts/ et les drafts pertinents.
+
+**Dérivations annoncées** (à produire à partir de ce manuel, jamais l'inverse) :
+
+- **FR article** (`content/fr/article.md` actuel) — traduction/adaptation grand public francophone. Déjà en circulation sous une forme antérieure ; sera refondu à partir du manuel.
+- **Clinical deck JGH** — présentation 30-45 min sarcopénie + ostéoporose, destinée à la médecine familiale et à la gériatrie de l'Hôpital général juif de Montréal (voir §7.1 pour le contexte stratégique).
+- **Patient leaflets** — one-page briefs par population clinique (sarcopénie, dépression, CFS, etc.) dérivés du §7 et calibrés pour circulation hors-expertise.
+- **Agent prompt** — le "appendix prompt" permettant à un clinicien ou à un individu de répliquer l'expérience JP³ avec assistance IA. Base technique actuelle : skill `/janus` et équivalents. Voir §6.7 (agent comme couche d'incarnation).
+
+**Politique de citation** : voir `PILOTE-refs.md` pour la politique "augmented traceability" (bibliographie + type + accès + extrait + glose auteur + contre-lecture). Chaque référence structurelle doit être traçable et contre-lisible — ni citation ornementale, ni autorité tacite.
+
+**Non-périmètre** : ce manuel n'est **pas** un article de revue à soumettre tel quel. C'est un référentiel interne d'où seront extraits des dérivés formatés pour leurs auditoires respectifs. L'homogénéisation stylistique, la traduction FR→EN complète, la condensation à format revue, sont des passes ultérieures.
 
 ---
 
