@@ -996,7 +996,247 @@ See §2.3 (barefoot as access condition — the 4th implicit P) for the full doc
   - §5.5.2 Stealth / standing JP³ (`project_jp3_furtif_decouverte`)
 - §5.6 Pre-activity use — barefoot warm-up before shod sport (`project_warmup_piedsnus_prematch`)
 
-<!-- SECTION-5-CONTENT -->
+### §5.1 Degré zéro — the entry threshold
+
+> **source:** `content/fr/research-singularite.md` §4.6.5 ; `memory/project_test_escaliers_soutien_vs_mobilite.md`
+
+Les sections précédentes ont décrit ce qui *entre* dans la symphonie (§4.6.3) et ce qui doit *ne pas entrer* (§4.6.4). Reste à décrire ce qui *précède l'entrée du premier instrument* — le moment 0, où rien encore ne se joue mais où tout se prépare. Cette section est née d'un cas concret : un matin de démotivation aiguë (2026-08-16), la question "par où commencer ?" a rendu manifeste ce que les autres sections avaient laissé dans l'ombre — que JP³ commence bien avant le premier balancement du bassin, dans un état qu'on peut nommer le **degré zéro**.
+
+**"Lent" est un mot piégé.**
+
+L'intuition initiale — "commencer très très lentement" — induit une erreur biomécanique. Bouger lentement *augmente* la charge musculaire : un squat descendu en 5 secondes est plus dur qu'un squat descendu en 1 seconde ; le tai-chi est notoirement épuisant malgré son apparence de lenteur. La lenteur cinématique impose une **contraction musculaire soutenue** — précisément ce que le régime x³ cherche à éviter au démarrage. Si on essaie de "commencer lentement" au sens naïf, on charge immédiatement les quadriceps de manière isotonique et on paie plein tarif métabolique pour un déplacement pourtant minuscule. Le bon mot n'est pas *lent* — c'est **passif**, **élastique**, **délégué**. La faible vitesse du corps n'est pas obtenue par contrôle musculaire mais par **délégation aux structures passives** : gravité, squelette, ligaments, fascia, tendons. Le muscle ne *porte* pas — il *relâche et se laisse rappeler*. La lenteur *apparente* est une conséquence, pas une cause à imposer. Il faut donc lire les mentions de "très très lent" dans §4.6.2 et §4.6.4 comme voulant dire *très très passif, très très peu, très très délégué*.
+
+**Le degré zéro absolu : se tenir debout sur ses os.**
+
+Avant même le premier balancement, il y a un état antérieur, plus fondamental : *se tenir debout*. Coût énergétique quasi-nul (le poids transite par le squelette, les muscles posturaux profonds font un ajustement tonique minuscule). Décision requise quasi-nulle (on est déjà debout). Aucune articulation n'a besoin de bouger, aucun tendon d'être sollicité, aucun quadriceps de se contracter au-delà de son tonus de base. C'est *déjà* JP³ — c'est même la seule action qui puisse honnêtement s'appeler "le début de JP³", parce que tout le reste dépend d'elle.
+
+Ce degré zéro a une propriété rare : *il n'exige pas de motivation*. On n'a pas à trouver l'énergie de commencer à bouger. On a juste à **noter qu'on est debout**. À partir de là, le poids peut basculer imperceptiblement d'un pied à l'autre — non par décision, mais par **permission**. À un moment, une articulation demandera à s'ouvrir. On la laissera. Puis un tendon voudra rebondir. On le laissera. Chaque couche annoncera son entrée. Aucune n'a à être forcée. C'est la formulation la plus exigeante et la plus douce du dispositif : le seuil d'entrée n'est plus "prendre la décision de faire du sport" — c'est simplement *ne pas résister* à ce que le corps propose de lui-même.
+
+**La stratification anatomique — le fractal x³ à l'échelle des tissus.**
+
+Ce qui se joue au degré zéro et dans les minutes qui suivent est une hiérarchie tissulaire qui reproduit à échelle fine le principe x³ des §4.6.3 et §4.6.4 : chaque couche *autorise* la suivante en fournissant la stabilité, l'élasticité, la circulation dont elle a besoin. Du plus passif (coût métabolique quasi nul) au plus actif (coût élevé) :
+
+1. **Squelette** — se tenir debout. Poids par les os.
+2. **Ligaments, capsules articulaires, cartilage** — micro-transferts de poids. Liquide synovial redistribué, ligaments sollicités en légère traction, cartilage rechargé.
+3. **Fascia, aponévroses, tendons** — structures **élastiques passives**. Stockage et restitution d'énergie externe. Consomment très peu d'O₂.
+4. **Voûte plantaire, pompe soléaire** — pompes mécaniques activées par le geste. Retour veineux commence.
+5. **Muscles posturaux profonds** (multifidus, transverse, plancher pelvien) — toniques, coût faible.
+6. **Muscles phasiques** (quadriceps, ischio-jambiers, mollets) — actifs, coût métabolique modéré à élevé selon la sollicitation.
+7. **Système respiratoire** — accompagne la demande (LRC — locomotor-respiratory coupling s'installe).
+8. **Système cardio-vasculaire** — répond en dernier à la demande périphérique (LCC — locomotor-cardiac coupling).
+
+C'est la même **logique multiplicative** que celle des 3 P : la contribution de chaque couche est *conditionnelle* à celle des couches sous-jacentes. Retire une couche, la suivante paie tout le prix. Impossible d'engager le quadriceps efficacement si la cheville et la voûte plantaire ne sont pas prêtes à restituer l'énergie ; impossible d'engager la cheville si le squelette ne porte pas correctement. Un démarrage brutal en 3x, c'est demander aux quadriceps de faire le travail que les tendons n'ont pas encore été autorisés à faire. Le fractal descend et remonte : la même loi de dépendance ordonnée s'applique aux organites (chaîne respiratoire mitochondriale, §4.6.4), aux tissus (cette section), aux systèmes (§4.6.3), aux sessions successives dans le temps (dépassement de 3x à long terme, §4.6).
+
+**Note importante : le rôle possiblement sous-estimé du fascia.**
+
+Cette hiérarchie contient un élément que la culture scientifique dominante — celle qui imprègne à la fois l'auteur humain et le LLM assistant, tous deux formés sur les mêmes corpus biomédicaux — a vraisemblablement sous-mesuré : le **fascia**. Pendant des décennies, l'anatomie l'a traité comme "tissu d'emballage" — littéralement découpé et jeté dans les dissections pour révéler les "vrais" muscles. Ce n'est que depuis les années 2000-2010 (Congrès international de recherche sur le fascia depuis 2007, travaux de Robert Schleip, Thomas Myers, Carla Stecco) qu'il commence à être étudié comme un système à part entière.
+
+Ce qu'on sait maintenant, et qui converge de manière frappante avec le régime JP³ :
+
+- Le fascia est un **réseau continu** — il transmet la force à travers le corps entier, pas localement. Se tenir debout mobilise en réalité une organisation myofasciale globale (myofascial trains).
+- Il contient une **densité exceptionnelle de mécanorécepteurs et d'interocepteurs** — probablement plus qu'aucun autre tissu périphérique. Le sens du corps ("je réalise que je suis debout") passe possiblement d'abord par lui, avant même les fuseaux musculaires.
+- Il a des propriétés **viscoélastiques et thixotropiques** — il devient plus fluide (moins raide) sous mouvement doux répété, grâce à la redistribution de l'acide hyaluronique entre ses couches. Les *tout petits* mouvements sont particulièrement efficaces pour cette lubrification — précisément le type de sollicitation que produit le degré zéro et les premiers balancements.
+- Il stocke et rend de l'énergie élastique — pas seulement les tendons. La contribution fasciale au stretch-shortening cycle en locomotion douce est significative.
+- Il répond préférentiellement à des **chargements lents et de faible intensité** — le contraire du régime d'entraînement musculaire, qui exige des chargements courts et intenses.
+
+Ces cinq propriétés font du fascia le *substrat physiologique le plus probable* du degré zéro et du segment initial x³ : la station debout organisée (myofascial trains), la perception "je suis debout" (interoception fasciale), le premier balancement tellement doux qu'il paraît improductif (stimulus optimal pour la thixotropie), le rebond élastique passif (contribution fasciale au stretch-shortening cycle), la cinétique lente d'amorçage (préférence pour chargements lents et répétés).
+
+**Hypothèse à documenter :** l'"échauffement de l'échauffement" n'est pas un simple préambule — c'est *l'activation spécifique du système fascial*, qui à son tour autorise l'activation ordonnée des couches suivantes. Sans elle, on saute directement à l'engagement musculaire et on rate la couche qui, précisément, aurait permis au reste de fonctionner en économie élastique. Cette hypothèse est mal représentée dans la littérature du sport et de l'entraînement — la culture scientifique dominante parle en termes de muscles, VO₂max, cardio, et laisse le fascia au fitness alternatif (Pilates, yoga, Feldenkrais, Rolfing) ou aux thérapies manuelles. Il est possible que le rôle du fascia dans le degré zéro de JP³ soit *un mécanisme physiologique clé* que les §4.6.3 et §4.6.4 n'ont pas suffisamment nommé — à documenter dans une recherche ciblée (voir §7 pour appel à sources sur ce point précis).
+
+**Confirmation empirique en temps réel.**
+
+Cette section a été écrite pendant que Perig vivait littéralement le degré zéro — un matin de démotivation aiguë où l'idée même de "commencer à bouger" semblait insurmontable. La séquence a fonctionné : *remarquer qu'on est debout* → petits transferts de poids → une articulation s'ouvre → un tendon rebondit. Témoignage direct : *"je suis réellement dans l'échauffement de l'échauffement, je réalise ce que c'est que de se tenir debout"*. Valeur : celle d'un cas d'espèce — pas d'une preuve statistique, mais d'un signal fort que le dispositif tient ce qu'il promet même dans le pire état initial, celui où toute autre modalité d'exercice serait spontanément écartée.
+
+**Ce que cette section ajoute au reste.**
+
+Les §4.6.2, §4.6.3, §4.6.4 décrivaient le segment initial x³ *une fois qu'on avait commencé*. Le §4.6.5 identifie le *moment antérieur au commencement lui-même* — le degré zéro qui rend possible tout le reste. Il précise aussi la correction sémantique : ce que "très très lent" cherchait à dire, c'était *très très passif, très très délégué* — jamais "musculairement contrôlé lentement". Enfin, il pointe le fascia comme substrat physiologique probablement sous-nommé, à documenter.
+
+Le moment 0 n'est donc pas *avant* JP³ — il *est* JP³, dans sa forme la plus dépouillée. Toute session commence par se tenir debout sur ses os. Le reste vient tout seul si on lui donne la permission.
+
+**Test auto-administrable — descente d'escaliers pieds droits (fiche test escaliers, 2026-09-10) :**
+
+Observation du 2026-09-10. Jour 3 hors de chez lui, en contexte de fatigue accumulée (trois nuits consécutives de mauvais sommeil). L'endroit d'hébergement a plusieurs étages, escaliers fréquemment empruntés.
+
+La dorsiflexion en descente d'escaliers, pieds bien droits (alignement correct, pas ouverts en canard), est difficile. Le mouvement est possible en amplitude et il n'y a pas de douleur — mais la capacité à **soutenir** le corps dans cet alignement pendant la descente fait défaut.
+
+Insight doctrinal : *« il ne suffit pas d'avoir la mobilité et de ne pas avoir de douleur »*. Trois strates distinctes que la médecine standard confond souvent :
+
+1. Mobilité (amplitude articulaire passive)
+2. Absence de douleur
+3. **Capacité de soutien fonctionnel sous charge dans l'alignement correct**
+
+La strate 3 est ce que le JP³ met en évidence et travaille — c'est le versant fonctionnel du degré zéro (chaîne posturale profonde, tonus fascial, muscles-ponts type I). Ni la strate 1 ni la strate 2 ne la prédit ni ne la garantit. Co-facteur noté : fatigue accumulée (3 nuits mal dormies) rend visible ce qui est habituellement compensé. Bon désarmoir de l'objection « je n'ai pas mal, je suis mobile, donc tout va bien » — objection qu'on rencontrera dans le public sarcopénie.
+
+---
+
+### §5.2 Moment 0 as diagnostic — cuirasse caractérielle, vulnérabilité, "In Place" affiné
+
+> **source:** `content/fr/research-singularite.md` §4.6.6
+
+Le §4.6.5 a décrit le degré zéro comme *seuil d'accès minimal*. Il faut ajouter ce que cet accès *révèle* — car le moment 0 n'est pas seulement une porte d'entrée : c'est un **révélateur diagnostique**. Ce qui se manifeste dans les premières minutes d'un JP³ authentique n'est pas nommé par le paradigme fitness, qui commence trop haut pour le voir.
+
+**A. La cuirasse se dépose — et devient audible.**
+
+Wilhelm Reich a nommé *cuirasse caractérielle* l'ensemble des contractions musculaires chroniques par lesquelles le corps se défend d'affects non-tolérés — mâchoire serrée, épaules remontées, ventre bloqué, diaphragme figé, plancher pelvien verrouillé. Ces tensions ne se sentent pas à haute intensité, parce que le mouvement volontaire les recouvre : quand on court, quand on soulève, quand on transpire, les muscles phasiques dominent la scène motrice et le tonus défensif chronique est masqué. Il devient *audible* précisément là où le mouvement est le plus faible — dans le degré zéro et le segment initial x³.
+
+Ce que Perig a nommé pendant une session : *"je réalise à quel point je suis toujours dans un rôle défensif, épaules qui protègent le cœur, cœur qui protège le ventre, ventre qui protège le petit ventre"*. C'est un enchaînement défensif en cascade — chaque couche protégeant celle du dessous. Cette perception n'est possible que parce que le mouvement volontaire est effacé : il ne reste que le fond tonique, et ce fond est *contracté*. La cuirasse **se dépose** au sens où un sédiment se dépose au fond d'un verre resté longtemps immobile : elle n'a pas été créée par JP³, elle était là ; le silence du dispositif la rend visible.
+
+Cette observation a une conséquence importante pour l'axe C. La cuirasse est *elle-même* une contribution chronique à la cascade cortisolique décrite en §4.6.4 : co-contractions permanentes = coût métabolique de base élevé = signal sympathique continu = cortisol basal élevé. Chez l'adulte moderne cuirassé, une bonne partie de la "fatigue" de fond n'est pas due à ce qu'on *fait*, mais à ce qu'on *retient*. Le degré zéro de JP³ permet ce que peu d'autres dispositifs permettent : sentir le retenu séparément de l'agissant. C'est diagnostique avant d'être thérapeutique.
+
+**B. "In Place" affiné — chute-vers-l'avant tolérée, déplacement ego-piloté exclu.**
+
+La cuirasse déposée, quelque chose se met à bouger *sans que rien ne soit décidé*. Le corps se **penche vers l'avant**, dérive de quelques centimètres, se rattrape sur l'autre pied, dérive encore. C'est physiologique : dès qu'on relâche les extenseurs postérieurs (chaîne postérieure — mollets, ischio-jambiers, érecteurs du rachis, trapèzes), le centre de gravité, situé légèrement en avant de la cheville, entraîne le corps vers l'avant. La marche humaine est structurellement une **chute contrôlée**, comme le disait Nicolas Sapir : *"marcher, c'est se rattraper au dernier moment"* [wip — attribution à vérifier].
+
+Le premier P est donc à préciser : *In Place* ne veut pas dire *sans déplacement* — il veut dire **sans destination**. Ce qui est exclu, ce n'est pas la dérive spatiale — c'est l'engagement de l'ego dans une trajectoire commandée ("aller à la cuisine", "atteindre le mur", "faire trois mètres"). La chute-vers-l'avant tolérée est *dans* JP³ ; le déplacement ego-piloté est *hors* JP³. C'est cette distinction qui explique pourquoi la variante *JP³ furtif* (haut du corps immobile, bassin élastique, dérive imperceptible) reste dans le dispositif : la dérive existe, mais aucun point B ne la commande. C'est aussi ce qui rend légitime l'observation empirique : plus la cuirasse se dépose, plus la chute-vers-l'avant devient facile ; on n'a plus besoin de "décider d'avancer" — on *cesse de retenir l'avancée*.
+
+**C. Une vulnérabilité soudaine, à honorer.**
+
+Il y a un moment dans le segment initial où la protection de la cuirasse s'estompe et où le corps se retrouve *nu à lui-même*. Ce moment est ambivalent : soulagement (on ne portait plus la charge chronique) mais aussi **vulnérabilité perceptive aiguë** (on n'a plus la carapace qui filtrait tout). Perig, session du 2026-08-16 : *"une sensation de vulnérabilité, presque d'inquiétude ; on n'est plus derrière rien"*. Ce n'est pas un bug du dispositif — c'est une **caractéristique**. Le degré zéro *ne peut pas* être atteint sans que cette exposition apparaisse. C'est pourquoi il exige Own Place au sens le plus fort (pas de regard, y compris imaginé) — parce que la vulnérabilité perceptive ne survit à aucune surveillance externe.
+
+Corollaire pratique : les préoccupations qui remontent à ce moment (voûte plantaire qui pronationne trop, articulation qui craque, asymétrie de bassin, tension inhabituelle) sont à *noter, pas à corriger*. Elles remontent parce que le canal perceptif est propre — elles ne sont pas causées par JP³. Vouloir les corriger réintroduit un projet, une métrique, un jugement, et referme le canal. Le dispositif demande une posture d'accueil non-interventionniste : *je vois, je note, je continue*. La correction, si elle a lieu, se fera d'elle-même sur des semaines — pas par intervention volontaire dans la session.
+
+**Ce que cette section ajoute au reste.** Les §4.6.2 à §4.6.5 décrivaient le régime x³ comme *phénomène physiologique* (interdépendance des 3 P, symphonie, cascades évitées, stratification tissulaire). Le §4.6.6 ajoute que ce même régime est *aussi* un dispositif de **révélation diagnostique** : cuirasse, chute-vers-l'avant, vulnérabilité perceptive. Ces trois éléments ne sont pas des effets secondaires — ils sont **inséparables** de l'accès au segment initial. Un protocole qui prétendrait faire du "JP³ sans cuirasse déposée, sans vulnérabilité" serait mécaniquement en 3x : le silence initial *est* ce qui rend la cuirasse audible.
+
+---
+
+### §5.3 Core execution — kinematics and cues
+
+#### §5.3.1 Heel activator opening — forward-ref §3.2.2
+
+> **source:** forward-ref to §3.2.2 (heel activator as systematic opening portal — already migrated in §3)
+
+See §3.2.2 for the full treatment of the heel-activator as systematic portal of session opening — regardless of health state. The core kinematic: bounce letting weight drop on heels → passive elastic spring of triceps surae → spontaneous stacking cascade (head returns vertical) → arms/hands mechanically freed for manual tasks. Prolongation variable according to state; may last the whole session.
+
+#### §5.3.2 Full session mode
+
+> **source:** `content/en/article.md` §3.1
+
+JP³ is a minimalist yet deeply effective exercise protocol, designed to be accessible to everyone, anywhere, anytime. Its execution is simple and intuitive:
+
+- **"Jogging in Place":** The movement consists of jogging or gently bouncing in place. There is no horizontal displacement, concentrating the effort on vertical push-off and activation of the posterior chain muscles, notably the soleus. The "jogging" height can range from a light vertical bounce to a true jog with high knee lift, always in a self-regulated manner.
+- **"At Your Own Pace":** This is the heart of JP³'s adaptability. Intensity is entirely self-regulated by the individual.
+  - **Ultra-slow start:** The protocol begins at a "barely perceptible," "too easy," even "boring" pace for the first 10–15 minutes. This slow start aims to contain the oxygen deficit, stabilize ventilation, and preserve tissues.
+  - **Listening to sensations:** The individual is encouraged to rely on their sensations, on the ability to speak in full sentences ("talk test"), and on the overall feeling of being able to sustain the intensity for 60–90 minutes. Any sudden acceleration of breathing should prompt them to slow down.
+  - **Progression through boredom:** Intensity can increase naturally, not through willpower, but through a "self-regulation" in which boredom prompts an increase in tempo. This progression occurs without decisional friction.
+- **"In Your Own Place":** The environment is chosen by the individual, typically at home, in a minimal space (one square meter is enough).
+  - **Zero barriers:** This eliminates major obstacles such as cost, equipment needs, weather, travel time, and the need for special shoes or clothing.
+  - **Controlled environment:** Allows for adjustable silence, controlled temperature, zero external distraction, and total safety, fostering a state of "meditation in motion" or "flow state."
+  - **Barefoot practice:** Strongly recommended to maximize proprioceptive feedback and strengthen the intrinsic foot muscles. Using a mirror and the option of closing the eyes are additional tools for self-correction and heightened proprioception.
+- **Duration and Frequency:** JP³ can be practiced in continuous sessions of 30–90+ minutes, but also in "micro-bouts" of 2–5 minutes throughout the day, turning sedentary time into productive movement time. The goal is regularity, ideally daily.
+
+#### §5.3.3 Incident mode — forward-ref §3.2.4
+
+> **source:** forward-ref to §3.2.4 (JP³ incident regime — already migrated in §3)
+
+See §3.2.4 for the full treatment of the incident regime — JP³ adaptations priming without changing posture, a few heel shocks suffice (via muscle tuning Nigg + SSC). Figure-ground inversion of session JP³: quotidien primary, JP³ in filigrane. Entry threshold collapsed to near-zero.
+
+---
+
+### §5.4 The initial segment (t < √3) — anatomy of the first minutes
+
+> **source:** `content/fr/research-singularite.md` §4.6.2 + §4.6.3
+
+#### §5.4.1 Anatomie du segment initial (t < √3)
+
+C'est ici, dans les premières minutes où la courbe x³ est *encore sous* la droite 3x, que la singularité se joue. Rien ne semble se passer. C'est précisément parce que rien ne semble se passer qu'il se passe quelque chose.
+
+**Le premier "pas" n'est pas un pas.** C'est un balancement, un déplacement de poids d'un pied sur l'autre. Le talon d'un pied se lève d'un centimètre. Puis l'autre. La cadence n'existe pas encore — elle se cherche. Fréquence cardiaque probablement sous 90. Un observateur extérieur ne verrait *rien de reconnaissable* : quelqu'un debout, qui hésite. C'est exactement le point. La culture fitness dirait "ça ne compte pas". Elle a raison — au sens strict de ses métriques, ça ne compte pas. C'est pourquoi le paradigme métrique ne peut pas entrer ici, et c'est pourquoi il y a une place pour un autre régime.
+
+**Plus lent que racine carrée — l'échelle du très très lent.** Comparons les régimes concaves à t = 0,1 :
+
+| Fonction | Valeur à t = 0,1 | Interprétation |
+|---|---:|---|
+| Racine carrée (√t) | 0,316 | Lent — mais reconnaissable comme "une pratique" |
+| Linéaire (t) | 0,100 | Régime de référence |
+| Carré (t²) | 0,010 | Très lent |
+| **Cube (t³)** | **0,001** | **Sub-reconnaissable — pas encore "une pratique"** |
+
+Le cube est *trois cents fois plus modeste* que la racine carrée au tout début. Toutes les pratiques "lentes" nommées (kinhin, Feldenkrais, slow jogging niko-niko, tai-chi) sont au mieux en régime racine carrée : lentes, mais visibles comme *une pratique en cours*. JP³ dans son segment initial est *sub-reconnaissable*. C'est cette hyperlenteur — plus radicale que √t ne le suggérerait — qui permet à la concavité cubique de s'établir ensuite. On ne peut pas y accéder par une décision volontariste ("je vais être lent") ; il faut y *tomber* par contrainte (état détruit) ou y *renoncer* délibérément à toute cadence externe. La lenteur JP³ n'est pas une lenteur choisie *dans* une gamme de vitesses — c'est un renoncement à la gamme elle-même.
+
+*Correction sémantique importante* (voir §5.1 pour le développement complet) : "lent" est un mot piégé. La lenteur cinématique commandée par le muscle *augmente* la charge — le tai-chi et le squat lent le démontrent. Ce que cette section décrit sous "très très lent" doit être relu comme *très très passif, très très délégué* : la faible vitesse du corps n'est pas obtenue par contrôle musculaire mais par délégation aux structures passives (gravité, squelette, fascia, tendons). La vitesse basse est une *conséquence*, pas une intention à imposer.
+
+**L'interdépendance stricte des 3 P dans ce segment.** C'est ici, plus qu'ailleurs, que retirer *un seul* P suffit à effondrer le volume à zéro. Ce n'est pas rhétorique : c'est mécanique.
+
+- **Own Pace exige Own Place.** Un seul regard extérieur, et cette lenteur "ridicule" devient impossible à maintenir plus de trente secondes. Le regard impose 3x — non par malveillance, par simple présence. La sur-lenteur ne survit qu'à l'abri d'un regard, y compris le regard imaginé. Own Pace n'a pas de sens sans Own Place.
+- **Own Place exige In Place.** Si on doit aussi *avancer* — traverser le salon, sortir dans la rue, aller à un point B — le déplacement dévore tout à ces vitesses. À un centimètre de talon toutes les deux secondes, on ne va nulle part. On devrait accélérer pour "avancer réellement" — 3x immédiat. Own Place ne libère Own Pace que si In Place rend la sur-lenteur *spatialement viable*.
+- **In Place exige Own Pace.** Marching in place prescrit (physio, Walk at Home, aérobie à la maison). Un tempo externe, même minimal, écrase le segment initial. La verticalité sans autonomie de tempo = 3x codifié. In Place tout seul ne suffit pas ; il tombe dans un protocole.
+
+Chaque P défend l'inviolabilité des deux autres. La multiplication n'est pas une figure — elle est structurelle : retire une dimension et le volume x³ collapse à un plan, un plan à une droite, une droite à un point. C'est pourquoi les rivaux "1 P" ou "2 P" ne s'approchent jamais du cube. Ils n'ont pas la géométrie pour le tenir.
+
+**Ce qui se passe dans le corps pendant que rien ne se voit.** Rien à l'œil nu. Mais dans le corps, en fenêtre différée :
+
+- Les foot-strike waves commencent à onduler à basse fréquence, pas encore synchronisées entre membres inférieurs.
+- Le LC tonique s'amorce en régime bas (Poe et al. 2020) — pas encore la phasic surge de l'effort intense, la tonic baseline qui monte doucement.
+- La respiration s'organise sans consigne, alignée sur la locomotion (couplage locomotor-respiratory qui se cherche).
+- Le cross-frequency coupling theta/gamma commence à se stabiliser — la signature EEG de l'attention distribuée qui s'installe.
+- La perfusion pulsée monte imperceptiblement à chaque foot-strike accumulé.
+- Le système glymphatique n'est pas encore activé, mais la fenêtre s'ouvre.
+
+Tous ces processus ont besoin *de temps pour s'amorcer sans être écrasés par une contrainte d'effort déjà présent*. C'est précisément ce que le segment initial x³ leur donne. En 3x — dès qu'une cadence externe s'impose — ils doivent s'installer sous contrainte : sous-optimaux, ou pas du tout. La physiologie a besoin du *sub-reconnaissable* pour se déployer sans hâte.
+
+**Le paradoxe subjectif — "ne rien faire" est le signe de qualité.** Toute impression de "faire quelque chose" au démarrage indique qu'on a déjà basculé en 3x, qu'on a raté le cube. L'épistémologie est inversée : *l'absence de sensation d'effort au démarrage est le critère de bonne facture*, pas le signe d'un échec. La culture fitness n'a pas de mot pour ça — pour elle, "ne rien sentir" = "ne rien faire" = "temps perdu". C'est le point aveugle exact qu'il faut nommer. Le seul indicateur fiable du segment initial correct, c'est la *persistance dans l'ennui apparent* : si on tient sans se dire "il faut que je fasse quelque chose", on est dans x³. Dès qu'on cède à l'urgence de "faire" — on a raté.
+
+**Le franchissement de √3, souvent inaperçu.** Il n'y a pas de "runner's high" au moment du croisement. Pas d'endorphines qui claquent. Le passage se fait sans annonce : on démarre, on ne s'en rend pas compte, et vingt minutes plus tard on est *encore là*, dans une modalité qu'on ne cherchait pas à atteindre et qu'on ne sait pas nommer. Le régime cubique croît doucement, comme il a commencé. C'est aussi ce qui distingue x³ des autres : la culture fitness attend un moment de bascule (endorphines, seuil ventilatoire, "the wall", "second wind"). JP³ n'a pas de moment. Ce qui bascule, c'est la *durée* — la capacité à *rester là* devient elle-même le bénéfice.
+
+#### §5.4.2 La symphonie des mécanismes — entrée progressive des instruments
+
+Il n'y a pas de chef d'orchestre unique dans le corps. Ni le SCN circadien, ni le locus coeruleus, ni le preBötC respiratoire, ni les oscillations infra-lentes (ISO) ne dirigent seuls. Le régime x³ décrit dans les sections précédentes n'est pas produit par un mécanisme — il est produit par l'**entrée successive** de plusieurs voix qui, une fois toutes présentes, se soutiennent mutuellement. C'est une symphonie sans chef. Le rôle des 3 P est de protéger le silence initial pour que les voix entrent *dans l'ordre où elles peuvent se soutenir*, pas toutes en même temps.
+
+**Mesure 0 — le silence, avant le premier balancement.** Corps immobile, respiration au repos (~15/min), FC ~70, cortex en mode par défaut. La partition attend. Aucun instrument n'a encore joué.
+
+**Percussion — le premier balancement (0-30 s).** Le talon d'un pied se lève. Foot-strike wave désynchronisée. La pompe soléaire s'amorce à la compression du mollet. Fuseaux neuromusculaires — proprioception discrète. C'est la première voix, une percussion mate, presque inaudible.
+
+**Contrebasses — respiration et cœur (30 s – 2 min).** Le rythme respiratoire s'aligne progressivement sur la cadence des pas : couplage locomotor-respiratoire (LRC) qui se cherche, pas encore verrouillé. Le cœur répond à la mécanique — locomotor-cardiac coupling (LCC), FC 85-95. La ligne de basse s'installe sous la percussion. Deux voix ; encore fragile.
+
+**Bois — le tonic locus coeruleus (2-5 min).** Le LC monte en régime tonique (Poe et al. 2020), sans les phasic bursts de l'effort intense. Éveil calme, pas d'urgence. Pupillométrie légère (Yamashita et al.). L'ARAS module discrètement l'éveil cortical. Une clarinette entre. La texture s'épaissit sans devenir dense.
+
+**Cordes — hippocampe et theta (5-10 min).** Le theta hippocampique se verrouille sur la cadence de pas (Kropff et al. 2023). Les cellules de lieu commencent leur phase precession. Le cross-frequency coupling theta/gamma se stabilise (Canolty & Knight). L'attention distribuée s'installe — cortex frontal en dialogue lâche avec l'hippocampe. Les cordes entrent — c'est la première nappe harmonique qui donne à l'ensemble sa forme.
+
+**Altos et violoncelles — perfusion pulsée (5-15 min).** Chaque foot-strike accumulée envoie une onde de pression qui remonte vers le cerveau via la colonne vertébrale et les carotides. Micro-circulation cérébrale s'ouvre (BOLD signal augmente doucement). Les zones d'hypoperfusion diurne commencent à être irriguées. Les altos rejoignent les cordes — la ligne se densifie, la trame vasculaire soutient la trame neurale.
+
+**Cuivres tardifs — la fenêtre glymphatique (15-30 min).** Le système glymphatique (Iliff, Nedergaard) commence à s'activer : les pulsations artérielles régulières facilitent le flux de CSF le long des espaces péri-artériels. Le nettoyage inter-cellulaire s'amorce. Ce sont les cuivres tardifs, qui n'entrent que quand toutes les autres voix soutiennent leur entrée — parce qu'elles ont besoin du couplage vasculaire *et* du rythme cardiaque stable *et* de l'éveil tonique modéré, tout simultanément.
+
+**Tutti — le régime pleinement déployé (20+ min).** Toutes les voix jouent. Aucune n'est prépondérante. Chaque cycle enrichit les autres : le pas alimente la perfusion qui alimente le LC qui module le theta qui organise l'attention qui régule le pas. La boucle est fermée, chaque itération *hérite* de la précédente. La courbe cubique bat son plein. Subjectivement : "on est dans" — pas d'effort, pas de plafond, une modalité qui pourrait continuer.
+
+**Le chef d'orchestre absent.** Aucune de ces voix ne dirige les autres. Ce qui ressemblerait à une pulsation centrale (respiration, cœur, theta, ISO) est en réalité un **spectre convergent** — chaque mécanisme se synchronise avec ses voisins de fréquence, et le tout tient parce que la couche du dessus module la couche du dessous sans la contrôler. La partition est écrite par la biologie ; l'exécution est libre. Ce que JP³ apporte, c'est le *silence initial* qui permet l'entrée progressive.
+
+**Pourquoi les autres régimes ne laissent pas l'orchestre entrer.**
+
+- **3x (Zone 2, course à allure constante, marching physio prescrit).** Le chef externe frappe le premier temps — *toutes les voix doivent entrer ensemble*. FC à 130 dès la 3ᵉ minute, cadence imposée. Résultat : cacophonie. Le LC ne peut pas s'installer en tonique parce qu'il est déjà en phasique. Le theta ne peut pas se verrouiller parce que la cadence est trop rapide et trop régulière. Le glymphatique ne s'ouvre pas parce que les pulsations sont trop hautes en fréquence pour la fenêtre péri-artérielle. Tous les instruments jouent — mais aucun ne se soutient : un tutti mal ajusté qui reste sous-optimal.
+- **HIIT / fitness snacks.** Le chef arrête la musique tous les trente secondes. Aucune voix n'a le temps de finir sa phrase. On coupe. On reprend. On coupe. Le régime cubique ne peut jamais s'installer parce qu'il exige de la continuité — chaque instrument a besoin du précédent pour entrer.
+- **Warm-up conventionnel.** Bonne intuition initiale — laisser les premiers instruments entrer. Mais on coupe l'ouverture pour "attaquer" la vraie séance. Les percussions et les basses commençaient à s'installer ; on les remplace par un fortissimo. Les cordes, les bois, les cuivres tardifs n'entreront jamais.
+- **Slow jogging niko-niko.** Chef bienveillant, tempo doux mais constant. Percussions et basses ont le temps de s'installer. Mais le tempo *stable* — le plateau horizontal — empêche l'accumulation cubique. L'orchestre joue une belle mélodie répétitive, pas une symphonie qui monte.
+- **Pacing ME/CFS.** Chef qui coupe *avant* l'entrée des cuivres — pour de bonnes raisons cliniques (le PEM). Mais du coup l'orchestre reste à mi-parcours. La symphonie ne s'achève pas.
+
+**Ce que la métaphore ajoute au reste.** Elle rend visible ce que la description des mécanismes seuls ne fait pas voir : *l'ordre d'entrée* est aussi important que la présence des mécanismes. Chaque cadre théorique isolé (LC tonique, theta-gamma, glymphatique, perfusion pulsée) peut coexister avec du 3x — mais alors chaque mécanisme est présent en régime sous-optimal, car les autres ne lui donnent pas le contexte dont il a besoin pour se déployer. Le régime x³ n'est pas la somme des mécanismes ; c'est leur **séquence d'entrée respectée**, dans un silence protégé par les 3 P.
+
+---
+
+### §5.5 Advanced variants
+
+#### §5.5.1 Propulsive push against support
+
+> **source:** `content/en/article.md` §3.5
+
+A particularly effective variant of JP³ consists of reproducing the propulsive phase of running by creating a controlled forward lean of the body. The exercise is performed by holding onto a stable support at waist level with the hands (kitchen counter, heavy table, back of a couch) and executing pushing movements with the legs, as if trying to move the object forward. When the support remains immobile, this action naturally creates a trunk lean that reproduces the propulsive angle characteristic of actual running, while preserving the safety and control of the stationary format.
+
+The major advantage of this variant lies in the ability to apply maximal intensity in complete safety: with a solidly anchored kitchen counter, the practitioner can push with considerable force, exploring levels of propulsive effort that would be impossible or dangerous to reach in traditional running. This fully controlled environment allows one to train propulsive push-off like never before, fully engaging the calf-soleus complex and the posterior muscular chains without any risk of imbalance or falling. The forward lean increases the load on the plantarflexor muscles while enabling heightened proprioceptive work, since the hands provide a stable reference point that helps refine awareness of weight transfer to the forefoot.
+
+#### §5.5.2 Stealth / standing JP³ — forward-ref §2.1.3
+
+> **source:** `memory/project_jp3_furtif_decouverte.md` ; forward-ref §2.1.3 (already migrated)
+
+See §2.1.3 for the full treatment of stealth JP³ — upper body still, pelvis elastic, drift imperceptible. Variant born from the solitude perception threshold constraint (§2.1.1). Resolves partially the "not-at-home-but-still-need-access" question.
+
+---
+
+### §5.6 Pre-activity use — barefoot warm-up before shod sport
+
+> **source:** forward-ref §4.2.2 (warm-up pieds-nus pré-match protocol — already migrated in §4)
+
+See §4.2.2 for the full treatment of the barefoot pre-match warm-up protocol — 5 min barefoot jogging rapid/light impact → spontaneous solid unipodal bounding (gold-standard post-Achilles RSI>0.5 test). Mechanism unified across three corpora (Robbins discomfort-impact illusion, EMG pre-activation gastroc/soléaire +10-24% barefoot, Pacini bandpass).
+
+**JP³ pieds-nus = also protocol of triceps sural pre-activation before shod sport.** Disciplinary silo performance/clinic to assume strategically. Dependency vs. rehabilitation question resolved as "normal contextual specificity, two regimes calibrated separately with partial carry-over." Framework extension to integrate into the manual.
 
 ---
 
