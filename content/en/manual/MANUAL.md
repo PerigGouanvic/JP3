@@ -367,7 +367,402 @@ Scientific by nature end-to-end. **The** section that justifies that the three P
   - §4.5.2 Neuromuscular reactivation *(migrated from article.md §2.2.3)*
   - §4.5.3 Barefoot as access condition — forward-ref §2.3
 
-<!-- SECTION-4-CONTENT -->
+## §4.1 Muscular layer — deep postural chain
+
+### §4.1.1 Soleus — spring-mass keystone (via negativa)
+
+> **source:** `project_ankle_dominant_regime.md` ; `project_chaine_posturale_profonde.md`
+
+In Place = **biomechanical prescription**. Staying in place keeps the body in spring-mass ankle-dominant regime. The soleus (type I, oxidative, tonic) does the work ; quadriceps (type II dominant, phasic, fatigable) are short-circuited. That is why fatigue is delayed : the muscles that would send fatigue signals are not recruited.
+
+Mechanics — **In place (jogging in place / JP³ ongoing)** : vertical rebound, foot barely leaves ground, ground contact time short (10–100 ms possible), minimal knee articular amplitude, triceps surae chain (soleus predominant, gastrocnemii accessory) + Achilles tendon as spring. Achilles tendon can store-and-return up to ~35% of mechanical energy (McMahon & Cheng 1990). Muscle does very little concentric work ; it is essentially economic **stretch-shortening cycle**.
+
+**Forward jogging** : (a) braking center of mass at each landing → **eccentric quadriceps** (expensive, damaging — the classic DOMS of beginner jogging comes from there) ; (b) horizontal propulsion → concentric knee extension (quadriceps) + hip extenders ; (c) ground contact extended to ~200–300 ms, which lets the muscle do work the tendon could have simply rebounded ; (d) stride demands substantial articular amplitude at knee and hip.
+
+**Fibrillar composition** : soleus ~80–90% type I (Johnson et al. 1973, Gollnick et al.) ; vastus lateralis ~40–50% type I. The passage in-place → forward is also a passage type I → type II.
+
+**Literature anchors** :
+- McMahon TA & Cheng GC. 1990. *The mechanics of running: how does stiffness couple with speed?* J Biomech 23(Suppl 1):65–78.
+- Roberts TJ, Marsh RL, Weyand PG, Taylor CR. 1997. *Muscular force in running turkeys: the economy of minimizing work.* Science 275:1113–1115.
+- Sawicki GS, Ferris DP. Human ankle exoskeleton studies (ankle vs knee/hip contribution to economy).
+- Hamilton MT, Hamilton DG, Zderic TW. 2022. *A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation.* iScience 25(9):104869. PMID: 36034224.
+- Kram R, Taylor CR. 1990. *Energetics of running: a new perspective.* Nature 346:265–267.
+- Ekkekakis P. Affective response during exercise — reliable positive window below VT1.
+
+**Unified thesis** (candidate strongest formulation of JP³'s physiological singularity) :
+
+> *JP³ is the minimal device permitting simultaneous and non-forced reactivation of the deep postural chain in modern adults.*
+
+Operational class : **bridge-muscles**, defined by five simultaneous properties : (1) type I dominance (≥60%, often 70–80%), (2) preferential oxidative metabolism, (3) basal tonic function, (4) autonomous recruitment at low intensity, (5) locomotion drivers in gentle regime. The deep postural chain : foot arch → **soleus** → popliteus → deep hamstrings → **deep gluteals** → **multifidi** → **transversus abdominis** (+ diaphragm, pelvic floor) → thoracic multifidi → **deep neck flexors (DNF)**.
+
+No other device in the exercise landscape reactivates the *entire chain* in a continuous locomotor regime — rivals target isolated segments (Pilates → canister ; McKenzie → multifidi ; SPU/Hamilton → soleus ; yoga → posterior chain segment by segment). JP³ integrates the chain by **biomechanical constraint** (impossible to stand up and bounce without engaging the chain) rather than by intention (no muscle is volitionally targeted).
+
+---
+
+### §4.1.2 Tibialis anterior — functional prerequisite
+
+> **source:** `project_tibialis_anterior_co_contraction.md`
+
+The tibialis anterior (TA) is **functional prerequisite** to the spring-mass ankle-dominant regime of JP³ via **stabilizing co-contraction** with the soleus. Without functional TA, the ankle stiffness needed for fascia-tendon spring-mass cannot install, regardless of soleus tonic effort.
+
+Mechanics :
+1. **Ankle stabilization during stance** — TA + soleus co-contract during stance phase to stabilize tibia on foot ; without TA, ankle collapses in uncontrolled plantarflexion and soleus compensates alone (→ premature fatigue, Achilles tendinopathy)
+2. **Stiffness modulation** — spring-mass requires a rigid ankle at contact ; this stiffness is produced by agonist/antagonist co-contraction, not by a single muscle. Weak TA = insufficient stiffness = spring-mass fails to prime
+3. **Eccentric protection of Achilles** — TA absorbs part of the braking work at contact, protects Achilles tendon from eccentric overload
+
+**EMG citation — Knutson & Söderberg** : documented biphasic pattern of sequential co-contraction TA + gastrocnemius precisely around heel-strike. Established biomechanical fact. Probable Knutson LM, Söderberg GL — Journal of Biomechanics, 1990s ; to verify exact reference.
+
+Protocols to integrate (Ben Patrick / ATG confirmed) :
+- Tibialis raise (back to wall, heels ~30 cm out, lift toes against gravity, long series slow tempo)
+- Walking on heels
+- Sled backward
+
+**Homonymy note** : "TA" = tibialis anterior (leg, dorsiflexor) ; "TA" in deep postural chain context may also designate transversus abdominis (abdomen). Two different muscles sharing the same English abbreviation.
+
+---
+
+### §4.1.3 Deep postural chain — bridge muscles and systemic coherence
+
+> **source:** `project_chaine_posturale_profonde.md`
+
+The deep postural chain ≠ "core" in the fitness sense (the core often includes external obliques and rectus abdominis, which are *superficial* and often in chronic overload in armored adults). Insist on the word **deep**.
+
+Primary citation sources :
+- Hamilton MT et al. *iScience* 25(9) 2022 (SPU)
+- Bramble & Lieberman *Nature* 432 (2004) *Endurance running and the evolution of Homo*
+- Hodges PW *Spine* 1996 (TA transversus anticipation)
+- Falla D et al. *Spine* 2004 (DNF)
+- Hides *Spine* 1996 (multifidi post-LBP)
+
+**Corollary 1 — target populations** : maximal benefits in sedentary armored adults, depressed, post-partum, seniors ; lesser in dancers, advanced yoga/Feldenkrais practitioners, long-term endurance athletes (chain already functional).
+
+**Corollary 2 — complementary rivals** : Pilates, McKenzie, SPU, standing qi-gong are not competitors but complementary — JP³ integrates, they segment.
+
+**Corollary 3 — contraindications** : persons in whom a layer is structurally prevented (paralysis, recent surgery, acute localized pain) will see JP³ less effective. The device assumes an *inhibited but present* chain, not absent.
+
+---
+
+### §4.1.4 Fascia — probable under-named substrate
+
+> **source:** `project_fascia_hypothese.md`
+
+The **fascia** is flagged as physiologically probable under-named substrate of JP³'s moment-zero and initial x³ segment. Five fascial properties converge with JP³ :
+1. Continuous network across muscles, tendons, ligaments
+2. Density of interoceptors (rivaling skin by some counts)
+3. Thixotropy under gentle movement (slow repetitive loading → liquefaction of ground substance, hyaluronic lubrication)
+4. Contribution to stretch-shortening cycle (elastic energy storage)
+5. Preference for slow loading, low intensity (opposite of what phasic-glycolytic training produces)
+
+The fascia is an exemplary case of disciplinary epistemic bias. For decades, anatomy treated it as "packing tissue" (literally discarded in dissections). The first International Fascia Research Congress dates to 2007 (Boston). Key figures : **Robert Schleip**, **Thomas Myers** (myofascial trains), **Carla Stecco** (Padua, specialized dissections). Mainstream sport/training culture speaks in terms of muscles, VO₂max, cardio ; fascia remains marginalized in alternative fitness (Pilates, yoga, Feldenkrais, Rolfing) or manual therapies.
+
+Convergence suspected with JP³ : the five fascial properties point to a tissue that responds *preferentially* to stimuli JP³ produces (very small movements, slow loading, repeated low-intensity solicitation) and *does not respond* to brutal anaerobic stimuli.
+
+**Articulation with deep postural chain** : fascia is the *connective tissue* that links bridge-muscles together (myofascial trains of Myers). The fascia hypothesis and the deep postural chain thesis are **complementary** — probably two faces of the same phenomenon.
+
+---
+
+## §4.2 Biomechanical layer — spring-mass ankle-dominant regime
+
+### §4.2.1 Perry's three rockers + Nigg's muscle tuning
+
+> **source:** `project_nigg_muscle_tuning.md` ; Perry (gait rockers canonical reference)
+
+**Nigg's thesis** (Nigg BM. *The role of impact forces and foot pronation: a new paradigm.* Clinical Journal of Sport Medicine, 2001;11(1):2-9) : impact forces at ground contact **are not harmful shocks** to minimize. They are **input signals** that the CNS uses to calibrate upcoming muscular activity — a pre-adjustment of articular stiffness and tissue damping for the next step. The epidemiological and experimental evidence does not support impact forces as a major injury factor.
+
+**Theoretical pair with Robbins** (discomfort-impact illusion — cf. §4.2.2). Robbins shows that cushioned shoes **increase** impact by deceiving the CNS ; Nigg shows that impact **is a signal** used by that same CNS. Together : external cushioning blurs a functional signal. Unified framework.
+
+**Transversal across JP³ discoveries**. Nigg illuminates :
+- Heel-activator — heel impact is the trigger of muscle tuning for the next step, not articular aggression
+- Barefoot — the impact signal is intact, tuning is clean
+- Deep postural chain — tuning is the execution of the "cascade" program at the step scale
+- Spring-mass ankle-dominant regime — ankle stiffness is set upstream by tuning
+
+**Strategic JGH usage** : Nigg is cited in clinical biomechanics — a physio or sports physician at JGH will likely know him. Naming him explicitly in a pitch flips the prejudice "making arthritic/elderly persons run risks their joints" on its head. The heel-activator JP³ becomes a targeted application of a validated principle.
+
+Perry's three rockers (gait analysis canonical reference) — heel rocker, ankle rocker, forefoot rocker — remain the structural reference frame for understanding JP³'s step-by-step action on the posterior chain.
+
+---
+
+### §4.2.2 Barefoot pre-activation — Robbins / EMG / Pacini unified mechanism
+
+> **source:** `project_warmup_piedsnus_prematch.md`
+
+**Unified mechanism — convergence of three corpora** :
+
+1. **Steven Robbins & Gerard Hanna (1980s+)** — "discomfort-impact illusion". Cushioning suppresses perception of impact without reducing actual impact transmitted to the tendon. Three pivotal studies : Robbins & Hanna, Robbins & Gouw ("shock setting"), Robbins & Waked (most expensive shoes = >2x injuries). Entire research program built on this mechanism, largely ignored outside the critical-podiatric field.
+
+2. **EMG barefoot vs. shod** — pre-activation gastroc/soleus 10–24% higher barefoot. One study : *"the lateral gastrocnemius, medial gastrocnemius and soleus respectively had 13.7, 23.6, and 10.8% more activity"* during pre-activation phase preceding contact.
+
+3. **Pacinian corpuscles** — bandpass 20–1000 Hz, sensitive to **rate of change** of load, not static pressure. Concentric-layered structure that mechanically filters the signal. Consequence : adding texture over thick cushioning does not restore transduction, because the foam continues to spread the impulse in time. **This mechanically justifies the refusal to tinker with textured insoles and demands removing the cushioning itself.**
+
+**"Two distinct motor regimes" reformulation** — validated by the principle of contextual specificity (Bosch, training transfer). These are not two intensities of the same gesture, they are two **distinct motor tasks** from the CNS's point of view. Populations adapted lifelong to footwear are not more at risk in that context (systematic review : "no differences in relative injury rates" between barefoot and shod populations). Injury risk comes specifically from the **differential between the two regimes** when one practices both.
+
+**Clinical experimentation 2026-09-20** : 5-min barefoot jogging at home at fast / light-impact pace → calves warmed, oxygenated, forceful. **Solid unipodal bounding achieved** = clinical gold-standard test of post-Achilles return-to-sport (Reactive Strength Index > 0.5 unipodal, <10% asymmetry between legs). Spontaneously reached in a living room what rehabilitation protocols aim to reach in weeks — documented clinical event.
+
+**Carry-over documented** : *"persisted when the runners donned their shoes, indicating that some learning had occurred during an initial short bout of barefoot running"*. No precise figure on duration, but existence of carry-over confirmed. Validates the **warm-up pre-match principle** : the effect is not totally erased on putting on cleats.
+
+**Disciplinary silo** : the warm-up barefoot pre-activity intervention **exists** among performance preparers (Joachim Training, Thrive Foot & Ankle, Pursuit Athletic Performance) — explicit prescription "5-10 min barefoot before activity" — but **absent** from clinical physiotherapy tendinopathy practice (2024 JOSPT CPG, Beyer protocol, return-to-run guides — complete silence).
+
+**Framework extension** : JP³ barefoot is no longer only (a) condition of access to one's own spring-mass regime and (b) priming toward "want to go out" — it becomes also (c) **triceps surae pre-activation protocol before shod activity**, exportable as clinical intervention for anyone whose main activity requires shoes (soccer, but also hiking, prolonged standing work, etc.).
+
+---
+
+### §4.2.3 Chasse-neige geometry — synchronized push school
+
+> **source:** `project_geometrie_chasse_neige_goata.md`
+
+The asymmetric geometry of the foot tripod (1st ray long, 5th ray short) imposes two different rocking modes :
+
+1. **Feet straight (in running axis)** : **sequential** unrolling — heel → 5th ray (short side swept rapidly) → medial transfer → terminal hallux push (1st ray) — the economical S-rolling of endurance, time-spread
+2. **Feet turned inward (chasse-neige, toes in, GOATA style)** : the metatarsal line becomes perpendicular to running axis → **latero-medial synchronization** — 1st ray (long) and 5th ray (short) receive load simultaneously, contact time reduced, concentrated push = **maximal explosiveness**
+
+**Biomechanical confirmation** : great sprinters (Bolt, Coleman, Fraser-Pryce) all have a **subtle internal foot rotation** at block start and during acceleration. Sprint contact time (~90 ms) makes sequential unrolling mechanically impossible — must synchronize. GOATA does not invent this pattern, it **restores** it in a population that lost it through socialization ("walk straight").
+
+**Doctrinal cross-reference** :
+- **GOATA provides the motor pattern** (slightly inward feet, articular alignment), **JP³ integrates it at low intensity** — the chasse-neige In Place is **the school of synchronized push without having to sprint**
+- Links to the **frontal axis / gluteus medius** — pelvis-in-flotation + slightly inward feet + active gluteus medius compose a **coherent biomechanical system** whose 3 elements support each other
+
+**Doctrinal contribution** : chasse-neige is not an aesthetic gimmick or a "ridiculous" position to socially assume — it is the geometry that teaches the foot to push in synchronization, which all great sprinters do subtly.
+
+---
+
+### §4.2.4 Frontal plane — gluteus medius and preparatory gesture
+
+> **source:** `project_axe_frontal_moyen_fessier.md`
+
+Discovery 2026-08-27 after a JP³ session. Feeling that Own Pace pushed him to stop running rather than continue, Perig found himself standing in front of the dishes in lateral left-right swaying, camped on heels, robust despite global fatigue. Immediate activation of an under-used muscle identified as **gluteus medius** (confirmed). Deep hip rotators probable but not confirmed.
+
+Opens a **complementary axis** of the deep postural chain. Until now, the deep postural chain thesis (2026-08-16) was structured mainly around the sagittal axis (front-back running : soleus, gluteus maximus, TA, DNF, diaphragm, multifidi). The lateral swaying reveals a **frontal axis** with gluteus medius as typical bridge-muscle — atrophied by seated sedentarity, difficult to activate because TFL takes the shortcut, accessible in slow standing Own Pace.
+
+Document the **"dormant hip syndrome"** (Sahrmann) as conceptual parent of **"gluteal amnesia"** on the frontal side — same sedentary-sitting pathology, different plane. Literature to search : isolated gluteus medius activation without TFL (Reiman, Selkowitz).
+
+**Secondary doctrinal point** : "the preparatory state is an integral part of the thing" (Perig's formulation). JP³ includes its own preparatory state — it is not a dissociable warm-up, it is a moment of the practice. Consistent with 3-P modulation : Own Pace can legitimately push to cease running to find a more just gesture, as long as the via negativa core holds.
+
+---
+
+## §4.3 Metabolic layer
+
+### §4.3.1 Soleus oxidative metabolism
+
+> **source:** `content/en/article.md` §2.2.1 — *PILOTE-refs correction: not "Raper", should be Hamilton MT, Hamilton DG, Zderic TW. 2022. iScience 25(9) 104869. PMID 36034224. Figures 52% / 60% to verify against source.*
+
+The soleus muscle, often overlooked, is a critical component in age-related mobility decline, being the first to atrophy and losing up to 35% of its strength after age 60. The "Jogging in Place × In Your Own Place" combination is ideal for targeted activation. The absence of horizontal displacement concentrates 100% of the force into vertical plantarflexion, forcing the soleus to work continuously against gravity without the assistance of momentum. This enables **maximal activation of the slow, oxidative fibers** of the soleus, which functions as the body's "second heart" by improving venous return and maintaining the "soleus pump." A study on "soleus push-ups" (Hamilton et al., 2022) — a setup in which the soleus is solicited in a seated position for several hours — documented a **52% reduction in postprandial glucose excursion** and a **60% reduction in hyperinsulinemia**. The authors attribute these effects to sustained soleus uptake of blood glucose and to reduced insulin demand. Transposition to standing jogging in place such as JP³ remains mechanistically plausible but has not been empirically established. JP³ reproduces these conditions of intense and prolonged activation, favoring a predominantly oxidative metabolism and the use of fat as fuel. JP³ thus offers a unique intervention to counter soleus decline, improve propulsion efficiency, and stimulate fat metabolism, even in individuals with low exercise capacity.
+
+---
+
+### §4.3.2 Zone 2 / MAF — metabolic flexibility
+
+> **source:** `content/en/article.md` §2.2.2
+
+Improving aerobic capacity is fundamental to cardiovascular health, weight management, and the prevention of metabolic diseases. JP³ allows one to work specifically and sustainably within optimal intensity zones. The "At Your Own Pace × Jogging in Place" combination allows for an **ultra-gradual initial ramp-up** and self-regulation of intensity. This reduces the initial oxygen deficit and stabilizes ventilation, making it easier to remain in a stable aerobic regime from the very start of a session. The protocol favors **mitochondrial development and the use of fat as fuel** (lipid oxidation) by staying below the lactate threshold, which aligns with the principles of Zone 2 and Maximum Aerobic Function (MAF). This approach allows for extended exercise duration with minimal metabolic cost and no accumulation of toxic byproducts—essential for weight management, glycogen sparing, and building a durable "aerobic base." JP³ provides an accessible and effective way to improve metabolic flexibility and aerobic capacity, even for individuals with metabolic disorders or low tolerance to intense exercise, by harnessing the body's ability to optimize fat utilization.
+
+---
+
+### §4.3.3 Osteogenic window — Bassey & Ramsdale
+
+> **source:** `project_osteogenic_jgh_seconde_porte.md`
+
+**The data** : "heel drop" exercises (rise on toes then release sharply on heels) produce approximately **3× body weight** at the hip. Bassey & Ramsdale documented **maintenance of bone density in menopausal women** practicing this exercise. Osteogenic threshold : ~2× BW ground reaction force. Loading frequencies around 10–20 Hz stimulate bone formation more efficiently than low-frequency loads.
+
+**Structural novelty** : the sarcopenia pillar (see §7 applied cases) was the only clinically hard pillar for JGH strategy. The osteoporosis pillar is **parallel and complementary**, with equally clean structural fit :
+- **Population** : post-menopausal women = major public health issue (femoral fractures = mortality and loss of autonomy), heavily clinically studied
+- **JP³ mechanism** : heel impact ~3× BW at 10–20 Hz = exactly in the documented osteogenic window
+- **Modality** : standing stationary, barefoot, few minutes/day — high clinical feasibility (no equipment, no fall risk tied to displacement)
+- **Hard metrics** : DEXA (bone densitometry) = standardized measure, allows clean clinical trial with quantitative endpoint — easier to publish than a sarcopenia trial
+- **Safety** : forces well below classic running or plyometrics, but above osteogenic threshold — arguable sweet spot
+
+**Cross-references** :
+- Jump-rope (osteogenic loading for sarcopenia) — same corpus documented, less gentle regime
+- Sarcopenia voie royale — the two pillars do not cannibalize : one same elderly person can have sarcopenia AND osteoporosis. JP³ addresses both **by the same gesture**, clinical simplicity argument.
+- Heel-activator — the osteogenic effect is intrinsic to this entry mode, no specific variant needed.
+
+**Sources** :
+- Bassey & Ramsdale — heel drop, menopausal women — exact reference to retrieve.
+- PMC13541840, PMC11481284 — articles on bone loading and loading frequencies.
+- Melioguide "heel drop exercise" — pop source confirming the exercise has pre-existing clinical recognition.
+
+**Open question** : unipodal heel-activator (one-leg bounding) probably generates much higher forces (~4–6× BW ?) — more osteogenic but less accessible / riskier in frail elderly subjects. Sweet-spot compromise : bipodal at session start (safety, entry into osteogenic window) then a few calibrated unipodal bounds (focused peak load) ?
+
+---
+
+## §4.4 Neuro-circulatory layer
+
+> **source:** `content/fr/research-mecanismes.md` (integrated blocks ; text originally in French, not retranslated per brutal-migration mandate)
+
+### §4.4.1 Zones d'hypoperfusion cérébrale
+
+Le concept intuitif de "zones d'asphyxie localisées" qui se résorberaient par le mouvement rythmique n'est **pas une spéculation** : il correspond à un champ documenté de la neurophysiologie vasculaire.
+
+**Déclin *depth-dependent* de la microcirculation cérébrale** — le vieillissement, la sédentarité, le mauvais sommeil, le stress chronique produisent un déclin **inhomogène** de la microcirculation cérébrale. Ce n'est pas une baisse globale du débit ; c'est une **hétérogénéité inter-capillaire** : certains capillaires deviennent hypoperfusés pendant que d'autres compensent. Résultat fonctionnellement équivalent à des "zones d'asphyxie" focales, alternant avec des zones normales.
+
+Structures les plus touchées : substance blanche subcorticale (vulnérabilité la plus marquée), couches corticales profondes (couche IV notamment), régions péri-ventriculaires. Équivalent clinique humain : white matter hyperintensities (WMH), cerebral small vessel disease (CSVD), chronic cerebral hypoperfusion.
+
+**Résorption par l'exercice aérobie modéré** — étude clé **Falkenhain et al., eLife 2023** — *Aerobic exercise reverses aging-induced depth-dependent decline in cerebral microcirculation*. Cinq mois de course volontaire chez souris âgées produisent :
+- Amélioration du flux capillaire RBC, surtout en substance blanche
+- Augmentation de la pO₂ tissulaire en couche IV
+- **+46 % de débit** dans les veinules ascendantes
+- **Homogénéisation** du flux inter-capillaire — l'effet-clé, plus significatif qu'une simple augmentation moyenne
+- Densité micro-vasculaire accrue (remodelage structural)
+- Amélioration mesurable des performances cognitives (reconnaissance d'objets)
+
+Citation : *"microcirculatory effects were accompanied by an improvement in cognitive function... exercise decreased flow variability across capillaries, suggesting more homogeneous microvascular blood flow."*
+
+**Le mouvement ne fait pas *plus* de perfusion, il fait une perfusion *mieux répartie*** — précisément l'inverse d'une hypoperfusion focale.
+
+**HIIT : effet inverse au-delà du seuil anaérobie** — revue systématique Frontiers in Aging Neuroscience 2022 : l'exercice **modéré** augmente le CBF, tandis que l'exercice **au-delà du seuil anaérobie fait *baisser* le CBF**. Argument physiologique direct en faveur du régime JP³ contre l'intensité extrême.
+
+**Réponse hippocampique aiguë** — Cerebral Cortex 2020, *Hippocampal Blood Flow Is Increased After 20 min of Moderate-Intensity Exercise*. Adulte âgé à santé cérébrovasculaire fragile, une session modérée produit : chute *atténuée* du CBF immédiatement post-effort (0-6 min), **rebond marqué** avec CBF supérieur au baseline entre 18 et 24 min post-effort, effet maintenu jusqu'à **60 min post-effort** (ASL-MRI).
+
+---
+
+### §4.4.2 Ondes de choc pédestres et perfusion cérébrale pulsée
+
+**Le mécanisme (groupe Lohman/NMHU)** — New Mexico Highlands University (Lohman, Wasson et al.) a documenté par échographie que **chaque impact du pied** (4-5 G en course) génère une **onde de pression rétrograde** dans les artères, remontant jusqu'aux carotides et jusqu'au cerveau. Citation : *"Brain blood flow is very dynamic and depends directly on cyclic aortic pressures that interact with retrograde pressure pulses from foot impacts."*
+
+**Synchronie fréquence cardiaque / cadence de foulée (HR-SR)** — résultat quantifié (**Wasson et al., FASEB 2012**) : quand FC et cadence sont **en phase**, vitesse du sang dans l'artère cérébrale moyenne (CBFv) passe de :
+- **56 ± 6 cm/s** (hors phase)
+- à **78 ± 8 cm/s** (en phase) — soit **+39 %**
+
+*Le simple fait que le rythme cardiaque et le rythme du pas soient synchronisés multiplie la perfusion cérébrale par 1,4.*
+
+**Continuum cycling < walking < running** — *"There is a continuum of hemodynamic effects on human brain blood flow within pedaling, walking and running, and these activities may optimize brain perfusion, function, and overall sense of wellbeing during exercise."*
+
+**Question ouverte importante pour le JP³** : la biomécanique du jogging sur place (rebond vertical pur, sans dissipation horizontale d'énergie) devrait *théoriquement* maximiser l'onde de choc vs. une course horizontale à même intensité perçue. Aucune étude directe trouvée — piste de recherche originale (signature physiologique potentiellement unique du JP³).
+
+---
+
+### §4.4.3 Clairance glymphatique et exercice
+
+**Fondations Iliff / Nedergaard (2012-2013)** — système paravasculaire par lequel le liquide céphalo-rachidien (LCR) circule à travers le parenchyme cérébral et draine les métabolites interstitiels (dont l'amyloïde β). Fondamentalement **rythmique** — pompé par oscillations respiratoires, pulsatilité artérielle, mouvements de tête.
+
+**Preuves humaines récentes — Yoon et al., Nature Communications 2025** : *Long-term physical exercise facilitates putative glymphatic and meningeal lymphatic vessel flow in humans*. Douze semaines de cyclo-ergomètre chez l'humain :
+- Augmentation significative de l'influx glymphatique au putamen (IRM T1 contrastée dynamique)
+- Augmentation de la taille et du débit des vaisseaux lymphatiques méningés
+- Effet corrélé à une baisse mesurable de marqueurs inflammatoires plasmatiques
+
+**Mécanismes moléculaires** (Yoon 2025) :
+- Down-régulation de S100A8, S100A9, PSMA3, DEFA1A3 (inflammation)
+- Up-régulation de J chain (immunoglobulines)
+- Modulation de la polarisation astrocytaire de **AQP4** (aquaporine-4), clé du couplage LCR-parenchyme
+
+**Chez la souris âgée** : exercice volontaire améliore la clairance de l'amyloïde β et réduit l'activation des astrocytes et de la microglie (PMC 2017).
+
+**Effets aigus** — une seule session d'exercice suffit à modifier la volumétrie des espaces perivasculaires (mesure IRM directe des voies glymphatiques) — étude 2024. Glymphatique **répond dans la séance elle-même**.
+
+---
+
+### §4.4.4 Rythmes cérébraux et locomotion
+
+**Central Pattern Generators (CPG)** — un CPG est un ensemble de neurones capable de générer un pattern moteur rythmique **sans stimulus externe**. Grillner et collègues (années 1970) ont établi que la locomotion des vertébrés repose sur des CPG spinaux ; chez l'humain, existence d'un CPG spinal fonctionnel soutenue par évidences croissantes (Minassian et al. 2017). CPG sont **entraînables** par stimuli externes : *"Signals from the brain stem can modulate the period of oscillations to adjust walking or running speed, and a more complex behavior is the entrainment of movement to an external stimulus, such as playing or dancing to music, or walking in time with a companion."* Concept Grillner de **"unit burst generators"** — plusieurs oscillateurs couplables selon différentes configurations.
+
+**Theta hippocampique locomoteur** — un des résultats les plus solides de la neurophysiologie animale : dès que le rat se met à courir, un rythme theta puissant apparaît dans l'hippocampe, et sa fréquence corrèle avec la vitesse (Vanderwolf 1969). Chez l'humain (Goyal et al., Nature Communications 2020 ; Bush et al., PNAS 2017) :
+- Theta humain **plus lent** : centré autour de **3 Hz** (bas theta) et **8 Hz** (haut theta), vs. ~8 Hz chez le rat
+- **Deux composantes fonctionnellement distinctes** :
+  - **Theta bas (~3 Hz)** : plus antérieur, associé à la mémoire, ne varie pas avec la vitesse
+  - **Theta haut (~8 Hz)** : plus postérieur, corrèle avec la vitesse de mouvement
+- **Puissance theta** augmente dès le début du mouvement et scale avec la distance parcourue
+
+**Implication pour le JP³** : même un jogging sur place à cadence lente engage un signal cognitivo-mémoriel hippocampique massif. Ce n'est pas une conséquence de l'intensité — c'est une conséquence de **la présence du mouvement rythmique lui-même**. Cette découverte déplace la lecture des effets cognitifs de l'exercice : ils sont *portés par le rythme*, pas seulement par la charge cardio-respiratoire.
+
+**Locomotor-Respiratory Coupling (LRC)** — la respiration s'accroche au rythme locomoteur, typiquement 2:1, 3:1, ou 4:1 (pas par inspiration). Bénéfices (Frontiers in Neuroanatomy 2022 ; PLOS ONE 2012 ; PLOS ONE 2013) :
+- Réduit interférences mécaniques entre système respiratoire et locomoteur
+- Diminue coût énergétique de la ventilation
+- Améliore efficacité ventilatoire
+- Métronome externe stabilise le LRC et économise l'énergie
+- Impact loading (foulée) influence significativement dynamique respiratoire
+
+Régime préférentiel LRC = basse-à-modérée intensité. À haute intensité, respiration **se découple** du rythme locomoteur. Argument physiologique direct pour la lenteur du JP³.
+
+**Locomotor-Cardiac Coupling (LCC)** — analogue cardiaque. Documenté par groupe Lohman/NMHU — c'est précisément ce couplage qui maximise la perfusion cérébrale via ondes rétrogrades. LCC lie mécaniquement §4.4.2 (perfusion pulsée) à §4.4.4 (rythmes) : **un seul phénomène de synchronisation multi-systémique**.
+
+**Preuve par la pathologie — Parkinson et RAS** — la **Rhythmic Auditory Stimulation** (Thaut) utilise métronome ou musique pour restaurer la marche chez patients Parkinson. Mécanisme documenté : RAS **bypasse les ganglions de la base défaillants** via voies **cérébelleuses** (revue 2025). *"Music therapy provides external rhythmic stimulation, recruits neural networks to bypass the basal ganglia and synchronizes gait with external rhythms through auditory-motor neural networks."* Si le rythme peut restaurer la marche d'un parkinsonien, on peut raisonnablement supposer qu'il peut resynchroniser un cerveau simplement fatigué ou stressé.
+
+---
+
+### §4.4.5 Trigger points — analogie musculaire
+
+**Mécanisme parallèle musculaire** éclairant par analogie la logique cérébrale : les **points-gâchettes myofasciaux** (Travell & Simons) sont des zones d'**ischémie locale** produites par contraction soutenue → épuisement ATP → ponts actomyosine bloqués → nodule douloureux. Résolution : **restauration du flux sanguin local** via mouvement doux, compression, ou libération.
+
+Citation (Chinese Medicine 2011) : *"Ischemia results in the loss of ATP formation in a small region of muscle fibers, the crossbridges in this region cannot be released, and a trigger point forms... Treatment should be aimed at relieving ischemia by manual therapy that increases local blood circulation."*
+
+Parallèle cérébral **structural** : hypoperfusion focale (§4.4.1) → dysfonction locale → résorption par restauration du flux via mouvement rythmique. Pas une preuve directe, mais un cadre théorique cohérent : le corps entier — muscle et cerveau — semble organisé selon une même logique de perfusion focale susceptible de résolution par le mouvement doux et prolongé.
+
+---
+
+### §4.4.6 Hiérarchie oscillatoire — spectre convergent plutôt que pacemaker
+
+**Question** : existe-t-il **UN** pacemaker central du cerveau qui, s'il est syntonisé, réorganiserait toute la physiologie ? **Verdict : pour les rythmes rapides, non — mais ce qui existe à la place est plus riche et plus favorable au JP³ que le concept initial.**
+
+**Le seul vrai master pacemaker anatomique : le SCN (circadien)** — noyau suprachiasmatique de l'hypothalamus antérieur. Coordonne les oscillateurs périphériques (foie, cœur, muscle, glandes). Même le SCN n'est pas un neurone unique — c'est une population d'oscillateurs cellulaires couplés qui produit une rythmicité de réseau émergente.
+
+**Pour tous les autres rythmes** — locomoteur, respiratoire, cardiaque, cognitif, corticaux — **pas de master pacemaker anatomique unique**. Le cerveau est une hiérarchie d'oscillateurs couplés.
+
+**Cadre théorique dominant — Buzsáki et la hiérarchie nichée** : oscillatory hierarchy organisée par **cross-frequency coupling**. Cascade documentée : ultra-slow (~0.01-0.1 Hz) → slow oscillations (~1 Hz) → spindles (~10-14 Hz) → gamma (~40-80 Hz) → ripples (~150-200 Hz). "Syntaxe neurale" (Buzsáki) : rythmes lents fournissent une structure temporelle qui organise les rythmes rapides comme des lettres dans des mots.
+
+**Candidats quasi-master** (aucun n'est UN pacemaker unifié, mais chacun mérite l'attention pour comprendre où le JP³ pourrait agir) :
+- **Noyau réticulaire thalamique (TRN)** — pacemaker thalamique ; génère les spindles du sommeil, module l'alpha ; domaine limité aux boucles thalamocorticales
+- **Locus coeruleus (LC)** — **candidat le plus intéressant pour le JP³**. Seul émetteur de noradrénaline pour tout le cortex ; projections extrêmement diffuses avec libération extra-synaptique de NA (*volume transmission*) ; oscillations toniques ~1-3 Hz ; **sensible à la locomotion** (documenté chez le rongeur, hypothèse chez l'humain) ; mode phasique (stress, alerte brève) vs mode tonique (arousal soutenu). Peut être vu comme un "quasi-master" de la coordination brain-wide via arousal.
+- **Ascending Reticular Activating System (ARAS)** — système distribué cholinergique + noradrénergique + sérotoninergique (mésencéphale caudal à pont supérieur), avec projections vers basal forebrain, hypothalamus, noyaux intralaminaires du thalamus. Coordonne transition entre régimes globaux (éveil/sommeil, arousal, conscience). Système d'*orchestration* plus qu'un générateur de rythme.
+- **Oscillations infra-lentes thalamiques (ISO, ~0.01-0.1 Hz)** — noyaux thalamiques dorsaux génèrent des oscillations infra-lentes couplées à l'autonome (HRV, vasomotion) et visibles en BOLD. Niveau très haut dans la hiérarchie de Buzsáki — biaisent tout ce qui est en-dessous. Une session JP³ de 30-60 min traverse plusieurs centaines de cycles ISO — condition potentiellement idéale pour un ré-entraînement des couches supérieures de la hiérarchie oscillatoire.
+- **Complexe pré-Bötzinger (preBötC)** — pacemaker respiratoire ; spécialisé ; couplé au CPG locomoteur via LRC.
+
+**La position radicale — synchronie émergente sans pacemaker** — courant important : les oscillations cérébrales n'ont besoin d'aucun pacemaker spécialisé ; la synchronie émerge du couplage collectif faible entre neurones. **"Metastable Oscillatory Modes"** (Deco et al.) — rythmes cérébraux transitoires = signature de **synchronisation métastable** dans le connectome spatio-temporel, avec des fréquences collectives émergeant des délais et des couplages, à des fréquences **plus lentes que les fréquences naturelles des oscillateurs individuels**.
+
+**Reformulation du "Saint Graal"** :
+
+> *Le vrai "Saint Graal" n'est pas un pacemaker anatomique unique — c'est plutôt : quel est le **spectre de rythmes convergents** qui, injectés simultanément depuis la périphérie, réorganise le plus efficacement toute la hiérarchie oscillatoire ?*
+
+Le JP³ semble frapper **simultanément plusieurs bandes convergentes** : ~2 Hz du pas, ~4-8 Hz du couplage respiratoire complexe, ~0.1 Hz des cycles longs de session. **Résonance multi-bandes** — précisément *parce qu'il n'y a pas de pacemaker à cibler*, mais une hiérarchie couplée à laquelle chaque bande apporte une contrainte cohérente.
+
+**Posture** du JP³ explicitement **facilitatrice** et non *directive* : il *permet* l'émergence d'un régime oscillatoire cohérent, il ne l'*impose* pas. **Inutile de chercher LE bon rythme** — ce qui compte, c'est **la cohérence transversale** entre bandes : un pas régulier, une respiration qui s'accorde, une session assez longue pour traverser plusieurs cycles ISO. Trois échelles, une seule posture.
+
+---
+
+### §4.4.7 Cadre neuro-vasculaire pulsé — synthèse §4.4
+
+Les mécanismes de §4.4 forment un régime physiologique unifié : **perfusion cérébrale pulsée + clairance glymphatique + cohérence multi-oscillatoire**, dans lequel le mouvement rythmique lent est simultanément :
+
+- Un **pompage vasculaire pulsé** (foot-strike waves → perfusion, pompe soléaire → retour veineux)
+- Un **pompage glymphatique** (oscillations respiratoires + pulsatilité artérielle → clairance des métabolites)
+- Une **synchronisation multi-oscillatoire** (LCC + LRC + theta hippocampique + CPG spinal)
+
+Ce n'est pas trois mécanismes séparés — c'est **un seul phénomène systémique** : le corps devient une machine oscillatoire cohérente, dans laquelle chaque cycle de pas est un cycle de perfusion, de clairance et de resynchronisation neuro-cognitive.
+
+Reformulation de la question centrale :
+
+> *Comment le régime rythmique-pulsé, dans lequel le JP³ nous fait entrer, restaure-t-il activement la perfusion, la clairance, et la cohérence oscillatoire — et pourquoi l'état "détruit" permet-il d'y entrer plus facilement ?*
+
+---
+
+## §4.5 Proprioceptive layer
+
+### §4.5.1 Pacinian mechanoreceptors
+
+> **source:** `project_warmup_piedsnus_prematch.md` (extract)
+
+Pacinian corpuscles — bandpass 20–1000 Hz, sensitive to **rate of change** of load, not static pressure. Concentric-layered structure that mechanically filters the signal.
+
+Operational consequence : adding texture over thick cushioning does not restore transduction, because the foam continues to spread the impulse in time. **This mechanically justifies the refusal to tinker with textured insoles and demands removing the cushioning itself.**
+
+Together with Nigg's muscle tuning (§4.2.1) and Robbins's discomfort-impact illusion (§4.2.2), the Pacinian evidence forms the receptor-side half of the mechanism : impact is the signal, Pacinian is the receptor, muscle tuning is the response.
+
+---
+
+### §4.5.2 Neuromuscular reactivation
+
+> **source:** `content/en/article.md` §2.2.3
+
+The decline of foot function (particularly the big toe and the first ray) and the loss of proprioception are major contributors to mobility problems, falls, and chronic pain, exacerbated by the wearing of modern footwear. The "Jogging in Place × At Your Own Pace × Barefoot" combination is unique. Barefoot training reactivates the thousands of proprioceptive nerves of the foot, which are essential for body position awareness and postural control. It strengthens the intrinsic foot muscles, improving arch stability and reducing injury risk. The safe, private home environment of "In Your Own Place" makes this barefoot practice possible without risk or self-consciousness, encouraging experimentation and **self-correction** of movement patterns without the "autonomic tension" of unfamiliar spaces. The repetitive "In Place" movement, combined with maximal proprioceptive feedback from bare feet, produces a high number of movement cycles (3,000–4,000 in 30 minutes) conducive to **neuroplasticity and the retraining of dysfunctional patterns**. This improves balance, reduces fall risk, restores big-toe function, and enhances neuromuscular connections. The eyes-closed option can further amplify this body awareness by forcing the muscle spindles to work in overload to stabilize the movement. JP³ offers a unique platform for functional foot rehabilitation and for improving proprioception and balance—critical elements for autonomy and fall prevention.
+
+---
+
+### §4.5.3 Barefoot as access condition — forward-ref §2.3
+
+> **source:** composite (barefoot condition fiche ; forward-ref to §2.3)
+
+See §2.3 (barefoot as access condition — the 4th implicit P) for the full doctrinal treatment of why barefoot is a **structural prerequisite** to accessing one's own spring-mass regime, not a preference. The key clinical corollary (recurring Achilles tendinopathy in soccer is not an intensity problem but the structural absence of the spring-mass regime when cleats + cushioning + socks block priming) belongs to §2.3.
+
+**Proprioceptive-layer-specific point** : in the proprioceptive layer specifically, barefoot is the condition that preserves the Pacinian bandpass (§4.5.1), permits the EMG pre-activation gain (§4.2.2), and keeps the muscle-tuning feedback loop (§4.2.1) intact.
 
 ---
 
