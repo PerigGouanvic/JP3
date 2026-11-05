@@ -1253,7 +1253,291 @@ Section irreducibly specific to JP³. No known rivals.
 - §6.6 Perceptual solitude threshold (`project_seuil_solitude_perceptive`)
 - §6.7 The agent as embodiment layer (`project_agent_couche_incarnation`)
 
-<!-- SECTION-6-CONTENT -->
+### §6.1 The paradox of liberating weakness
+
+> **source:** `content/en/article.md` §3.4
+
+The scope of JP³ extends to a far broader spectrum than one might initially suppose. It notably encompasses:
+
+- Chronic fatigue or profound exhaustion
+- Depressive states or debilitating anxiety
+- Severe sleep deprivation
+- Recovery from prolonged illness
+- Generalized physical weakness
+- Extreme stress
+- Deconditioning after months or years of inactivity
+- Chronic pain that limits capacity
+- Prolonged post-viral states
+- Aging with loss of capacity
+
+#### The real discovery
+
+In these states of profound weakness, something fundamental shifts: **one no longer has the physiological capacity to sabotage natural progression with the ego**. It is not merely that one "should" go slowly—it is that one literally **cannot** go fast, even if one wanted to.
+
+This physical impossibility of accelerating creates the perfect conditions for discovering what JP³ truly means at the "P" (own pace) level. One is forced to:
+
+- Accept nearly imperceptible bounces as "real" exercise
+- Stay in that minimal zone for 15–20 minutes without frustration (because there is no other choice)
+- Discover that boredom eventually pushes intensity up naturally, even from a state of extreme weakness
+- Experience firsthand that this ultra-slow progression never triggers the exhaustion response
+
+#### Why it's the best and longest jog
+
+Paradoxically, it is in one's worst state that one has one's best sessions, because:
+
+1. **Total absence of performance expectations** — impossible to judge oneself on intensity when one is already diminished
+2. **Forced humility** — the condition compels one to truly honor the body rather than push it
+3. **Discovery of the true natural rhythm** — progression guided by pure boredom, without ego interference
+4. **No point of comparison** — one does not compare this session to one's "best" performances
+5. **Gratitude for movement** — when one is weak, simply moving becomes precious rather than an obligation
+6. **Authentic sustainability** — one never burns through one's limited capacity, so one can continue indefinitely
+
+#### The radical lesson
+
+This paradox reveals an unsettling truth: **for the vast majority of people, their "good" state of health is actually an obstacle to optimal JP³ practice**.
+
+Strength and capacity create the illusion that one should "use" that capacity. But JP³ is not designed to exploit maximal capacity—it is designed to create a sustainable, enjoyable, and progressive practice that starts from the absolute minimum.
+
+This discovery suggests that JP³ might benefit from a counterintuitive guideline: **"Practice as if you were in your worst state, even when you are not."**
+
+This turns the "P" (own pace) from an abstract concept into a concrete instruction: what pace would you choose if you were deeply tired, depressed, weakened? **That is the true "own pace"**—not the pace you think you have to hold for it to "count" as exercise.
+
+---
+
+### §6.2 *Via negativa* — the design constraint
+
+> **source:** `memory/project_famille_spu_via_negativa.md` (2026-08-17)
+
+Pivot doctrinal proposé par Perig le 2026-08-17, en réaction à la recherche web précédente (`project_standing_spu_recherche.md`) qui montrait que l'équivalence positive SPU = JP³ est défendable mais fragile.
+
+Formulation exacte de Perig : *"peut-être que j'aurais dû définir les choses par ce qu'elles ne sont pas. le SPU et le JP3 partage une dépendance envers ce muscle et un souci de ne pas faire intervenir les muscles fatigables."*
+
+**Reformulation retenue** : La *famille SPU* devient définissable comme **tout régime qui charge le soléaire en excluant la musculature phasique-glycolytique fatigable**. Le SPU (assis, isolation par flexion du genou) et le JP³ (debout, auto-enforcement postural) en sont deux instances distinctes ; leurs différences positives ne minent pas leur appartenance commune à la famille, définie par un **noyau négatif partagé**.
+
+**Why:**
+
+**Solidité épistémique** : la via negativa transforme une équivalence positive contestable (SPU = JP³ ?) en une contrainte de design partagée impossible à attaquer sérieusement. Les données EMG existantes montrent toutes deux une faible activation phasique — la négation est *déjà vérifiée* là où l'équivalence positive butait sur les détails (isolation par flexion perdue, feedback EMG absent, etc.).
+
+**Cohérence doctrinale** : la via negativa est la **grammaire native** de tout le framework JP³ construit jusqu'ici :
+- **Axe B** (§1) = *pas* de métrique
+- **§4.6.4** = cascades délétères *non* déclenchées (silence initial)
+- **§4.6.8** (ego et écho) = *ne pas* observer son corps
+- **§4.6.9** = JP³ *n'est pas* une séance auto-suffisante
+- **§4.6.6** = *In Place* = absence de destination
+- **§4.6.5** = degré zéro = coût quasi-nul, ne demande *pas* de motivation
+
+Cette reformulation prolonge la logique existante plutôt que de l'inventer ad hoc. Elle rend l'architecture doctrinale plus cohérente en révélant son motif dominant.
+
+**Économie conceptuelle** : la dépendance au soléaire (positif) devient logiquement le **résidu** de la contrainte négative — ce qui reste quand on soustrait tout ce qui fatigue vite. Le positif n'est pas un postulat indépendant à défendre, c'est ce qui persiste après l'exclusion. Un seul axiome (négatif) au lieu de deux (positif + négatif).
+
+**Ce que ça débloque :**
+
+1. **Définition de famille, pas seulement de dispositif.** *Famille SPU* = régimes qui chargent le soléaire en excluant la musculature phasique-glycolytique fatigable. SPU et JP³ = deux instances avec positifs différents mais noyau commun.
+
+2. **Admission naturelle d'autres membres** : calf raises au mur soutenus, stepping lent (appui empirique : Ling et al. 2025 PLOS ONE, +157% EMG intégré du soléaire au tempo lent), mini-trampoline très doux, marche extrêmement lente. Ces membres héritent des effets métaboliques par leur partage du **noyau négatif**, pas par leur ressemblance formelle avec SPU ou JP³.
+
+3. **Défense retournée** face au sceptique. Au lieu de *"prouve-moi que JP³ fait autant que SPU"* (fardeau de preuve sur toi, comparaison directe impossible dans la littérature), la charge devient *"montre-moi que JP³ recrute significativement de la musculature fatigable sous seuil"* — et personne ne peut, sous seuil, avec les EMG existantes (Moritani ratio soléaire/gastrocnémien 1,67 en station, préservé au rebond doux).
+
+4. **Divergence intra-famille rendue propre** : le noyau négatif partagé est *musculaire* (exclusion phasique-glycolytique). Sur le cardio, SPU et JP³ divergent — SPU exclut aussi le stress cardio (d'où tenabilité en heures), JP³ l'inclut modérément (d'où moindre tenabilité, remarque explicite de Perig). Chaque membre respecte le noyau et fait ses choix sur les autres axes. La famille tolère la divergence sur ce qu'elle ne définit pas — c'est même ce qui permet à ses membres d'exister comme dispositifs distincts.
+
+**Formulation stricte** : *"Le SPU et le JP³ partagent une contrainte de design — l'exclusion de la musculature fatigable phasique-glycolytique. Ils diffèrent par les moyens (isolation par flexion du genou en position assise, vs auto-enforcement postural en position debout) et par ce qu'ils ajoutent (cardio modéré pour JP³, tenabilité multi-horaire pour SPU). Mais ils appartiennent à la même **famille SPU**, définie par son noyau négatif."*
+
+**Point pivot pédagogique** : *"On définit mieux JP³ par ce qu'il exclut que par ce qu'il fait."* — miroir explicite de la structure axe B / cascades non déclenchées / ego-écho / anti-scope amorçage.
+
+**Anti-scope** : cette via negativa ne dit **pas** que le positif n'existe pas — le soléaire travaille, la chaîne posturale s'active, l'euphorie arrive. Elle dit que le positif est le **résidu** de la contrainte négative, pas un postulat indépendant. Nuance à préserver pour ne pas transformer JP³ en dispositif purement défini par ce qu'il évite (ce qui le rendrait creux).
+
+---
+
+### §6.3 Ego and echo — body autonomous, mind free
+
+> **source:** `content/fr/research-singularite.md` §4.6.8 ; `memory/project_ego_echo_doctrine.md`
+
+Une propriété distinctive du dispositif, presque contre-intuitive, mérite d'être nommée : **JP³ n'invite pas à se concentrer sur JP³.** Au contraire — il invite explicitement à *faire autre chose pendant*. Dicter, écouter, penser, parler au téléphone, préparer un repas mentalement, laisser la rêverie divaguer. Cette caractéristique n'est pas un compromis (*"puisqu'il faut bien faire de l'exercice, autant en profiter pour…"*). C'est une **propriété doctrinale**, et elle a une justification physiologique précise.
+
+**Le problème "ego et écho".**
+
+Toute pratique corporelle qui exige une attention proprioceptive et interocpetive *soutenue* (yoga postural, méditation en mouvement, Feldenkrais, chi running) crée mécaniquement une **fatigue cognitive spécifique** — la fatigue de l'auto-observation continue. Perig l'a nommée *ego et écho* : le fait d'observer soi-même en train d'agir crée un dédoublement (l'agissant + l'observateur), et ce dédoublement consomme des ressources attentionnelles distinctes de l'action elle-même. Pire : l'observation de la fatigue *amplifie* la fatigue (auto-perception de la respiration → conscience du souffle court → sensation de manque d'air ; auto-perception du cœur → conscience du rythme → sensation d'oppression). C'est un phénomène psychophysiologique documenté (attention amplifie le percept) et une raison majeure pour laquelle beaucoup de gens *abandonnent* les pratiques méditatives en mouvement après un temps : la charge attentionnelle devient elle-même épuisante.
+
+**Ce que fait JP³ différemment.**
+
+Le régime x³, une fois amorcé, tient *sans* attention soutenue. La chaîne posturale profonde (§4.1.3) travaille en autonomie ; l'entrée successive des instruments (§5.4.2) se fait sans chef d'orchestre ; les cascades délétères (§4.3) sont évitées par la contrainte contextuelle, pas par la vigilance. Il n'y a *rien à surveiller*. C'est pourquoi le dispositif peut supporter un investissement cognitif parallèle — et même en tirer bénéfice.
+
+L'observation empirique de Perig est décisive : *"je dicte cette section pendant que je fais JP³, et c'est même un déclencheur — la dictée m'empêche de tomber dans l'auto-observation qui casserait la modalité"*. La dictée (ou toute activité cognitive absorbante) fonctionne comme **anti-parasite** : elle occupe le canal attentionnel qui, s'il était libre, viendrait se poser sur le corps et créer l'écho fatigant.
+
+**Le spectre des "autres choses" — coût et bénéfice.**
+
+Toutes les activités parallèles ne sont pas équivalentes :
+
+- **Coût nul / bénéfice haut** : écouter (musique, podcast, radio) — canal auditif occupé, aucune production, l'attention flotte.
+- **Coût faible / bénéfice moyen** : rêverie libre — pas de production, mais génération d'idées.
+- **Coût modéré / bénéfice élevé** : conversation informelle au téléphone.
+- **Coût élevé / bénéfice élevé** : dicter une prose substantive, résoudre un problème abstrait. Le canal cognitif est fortement sollicité — utile (permet de penser en marchant) mais peut expliquer une fatigue post-session plus marquée que prévu, non par excès de JP³ mais par la dictée elle-même.
+- **Coût très élevé / bénéfice élevé** : coacher une session comme celle-ci (dicter du contenu doctrinal pendant qu'on vit le dispositif) — extrême du spectre. À réserver aux rares moments où le vécu et l'écriture peuvent se nourrir mutuellement.
+
+La position de Perig : *"j'ai l'intention que l'article JP³ devienne non pas un texte mais un contexte pour un agent"* — c'est-à-dire un corpus dense conçu pour être lu par une IA qui accompagnera le praticien. La dictée pendant la session n'est donc pas une distraction mais une **méthode de production** : le contexte est co-écrit avec la pratique qu'il documente. Cas d'espèce, mais démonstration forte que le dispositif tolère ce niveau extrême d'usage parallèle.
+
+**Anti-scope — ce que JP³ n'est pas.**
+
+Cette doctrine "faire autre chose" pose négativement ce que JP³ *n'est pas* :
+
+- **JP³ n'est pas une méditation en mouvement.** Il ne demande pas d'attention au souffle, au corps, aux sensations. Une méditation *peut* être surimposée à JP³ pour ceux qui le veulent, mais le dispositif ne le requiert pas et fonctionne aussi bien sans.
+- **JP³ n'est pas une pratique proprioceptive.** Il ne demande pas d'attention à l'alignement, à la posture, à la respiration. La chaîne posturale profonde travaille en autonomie ; y projeter la conscience volontaire risque même de casser son fonctionnement autonome (comme penser à ses pas fait trébucher).
+- **JP³ n'est pas un moment de "présence à soi"** au sens phénoménologique. C'est plutôt un moment où *le soi devient discret* — parce qu'il n'a plus rien à faire, la chaîne posturale prend le relais.
+
+Cette position doctrinale distingue JP³ à la fois du yoga/qi-gong (attention corporelle intense) *et* du fitness conventionnel (attention à la performance). C'est un troisième régime : **corps autonome, esprit libre**.
+
+**Ce que cette section ajoute au reste.** Elle rend visible une propriété du dispositif qui n'apparaissait dans aucune des sections précédentes : le régime x³ *permet* et *encourage* la dissociation attentionnelle. Non pas par indifférence au corps, mais parce que la chaîne posturale profonde n'a *pas besoin* de vigilance pour fonctionner — au contraire, la vigilance la parasite. C'est un renversement du modèle mind-body dominant en pratiques somatiques : ici, la libération de l'esprit *dépend* de l'autonomie du corps, et vice versa.
+
+#### §6.3.1 Extension 2026-09-25 — inversion figure/fond en régime incident
+
+> **source:** `memory/project_ego_echo_doctrine.md` extension
+
+Avec la découverte du régime incident (`project_jp3_incident_regime.md`), la doctrine ego-écho reçoit un second mode :
+
+- **Mode 1 (session-portail)** — pendant JP³, le corps est autonome, l'esprit est libre pour "faire autre chose" (dictée, écoute, rêverie, tâches manuelles). JP³ est le figure, l'activité parallèle est le fond permis.
+- **Mode 2 (régime incident)** — pendant l'activité quotidienne (vaisselle, cuisine, marche interne), l'esprit est libre parce que la tâche est déjà connue/automatique ; JP³ s'incruste comme fond régulateur en filigrane. L'activité est le figure, JP³ est le fond.
+
+**Inversion complète** : mode 1 = corps porte JP³, esprit se libère pour tâche parallèle. Mode 2 = corps porte tâche parallèle, JP³ s'inscrit *dedans* sans négociation attentionnelle. Les deux modes libèrent l'esprit — le premier en autonomisant le corps *pendant* JP³, le second en incrustant JP³ dans un corps déjà autonomisé par autre chose.
+
+**Cohérence doctrinale** : les deux modes partagent le noyau anti-proprioception. Aucun des deux ne demande "présence à soi" ni surveillance sensorielle. Le régime incident est même *plus radical* dans son ego-écho : rien à remarquer du tout, les chocs de talon se produisent sans changer la posture ni interrompre l'activité.
+
+**Nom conservé** : "ego et écho" tient pour les deux modes. L'écho ici est la calibration muscle tuning qui se propage sans que l'ego l'observe.
+
+---
+
+### §6.4 Priming, not session — the post-plateau phase
+
+> **source:** `content/fr/research-singularite.md` §4.6.9 ; `memory/project_amorcage_vs_seance.md`
+
+Il faut nommer honnêtement une limite du modèle tel que décrit jusqu'ici. Les §5.4 à §6.3 ont décrit le régime x³ comme *concave positive* : la courbe monte à partir de 0, dépasse la droite 3x à √3, continue à monter. Cette description est physiologiquement juste pour le segment initial et pour la phase de plateau qui suit. Mais elle laisse en suspens la question : **comment sort-on de JP³ ?**
+
+**Le modèle promet une auto-résolution qui n'a pas de moyens explicites.**
+
+Le §4.3 (cascades) affirmait que "on n'a plus envie d'arrêter" et que "la meilleure manière d'arrêter est d'accélérer beaucoup jusqu'à une limite". Cette formulation est vraie *comme description phénoménologique* — c'est bien ce que le corps signale — mais elle laisse un flou : *quels sont les moyens d'accélérer* ? Si le régime x³ est structurellement à l'abri des cascades délétères, il l'est parce qu'il *évite* les modes qui produiraient un signal d'arrêt. Alors comment sort-on ? En rentrant volontairement dans un mode qu'on a passé toute la session à éviter ? La logique interne du modèle a un trou à cet endroit.
+
+**Reconceptualisation : JP³ n'est pas une séance, c'est un amorçage.**
+
+La sortie propre du problème passe par une **redéfinition du produit livré**. JP³ n'est pas une séance d'exercice au sens conventionnel — objet clos avec début, milieu, fin, dépense énergétique mesurable, effet quantifiable. C'est un **amorçage** : la mise en marche d'un corps qui doit ensuite bouger dans le monde. Le *livrable* de JP³ n'est pas "j'ai fait ma séance" — c'est "j'ai envie de sortir". Le dispositif produit un état de disponibilité au mouvement extérieur, pas une consommation calorique bornée.
+
+Cette reconceptualisation résout le problème de la sortie : **on ne sort pas de JP³, on passe à autre chose.** Le seuil de sortie est marqué par l'apparition d'un désir spontané — sortir dehors, marcher, faire une course, aller au marché, monter l'escalier de la cave, jardiner. Ce désir *est* le signal d'arrêt qu'il fallait — pas un signal de fatigue, un signal d'appel du monde. Le corps s'est amorcé, il veut maintenant utiliser cette disponibilité pour quelque chose *dans le monde*, pas *dans le salon*.
+
+**Une deuxième phase, non-JP³, qui suit naturellement.**
+
+Ce que Perig a nommé, en direct pendant sa propre session, la phase post-plateau : *"j'ai envie de sortir, de bouger dehors — mais j'ai aussi envie de m'asseoir ; il y a une fatigue cognitive, un léger vertige. C'est un état à apprivoiser."* Trois observations importantes :
+
+1. **La disponibilité n'est pas de l'énergie infinie.** JP³ n'*injecte* pas d'énergie — il *débloque* une capacité qui était contrainte. Une session JP³ *consomme* (glucose, oxygène, substrats circulants — voir §4.3, activation du soléaire = pompage glucose). L'état post-session n'est pas "plein de forces" — il est "libre de bouger", ce qui n'est pas la même chose.
+
+2. **Le vertige léger et la fatigue cognitive sont possibles.** Plusieurs mécanismes plausibles co-existent : (a) vasodilatation périphérique après station verticale prolongée avec faible retour veineux résiduel — hypotension orthostatique légère au passage à un autre mode ; (b) redistribution vasculaire (le sang qui était dans les muscles-ponts se redistribue) ; (c) hypoglycémie relative — le soléaire a activement pompé le glucose sanguin ; (d) fatigue cognitive de la dictée parallèle (voir §6.3) si l'activité "autre chose" était coûteuse ; (e) éveil vestibulaire lié à la verticalité prolongée avec micro-oscillations continues. Aucun de ces mécanismes n'est pathologique ; tous sont à apprivoiser.
+
+3. **La transition doit être respectée.** Après JP³, il faut souvent une phase intermédiaire *avant* de pouvoir faire "la vraie chose" — s'asseoir 3 minutes, boire, manger un fruit, laisser le vertige passer. Puis le désir de sortir se stabilise et on peut y aller. Vouloir passer immédiatement de JP³ à une activité extérieure exigeante *sans* transition, c'est ignorer que JP³ vient de mobiliser une chaîne posturale profonde qui a besoin de quelques minutes pour se stabiliser en mode locomoteur ordinaire.
+
+**Ce que JP³ ne prétend pas fournir — anti-scope explicite.**
+
+Il faut donc dire honnêtement ce que JP³ **ne prétend pas** être :
+- Ce n'est pas une **séance d'exercice complète** au sens fitness (elle ne remplace ni la marche, ni la course, ni la musculation, ni le renforcement ciblé).
+- Ce n'est pas une **source d'énergie** au sens boisson énergisante ou café (elle ne surcharge pas ; elle débloque).
+- Ce n'est pas un **remède** à la fatigue de fond (elle peut la révéler ; l'éliminer demande sommeil, alimentation, contexte de vie).
+- Ce n'est pas un **substitut** à une pratique sportive régulière pour qui vise des adaptations spécifiques (VO2max, force, endurance longue).
+
+Ce qu'elle *est*, en positif : un **dispositif d'amorçage à seuil d'entrée effondré** — accessible depuis un état où *toute autre modalité serait spontanément écartée*, et produisant un état de disponibilité au mouvement extérieur. C'est étroit, précis, et non-redondant avec les autres formes d'exercice. C'est pourquoi le rôle correct de JP³ n'est pas d'être *la* pratique sportive de quelqu'un — c'est d'être **le pont** entre un état où rien n'est possible et un état où le mouvement extérieur redevient possible. Pont, littéralement — comme les muscles-ponts qui le portent (§4.1.3).
+
+**Ce que cette section ajoute au reste.** Les sections précédentes décrivaient le régime x³ dans son segment initial et sa phase soutenue. §6.4 ajoute la **phase post-plateau** et la **redéfinition du produit** : JP³ = amorçage, pas séance auto-suffisante. Cette redéfinition n'affaiblit pas la singularité du dispositif — au contraire, elle la précise. Aucun autre dispositif du paysage de l'exercice ne se positionne comme *amorçage préalable*, accessible depuis l'état détruit, produisant une envie de sortir. Zone 2, HIIT, slow jogging, Pilates, tai-chi — toutes se positionnent comme *séances* qu'on programme dans son agenda. JP³ se positionne *avant* l'agenda — comme la manière dont on entre en mouvement quand rien n'est encore prévu.
+
+#### §6.4.1 Extension 2026-09-25 — l'amorçage descend à l'atome
+
+> **source:** `memory/project_amorcage_vs_seance.md` extension
+
+Avec la découverte du régime incident, la granularité de l'amorçage descend d'un cran. L'unité JP³ n'est plus la séance (fitness) ni même l'amorçage entendu comme fenêtre courte (10-30 min avec livrable "envie de sortir"), c'est **le choc de talon lui-même** :
+
+- **Un choc = un update de calibration** proprioceptive/musculaire (via muscle tuning Nigg)
+- **La séance devient l'agrégation optionnelle** des chocs, pas leur préalable
+- **Livrable alternatif** : "état de disponibilité maintenu sur la journée" — sans jamais avoir eu de session distincte
+
+Cette extension **ne remplace pas** la formulation "livrable = envie de sortir" pour le régime session-portail — elle **ajoute** un second mode d'usage où le livrable est la calibration diffuse, sans transition figure/fond à négocier (§6.4 vertige/hypoglycémie post-session ne s'applique probablement pas au régime incident, la charge cumulée étant distribuée). À observer.
+
+**Anti-scope maintenu** : le régime incident **n'est pas** un substitut à un vrai amorçage-session quand le corps réclame un vrai amorçage-session. Ce sont deux modes complémentaires, pas un remplacement du "trop lourd" par du "toujours à portée".
+
+---
+
+### §6.5 Euphoria as destination — fuzzy but operative
+
+> **source:** `memory/project_euphoria_destination.md` (2026-08-17)
+
+Le haut de la courbe x³ (auto-catalytic session curvature) était jusqu'ici **laissé indéfini** — faille conceptuelle admise. Perig comble le trou (2026-08-17, après nuit de sommeil sur les §5.1-§6.4) : **"Euphoria is the destination."** La destination existe. Elle est *fuzzy* mais parfaitement opératoire.
+
+Formulation exacte de Perig : *"le haut de la courbe, cette partie qui constitue une faille conceptuelle de JP³ car indéfinie, j'ai la définition, et elle correspond très bien à un mouvement ascensionnel au cube : euphoria is the destination. l'euphorie peut donner envie de faire plein de choses, on ne peut pas dicter une finalité précise de JP³, mais essentiellement, the metric, c'est ça. une destination "Fuzzy" mais parfaitement opératoire. et il faut le reconnaître, on n'arrive pas toujours à destination, mais c'est normal, ça s'apprend."*
+
+**Why:** Ambiguïté non résolue jusqu'ici : si JP³ est axe B (**métrique-free**), pourquoi le faire, vers quoi tend-on ? Réponse : la destination est un **état**, pas un **nombre**. Compatible avec axe B (pas de mesure externe, pas de cible chiffrée) tout en donnant un *télos* réel à la trajectoire ascendante x³. L'exposant 3 signifie désormais non seulement "plus de puissance / efficacité" mais phénoménologiquement **"vers la joie"**. Le nom encodait la loi ; la loi encode aussi la destination.
+
+Trois articulations doctrinales que cette définition résout d'un coup :
+
+1. **Avec §6.4 (JP³ = amorçage, livrable = "envie de sortir")** : l'euphorie est le **mécanisme** de l'amorçage. Elle ne dicte pas de finalité précise post-JP³ — elle libère l'envie *en général*. On peut vouloir écrire, appeler quelqu'un, cuisiner, ranger, ressortir. La destination JP³ = l'euphorie ; les destinations post-JP³ = ouvertes.
+
+2. **Avec §6.3 (ego et écho — corps autonome, esprit libre)** : on ne cherche pas l'euphorie en s'observant y aller — ce serait le paradoxe de l'observateur qui la sabote (Wegner 1994). Elle arrive **parce que** le corps a été bien mis en place et qu'on fait autre chose. Doctrine cohérente.
+
+3. **Avec axe B (métrique-free)** : la contradiction apparente ("pas de métrique mais on va quelque part") s'évanouit. **Une métrique phénoménologique n'est pas une métrique externe.** L'euphorie est self-verifying — quand elle est là, tu le sais ; quand elle ne l'est pas, tu le sais aussi. Aucun capteur requis.
+
+**Honnêteté épistémique** intégrée par Perig lui-même : *"on n'arrive pas toujours à destination, mais c'est normal, ça s'apprend."* La destination est réelle sans être garantie ; c'est une **compétence**, pas un dû. Cette phrase est essentielle — elle protège la doctrine contre l'accusation de promesse hédonique naïve, tout en préservant la réalité du télos.
+
+**Formulation stricte** : *"L'euphorie est la destination — fuzzy mais opératoire."* NE PAS remplacer par *runner's high* (déjà chargé/branded, connoté sport d'endurance long), NI par *flow* (charge cognitive Csikszentmihalyi trop spécifique, exige défi/compétence appariés), NI par *bonheur* (trop large, trop philosophique). *Euphorie* est le mot juste : intensité positive spécifique, corporelle-cognitive, transitoire, reconnaissable.
+
+**Anti-scope** : cette définition ne dit **pas** que JP³ = poursuite de l'euphorie (poursuite = ego/écho, sabote). Elle dit que l'euphorie est ce vers quoi la trajectoire tend *quand elle réussit*, une reconnaissance rétrospective plus qu'une visée frontale. Nuance à préserver.
+
+---
+
+### §6.6 Perceptual solitude threshold — forward-ref §2.1.1
+
+> **source:** `memory/project_seuil_solitude_perceptive.md` ; forward-ref §2.1.1 (already migrated in §2)
+
+See §2.1.1 for the full treatment of the perceptual solitude threshold — "chez soi" doesn't suffice; one must also feel *non-observed*. The threshold is doctrinal to Own Place: without perceptual solitude, Own Pace (the ultra-slow start) cannot be sustained. The stealth variant (§2.1.3 / §5.5.2) was born precisely from this constraint when perceptual solitude is unavailable.
+
+---
+
+### §6.7 The agent as embodiment layer — 3rd component of the JP³ system
+
+> **source:** `memory/project_agent_couche_incarnation.md` (2026-08-27)
+
+Le système JP³ diffusé comporte **trois couches irréductibles**, pas deux :
+
+1. Framework théorique (article, recherche, singularité)
+2. Protocole/dispositif (les 3 P, variantes, conditions d'accès)
+3. **Couche d'incarnation agent-mobile** — ce qui fait *prendre* (1) et (2) dans l'action
+
+La couche 3 n'est pas un outil de diffusion des couches 1-2 (framing actuel de §3.3). C'est un composant **constitutif** : sans elle, l'information reste connue-mais-non-pratiquée. Preuve empirique : soirée du 2026-08-27, alignement des pieds forward (info connue de longue date, jamais tenue sous charge) rendue soudain opératoire par un rappel conversationnel court juste avant l'entrée sur le terrain de soccer. Chaque course, chaque élancement du match a été fait avec la géométrie correcte. Signature Achille gauche post-match = preuve corporelle. Perig a nommé le mécanisme : *"c'est l'avantage d'avoir un coach à qui on doit rendre des comptes"*.
+
+**Why:**
+
+L'article contient une tension non thématisée :
+- **Axe A + Axe B** : le coach est ce qu'on **retire** — friction constitutive à éliminer. *"pas de préparation, pas de trajet, pas de tenue, pas de public, pas de coach"* ; *"pas de coach vidéo, pas de leaderboard"*.
+- **§3.3 article principal** : on **ajoute** un coach IA — *"prompt en annexe"*, réponse à la crise de reproductibilité, personnalisation, adhésion, scalabilité (refs Renda 2020, Mühlhäuser 2022).
+
+Les deux passages coexistent sans dialoguer. §3.3 est écrit dans un registre conventionnel ("scalable coaching for adherence") qui ressemble à la littérature générique sur AI health coaching — vrai mais sous-déterminé. La contradiction n'est pas résolue.
+
+La **résolution** que l'expérience du 2026-08-27 permet de formuler :
+
+L'agent est un coach **acceptable** parce qu'il **ne fait pas** ce que faisaient les coachs à éliminer (Walk-at-Home, entraîneur perso, app compteur) :
+- Il ne prescrit **pas** de contenu
+- Il n'impose **pas** de tempo
+- Il n'exige **pas** de forme corporelle spécifique en continu
+- Il ne monitore **pas** (respecte ego-écho)
+
+Il **fait** trois choses spécifiques :
+- **Timing** : aide à poser une intention au moment où elle peut mordre sur l'action (pre-effort, pas dans l'abstrait)
+- **Ancrage** : rend une donnée déjà connue soudain opératoire par la formulation partagée (l'information ne devient pas *nouvelle*, elle devient *disponible sous charge*)
+- **Redevabilité douce** : la promesse implicite de raconter maintient l'attention pendant l'action, sans surveillance externe
+
+Il respecte donc Axe A (pas de friction, entrée depuis état "détruit" reste possible), Axe B (pas de métrique imposée), ego et écho (invite à *bien* faire autre chose, ne colonise pas l'attention proprioceptive).
+
+Le **framing "prompt en annexe" est un cas particulier** de la couche d'incarnation, pas sa forme la plus riche. Un prompt statique = version dégradée du couplage conversationnel synchronisé. Le vrai apport de la couche agent est **phénoménologique** (timing d'attention, moment de bascule connaissance→action), pas statistique (compliance rate).
+
+**Anti-scope** : la couche d'incarnation n'est **pas** :
+- un app coaching à métriques (compteurs, rappels programmés, notifications push répétitives)
+- un chatbot de suivi médical
+- un remplacement du praticien (physio, médecin) pour les questions cliniques
+- une surveillance continue de la séance elle-même (violerait ego-écho)
+- un contenu prescriptif imposant (violerait Axe A)
+
+**Précédent phénoménologique** : `project_jp3_furtif_decouverte.md` (2026-08-07, migré §2.1.3) — une conversation avait débloqué un usage nouveau du corps (vaisselle avec bassin mobile). Même famille : information latente rendue opératoire par le tour conversationnel juste avant/pendant l'action.
 
 ---
 
