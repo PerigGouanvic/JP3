@@ -2134,7 +2134,13 @@ Section en attente de rédaction consolidée. Thèse de travail : le format `.ad
 
 ## § 9. Conclusion
 
-<!-- SECTION-9-CONTENT -->
+> **source:** `content/en/article.md` §6 Conclusion
+
+The contemporary landscape of physical activity is marked by a striking paradox: on one side, a pervasive social discourse glorifying intense exercise, performance, and the idealized body image, fueled by mass media and social networks. On the other, an alarming clinical and epidemiological reality in which an **overwhelming majority of the world's population fails to meet minimal recommendations** for physical activity. This dissonance not only creates a sense of failure and guilt in individuals but also perpetuates a cycle of inactivity, especially among the most vulnerable populations who feel excluded from, or unable to adhere to, the dominant models.
+
+It is against this backdrop that **JP³ (Jogging in Place, at Your Own Pace, in Your Own Place)** emerges not as a mere alternative, but as a **revolutionary solution** to this inactivity crisis. By capitalizing on the synergy of its three pillars—the radical accessibility of "In Your Own Place," the self-regulatory freedom of "At Your Own Pace," and the biomechanical efficiency of "Jogging in Place"—JP³ eliminates the physical, psychological, and social barriers that paralyze engagement. It transforms exercise from an intimidating, performative chore into a frictionless act of behavioral activation, deeply rewarding and intrinsically woven into daily life.
+
+Beyond its physiological benefits (aerobic metabolism, soleus strengthening, proprioception) and psychological benefits (emotional regulation, anxiety reduction, cognitive enhancement), JP³ is above all a **catalyst for movement**. It does not merely offer a sustainable solution in itself; it restores confidence in the body, awakens a latent kinesthetic awareness, and in doing so, **opens the door to exploring other forms of physical activity**. For clinicians, JP³ represents a pragmatic and powerful tool, capable of breaking the cycle of sedentariness and inaction, and of reintegrating movement as a fundamental and joyful component of well-being for everyone—even those who thought exercise was beyond their reach. It is an invitation to redefine exercise not as a burden, but as an inexhaustible source of vitality and autonomy.
 
 ---
 
@@ -2142,7 +2148,254 @@ Section en attente de rédaction consolidée. Thèse de travail : le format `.ad
 
 Full traceability format (`PILOTE-refs.md` policy). Grouped by section.
 
-<!-- REFERENCES-CONTENT -->
+> **source:** `content/en/article.md` §References (lignes 223-470, bibliographie complète verbatim)
+
+### References for Section 1: Introduction
+
+*Note: The general claims of the introduction regarding inactivity and barriers are supported in detail in the following sections (notably 2.1.3 and 5.1). The concept of "multiplicative synergy" is developed in Section 2.1.*
+
+1. **Trost, S. G., Owen, N., Bauman, A. E., Sallis, J. F., & Brown, W. (2002).** *Correlates of adults' participation in physical activity: review and update.* Medicine & Science in Sports & Exercise, 34(12), 1996-2001.
+    - *Verifiable excerpt:* "Lack of time, perceived effort, and environmental factors are consistently identified as significant barriers to exercise initiation and adherence, suggesting that interventions reducing these initial hurdles can substantially improve engagement."
+    - *Relevance:* Supports the claims about common barriers to physical activity.
+2. **Sallis, J. F., & Owen, N. (2015).** *Physical activity and behavioral epidemiology.* In K. Glanz, B. K. Rimer, & K. Viswanath (Eds.), Health behavior: Theory, research, and practice (5th ed., pp. 195-217). Jossey-Bass.
+    - *Verifiable excerpt (faithful synthesis):* "Despite widespread knowledge of the benefits of physical activity, global prevalence rates of inactivity remain alarmingly high, with a substantial majority of adults failing to meet recommended guidelines for physical activity."
+    - *Relevance:* Supports claims about the pandemic of physical inactivity and the paradox between awareness of benefits and lack of participation.
+
+### References for Section 2: Theoretical Foundations and Rationale for JP³
+
+#### 2.1.1 Place × Pace = Crystallized Postural Correction and Unaltered Internal Rhythm
+
+**On the impact of privacy/safety on self-efficacy, anxiety, and body image:**
+
+3. **Argent, R. et al. (2018).** *Patient Involvement With Home-Based Exercise Programs.* PMC5803116.
+    - *Verified excerpt:* "Self-efficacy has been strongly linked as a psychological factor affecting treatment adherence... Self-efficacy has been closely linked with a positive association of adherence in orthopedic and musculoskeletal cohorts." and "...Depression as a barrier to adherence has strong supporting evidence, with the literature also discussing other traits including anxiety and neuroticism. These symptoms have been suggested to negatively impact adherence in general musculoskeletal and fibromyalgia populations."
+4. **Picha, K. J., et al. (2021).** *Physical Therapists' Assessment of Patient Self-Efficacy for Home Exercise Programs.* PMC7885230.
+    - *Verified excerpt:* "Physical therapists ranked the presence of anxiety or depression as having the most negative influence on adherence... Although anxiety and depression stood out in the rankings as the most negatively influential barrier hindering patient adherence, low self-efficacy ranked similarly with other barriers (e.g., pain while exercising, helplessness, and low levels of activity at baseline) as next most influential."
+5. **Zhang, Y., et al. (2023).** *Influencing factors of home exercise adherence in elderly patients with chronic diseases: a qualitative study.* Frontiers in Public Health.
+    - *Verified excerpt:* "Good exercise self-efficacy can mobilize patients' initiative, increase motivation and self-confidence in exercise rehabilitation, and thus enhance home exercise adherence." and "Privacy and feeling safe to exercise at home increased participants' confidence and willingness to maintain activity."
+6. **Nature.com (2024).** *A diary study investigating the differential impacts of Instagram social comparison on body image.* Nature Portfolio.
+    - *Verified excerpt:* "Through social comparison, social media content can also have an impact on youths' body image... social comparison on social media, especially in connection with thin-ideal imagery, is connected to overall increased body dissatisfaction." and "These external influences prompt individuals—mainly women—to engage in social comparison, wherein they assess their own bodies in relation to others, fostering a propensity to internalize the thin ideal as a standard of beauty."
+7. **Zika, M. A. (2021).** *Physical Activity as a Treatment for Social Anxiety in Adolescents.* Frontiers in Psychiatry. PMC8204712.
+    - *Verified excerpt:* "Physical activity (PA) interventions, because regular PA has been shown to be suitable for reducing anxiety in general, can be especially beneficial in youth with social anxiety, as it creates a safer, less judgmental environment."
+8. **Yi, D. et al. (2021).** *Remote Home-Based Exercise Program to Improve the Mental State, Balance, and Physical Function and to Prevent Falls in Patients with Schizophrenia.* International Journal of Environmental Research and Public Health. PMC8706949.
+    - *Verified excerpt:* "The study found that remote, home-based exercise offers psychological benefits by reducing anxiety related to body image, improving self-efficacy, and increasing adherence, compared to public/group-based activities."
+9. **Taylor & Francis (2023).** *Improving Body Satisfaction Through Fitness App Use: The Role of Social Comparison.*
+    - *Verified excerpt:* "Social comparison in fitness apps can trigger body dissatisfaction. Minimizing comparison features or utilizing private, individualized interfaces leads to improved body satisfaction and greater adherence, especially in sensitive populations."
+
+**On full attention to motor mechanics and reprogramming (deliberate practice):**
+
+10. **Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993).** *The role of deliberate practice in the acquisition of expert performance.* Psychological Review, 100(3), 363–406.
+    - *Verified excerpt:* "Deliberate practice involves highly structured activities designed to improve specific aspects of performance. It requires full attention, effort, and immediate feedback, often in a context that allows for repetition and error correction."
+11. **Wulf, G., Shea, C. H., & Lewthwaite, R. (2010).** *Motor skill learning and performance: a review of influential factors.* Medical Education, 44(1), 75-84.
+    - *Verified excerpt:* "Focusing attention on the effects of one's movements (external focus) rather than on the movements themselves (internal focus) generally results in more effective and efficient motor learning."
+
+**On improving proprioception and foot mechanics through barefoot training and visual/sensory feedback:**
+
+12. **Latorre-Román, P. A., et al. (2016).** *Effects of 12 weeks of barefoot running on foot strike patterns.* Journal of Sport and Health Science.
+    - *Verified excerpt:* "The current study confirmed that barefoot running changes foot strike patterns towards a more anterior strike and increases proprioception, leading to improved balance and foot muscle strength."
+13. **Robbins, S. E., & Gouw, G. J. (1990).** *Athletic footwear and chronic overloading/functional orthotics.* Sports Medicine.
+    - *Verified excerpt:* "Footwear can reduce sensory feedback from the plantar surface, potentially diminishing proprioceptive awareness and the ability of the foot to adapt to varied terrains and movements. Training barefoot can restore and enhance these sensory capabilities."
+
+#### 2.1.2 In Place × Place = Total Integration into Daily Life and Targeted Metabolic Load
+
+**On the benefits of "dual-tasking" and functional integration into daily life:**
+
+15. **Silsupadol, P., et al. (2009).** *Effects of single-task versus dual-task training on gait and balance performance in older adults: a randomized controlled trial.* Journal of Alzheimer's Disease, 16(4), 795-807.
+    - *Validated excerpt:* "Dual-task training is effective in improving gait speed under dual-task conditions in elderly participants with balance impairment... Explicit instruction regarding attentional focus is an important factor contributing to the rate of learning and the retention of the dual-task training effect."
+
+**On non-exercise activity thermogenesis (NEAT):**
+
+16. **Levine, J. A. (2002).** *Nonexercise activity thermogenesis (NEAT): a component of energy expenditure that can be modulated by changes in daily living.* American Journal of Clinical Nutrition, 75(4), 629-636.
+    - *Validated excerpt:* "NEAT encompasses the energy expended for everything that is not sleeping, eating, or sports-like exercise, including activities of daily living... this component can significantly impact overall energy balance and metabolic rate."
+
+**On soleus activation and the concentration of effort in vertical plantarflexion:**
+
+17. **Mohamed, O. A., & Mohamed, A. A. (2015).** *Comparison of soleus and gastrocnemius muscle activity during different types of vertical jump.* Journal of Applied Sports Science, 1(1), 1-6.
+    - *Validated excerpt:* "Soleus muscle showed the highest activation in vertical jump movements, highlighting its key role in producing propulsive force without horizontal displacement, notably during vertical movements or jumping in place."
+
+#### 2.1.3 Pace × In Place = Effortless Behavioral Activation and Natural Progression
+
+**On self-regulation of intensity through perceived exertion (RPE):**
+
+19. **National Academy of Sports Medicine. (2023).** *Rate of Perceived Exertion (RPE) Scale Explained.*
+    - *Validated excerpt:* "The rate of perceived exertion (RPE) scale is a technique used to express how hard someone feels they are working during exercise… The RPE scale can be used to measure the intensity of a wide variety of activities. Based on the answer, they can determine whether the intensity of their activity needs to be increased, decreased, or maintained based on their goals… The scale allows self-regulation of exercise intensity."
+20. **Cleveland Clinic. (2025).** *Rate of Perceived Exertion (RPE) Scale.*
+    - *Validated excerpt:* "The Rated Perceived Exertion (RPE) scale allows individuals to subjectively quantify their exercise intensity, providing a reliable method for self-regulation of effort based on internal physiological and psychological cues rather than external metrics."
+
+**On behavioral activation to overcome demotivation and friction:**
+
+21. **Soucy, I., et al. (2017).** *Efficacy of guided self-help behavioural activation and physical activity for depression: a randomized controlled trial.*
+    - *Validated excerpt:* "Physical activity and behavioural activation both effectively reduce depressive symptoms and are favourably applicable in low-intensity formats."
+22. **Orygen.org.au.** *Physical activity interventions for depression in young people.*
+    - *Validated excerpt:* "The PA intervention used behavioural activation techniques to increase current activity levels, via tailored and individualised activity plans and weekly goal setting."
+
+**On the reduction of perceived barriers to exercise initiation:**
+
+23. **Trost, S. G., Owen, N., Bauman, A. E., Sallis, J. F., & Brown, W. (2002).** *Correlates of adults' participation in physical activity: review and update.* Medicine & Science in Sports & Exercise, 34(12), 1996-2001.
+    - *Validated excerpt:* "Most [studies] confirmed the existence of factors already known to be correlates of PA… Changes in status were noted in relation to the influence of marital status, obesity, smoking, lack of time, past exercise behavior, and eight environmental variables."
+
+**On natural progression and self-optimization of intensity:**
+
+24. **Stensland, A., et al. (2021).** *Self-paced exercise training: a systematic review and meta-analysis.*
+    - *Validated excerpt:* "Self-paced exercise, where individuals control their own intensity, often leads to optimal performance and adherence by allowing the body to naturally regulate effort based on internal cues and perceived exertion, rather than external targets."
+25. **Csikszentmihalyi, M. (1990).** *Flow: The Psychology of Optimal Experience.*
+    - *Validated excerpt (faithful paraphrase):* "The state of flow… can emerge when an individual's skills are well-matched to the challenge. This state often leads to sustained engagement and a desire for continued participation and growth within the activity."
+
+#### 2.2.1 Targeted Activation of the Soleus Muscle: The "Second Heart" and Metabolic Engine
+
+**The decline of the soleus muscle with age and its functional importance:**
+
+26. **Fleg, J. L., & Lakatta, E. G. (1988).** *Role of muscle loss in the age-associated decline in maximal oxygen uptake.* Journal of Applied Physiology, 65(3), 1145-1151.
+    - *Verifiable excerpt:* "Muscle mass and strength decline with advancing age, with particular vulnerability noted in certain muscle groups such as the soleus, which is predominantly composed of slow-twitch fibers and crucial for postural control and gait stability."
+27. **Mendias, C. L., Kayupov, E., Bradley, J. P., Brooks, S. V., & Claflin, D. R. (2005).** *Changes in skeletal muscle fiber types and capillary supply in aging humans.* The Journals of Gerontology Series A: Biological Sciences and Medical Sciences, 60(8), 1020-1024.
+    - *Verifiable excerpt:* "The soleus muscle in older adults exhibits atrophy and a significant reduction in both muscle mass and strength, contributing to impaired mobility and increased fall risk."
+
+**The role of the soleus as a "second heart" (venous pump):**
+
+28. **Abu-Own, A., Scurr, J. H., & Coleridge Smith, P. D. (1994).** *Pump action of the soleus muscle in venous return in the lower limb.* European Journal of Vascular Surgery, 8(4), 419-424.
+    - *Verifiable excerpt:* "The soleus muscle, due to its powerful contraction and anatomical position, has been termed the 'peripheral heart' because of its effectiveness in pumping venous blood towards the central circulation."
+29. **Allegra, C., et al. (2007).** *The calf muscle pump: an important tool in the prevention of venous disorders.* European Journal of Vascular and Endovascular Surgery, 34(3), 357-362.
+    - *Verifiable excerpt:* "The calf muscle pump, primarily driven by the gastrocnemius and soleus muscles, is fundamental for venous return from the lower limbs. Its efficient function is essential in preventing chronic venous insufficiency and related complications."
+
+**Maximal activation of slow, oxidative soleus fibers with vertical/in-place movements:**
+
+30. **Hamilton, M. T., Hamilton, D. G., & Zderic, T. W. (2022).** *A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation.* iScience, 25(9), 104869. [DOI 10.1016/j.isci.2022.104869](https://doi.org/10.1016/j.isci.2022.104869) · PMID 36034224.
+    - *Verifiable excerpt:* "The soleus, primarily composed of slow-twitch, oxidative fibers, demonstrates sustained high activity during isometric and low-level endurance contractions, such as during repetitive plantarflexions in standing or 'soleus push-ups'."
+31. **MacIntosh, B. R., Gardiner, P. F., & McComas, A. J. (2006).** *Skeletal Muscle: Form and Function.* Human Kinetics.
+    - *Verifiable excerpt:* "Electromyographic studies show that the soleus muscle demonstrates higher activation compared to the gastrocnemius during plantarflexion exercises with the knee flexed, reflecting its role in sustained contractions and posture."
+
+**The metabolic benefits of the soleus (glucose uptake, fat oxidation, comparable to HIIT) via "soleus push-ups" or prolonged contractions:**
+
+32. **Hamilton, M. T., Hamilton, D. G., & Zderic, T. W. (2022).** *A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation.* iScience, 25(9), 104869. [DOI 10.1016/j.isci.2022.104869](https://doi.org/10.1016/j.isci.2022.104869) · PMID 36034224.
+    - *Verifiable excerpt:* "Sustained low-intensity contractions of the soleus muscle markedly increase whole-body oxidative metabolism. The resulting fat oxidation and glucose uptake are comparable to those observed during certain HIIT protocols."
+
+#### 2.2.2 Optimizing Aerobic Metabolism: Metabolic Flexibility and Foundational Endurance
+
+**The importance of aerobic capacity for cardiovascular and metabolic health:**
+
+34. **Myers, J. (2003).** *Cardiorespiratory fitness as a health measure.* Clinics in Chest Medicine, 24(2), 313-324.
+    - *Verifiable excerpt:* "Cardiorespiratory fitness (CRF) is a strong independent predictor of all-cause and cardiovascular mortality, and improvements in CRF are associated with substantial reductions in health risks, including metabolic syndrome and type 2 diabetes."
+
+**Benefits of an ultra-gradual initial ramp-up (reduction of oxygen deficit):**
+
+35. **Burnley, M., & Jones, A. M. (2007).** *Oxygen uptake kinetics as a determinant of sports performance.* European Journal of Sport Science, 7(2), 63-79.
+    - *Verifiable excerpt:* "A slow-start or progressive warm-up can effectively reduce the oxygen deficit at the onset of exercise, allowing for a more rapid attainment of steady-state oxygen uptake and enhancing overall exercise tolerance and performance, particularly in submaximal domains."
+36. **Whipp, B. J., Ward, S. A., & Wasserman, K. (1982).** *Ventilatory control of the dynamics of the oxygen uptake response to exercise.* Clinical Physiology, 2(3), 209-223.
+    - *Verifiable excerpt (faithful paraphrase):* "A gradual increase in exercise intensity at onset minimizes the initial oxygen deficit by allowing more efficient adaptation of cardiorespiratory and metabolic systems."
+
+**Mitochondrial development and fat oxidation in Zone 2 / MAF:**
+
+37. **San-Millan, I., & Bosch, A. N. (2020).** *Metabolic flexibility, mitochondria, and health in elite athletes and sedentary individuals.* Sports Medicine, 50(Suppl 1), S19-S31.
+    - *Verifiable excerpt:* "Zone 2 training, characterized by sustained exercise at an intensity where fat oxidation is maximized and lactate production is minimal, is highly effective for enhancing mitochondrial biogenesis, improving metabolic flexibility, and increasing the capacity for fat utilization as fuel…"
+38. **Seiler, S., & Tønnessen, E. (2009).** *Intervals, thresholds, and long slow distance: the role of intensity and duration in endurance training.* Sportscience, 13, 32-53.
+    - *Verifiable excerpt:* "Long duration, low-to-moderate intensity training is fundamental for building aerobic base, mitochondrial density, and fat oxidation capacity…"
+
+**The paradox of decreasing effort & endocannabinoid release in Zone 2:**
+
+39. **Fuss, J., et al. (2015).** *A runner's high: endogenous cannabinoid signaling in the absence of opioids.* PNAS, 112(42), 13193-13198.
+    - *Verifiable excerpt:* "Endogenous cannabinoid (eCB) signaling, rather than opioids, mediates the 'runner's high,' inducing feelings of euphoria and reduced anxiety. This effect is typically observed during sustained moderate-intensity exercise…"
+40. **Csikszentmihalyi, M. (1990).** *Flow: The Psychology of Optimal Experience.*
+    - *Verifiable excerpt (faithful paraphrase):* "In flow states, individuals report reduced perception of effort and time, fostering sustained involvement in moderate-intensity physical activity."
+
+#### 2.2.3 Neuromuscular and Proprioceptive Reactivation: The "True" Use of the Feet
+
+**The decline of foot function and loss of proprioception, exacerbated by modern footwear:**
+
+41. **Robbins, S. E., & Gouw, G. J. (1990).** *Athletic footwear and chronic overloading/functional orthotics.* Sports Medicine.
+    - *Verifiable excerpt:* "Athletic footwear has been shown to reduce sensory input from the plantar surface of the foot, which in turn diminishes proprioceptive awareness and alters the ability of the foot to adapt to varied terrains and movements."
+42. **Cheung, J. T. M., et al. (2016).** *Impact of footwear on foot biomechanics: a systematic review.* Journal of Foot and Ankle Research, 9(1), 1-13.
+    - *Verifiable excerpt:* "The literature suggests that modern footwear, particularly with features like cushioning and arch support, can alter natural foot mechanics, potentially leading to weakened intrinsic foot muscles and reduced proprioceptive input, thereby affecting balance."
+
+**The benefits of barefoot training (strengthening of intrinsic foot muscles, improved proprioception, balance, reduced falls):**
+
+43. **Latorre-Román, P. A., et al. (2016).** *Effects of 12 weeks of barefoot running on foot strike patterns.* Journal of Sport and Health Science.
+    - *Verifiable excerpt:* "The results showed a significant increase in forefoot strike pattern, foot proprioception, and foot muscle strength in the barefoot running group."
+44. **Ledoux, T. J., et al. (2014).** *Barefoot running: an intervention for increasing intrinsic foot muscle strength.* Journal of Sport and Health Science, 3(1), 1-8.
+    - *Verifiable excerpt:* "Barefoot running significantly increased intrinsic foot muscle strength (p < 0.05)."
+
+**The importance of the controlled "In Your Own Place" environment for barefoot practice and self-correction:**
+
+45. **Zhang, Y., et al. (2023).** *Influencing factors of home exercise adherence in elderly patients with chronic diseases: a qualitative study.* Frontiers in Public Health.
+    - *Verifiable excerpt:* "Privacy and feeling safe to exercise at home increased participants' confidence and willingness to maintain activity."
+
+**The impact of repetitive movement on neuroplasticity and the retraining of dysfunctional patterns:**
+
+46. **Kleim, J. A., & Jones, T. A. (2008).** *Principles of experience-dependent neural plasticity: implications for rehabilitation after brain damage.* Journal of Speech, Language, and Hearing Research, 51(1), S225-S239.
+    - *Verifiable excerpt:* "Repetition is a critical variable in driving experience-dependent plasticity. Intensive, repetitive practice of motor skills is essential for inducing cortical reorganization and functional recovery."
+47. **Barton, C. J., Bonanno, D. R., Carr, J., et al. (2016).** *Running retraining to treat lower limb injuries: a mixed-methods study of current evidence synthesised with expert opinion.* British Journal of Sports Medicine, 50(9), 513-526. [DOI 10.1136/bjsports-2015-095278](https://doi.org/10.1136/bjsports-2015-095278).
+
+**The role of closed eyes in amplifying body awareness:**
+
+48. **Peterka, R. J. (2002).** *Sensorimotor integration in human postural control.* Journal of Neurophysiology, 88(3), 1097-1118. [DOI 10.1152/jn.2002.88.3.1097](https://doi.org/10.1152/jn.2002.88.3.1097).
+49. **Adamo, D. E., & Alexander, M. A. (2005).** *The effect of vision on postural stability during quiet standing in healthy young adults.* Journal of Electromyography and Kinesiology, 15(6), 614-622.
+    - *Verifiable excerpt:* "Removal of visual input significantly increased postural sway (p < 0.001) for all subjects, indicating a greater reliance on somatosensory and vestibular systems for maintaining balance."
+
+### References for Section 3: Description of the JP³ Protocol
+
+#### 3.1 Core Principles and General Execution
+
+**The "talk test" as a method of self-regulating intensity:**
+
+50. **Foster, C., et al. (2008).** *The talk test as a marker of exercise training intensity.* Journal of Cardiopulmonary Rehabilitation and Prevention, 28(1), 12-16.
+    - *Verifiable excerpt:* "The talk test, based on the ability to speak comfortably during exercise, is a simple, practical, and valid method for regulating exercise intensity, particularly for maintaining moderate-intensity aerobic activity. Individuals should be able to speak in full sentences but notice a slight increase in breathing rate."
+51. **Gentil, P., et al. (2010).** *Consistency of the talk test for exercise prescription.* Journal of Strength and Conditioning Research, 24(11), 3045-3049.
+    - *Verifiable excerpt:* "The talk test is a practical and effective method for prescribing and monitoring exercise intensity, demonstrating good consistency and agreement with ventilatory thresholds, making it suitable for self-regulation during exercise."
+
+#### 3.2 Adaptations of the JP³ Protocol for Typical Clinical Cases
+
+**The elderly or frail person (fall prevention, balance, mobility):**
+
+52. **Sherrington, C., et al. (2017).** *Exercise for preventing falls in older people living in the community: an updated Cochrane systematic review.* British Journal of Sports Medicine, 51(20), 1461-1462.
+    - *Verifiable excerpt:* "Exercise interventions that challenge balance and are delivered for sufficient dose (e.g., at least 3 hours per week) are effective in preventing falls in older people living in the community."
+53. **Chou, C. H., et al. (2012).** *Effects of Tai Chi Chuan on balance and functional mobility in older adults: a systematic review and meta-analysis.* Journal of the American Geriatrics Society, 60(9), 1599-1607.
+    - *Verifiable excerpt:* "Exercises focusing on balance, such as Tai Chi, have been shown to significantly improve postural stability, reduce sway, and enhance functional mobility in older adults, thereby contributing to fall prevention."
+
+**The overweight or obese person (low-impact exercise, reduction of joint stress):**
+
+54. **Focht, B. C., et al. (2009).** *The effects of exercise intensity on physiological and psychological responses in overweight and obese adults.* International Journal of Obesity, 33(10), 1086-1094.
+    - *Verifiable excerpt:* "Lower-impact exercise modalities are often better tolerated by overweight and obese individuals due to reduced joint stress and perceived exertion, which can lead to higher adherence rates and sustained participation."
+55. **Donnelly, J. E., Blair, S. N., Jakicic, J. M., et al. (2009).** *American College of Sports Medicine Position Stand: Appropriate physical activity intervention strategies for weight loss and prevention of weight regain for adults.* Medicine & Science in Sports & Exercise, 41(2), 459-471. [DOI 10.1249/MSS.0b013e3181949333](https://doi.org/10.1249/MSS.0b013e3181949333).
+
+**The person with chronic fatigue (CFS/ME, post-COVID, burnout):**
+
+56. **Vercoulen, J. H., et al. (1998).** *The effect of graded exercise therapy on symptoms and functional status in patients with chronic fatigue syndrome.* Annals of Internal Medicine, 129(8), 629-637.
+    - *Verifiable excerpt:* "Graded exercise therapy (GET), which involves a gradual and carefully managed increase in physical activity, can be beneficial for patients with chronic fatigue syndrome when implemented with strict pacing to avoid post-exertional malaise (PEM)."
+57. **Vink, M., & Vink-Niese, A. (2020).** *The updated NICE guidance exposed the serious flaws in CBT and graded exercise therapy trials for ME/CFS.* Healthcare, 8(4), 552. [DOI 10.3390/healthcare8040552](https://doi.org/10.3390/healthcare8040552).
+
+**The person recovering from a minor injury or post-surgery (controlled movement, adapted intensity, safe rehabilitation):**
+
+58. **Khan, K. M., & Scott, A. (2009).** *Mechanotherapy: how physical therapists' prescription of exercise promotes tissue repair.* British Journal of Sports Medicine, 43(4), 247-252.
+    - *Verifiable excerpt:* "Exercise, when appropriately dosed and progressed, acts as mechanotherapy, stimulating cellular responses that promote tissue repair and adaptation. Controlled, low-impact movements are particularly beneficial in early rehabilitation phases to facilitate healing without overloading compromised structures."
+59. **Bleakley, C. M., Glasgow, P., & MacAuley, D. C. (2012).** *PRICE needs updating, should we call the POLICE?* British Journal of Sports Medicine, 46(4), 220-221. [DOI 10.1136/bjsports-2011-090297](https://doi.org/10.1136/bjsports-2011-090297).
+
+**The person with chronic sleep debt or in stimulant withdrawal (emotional regulation, improved sleep):**
+
+60. **Youngstedt, S. D., et al. (2008).** *Effects of exercise on sleep: a systematic review.* Sleep Medicine Reviews, 12(4), 323-332.
+    - *Verifiable excerpt:* "Regular physical activity, particularly moderate-intensity aerobic exercise, can significantly improve sleep quality and duration, reduce sleep latency, and decrease symptoms of insomnia, contributing to overall better sleep health."
+61. **Kredlow, M. A., Capozzoli, M. C., Hearon, B. A., Calkins, A. W., & Otto, M. W. (2015).** *The effects of physical activity on sleep: a meta-analytic review.* Journal of Behavioral Medicine, 38(3), 427-449. [DOI 10.1007/s10865-015-9617-6](https://doi.org/10.1007/s10865-015-9617-6).
+
+#### 3.3 Integration of Artificial Intelligence (AI) Coaching
+
+**The effectiveness of AI in health coaching and the personalization of interventions:**
+
+62. **Renda, A., et al. (2020).** *Artificial intelligence in personalized health coaching: a systematic review.* Journal of Medical Internet Research, 22(12), e20739.
+    - *Verifiable excerpt:* "AI-powered health coaching interventions demonstrate promising results in promoting behavior change, offering personalized feedback, and adapting strategies based on individual user data, which can significantly enhance the effectiveness of health programs."
+63. **Mühlhäuser, M., et al. (2022).** *Artificial intelligence for personalized exercise prescriptions: Current status and future directions.* Frontiers in Physiology, 13, 920151.
+    - *Verifiable excerpt:* "AI approaches in exercise prescription can analyze personal data to optimize recommendations and improve compliance and outcomes."
+
+**The role of AI in improving adherence and fidelity to protocols:**
+
+64. **Hamari, J., & Koivisto, J. (2014).** *Measuring gamification of physical activity: psychometric properties of the Gamification of Physical Activity Scale (GPAS).* Computers in Human Behavior, 39, 172-178.
+    - *Verifiable excerpt:* "Digital interventions, including those leveraging AI for personalized prompts and feedback, can significantly increase user engagement and adherence to physical activity protocols by providing timely motivation and adaptive guidance."
+65. **Dicianno, B. E., et al. (2021).** *Perspectives on the role of artificial intelligence in promoting adherence to physical activity interventions.* Disability and Rehabilitation: Assistive Technology, 16(1), 52-59.
+    - *Verifiable excerpt:* "AI-driven support mechanisms, including reminders and adaptive interactions, have potential to improve long-term adherence to physical activity programs."
+
+**The concept of a "continuous and distributed research infrastructure" or of scientific reproducibility:**
+
+66. **Ioannidis, J. P. A. (2005).** *Why most published research findings are false.* PLoS Medicine, 2(8), e124.
+    - *Verifiable excerpt:* "The reproducibility crisis in scientific research, particularly in fields relying on complex human interventions, highlights the need for more robust methodologies and transparent reporting to ensure findings are reliable and generalizable."
+67. **Wilkinson, M. D., et al. (2016).** *The FAIR Guiding Principles for scientific data management and stewardship.* Scientific Data, 3(1), 1-16.
+    - *Verifiable excerpt:* "The FAIR principles (Findable, Accessible, Interoperable, and Reusable) advocate for making scientific data and resources available in a manner that facilitates their discovery, access, and reuse, thereby promoting reproducibility and enabling novel research applications."
 
 ---
 
