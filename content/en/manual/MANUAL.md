@@ -1556,7 +1556,205 @@ The 9 clinical cases from published §3.2 + 2026-09 extensions. **NOT** reader p
 - §7.8 Neurodegenerative (Parkinson, early cognitive decline) *(`research-mecanismes` RAS section)*
 - §7.9 Metabolic (T2D, prediabetes) — forward-ref §4.3
 
-<!-- SECTION-7-CONTENT -->
+### §7.1 Sarcopenia and aging — main JGH door
+
+> **source:** `memory/project_sarcopenie_voie_royale.md` + `content/en/article.md` §3.2 cas 2 + `memory/project_jgh_presentation_voie.md`
+
+**Fait/décision** : Question ouverte par Perig le 2026-08-17 : *"le JP³ serait-il la voie royale pour les personnes âgées sarcopeniques parce que le soléaire reste un dispositif dont on connaît l'endurance et qui est evolutivement conservé pour se tenir debout? [...] une méthode bien plus prometteuse que toutes ces variations slow... aussi insoupçonné que le pouvoir du soléaire."*
+
+**Réponse** : Oui, argument structurel solide, potentiellement un des angles les plus forts de tout le framework. **Nouveau pilier candidat** pour le doc principal.
+
+**Le cœur de l'argument (trois faits) :**
+
+1. **Perte différentielle par type de fibre avec l'âge.** Fibres type II atrophient beaucoup plus vite que type I (Lexell et al. 1988, réplications multiples). À 80 ans : jusqu'à 30-50% de perte de section type II, 10-25% type I. Les quadriceps (40-50% type I) déclinent nettement plus vite que le soléaire (80-90% type I).
+
+2. **Préservation relative du soléaire.** Le soléaire garde sa composition et sa capacité oxydative beaucoup mieux que les muscles mixtes. C'est le muscle qui **reste**, structurellement, quand tout le reste s'effondre.
+
+3. **Conservation évolutive.** Bipédie humaine → spécialisation soléaire massive. Soléaire humain disproportionnellement grand vs autres primates, précisément parce que rester debout est métaboliquement coûteux et continu. Évolution a sélectionné fatigue-résistance, capacité oxydative, long-endurance. **Le soléaire est la fondation musculaire de la station debout humaine.**
+
+**Le pivot fonctionnel** : la station debout est le dernier seuil d'autonomie. Sit-to-stand test (STS) = marqueur central de fragilité. Perte de la capacité debout = basculement autonomie → dépendance. Tant qu'on tient debout, on est dans le monde des vivants fonctionnels.
+
+**Le fit spécifique JP³ :**
+- Sarcopénie épargne préférentiellement type I et soléaire
+- JP³ recrute préférentiellement soléaire en régime tonique-oxydatif (voir §4.1.3 ankle-dominant)
+- La station debout est le seuil d'autonomie
+
+→ **JP³ sollicite exactement ce qui reste, et travaille exactement ce qui compte le plus fonctionnellement.** Fit structurel, pas adaptation vaguement bienveillante. Aucune autre modalité de mouvement n'a cette double propriété (utilise ce qui est préservé + travaille la fonction pivot de l'autonomie).
+
+**Ce que les approches conventionnelles offrent et où elles butent :**
+
+- **Résistif progressif** (Fiatarone 1994, gold standard sarcopénie) : efficace, mais exige équipement, supervision, tolérance à l'effort. Compliance chute avec la fragilité. Les plus sarcopéniques sont précisément ceux qui ne peuvent ou ne veulent pas faire de la musculation.
+- **Programmes en chaise** : accessibles mais sous-activants.
+- **Nordic walking, aqua-fitness, tai chi** : sorties, groupe, transport → barrière élevée.
+
+**Le trou que JP³ comble** : pour la personne réellement fragile, à domicile, faible motivation, faible tolérance à l'effort — rien n'existe qui descend jusqu'où elle est. JP³ scale jusqu'en bas : station-debout-avec-mini-rebond, à domicile, sans matériel, pendant qu'on écoute la radio. Le **degré zéro (§5.1)** devient ici littéralement salvateur.
+
+**Appuis empiriques :**
+
+- Hamilton SPU 2022 (*iScience*) — le SPU assis fonctionne déjà chez cette population. JP³ = extension debout quand possible.
+- Kraemer 2024 (bioRxiv), Yuwono 2025 (*Sports*) — réplications SPU chez prédiabétiques (souvent âgés).
+- Nuhu & Maharaj 2017 (*Diab Res Clin Pract*) — rebounding chez sédentaires métaboliquement altérés, effets marqués.
+- Bramble & Lieberman 2004 (*Nature*) — spécialisation évolutive soléaire/glutéaux pour locomotion soutenue.
+- Lexell J et al. 1988 (*J Neurol Sci*) — différentielle fibre type I/II avec âge.
+- Grimm A et al. — atrophie sélective type II.
+- Fried LP 2001 (*J Gerontol*) — phénotype fragilité, vitesse de marche et force de préhension prédisent mortalité mieux que la plupart des biomarqueurs. Soléaire directement pertinent pour la première.
+- Fiatarone MA et al. 1994 (*NEJM*) — landmark resistance training chez nonagenaires.
+- Marcus RL 2010, Berger MJ 2019 — reviews sarcopénie, résistif efficace mais compliance limitée.
+
+**Caveats à préserver (contre la surpromesse) :**
+
+- **La sarcopénie a une composante systémique** (résistance anabolique, apports protéiques insuffisants) que JP³ seul n'adresse pas. Il faut protéines ~1,2-1,6 g/kg/j chez la personne âgée + idéalement résistif quand accessible.
+- **Risque de chute chez le très fragile.** Progression suggérée : (1) SPU assis (Hamilton), (2) JP³ en tenant un appui (mur, dossier), (3) JP³ autonome. **La progression est le programme.**
+- **JP³ ne remplace pas la musculation.** Complémentaire, mais surtout **amorçage** (§6.4). Pour beaucoup de personnes âgées, l'amorçage *est* l'obstacle principal — sortir du trou "je ne peux/veux plus rien faire" est la fonction critique.
+
+**Observation personnelle importante de Perig** : *"comme pour moi qui suis parfois si fatigué que j'ai 75 ans"*. **Le fatigué chronique de 50 ans et le sarcopénique de 75 ans partagent la même physiologie fonctionnelle** — musculature fatigable qui ne répond pas, capacité oxydative préservée mais sous-utilisée. Ce qui marche pour l'un a des chances structurelles de marcher pour l'autre. L'expérience de Perig est un signal, pas un biais.
+
+**Article §3.2 cas 2 — The elderly or frail person** : The **total safety** of "In Your Own Place" removes the fear of falling. "At Your Own Pace" allows a start so slow it is accessible even to the weakest, with the option to hold onto something for initial support. Targeted soleus strengthening and improved proprioception (barefoot) are crucial for balance and fall prevention.
+
+**JGH strategic context** : médecin de famille de Perig au JGH (Sir Mortimer B. Davis Jewish General Hospital, affilié McGill, Lady Davis Institute for Medical Research) s'est offerte de l'aider à présenter JP³ à l'hôpital (2026-08-17). Sarcopénie = centre probable du deck pour cet auditoire clinique. Progression clinique proposée : SPU assis (Hamilton) → JP³ appuyé → JP³ autonome.
+
+**Étude qui trancherait** : essai contrôlé randomisé chez adultes ≥75 ans, MMSE > 24, autonomes, sur 12 semaines. Bras : soin usuel / SPU seul / JP³ seul / SPU+JP³. Mesures : STS, vitesse de marche 4m, préhension, masse musculaire par DEXA, HbA1c, questionnaire fragilité. ~120 sujets. Faisable en collaboration avec un centre gériatrique.
+
+---
+
+### §7.2 Osteoporosis — second JGH door
+
+> **source:** `memory/project_osteogenic_jgh_seconde_porte.md`
+
+**La donnée** : les exercices de type "heel drop" (se hausser sur pointes puis relâcher brusquement sur talons) produisent environ **3× le poids du corps** au niveau de la hanche. Bassey & Ramsdale ont documenté un **maintien de la densité osseuse chez femmes ménopausées** pratiquant cet exercice. Seuil ostéogénique : ~2× BW en force de réaction au sol. Fréquences de charge autour de 10-20 Hz stimulent la formation osseuse plus efficacement que des charges basse fréquence.
+
+**Pourquoi c'est structurellement nouveau**
+
+Le pilier **sarcopénie** (§7.1) était le seul pilier clinique dur pour JGH. Il repose sur : type I épargné, soléaire épargné, station debout comme pivot autonomie.
+
+Le pilier **ostéoporose** est un pilier **parallèle et complémentaire**, avec un fit structurel tout aussi propre :
+- **Population** : femmes post-ménopause = enjeu de santé publique majeur (fractures fémorales = mortalité et perte d'autonomie), très étudiée cliniquement
+- **Mécanisme JP³** : impact talonnier ~3× BW à 10-20 Hz = pile dans la fenêtre ostéogénique documentée
+- **Modalité** : station debout stationnaire, pieds-nus, quelques minutes/jour — feasibility clinique élevée (pas d'équipement, pas de risque de chute lié à un déplacement)
+- **Métriques dures** : DEXA (densitométrie osseuse) = mesure standardisée, permet essai clinique clean avec critère d'évaluation quantitatif — plus facile à publier qu'un essai sarcopénie
+- **Sécurité** : forces bien en-deçà de courses classiques ou pliométrie, mais au-dessus du seuil ostéogénique — sweet spot argumentable
+
+**Recoupements avec le corpus existant**
+
+- **Corde à sauter** (cf. `project_corde_a_sauter_cousine_spu`) — l'"osteogenic loading pour sarcopénie" y était déjà mentionné comme corpus documenté à puiser sélectivement. Le talon-activateur JP³ récupère cet argument en régime plus doux (pas de saut complet, station debout).
+- **Sarcopénie voie royale** — les deux piliers ne se cannibalisent pas : une même personne âgée peut avoir sarcopénie ET ostéoporose. Le JP³ adresse les deux **par le même geste**, ce qui est un argument de simplicité clinique.
+- **Talon-activateur** — l'effet ostéogénique est intrinsèque à ce mode d'entrée (talon comme point d'impact), il n'exige pas de variante spécifique.
+
+**Sources à consolider**
+
+- **Bassey & Ramsdale** (heel drop, femmes ménopausées) — cité dans Perplexity 2026-09-25. Retrouver la référence exacte et lire l'étude.
+- **PMC13541840, PMC11481284** — articles cités par Perplexity sur charge osseuse et fréquences de chargement. À lire.
+- **Melioguide "heel drop exercise"** — source pop mais utile comme démonstration que l'exercice a déjà une existence clinique reconnue. Confirme qu'il ne faut pas "inventer" mais **rattacher** JP³ à un exercice connu.
+
+**Stratégie JGH**
+
+**Option 1 — Ostéoporose comme *lead* du deck.** DEXA est plus dur/moins contesté que les mesures sarcopénie fonctionnelles. Un essai pilote ostéoporose serait plus facile à monter et à publier. Pourrait devenir la **porte d'entrée** JGH plutôt que la sarcopénie.
+
+**Option 2 — Deux piliers présentés conjointement.** JP³ comme **intervention double-effet** (sarcopénie + ostéoporose) chez le sujet âgé — attractif parce qu'un seul protocole adresse deux problèmes co-morbides classiques.
+
+**Option 3 — Sarcopénie reste lead, ostéoporose comme "bonus mécanistique".** Plus prudent : ne pas diluer le message. À reconsidérer si les interlocuteurs JGH ont un intérêt affiché pour l'ostéoporose (endocrinologues, rhumatologues, gériatres travaillant sur les fractures).
+
+**Question ouverte**
+
+Le talon-activateur *unipodal* (bondissement sur une jambe) génère probablement des forces beaucoup plus élevées (~4-6× BW ?) — donc **plus ostéogénique** mais moins accessible/plus risqué chez sujet âgé fragile. Y a-t-il un point de compromis : bipodal en début de séance (sécurité, entrée dans la fenêtre ostéogénique) puis quelques bondissements unipodaux calibrés (pic de charge focalisé) ? Corrèle avec `project_warmup_piedsnus_prematch.md` (bondissement unipodal comme test étalon-or RSI>0.5).
+
+---
+
+### §7.3 Depression, anxiety, perceived fatigue
+
+> **source:** `content/en/article.md` §3.2 cas 3, 5, 6
+
+**Cas 3 — The depressed or deeply unmotivated person:** JP³ acts as a **"founding psychological gesture"**, the "first possible act" of behavioral activation. The absence of barriers (no equipment, no judgment) and the ultra-slow "At Your Own Pace" make it possible to break the cycle of inactivity without willpower, offering immediate benefits for emotional regulation.
+
+**Cas 5 — The person suffering from body shame / social anxiety:** The intimacy of "In Your Own Place" completely eliminates social exposure and external judgment. The person can exercise with full confidence, in pajamas if they wish, without worrying about appearance or performance relative to others. This fosters a focus on internal sensations and well-being.
+
+**Cas 6 — The anxious or stressed person who cannot "meditate":** The rhythmic, repetitive "Jogging in Place" movement acts as a **somatic anchor**, helping to redirect attention away from rumination and induce a state of "active meditation" or "flow state" without formal cognitive effort. "At Your Own Pace" (light-to-moderate intensity) produces immediate anxiolytic effects without the risk of the transient anxiety spike associated with intense exercise.
+
+---
+
+### §7.4 CFS / long COVID
+
+> **source:** `content/en/article.md` §3.2 cas 7
+
+**Cas 7 — The person with chronic fatigue (CFS/ME, post-COVID, burnout):** "At Your Own Pace" is essential for strict **pacing**, making it possible to avoid post-exertional crashes. Sessions can be extremely short (a few minutes) and of minimal intensity, increasing very gradually. JP³ offers a way to maintain gentle mitochondrial activation without exceeding aerobic energy capacity, supporting progressive reconditioning.
+
+---
+
+### §7.5 Chronic pain, injury rehab
+
+> **source:** `content/en/article.md` §3.2 cas 8 + `memory/project_malalignment_syndrome_schamberger.md`
+
+**Cas 8 — The person recovering from a minor injury or post-surgery (with medical clearance):** The controlled, low-impact "Jogging in Place" movement allows for safe rehabilitation. "At Your Own Pace" ensures intensity is always within the tolerance zone. Strengthening the soleus and improving proprioception are crucial to restoring function and preventing future injury—all in an environment free of the risk of falls or collisions.
+
+**Cas clinique Perig — Malalignment Syndrome (Schamberger)**
+
+**Nom clinique du pattern** : **Malalignment Syndrome** décrit par Wolf Schamberger — combinaison de **rotation postérieure innominée gauche** (retrait vers l'arrière de la jambe) + **outflare gauche** (rotation externe du pied, écartement des jambes). Extrêmement fréquent (rotation innominée : 80–85% des déséquilibres pelviens ; outflare/inflare : 40–50%). Diagnostic manuel par palpation comparative des repères pelviens (EIAS, EIPS, crête iliaque, pubis) et test assis-couché.
+
+**Mécanisme signature confirmé** : la chute jambe-piège dans un trou à 14 ans (documentée mémoire racine SI instability) correspond **exactement** au mécanisme lésionnel le plus fréquemment cité — force de torsion asymétrique en cisaillement sur la SI du côté de la jambe piégée → entorse SI traumatique → laxité résiduelle permanente si non traitée précocement → schéma compensatoire s'installe comme nouvelle norme posturale sur 35 ans. Cas documenté PMC : 14 ans de dysfonction récurrente traitée avec succès — chronicité ancienne reste réversible.
+
+**Correction — Technique d'Énergie Musculaire (MET) Schamberger** :
+- *Rotation postérieure gauche* : thérapeute résiste à la flexion active de hanche gauche → contraction isométrique iliaque + droit fémoral → traction antérieure sur l'ilion gauche. Variante par effet de levier : extension passive du fémur jusqu'à butée acétabulaire postérieure.
+- *Outflare gauche* : thérapeute résiste à l'abduction/rotation externe active du genou gauche partiellement fléchi → inverse fonctionnellement origine/insertion piriforme + grand fessier → pivot antérieur de l'ilion dans le plan horizontal.
+- Ordre : traiter les deux dans la même séance, revérifier après chaque correction.
+
+**Ceinture SI** : la ceinture stabilise (compression → *force closure*) mais **ne corrige PAS la position asymétrique**. Piège critique documenté : sans alignement préalable, la ceinture *verrouille la mauvaise position*. Méthode juste : activer stabilisateurs (coussin entre genoux, contraction fessiers debout) avant fixation, puis positionner juste au-dessus du grand trochanter et sous EIAS (≈2 pouces d'espace). Trop large → presse la partie la plus large du bassin, *peut aggraver l'outflare*. Recommandation Schamberger : MET d'abord, ceinture juste après pour maintenir le gain.
+
+**Corrections d'interprétations antérieures** :
+- *Appui préférentiel gauche* ≠ « droitier standard » — c'est une **compensation SI** : le corps charge le côté instable pour rapprocher les surfaces articulaires et le stabiliser (Schamberger). Interprétation précise, pas latéralité banale.
+- *Rotation externe pied gauche seule* → n'est qu'un signe visible de surface ; le patron réel est pelvien (outflare + rotation postérieure innominée), pas un problème de pied.
+
+**Débat scientifique à connaître** : Sturesson et al. mesurent un mouvement SI très faible (≈2,5° rotation, 0,7 mm translation) et aucune différence entre articulations symptomatiques et asymptomatiques → remise en cause de la capacité à palper/corriger manuellement une « position ». Le modèle Schamberger coexiste avec cette réserve sans consensus tranché. À porter honnêtement quand on présentera ce cadre à un professionnel — pas comme dogme.
+
+**Action recommandée** : évaluation directe du bassin par ostéopathe ou physio **formé au modèle Schamberger** (pas juste ostéo générique). À rappeler proactivement au prochain RDV médecin famille JGH — cadre à mentionner par nom, avec référence à la chute, pour orienter l'ordonnance.
+
+**Pointeur document Perplexity** : `facts/perplexity-malalignment-schamberger-2026-09-28.md` — conversation complète en 6 tours avec Perplexity le 2026-09-28 : identification du syndrome, corrections MET détaillées, vidéos (YouTube + Michigan State University College of Osteopathic Medicine), lien instabilité SI + laxité, mécanisme chute, ceinture SI. Contient 26+ références académiques et cliniques.
+
+---
+
+### §7.6 Pediatric and adolescent
+
+> **source:** *à développer — pas de source consolidée en mémoire à ce jour*
+
+Section en attente de matériau. L'extension JP³ à l'adolescent (sédentarité scolaire, lien avec l'école primaire et le lycée, intégration à la pause déjeuner, variante "furtif" en chambre pour l'ado qui refuse l'exposition sociale corporelle) est à construire en lien avec un terrain. Candidat naturel : école ou clinique pédiatrique via introduction JGH.
+
+---
+
+### §7.7 Pregnancy and postpartum
+
+> **source:** *à développer — pas de source consolidée en mémoire à ce jour*
+
+Section en attente de matériau. Angles plausibles à documenter : (1) grossesse — alternative à la marche extérieure quand mobilité/équilibre deviennent limitants, régime spring-mass doux adapté, degré zéro accessible jusqu'au terme ; (2) postpartum — récupération plancher pelvien, remise en charge progressive, intégration avec soin nourrisson (bébé porté, pendant sieste). À documenter en lien avec kinésithérapeute périnatal.
+
+---
+
+### §7.8 Neurodegenerative (Parkinson, early cognitive decline)
+
+> **source:** `content/fr/research-mecanismes.md` §3.4.5 RAS/Parkinson (lignes 219-226)
+
+#### Preuve par la pathologie — Parkinson et Rhythmic Auditory Stimulation
+
+La **RAS** (Rhythmic Auditory Stimulation, développée par Thaut) utilise un métronome ou de la musique pour restaurer la marche chez les patients Parkinson. Mécanisme documenté : la RAS **bypasse les ganglions de la base défaillants** via les voies **cérébelleuses** (revue 2025).
+
+Extrait :
+> *"Music therapy provides external rhythmic stimulation, recruits neural networks to bypass the basal ganglia and synchronizes gait with external rhythms through auditory-motor neural networks."*
+
+Cette preuve par la pathologie est puissante : elle démontre que **le rythme est un mécanisme régulateur primaire**, capable de compenser une défaillance neurologique majeure. Si le rythme peut restaurer la marche d'un parkinsonien, on peut raisonnablement supposer qu'il peut resynchroniser un cerveau simplement fatigué ou stressé.
+
+**Application JP³** : le pattern rythmique spontané du régime spring-mass ankle-dominant (fréquence propre de rebond ~2-3 Hz) fournit un entraînement locomoteur-rythmique à domicile, sans la contrainte du déplacement (risque de chute écarté par le "In Place"). Pour le patient Parkinson, JP³ pourrait servir de rail rythmique quotidien, cumulatif, administré à l'autonomie du patient — complémentaire aux séances supervisées de physiothérapie-RAS.
+
+---
+
+### §7.9 Metabolic (T2D, prediabetes) — forward-ref §4.3
+
+> **source:** `content/en/article.md` §3.2 cas 1, 4, 9 + forward-ref §4.3 (bénéfices multi-domaines métaboliques)
+
+**Cas 1 — The "hyper-busy" person:** The "Jogging in Place × In Your Own Place" synergy enables **seamless integration** with household tasks (dishes, laundry, reading). Exercise is no longer a "waste of time" but a "productivity amplifier." **Micro-bouts** (2–5 minutes) are ideal for turning downtime into productive movement sessions.
+
+**Cas 4 — The overweight or obese person:** The low-impact "Jogging in Place" movement reduces joint stress, allowing exercise without excessive pain. "At Your Own Pace" enables a progression in which intensity is always matched to current capacity, avoiding injury and discouragement. **Maximal proprioceptive feedback** (barefoot, mirror) helps correct dysfunctional gait patterns reinforced by thousands of incorrect repetitions.
+
+**Cas 9 — The person with chronic sleep debt or in stimulant withdrawal:** JP³ helps **reconnect with the body's fatigue signals** and regulate emotions, which can foster more restorative sleep. By avoiding overexertion (thanks to "At Your Own Pace"), it supports recovery and recalibration of the nervous system.
+
+**Forward-ref §4.3** : bénéfices métaboliques détaillés — HbA1c, soleus pump, glycémie postprandiale, famille SPU (Hamilton), régime tonique-oxydatif non-fatigant compatible avec usage quotidien pluriquotidien.
 
 ---
 
