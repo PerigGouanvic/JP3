@@ -1888,7 +1888,247 @@ Cette preuve par la pathologie est puissante : elle démontre que **le rythme es
   - §8.5.2 Open empirical questions *(migrated from article.md §5.5)*
   - §8.5.3 The `.ada` format as native anti-hallucination carrier
 
-<!-- SECTION-8-CONTENT -->
+### §8.1 Paradigm shift
+
+> **source:** `content/en/article.md` §5.1
+
+JP³ is not merely a new exercise modality; it represents a break with the traditional paradigms of physical activity promotion, which are often centered on intensity, performance, outdoor environments, or discipline.
+
+- **Against "No Pain, No Gain" and the Intensity Bias:** Fitness culture glorifies intensity (HIIT, exhaustion) and physical challenges. JP³, through "At Your Own Pace" and its ultra-slow start, contradicts this notion. It proves that an intensity perceived as "too easy" or "boring" at first is actually the key to **extended duration and sustainable adherence**, enabling physiological and psychological benefits to be reached without the pressure of performance.
+- **Overcoming Psychological and Social Barriers:** The synergy of the "three P's" eliminates the major obstacles that keep the majority of people from exercising: the need to change clothes, travel, pay, face social judgment, or feel exposed. This **radical psychological accessibility** is a key innovation, enabling entire populations (body shame, social anxiety, deep demotivation) to engage in physical activity for the first time or in a sustained way.
+- **Integration and Productivity:** Unlike forms of exercise that require dedicated, separate time, JP³ turns "lost" time (household chores, waiting, sedentary work) into physical activity time. It becomes a "task multiplier" and a daily working tool, improving concentration and creativity.
+
+---
+
+### §8.2 Comparison with adjacent practices
+
+> **source:** `content/en/article.md` §5.2 + `content/fr/research-singularite.md` §2–3 matrice complète
+
+**Article §5.2 — Comparison with Other Similar Approaches**
+
+Although jogging in place or walking in place already exist, JP³ stands apart through its synergistic conceptualization and specific foundations:
+
+- **Differentiation from Walking in Place:** Walking in place is often used for functional mobility or warm-up. JP³, with its focus on self-regulated "Pace," barefoot practice, and the goal of emotional regulation and sustained metabolic activation, goes far beyond a simple functional exercise. It targets deeper neurophysiological and biomechanical mechanisms.
+- **Differentiation from Exercise-as-Chore:** Many interventions aim to "motivate" people to exercise. JP³ aims to make exercise intrinsically rewarding and frictionless, capitalizing on boredom as the driver of increased intensity and on neurochemical release to create a euphoric experience—the "runner's high."
+
+**Research-singularite §2 — dépouillement par famille (verbatim FR)**
+
+Neuf pratiques et courants ont été investigués (recherche web dédouble, citations directes). Ils se regroupent en quatre familles selon leur mode de convergence potentielle avec JP³.
+
+#### 2.1 Rivaux locomoteurs — la famille la plus proche
+
+**2.1.1 Slow jogging (Hiroaki Tanaka, "niko-niko pace") — rival majeur**
+
+Méthode d'exercice japonaise développée par le Pr Hiroaki Tanaka (Fukuoka University). Le protocole tient en une phrase : *courir aussi lentement qu'on puisse tenir un sourire* ("niko niko" = sourire). Intensité ~50% VO2 max. Frappe mid-foot. Aucune cadence prescrite, aucun FC cible, aucune montre requise.
+
+Citation-clé (Magical Shoes / NFPT) :
+> *"Niko niko pace encompasses what Tanaka considers a smiling cadence that helps lower blood pressure while boosting fitness. Tanaka's theory: Run only as fast as your body lets you smile. For most beginners it means jogging at a walking pace."*
+
+Positionnement A/B/C : A ✓ · B ✓ · C ~ (plateau niko-niko, pas trajectoire x³)
+
+Convergences avec JP³ : lenteur radicale, feedback non-métrique, doctrine anti-"no pain no gain", intention de "déplaisir zéro", ancienneté. Divergences : **déplacement spatial** vs. verticalité pure ; codification "niko niko" vs. protocole anonyme ; visée souvent progressive vs. absence totale de destination.
+
+**Verdict** : rival le plus sérieux. **Sur les axes A et B, slow jogging est quasi-équivalent à JP³.** La divergence "in place vs. déplacement" est matérielle mais non-décisive du point de vue du dispositif d'accès.
+
+**2.1.2 Marching in place (protocole physiothérapie / ACSM) — précédent institutionnel**
+
+Marche sur place prescrite dans les protocoles de réhabilitation et de fitness grand public. A ✓✓ · B ~ · C ✓ (dosé, plafonné). Précédent institutionnel le plus proche de JP³ sur les 3 P mais reste encadré, protocolisé.
+
+**2.1.3 Walk at Home (Leslie Sansone) — précédent commercial**
+
+Franchise fitness US. Marche sur place vidéo avec coach. A ~ · B ✗✗ · C ✗. Satisfait 2 des 3 P mais échoue sur "at your own pace" (tempo imposé) et maintient une métrique forte.
+
+**2.1.4 Rebounding / mini-trampoline — fausse proximité**
+
+Saut vertical sur mini-trampoline. A ~ · B ✗ · C ✗. L'équipement interfère avec l'écoute du corps et supprime les foot-strike waves.
+
+**2.1.5 Chi Running (Danny Dreyer) — convergence philosophique, divergence structurelle**
+
+Principes Tai-chi appliqués à la course. A ~ · B ✗ · C ✗. Cadence prescrite (170-180 pas/min) = paradigme métrique même si "mindful".
+
+#### 2.2 Rivaux méditatifs — parents lointains
+
+**2.2.1 Kinhin (zen)** — A ✓ · B ✓ · C ~ — faux ami structurel, intensité physique quasi-nulle.
+**2.2.2 Mindful walking (MBSR, Kabat-Zinn)** — A ~ · B ✓ · C ~ (réfute plutôt) — 23-61% dropout chez déprimés.
+**2.2.3 Tai-chi** — A ✓ · B ✓ · C ~ — concurrent sérieux A/B, réfute C (pas inversion épistémologique).
+**2.2.4 Qi-gong** — A ✓ · B ✓ · C ✗ — aucune donnée en dépression sévère.
+**2.2.5 Feldenkrais / Alexander** — A ~ · B ✓ · C ✗ — faux amis, cognitifs, intensité physique quasi-nulle.
+
+#### 2.3 Rivaux philosophiques — courants récents anti-métriques
+
+**2.3.1 Intuitive Exercise / Intuitive Movement** — A ✓ · B ✓✓✓ · C ✓✓ — cadre large, pas vertical ni spécifique. JP³ comme instanciation cardiovasculaire spécifique.
+**2.3.2 Joyful Movement** — A ✓ · B ✓✓✓ · C ✓✓ — cadre philosophique large popularisé TikTok/Instagram depuis 2023.
+**2.3.3 "Quiet fitness" / "Slow fitness"** — tendance d'industrie post-COVID, pas précédent codifié.
+
+#### 2.4 Rivaux "populations à haut seuil d'entrée" — le vrai gisement conceptuel
+
+**Découverte majeure** : la classe conceptuelle "exercice praticable depuis l'état détruit" existe dans la littérature, fragmentée en silos disjoints sans terminologie unifiée.
+
+**2.4.1 Pacing (ME/CFS, Long COVID) — Energy Envelope Theory (Leonard Jason)**
+
+Principe : rester en-dessous du seuil d'exacerbation symptomatique (PEM). PACELOC trial (2024-2025) : réduction 15%/semaine de fréquence des crashes. WHO et NICE : GET non recommandé/contre-indiqué en PEM. Convergence forte avec JP³ (écoute intéroceptive sous seuil, rejet intensité, effets par durée). Divergence : très prudent (sub-marche), hautement cognitif. **Point d'articulation** : si JP³ fonctionne en dépression, ce n'est pas comme GET — c'est comme pacing.
+
+**2.4.2 Behavioral Activation (dépression — Jacobson, Martell, 2001+)**
+
+"Change will be easier when starting small". Décomposition en étapes atomiques. **Verdict** : **JP³ peut être décrit comme l'instanciation cardiovasculaire du principe BA**.
+
+**2.4.3 Minimum Effective Dose (Fisher, Steele)** — force training, divergence : dédié force, hautement dosé.
+
+**2.4.4 Chair-based cardio / seated aerobics (gériatrie)** — A ✓✓✓ · B ~ · C ✓✓✓ — divergence critique : pas vertical (centrale pour perfusion pulsée).
+
+**2.4.5 Daoyin adaptatif (TCM classique — 2000+ ans)** — *"reinforcing Daoyin for deficient people, treating Daoyin for people who are ill"*. Point d'ancrage historique.
+
+**2.4.6 NEAT (Levine, Mayo Clinic)** — A ✓✓✓ · B ✓ · C ✓✓✓ — dispersé (pas protocole localisé), non-vertical structurellement.
+
+#### 3. Matrice synthétique — les 3 axes contre les 21 pratiques
+
+| Pratique | A | B | C (x³) | Verticalité | Cardio | Précédent | Dépression sévère |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **JP³ (hypothèse)** | ✓✓✓ | ✓✓✓ | ✓✓✓ | ✓ | ✓ | **NON** | À tester |
+| Slow jogging (Tanaka) | ✓ | ✓ | ~ | ✗ | ✓ | Oui | Non |
+| Marching in place (physio) | ✓✓ | ~ | ~ | ✓ | ✓ | Oui | Non |
+| Walk at Home | ~ | ✗✗ | ✗ | ✓ | ✓ | Oui | Non |
+| Rebounding | ~ | ✗ | ~ | ✓ | ✓ | Oui | Non |
+| Chi Running | ~ | ✗ | ~ | ✗ | ✓ | Oui | Non |
+| Kinhin | ✓ | ✓ | ✗ | ~ | ✗ | Oui | Non |
+| Mindful walking (MBSR) | ~ | ✓ | ✗ | ✗ | ✗ | Oui | Oui — dropout ↑ |
+| Tai-chi | ✓ | ✓ | ~ | ~ | ~ | Oui | Oui — effet oui, C non |
+| Qi-gong | ✓ | ✓ | ~ | ~ | ~ | Oui | Non |
+| Feldenkrais / Alexander | ~ | ✓ | ✗ | ~ | ✗ | Oui | Non |
+| **Intuitive Exercise** | ✓ | ✓✓✓ | ~ | ✗ | ~ | Oui | Non |
+| **Joyful Movement** | ✓ | ✓✓✓ | ~ | ✗ | ~ | Oui | Non |
+| Peloton / digital fitness | ✗✗ | ✗✗✗ | ✗ | ~ | ✓✓ | Oui | Non |
+| Fitness snacks (Gibala) | ~ | ✗ | ✗ | ~ | ✓✓ | Oui | Non |
+| Zone 2 (San Millán / Attia) | ✗ | ✗ | ✗ | — | ✓✓ | Oui | Non |
+| Warm-up conventionnel | ~ | ✗ | ✗ | — | ~ | Oui | Non |
+| NEAT | ✓✓✓ | ✓ | ✗ | ✗ | ~ | Oui | Non |
+| Chair-based cardio | ✓✓✓ | ~ | ~ | ✗ | ~ | Oui | Non |
+| **Pacing (ME/CFS)** | ✓✓ | ~ | ✗ | ✗ | ~ | Oui | Oui (CFS, Long COVID) |
+| **Behavioral Activation** | ✓ | ✓ | ✓ | ~ | ~ | Oui | Oui |
+| Minimum Effective Dose | ~ | ✗ | ✗ | ✗ | ✗ | Oui | Non |
+| Daoyin adaptatif (TCM) | ✓ | ✓ | ~ | ~ | ~ | Oui (2000 ans) | Non |
+
+**Lecture** : aucune pratique ne combine A + B + C x³. JP³ est le seul candidat au triplet complet.
+
+**Verdict honnête — §4.4 research-singularite : JP³ comme point de synthèse trans-silo** — pas un mécanisme nouveau, mais une **cristallisation** de principes dispersés (inversion épistémologique du pacing, "starting small" de la BA, minimum viable du MED, écoute non-métrique de l'intuitive movement, verticalité pulsée de la course lente, accessibilité radicale du Daoyin adaptatif) en un dispositif praticable.
+
+---
+
+### §8.3 Limitations and open questions
+
+> **source:** `content/en/article.md` §5.3
+
+Despite its advantages, JP³ has certain limitations and requires clinical considerations:
+
+- **Formal Empirical Validation:** Although JP³ draws on well-established scientific principles (soleus physiology, Zone 2, proprioception, behavioral activation), its validation as an integrated protocol requires controlled clinical studies.
+- **Overload Potential:** Although "At Your Own Pace" minimizes this risk, individuals with specific medical conditions (e.g., uncontrolled cardiac disorders, certain acute injuries) should always consult a healthcare professional before starting. The risk of Post-Exertional Malaise (PEM) in patients with chronic fatigue must be managed with extremely careful pacing.
+- **Perceived Monotony:** For some, the repetitive nature of jogging in place may initially generate boredom. However, experience shows that this boredom is often transient and turns into a driver of optimization or an opportunity for a "flow state."
+- **Environmental Quality:** Although "In Your Own Place" is an advantage, an unsafe environment (slippery floors, clutter) or an excessively noisy one could detract from the experience.
+
+**Open empirical questions (consolidées) :**
+
+- Tanaka a-t-il testé slow jogging en dépression sévère ou état détruit ? (Pas trouvé en recherche 2026-08-15 ; à vérifier plus finement.)
+- "Slow jogging pratiqué sur place" est-il déjà une variante nommée par Tanaka ou ses successeurs ?
+- **Aucun silo ne teste directement l'hypothèse que l'état détruit *facilite* l'entrée** (axe C trajectoire x³). Si JP³ était empiriquement validé sur ce point, ce serait une contribution scientifique originale indépendamment des mécanismes physiologiques (déjà connus).
+
+---
+
+### §8.4 Implications for clinical practice — JGH as first live test
+
+> **source:** `content/en/article.md` §5.4 + `memory/project_jgh_presentation_voie.md`
+
+**Article §5.4** : JP³ offers significant opportunities for various healthcare professionals:
+
+- **General Practitioners and Geriatricians:** A simple tool to prescribe to counter sedentariness, prevent falls, and improve metabolic health, even in frail or poorly mobile patients.
+- **Psychiatrists and Psychologists:** A powerful behavioral-activation modality for depression and anxiety, offering immediate emotional benefits and improved adherence.
+- **Physiotherapists and Occupational Therapists:** A rehabilitation protocol for foot function, proprioception, and balance, adaptable to different phases of recovery.
+- **Exercise Specialists:** An innovative approach for reaching populations far removed from exercise and for integrating physical activity into daily life in a sustainable way.
+- **AI Coaching Potential:** The integration of AI prompts offers a scalable solution for personalizing coaching, improving protocol fidelity, and supporting self-regulation, making JP³ applicable at scale.
+
+**Voie stratégique JGH (fiche project_jgh_presentation_voie, 2026-08-17)**
+
+Perig a révélé le 2026-08-17 que sa **médecin de famille**, qui travaille à l'**Hôpital général juif de Montréal** (Sir Mortimer B. Davis Jewish General Hospital / HGJ / JGH), lui a offert de l'aider à **présenter son travail sur JP³ à l'hôpital**. Formulation : *"j'ai complètement oublié de dire que mon médecin de famille qui travaille à l'hôpital juif de Montréal m'a dit qu'elle allait m'aider à présenter mon travail à l'hôpital. il est là le chemin."*
+
+**Pourquoi le JGH est un terrain particulièrement fertile :**
+
+1. **Institution académique affiliée McGill** avec le **Lady Davis Institute for Medical Research** — recherche substantielle en vieillissement et métabolique.
+2. **Division de médecine gériatrique active** — la thèse "JP³ voie royale sarcopénie" (§7.1) tombe pile dans leur champ d'intérêt clinique.
+3. **Environnement bilingue** — correspond au contexte francophone/anglophone de Perig.
+4. **Écosystème clinique diversifié** — endocrinologie, cardiologie, médecine interne, médecine familiale coexistent.
+
+**Format livrable** : deck 30-45 min (grand rounds ou seminar interdépartemental) + éventuellement one-page brief pour circulation préparatoire. Article existant reste référence de fond.
+
+**Structure suggérée pour le deck :**
+
+1. **Le trou clinique** : fragilité + problème de compliance à la musculation chez la personne âgée → non-couvert par les approches existantes.
+2. **Le fit physiologique** : sarcopénie épargne préférentiellement type I / soléaire préservé / station debout = pivot autonomie / JP³ recrute exactement ce qui reste.
+3. **Le dispositif** : brève description JP³, degré zéro, auto-enforcement postural, 3 P.
+4. **Placement dans l'écosystème thérapeutique** : amorçage complémentaire, pas substitut à la musculation ni aux protéines. Progression clinique SPU assis → JP³ appuyé → JP³ autonome.
+5. **Proposition concrète** : pilote de faisabilité, étude observationnelle chez patients gériatriques du JGH, ou collaboration ciblée à définir selon l'intérêt.
+6. **Ce que Perig apporte / ce qu'il demande** — question ouverte, format d'engagement discuté.
+
+**Enrichissement 2026-09-25 — deux ajouts substantiels** :
+1. **Ostéoporose comme seconde porte parallèle à sarcopénie** (§7.2). Talon-activateur JP³ génère ~3× BW à 10-20 Hz (Bassey & Ramsdale), pile dans la fenêtre ostéogénique. DEXA = métrique dure.
+2. **Argument adhérence renforcé par le régime incident** (§5.6). "10 min matin et soir" est un mur pour beaucoup ; le régime incident propose quelques chocs de talon à chaque passage à la cuisine — protocole diffus, quasi-gratuit décisionnellement.
+
+**Anti-scope** : ne PAS présenter comme "j'ai découvert un traitement pour la sarcopénie". Formulation cible : *"un dispositif candidat, avec un fit structurel prometteur pour cette population, qui mérite une évaluation pilote"*.
+
+**Réordonnancement de la stratégie phasée :**
+
+1. **JGH présentation** (semaines/mois qui viennent, avec la médecin de famille) → écho, questions, partenaires de recherche potentiellement identifiés
+2. **Pilote institutionnellement facilité** — si le JGH accroche, un pilote CGM ou observationnel devient beaucoup plus faisable.
+3. **Hamilton** avec appui institutionnel réel (co-signature d'un chercheur du Lady Davis ou de gériatrie), pas cold outreach.
+
+---
+
+### §8.5 Research agenda
+
+#### §8.5.1 Hamilton outreach — soleus push-up continuity
+
+> **source:** `memory/project_version_article_hamilton.md`
+
+**Action à réaliser** : créer une version dédiée de l'article JP³ (en plus de la version publique standard) conçue pour une **prise de contact directe avec Marc Hamilton** — l'auteur du Soleus Pushup (SPU, iScience 2022) — et lui proposer une collaboration.
+
+Formulation exacte de Perig (2026-08-17) : *"à noter : créer une version de l'article expressément pour demander une collaboration avec Hamilton."*
+
+**Why:** Le cluster de recherche 2026-08-15/17 a fait émerger que JP³ est probablement un **membre de la famille SPU en régime debout** (`project_famille_spu_via_negativa.md`, §6.2), avec plusieurs ajouts que le SPU sacrifie par design :
+1. Auto-enforcement postural (adresse la dépendance au feedback EMG identifiée par les réplications Kraemer 2024, Yuwono 2025)
+2. Engagement de la chaîne posturale profonde (§4.1)
+3. Accessibilité motivationnelle (envie de sortir, jamais assis devant un écran)
+4. Composante cardio modérée (hypothèse de potentiation métabolique)
+
+**Ce que la version dédiée doit contenir :**
+
+- **Cadre d'ouverture** : reconnaissance explicite du travail de Hamilton comme fondation ; positionnement de JP³ comme extension de la famille SPU, pas comme dispositif rival.
+- **Formulation via negativa** : SPU et JP³ partagent un noyau négatif de design (exclusion de la musculature phasique-glycolytique fatigable) ; diffèrent sur les positifs (isolation par flexion du genou vs auto-enforcement postural).
+- **Les 3 additions de JP³** présentées comme complémentaires au programme SPU plutôt que comme corrections.
+- **La question ouverte de la potentiation cardio** : formulée comme hypothèse testable, en reconnaissant explicitement que Hamilton lui-même a montré que l'effet SPU est indépendant du débit cardiaque.
+- **Proposition d'étude concrète** : OGTT crossover à 4 bras (sitting / SPU assis / calf raises debout / JP³ ultra-léger sous 2,5 METs), monitoré EMG soléaire vs gastrocnémien vs vaste latéral, postprandial 3h, glucose + insuline + VLDL. ~30 sujets, faisable en ~1 an.
+- **Positionnement de complémentarité** : le programme Hamilton établit la physiologie ; JP³ apporte une doctrine d'usage phénoménologique et une accessibilité motivationnelle qui pourraient faciliter l'adoption publique des trouvailles SPU.
+
+**Format** : fichier séparé dans `content/en/` (Hamilton lit en anglais), pas dans les articles publiés du site. Peut-être `content/en/collaboration-proposal-hamilton.md`, non lié depuis le site public, envoyé par courriel avec PDF/lien. Contact : Marc T. Hamilton, University of Houston, affilié au Texas Obesity Research Center.
+
+**Anti-scope** : cette version dédiée n'est pas un article scientifique à soumettre pour publication ; c'est un **document de prise de contact**. Différent registre, différentes attentes.
+
+#### §8.5.2 Open empirical questions
+
+> **source:** `content/en/article.md` §5.5
+
+- **Clinical Efficacy Studies:** Randomized controlled trials are needed to quantify the benefits of JP³ in specific cohorts (e.g., older adults, depressed patients, people with CFS).
+- **Biomarkers and Mechanisms:** Further explore changes in metabolic biomarkers (glucose, lipids), stress hormones, neuroplasticity markers (BDNF), and soleus activity.
+- **AI Impact:** Evaluate the effectiveness of AI prompts in improving adherence, personalizing the protocol, and clinical outcomes.
+- **Comparison with Other Interventions:** Compare JP³ with other forms of light/moderate exercise or with meditation interventions to assess its superiority or complementarity.
+- **Proprioception and Balance Measures:** Use objective tools to measure improvements in proprioception and balance with barefoot practice.
+
+**Test empirique minute-par-minute (research-singularite §1.2.7)** : à *t = 5 min*, JP³ values de HR, HRV, et énergie subjective sont **inférieures** à une session Zone 2 appariée (concavité positive) ; à *t = 20–30 min*, elles sont **supérieures** (dépassement durable) ; la trace d'énergie subjective est **monotone croissante** (contra Zone 2). Si la prédiction tient, la trajectoire cubique cesse d'être une analogie et devient une observation.
+
+**Étude JGH sarcopénie qui trancherait** : essai contrôlé randomisé chez adultes ≥75 ans, MMSE > 24, autonomes, sur 12 semaines. Bras : soin usuel / SPU seul / JP³ seul / SPU+JP³. Mesures : STS, vitesse de marche 4m, préhension, masse musculaire par DEXA, HbA1c, questionnaire fragilité. ~120 sujets.
+
+#### §8.5.3 The `.ada` format as native anti-hallucination carrier
+
+> **source:** à développer — pointeur `drafts/jp3-resume-ada.md`
+
+Section en attente de rédaction consolidée. Thèse de travail : le format `.ada` (voir `~/projects/ada-format/`) sert de **porteur natif anti-hallucination** pour les contenus JP³ dérivés — notamment pour les leaflets patient et les prompts agent, où la fidélité au framework compte plus que la variation stylistique. À approfondir avec Perig.
 
 ---
 
