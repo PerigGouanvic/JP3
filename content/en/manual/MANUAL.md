@@ -56,7 +56,222 @@ Order by *decreasing barrier* (locked 2026-07-30, order B).
 
 Each sub-section houses : (a) what the P excludes; (b) what it enables; (c) its own mechanistic function. Includes definitional test by *via negativa*, legitimate modulations, barefoot condition under §2.3 as the P-producer.
 
-<!-- SECTION-2-CONTENT -->
+### §2.0 Naming convention
+
+> **source:** `memory/feedback_jp3_nommer_p123.md`
+
+Éviter les abréviations `P1` / `P2` / `P3` dans les échanges discursifs (propositions structurelles, discussions, texte de l'article). Utiliser à la place les noms explicites :
+
+- **sur place** (jogging sur place — anciennement P1 / In Place)
+- **à son rythme** (auto-régulation temporelle — anciennement P2 / At Your Own Pace)
+- **chez soi** (environnement domestique intime — anciennement P3 / In Your Own Place)
+
+Pour les intersections : **sur place × rythme**, **sur place × chez soi**, **rythme × chez soi**, **confluence des trois**.
+
+**Why:** Perig oublie régulièrement quel Pi est lequel. Les abréviations forcent une charge mnésique inutile qui casse le flux de discussion, surtout en mobile-first où on ne peut pas relire facilement une définition ailleurs à l'écran.
+
+**How to apply:** Réserver P1/P2/P3 uniquement aux contextes de contrainte d'espace forte (tableaux, diagrammes serrés, en-têtes courts). Dans tout texte discursif, propositions et échanges, écrire les noms complets. Idem pour les intersections : « case rythme × chez soi » plutôt que « case P2∩P3 ».
+
+---
+
+### §2.1 In Your Own Place — chez soi
+
+> **source:** `content/en/article.md` §3.1 extract (In Your Own Place)
+
+**"In Your Own Place":** The environment is chosen by the individual, typically at home, in a minimal space (one square meter is enough).
+
+- **Zero barriers:** This eliminates major obstacles such as cost, equipment needs, weather, travel time, and the need for special shoes or clothing.
+- **Controlled environment:** Allows for adjustable silence, controlled temperature, zero external distraction, and total safety, fostering a state of "meditation in motion" or "flow state."
+- **Barefoot practice:** Strongly recommended to maximize proprioceptive feedback and strengthen the intrinsic foot muscles. Using a mirror and the option of closing the eyes are additional tools for self-correction and heightened proprioception.
+
+#### §2.1.1 Threshold of perceptive solitude — a tacit prerequisite
+
+> **source:** `memory/project_seuil_solitude_perceptive.md`
+
+**Observation vécue (Perig, 2026-08-06)** : difficulté concrète à placer le protocole JP³ quand il y a des gens à la maison. L'espace physique privé ne suffit pas — il faut aussi un **espace social intérieur**, une forme de non-observation. Le regard des proches n'a pas besoin d'être jugeant pour peser : sa simple *possibilité* suffit à bloquer le geste.
+
+**Why** : cette observation touche potentiellement une hypothèse tacite de l'article — « chez soi = espace de liberté motrice ». Or il resterait un prérequis invisible : **une disponibilité perceptive à soi-même**, non garantie par les seuls murs privés. Contrepoint à la thèse « pas besoin de salle, pas besoin d'équipement ».
+
+**How to apply** :
+- Quand Perig reviendra sur l'article, envisager un court passage honnête (§3 ou section « limites vécues ») reconnaissant ce seuil.
+- Vérifier si le pattern se confirme dans le temps ou évolue — pourrait être un obstacle contingent (moment particulier) ou une donnée structurelle du protocole.
+- Possible pont vers `physiological-rights/` : droit à un espace perceptif à soi, pas seulement à un espace physique.
+
+#### §2.1.2 Own Place welcomes bodily exaggeration — the "normal" is relative to the starting state
+
+> **source:** `memory/project_own_place_exageration_relative.md`
+
+Raffinement du 3ᵉ P (In Your Own Place) issu de la Q6 du bilan 2026-09-05. Résolution du statut du draft `silly walks.md` : **ce ne sont pas des variantes attentives contradictoires avec ego/écho, ce sont la reconnaissance que "normal" est relatif à l'état de départ**.
+
+**La formulation exacte de Perig :** *"ce ne sont pas des variantes quand on y pense parce que en fait lorsque quelqu'un commence dans un état de grande fatigue ou d'âge avancé ou de blessures etc le mouvement normal est en lui-même une contorsion. c'est ce que j'avais déjà enregistré au niveau de la dorsiflexion qui peut sembler exagérée selon qu'on la pratique au réveil ou plus tard. quelqu'un qui vit avec une cuirasse depuis des années considère le port de tête normal comme une véritable contorsion. dans la dimension du plaisir il y a aussi que certains mouvements exagérés sont plus agréables mais plus étranges. ça rentre vraiment dans le p own place."*
+
+**Ce que ça articule :**
+
+1. **Le "normal" en JP³ n'est pas absolu — il est indexé à l'état de départ du corps.** Pour un corps cuirassé, reprendre le port de tête anatomique est déjà exagéré. Pour un corps fatigué au réveil, une simple dorsiflexion est un exploit. Ce que le fitness dominant appelle "normal" est déjà silly walks pour qui n'y accède plus.
+
+2. **La ligne "normal / silly" est mobile selon l'état du corps.** Ce qui semble exagéré au réveil devient banal en après-midi ; ce qui paraît contorsionniste pour un débutant devient naturel pour un pratiquant régulier. Le dispositif accueille tout le spectre.
+
+3. **Own Place accueille l'exagération corporelle non-normée.** Le P₃ (In Your Own Place) n'est pas seulement l'espace physique privé ni seulement l'absence de destination (chute-vers-l'avant tolérée, mémoire §4.6.6). C'est aussi **l'espace où on peut oser des mouvements laids, ridicules, contortionnistes, sans regard**. La liberté d'expression corporelle non-normée est constitutive du 3ᵉ P.
+
+4. **Dimension plaisir/étrangeté.** Certains mouvements exagérés sont simplement agréables parce qu'étranges — le plaisir de l'insolite fait partie du dispositif, indépendamment de toute utilité fonctionnelle. C'est un ressort intrinsèque du JP³, à côté du plaisir de l'amorçage et de l'euphorie de destination.
+
+#### §2.1.3 Furtive JP³ / standing JP³ — variant born from perceptive-solitude constraint
+
+> **source:** `memory/project_jp3_furtif_decouverte.md`
+
+**Découverte de Perig (2026-08-07)** — née directement de la question d'actualité du 2026-08-06 (« seuil de solitude perceptive »).
+
+**Contexte** : en jogging JP³ à la maison, présence d'une autre personne dans la pièce. Perig arrête pour « redevenir normal ». Puis, en faisant la vaisselle (mains occupées, corps devant rester droit et relativement fixe pour manipuler les objets), il réalise qu'il peut **continuer JP³ pendant la vaisselle** — à condition d'avoir une excellente mobilité au bassin.
+
+**Les insights, en ordre :**
+
+1. **Le bassin comme absorbeur élastique de la course**
+   - Élément *essentiel* d'une course efficace.
+   - Sans ça, l'impact se répercute sur les articulations basses (chevilles, genoux).
+   - L'immobilité du haut du corps *force* la mobilité pelvienne — donc *enseigne* la bonne mécanique.
+
+2. **Diagnostic personnel** : Perig découvre qu'il court **tendu et non-économique** spontanément. Le mode furtif révèle cette tension comme défaut à corriger.
+
+3. **Consequences en cascade** :
+   - Qualité de la course elle-même (biomécanique protectrice).
+   - Capacité d'intégrer JP³ **en présence d'autres personnes**.
+   - Capacité de **démarrer** JP³ n'importe quand, sans devoir installer une « posture de départ » qui trahit l'intention.
+
+4. **Résonance anthropologique** : ressemble aux danses de peuples autochtones (voisins de Perig au Canada — pas tous, mais certains). Corps ancré, mouvement central au bassin.
+
+5. **Radicalisation du protocole** : JP³ devient un **mode d'habiter le corps quotidien** plutôt qu'un moment dédié. Vaisselle, cuisine, brossage de dents, station debout au téléphone, etc.
+
+6. **Marqueur biomécanique clé** : les **genoux sont notablement fléchis** dans cette forme. Quand ils ne le sont pas assez, on retombe dans une posture de sprinter — *pas* ce qu'on cherche.
+
+**Why (importance)** :
+- **Résout partiellement le seuil de solitude perceptive** : la contrainte (« être observable ») a produit sa propre issue (« forme invisible »), et cette issue est biomécaniquement *meilleure* que la forme spontanée. L'obstacle est devenu le maître.
+- **Radicalise la promesse fondamentale** de JP³ (pas de salle, pas d'équipement, pas de moment dédié) — la portant à sa forme la plus intégrée.
+- **Ouvre potentiellement une variante formalisable** : « JP³ furtif » / « JP³ debout » / « JP³ intégré ».
+
+---
+
+### §2.2 At Your Own Pace — à son rythme
+
+> **source:** `content/en/article.md` §3.1 extract (At Your Own Pace)
+
+**"At Your Own Pace":** This is the heart of JP³'s adaptability. Intensity is entirely self-regulated by the individual.
+
+- **Ultra-slow start:** The protocol begins at a "barely perceptible," "too easy," even "boring" pace for the first 10–15 minutes. This slow start aims to contain the oxygen deficit, stabilize ventilation, and preserve tissues.
+- **Listening to sensations:** The individual is encouraged to rely on their sensations, on the ability to speak in full sentences ("talk test"), and on the overall feeling of being able to sustain the intensity for 60–90 minutes. Any sudden acceleration of breathing should prompt them to slow down.
+- **Progression through boredom:** Intensity can increase naturally, not through willpower, but through a "self-regulation" in which boredom prompts an increase in tempo. This progression occurs without decisional friction.
+
+---
+
+### §2.3 In Place — sur place
+
+> **source:** `content/en/article.md` §3.1 extract (Jogging in Place)
+
+**"Jogging in Place":** The movement consists of jogging or gently bouncing in place. There is no horizontal displacement, concentrating the effort on vertical push-off and activation of the posterior chain muscles, notably the soleus. The "jogging" height can range from a light vertical bounce to a true jog with high knee lift, always in a self-regulated manner.
+
+#### §2.3.1 JP³ est In Place — ne jamais parler de "rentrer"/"sortir"
+
+> **source:** `memory/feedback_jp3_est_in_place.md`
+
+Le JP³ est **In Place** — c'est le deuxième P constitutif (Own Pace / In Place / In Your Own Place). Perig ne "sort" pas courir, il ne peut donc pas "rentrer". Il court sur place, chez lui (balcon, salon, terrasse). Suggérer de "rentrer faire autre chose" comme si Perig était à l'extérieur est **doctrinalement absurde** et signale une corruption de contexte franche.
+
+**Why** : incident du 2026-09-14 — pendant une session de compagnonnage course JP³, j'ai suggéré à Perig de "rentrer faire du banded distraction" alors qu'il était en train de courir chez lui sur place. Perig avait pourtant explicitement écrit dans un message précédent "quand je cours sur place et que je garde les pieds en chasse-neige". J'ai laissé mon prior LLM (course = déplacement outdoor) surdéterminer ma lecture contre toutes les mémoires disponibles (In Place, spring-mass ankle-dominant, pieds nus condition d'accès, chasse-neige stationnaire, degré zéro fascia, etc.). Perig a nommé la corruption comme "signal fort" — c'est un feedback fondamental.
+
+**How to apply** :
+- Ne jamais employer les verbes "rentrer", "sortir", "aller", "arriver quelque part", "raccourcir la course" comme métaphores spatiales de déplacement quand Perig fait du JP³
+- Si un dispositif complémentaire (banded distraction, foam roller, marteau massage, salle) est pertinent, le nommer comme "à faire à côté" ou "après la séance", jamais comme substitut spatial ("aller faire X ailleurs")
+- Si Perig décrit une sensation ambiguë (fatigue, résistance, cheville qui bloque), avant de recommander quoi que ce soit, **relire mentalement les mémoires du triptyque 3P** pour vérifier qu'on reste dans le régime stationnaire
+- Le JP³ est une **activité complète en elle-même**, pas un fragment d'un programme d'entraînement multi-lieux. Toute suggestion qui traite le JP³ comme "étape d'un parcours ailleurs" trahit la doctrine
+
+**Cas plus général** : quand le prior LLM ("course = dehors", "sport = terrain", "entraînement = salle") entre en conflit avec la doctrine JP³ (**In Place, Own Pace, In Your Own Place**), c'est la doctrine qui gagne, pas le prior. Si un tour de raisonnement produit une recommandation qui contredit une des mémoires ★★ ou ★★★ du système JP³, s'arrêter et vérifier avant de la formuler.
+
+#### §2.3.2 Barefoot = access condition to the regime, not amplifier
+
+> **source:** `memory/project_pieds_nus_condition_acces.md`
+
+Le cadrage actuel de l'article (§2.2.3 "Le vrai usage des pieds") traite pieds nus comme un **amplificateur** ("fortement recommandé pour maximiser le feedback proprioceptif"). L'expérience de Perig du 2026-08-27 suggère un statut plus fort : **condition permissive** du noyau JP3.
+
+Signal empirique : "j'ai essayé avec les chaussettes et rien n'y fait : tout est beaucoup moins facile et naturel si on est pas pieds nus."
+
+**Why:** hypothèse mécanistique — sans contact plantaire nu, le cerveau ne fait pas confiance au régime rebond fascia-tendon-soléaire, et réenclenche par défaut des stratégies de contrôle actif (recrutement quads phasiques). La chaussette gomme juste assez le feedback tactile pour que le régime élastique ne s'amorce pas. La chaussure fait pire. Les découvertes du 2026-08-27 (attaque talon élastique, chute-avant médio-pied) ont probablement dépendu du sol sous pieds nus — sans lui, la chute-avant se serait transformée en "je me rattrape avec les quads".
+
+Explique aussi pourquoi Perig est passé à côté de ces variantes longtemps : test antérieur avec chaussettes → pas d'amorçage du régime → variante rejetée à tort → il n'a pas repéré que c'était la chaussette qui bloquait, pas la variante.
+
+**How to apply:**
+- Reformuler §2.2.3 pour distinguer deux fonctions du pieds-nus : (1) amplificateur de proprioception au long cours [statut actuel] et (2) **condition d'accès au régime spring-mass** [statut à ajouter]
+- Positionner pieds nus dans la même famille conceptuelle que les autres contraintes négatives (via negativa) — c'est ce qui *empêche* la retombée dans le régime phasique
+- Point à corroborer : littérature barefoot running sur transition foot strike et recrutement musculaire (attaque talon en chaussures vs médio/avant-pied pieds nus)
+- Recoupe la thèse chaîne posturale profonde (mémoire 2026-08-16) — le fascia plantaire est le point d'entrée bas de la chaîne
+
+**Confirmation clinique 2026-09-20** :
+**Signal fort** : impossible d'amorcer le régime même à la maison en petit jogging léger avec chaussettes ou chaussures. Le seuil et la zone de douance de Perig sont **strictement pieds nus**. L'hypothèse est passée établie.
+
+**Corollaire clinique — pattern soccer récidivant** :
+Les blessures Achille répétées en soccer depuis plusieurs mois **ne sont pas d'abord** un problème d'intensité (vs. jogging maison). Cause structurelle :
+- Crampons + semelles non-newtoniennes ultra-amortissantes + chaussettes
+- ⇒ régime spring-mass ne s'amorce pas
+- ⇒ soléaire/mollets ne réagissent pas au quart de tour
+- ⇒ Achille encaisse la charge que le rebond aurait absorbée
+
+Recoupe project_imagerie_cheville_ordonnance.md : le mécanisme causal de la tendinopathie insertionnelle Achille droit se précise.
+
+**Retrait explicite** de l'ancien bullet "ne pas confondre soccer / JP³". La séparation naïve est invalidée par l'expérience clinique : c'est justement parce que le régime JP³ pourrait protéger l'Achille en soccer, et qu'il est actuellement *gated par le pieds-nus*, qu'il y a un **pont manquant** à nommer.
+
+**Question ouverte — dépendance vs. étape de rééducation** :
+Deux lectures possibles de la pratique JP³ pieds-nus exclusive :
+1. Elle *groove une dépendance* au feedback plantaire nu — auquel cas le soccer chaussé reste zone de risque structurel indéfiniment
+2. Elle est l'étape de rééducation nécessaire avant transfert progressif vers chaussures minimalistes — auquel cas chantier explicite à ouvrir (ramp progressif)
+
+**Résolution partielle 2026-09-20 (soir)** — voir `memory/project_warmup_piedsnus_prematch.md` :
+
+La question "dépendance vs. rééducation" reçoit une **réponse hybride** via un long fil Perplexity + expérimentation clinique :
+
+**Ni l'un ni l'autre — c'est de la spécificité contextuelle normale.** Principe validé par la littérature du transfert d'entraînement (Bosch) : ce ne sont pas deux intensités du même geste mais **deux tâches motrices distinctes** du point de vue du SNC. Les populations chaussées toute leur vie n'ont pas de sur-risque relatif dans leur propre régime. Le risque de Perig vient du **différentiel** entre ses deux régimes calibrés séparément.
+
+**Mécanisme unifié précisé** : préactivation feed-forward du triceps sural déclenchée par les mécanorécepteurs plantaires. Corpuscules de Pacini = bandpass 20-1000 Hz sensibles au taux de changement (rembourrage étale l'impulsion → suppression du signal en profondeur). Robbins & Hanna 1980+ (discomfort-impact illusion). EMG barefoot vs. shod : +10-24% de pré-activation gastroc/soléaire pieds-nus.
+
+**Posture doctrinale** : assumer les deux régimes comme distincts, utiliser le pieds-nus comme **primer** immédiatement avant le régime chaussé (carry-over partiel documenté).
+
+**Application clinique validée** : 5 min de warm-up pieds-nus rapide/impact léger → bondissement unipodal solide spontané = test étalon-or post-Achille (RSI>0.5). Extension du framework JP³ vers un usage de préactivation pré-activité chaussée.
+
+---
+
+### §2.4 Definitional test by via negativa — the sleep test
+
+> **source:** `memory/project_3P_test_definitoire_sommeil.md`
+
+Découverte 2026-08-27 en marchant à côté du vélo, en cherchant un pendant "sommeil" au JP³. Les 3 P (Jogging in Place, In Your Own Place, At Your Own Pace) ne sont pas seulement des contraintes de design du JP³ — ce sont les **conditions de l'autonomie somatique**, et leur violation simultanée produit l'expérience exactement contraire :
+
+- Violer **Own Place** (sortir de chez soi) → sur-stimulation
+- Violer **Own Pace** (se laisser stimuler) → aller contre le rythme naturel
+- Violer **In Place** (être en mouvement/en scène) → perte de contrôle
+
+Résultat : envie de rentrer, besoin de retrouver un lieu à soi. Le corps signale que l'autonomie est compromise.
+
+**Corollaire — le pendant sommeil du JP³ n'a pas à être inventé** : c'est **le retour vers les 3 P**. Marche vers la maison = restauration d'Own Place. Décélération = restauration d'Own Pace. Se poser = restauration d'In Place. La sieste est ce qui se passe quand les 3 P sont restaurés après violation. Même noyau, deux directions temporelles : le JP³ active ce noyau depuis le bas de la courbe (amorçage → sortie) ; le sommeil le laisse redescendre depuis le pic de violation (retour → dépôt).
+
+**Why:** Perig a inventé le JP³ à cause de ses problèmes de sommeil — un pendant "sommeil" boucle la doctrine à sa racine. Cette découverte évite de fabriquer un dispositif séparé et révèle que les 3 P sont plus fondamentaux qu'une simple recette de méthode matinale : ils décrivent une **zone protégée d'autonomie somatique** dont JP³ (activation matinale) et sommeil (descente vespérale) sont les deux modes.
+
+**How to apply:**
+- Considérer les 3 P non plus comme paramètres d'un dispositif mais comme **conditions de l'autonomie somatique** dont dérivent plusieurs états (activation, descente, sommeil)
+- Pour tout futur travail sur sommeil dans le cadre JP³ : partir de la topologie "violation → retour" plutôt que de chercher un dispositif miroir
+- Précision terminologique importante : le troisième P est **In Your Own Place**, pas "Prompted" (hallucination antérieure de l'humanoïde à corriger si elle réapparaît)
+- Piste article : cette découverte pourrait constituer une section propre sur "le JP³ comme retour aux 3 P" — cadre plus large que celui de la méthode matinale seule
+
+---
+
+### §2.5 Modulation of the 3 P — grammar of re-pondération
+
+> **source:** `memory/project_3P_modulation_grammaire.md`
+
+Les trois P (Jogging in Place, In Your Own Place, At Your Own Pace) ne sont pas des contraintes rigides à respecter simultanément, mais des **vecteurs qui se re-pondèrent** selon les circonstances. Aujourd'hui 2026-08-27, découverte en course : Own Pace a tiré vers l'avant (chute-avant façon pose running), In Place s'est plié (déplacement horizontal), et le régime JP3 a tenu — parce que le **noyau via negativa** (spring-mass ankle-dominant, exclusion du phasique glycolytique) n'a pas été rompu.
+
+**Why:** cadrage antérieur traitait "In Place" comme quasi-synonyme d'immobilité horizontale. Perig a explicitement identifié ce préjugé favorable comme un biais qui l'a fait passer à côté de variantes riches (attaque talon élastique, chute-avant médio-pied). La méthode est définie comme "moins d'effort possible" — la chute-avant est *moins* d'effort (gravité fait le travail), donc elle *devrait* appartenir au JP3, et le "In Place" strict la disqualifiait à tort.
+
+**How to apply:**
+- Quand une variante réduit l'effort tout en préservant le noyau via negativa, la retenir comme JP3 valide même si elle plie un des 3 P
+- Le noyau via negativa est le juge : pas de recrutement phasique-glycolytique, spring-mass ankle-dominant préservé, cascades auto-délétères non déclenchées
+- Cohérent avec l'axe famille SPU via negativa (mémoire du 2026-08-17) : le noyau est une contrainte négative partagée, pas une équivalence positive
+- Vocabulaire proposé : "modulation entre P", "re-pondération selon circonstances", "3 P comme vecteurs et non contraintes rigides"
 
 ---
 
