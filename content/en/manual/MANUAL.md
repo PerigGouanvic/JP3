@@ -1313,6 +1313,16 @@ Three things follow:
 
 Under (b), the heel → SSPU transition reads as a migration of weight from heel to MTP: the heel primes (passive spring; heel stimulation facilitates both plantarflexors — Nakajima et al. 2006; 2022 cutaneous-stimulation study), the lightly loaded MTP sustains. *Open tension:* forefoot **electrical** stimulation inhibited plantarflexors in Nakajima 2006 — not equivalent to voluntary loading, but to be kept in view. *Unclear transposition:* Hamilton's "toe tip under the knee" geometry has no direct standing analogue without knee flexion (which wakes the quadriceps, point 2); the transferable principle is probably the vertical load line through the MTP, not the joint alignment itself.
 
+**5bis. Practical sequence — from heel to light MTP press** *(validated as framing by Perig, 2026-11-13; to be tested in practice)*
+
+1. **Open with the heel activator** (§3.2.2) — passive spring, stacking cascade; the skeleton takes the weight.
+2. **Ballerina calibration (optional, once or twice):** one slow full *relevé* to *feel* the "straightening" of the ankle Hamilton describes — then shrink it.
+3. **Reduce the straightening to an intention:** heel barely or not lifting, a light press settling on the MTP; the centre of mass drifts toward the ball of the foot by itself (the narrow band, point 4). In jogging in place, this light increment *is* each step's push-off; the heel spring closes the cycle.
+4. **Dose by the thigh:** one hand on the front of the thigh — if it hardens, the press is too strong (Hamilton's own warning).
+5. **Verify afterwards with the second-JP³ test** (§1.2.8): if repeating is nearly free, the regime was SSPU; if it takes willpower, fatigable muscles were working.
+
+**Summary formula.** *Seated, the chair carries the body and the leg adds a light push. Standing, the stacked skeleton is the chair — only the surplus above quiet stance must be light.*
+
 **6. Low-tech biofeedback (in lieu of EMG).** Elek's participants learned in one session *with* feedback. Without a sensor: one hand on the front of the thigh (hardening → too far back or knee too flexed); attention to the calf — soleus low and lateral, gastrocnemius the upper bulge (upper bulge hardening → too far forward / knee braced); then the **second-JP³ repeatability test** afterwards. Hypothesis: one attentive learning session, then hands off.
 
 **7. Decisive experiment (absent from the literature).** Simultaneous normalized EMG of SOL, MG, LG and VL at graded centre-of-mass positions (heel → midfoot → ball of foot) and knee states (braced / softly unlocked / flexed), with plantar pressure mapping, reporting absolute SOL activity and SOL:MG and SOL:VL ratios; then a delayed retention test without displayed feedback; barefoot vs shod as a secondary factor. Candidate protocol for the JGH (§8.4) and Hamilton (§8.5.1) contacts.
