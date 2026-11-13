@@ -156,6 +156,22 @@ Three consequences organize the rest of this document:
 2. **The three Ps are the formal conditions, not the branding.** § 2 treats each P as a *via negativa* definition (what it excludes) because that is what makes the cubic regime physically possible. The "³" is the geometric name of the device the Ps compose.
 3. **The empirical falsification is specific.** The prediction is minute-by-minute: at *t = 5 min*, JP³ values of heart rate, HRV, and subjective energy are **lower** than a matched Zone 2 session (positive concavity); at *t = 20–30 min*, they are **higher** (durable overshoot); the subjective-energy trace is **monotonically increasing** (contra Zone 2, which typically plateaus or decreases). § 5.4 formalizes this test. If the prediction holds, the cubic trajectory ceases to be an analogy and becomes an observation.
 
+#### 1.2.8 The singularity named — SSPU, a standing soleus push-up activatable in any circumstance
+
+> **source:** session 2026-11-13 (Perig, return after post-influenza hiatus) · `memory/project_sspu_competence.md` · extends `project_standing_spu_recherche` (2026-08-17) and §6.2 *via negativa* · research `facts/perplexity-sspu-standing-soleus-skill-2026-11-13.md`, `facts/perplexity-sspu-trunk-tilt-quads-2026-11-13.md`
+
+**Definition.** The physiological singularity of JP³ is the **SSPU — standing soleus push-up**: a sustained, soleus-dominant plantarflexion regime performed upright, that excludes the fatigable phasic-glycolytic musculature (quadriceps first, gastrocnemius second), and that can be activated **in any circumstance** — inside a session or incidentally during daily life (§3.2.4). The three Ps are the conditions of access to the SSPU; the cubic trajectory (§1.2.1–1.2.7) is what the SSPU looks like over time when those conditions hold.
+
+**Correction this introduces: JP³ is a skill, not something one simply lets happen.** Earlier formulations presented JP³ as a regime one "lets happen" at minimal effort. Field observation (2026-11-13, severe fatigue after influenza) contradicts this in part:
+
+- Seated, Hamilton's chair neutralizes the thighs by construction — what remains is to push correctly. **Standing, nothing neutralizes them**: excluding the fatigable muscles becomes an act of selective activation, proprioception and plantar sensing.
+- In a depleted state, thigh fatigue blocks the session within minutes; avoiding it, the practitioner falls back onto heel-dropping (§3.2.2). The **transition from the passive heel spring to an active soleus regime** is the part that is not yet mastered.
+- **Diagnostic — the second JP³.** Attempting a second session right after the first proved hard and required willpower. If the regime were truly SSPU (non-fatigable), repetition would be nearly free. Conclusion drawn by Perig: the protocol had rarely, if ever, been performed at genuine minimal effort; without the skill, **willpower compensates**.
+
+**Two tiers.** The *entry threshold* stays near zero (heel activator, §3.2.2 / §5.1). *Mastery* is the SSPU proper (§5.3.4). The operational criterion of correct execution is **immediate repeatability**: thigh fatigue is an error signal, not a dose.
+
+**Consistency with the SPU literature.** Even seated, the SPU is taught: Elek et al. (2025, *Sports* 13(3):81) trained participants in one session with soleus EMG feedback (reference: treadmill walking); next day the glucose effect held without feedback (≈ −37 % iAUC with vs ≈ −26 % without; non-significant difference, n ≈ 5/group). No study has tested feedback-free acquisition.
+
 **Notes for integration into the full manual.**
 
 - The SVG at § 1.2.3 must be exported as `content/en/assets/cubic-trajectory.svg` from the inline SVG currently in `content/fr/research-singularite.md` §4.6 (line 385). Labels require EN translation ("coût apparent" → "apparent cost"; "croisement à t = √3" → "crossing at t = √3"; "dépassement durable" → "durable overshoot"; axis labels "t (durée de session)" → "t (session duration)", "bénéfice cumulé" → "cumulative benefit").
@@ -1270,6 +1286,30 @@ JP³ is a minimalist yet deeply effective exercise protocol, designed to be acce
 
 See §3.2.4 for the full treatment of the incident regime — JP³ adaptations priming without changing posture, a few heel shocks suffice (via muscle tuning Nigg + SSC). Figure-ground inversion of session JP³: quotidien primary, JP³ in filigrane. Entry threshold collapsed to near-zero.
 
+#### §5.3.4 SSPU — the skill of the narrow band (kinematics and cues)
+
+> **source:** session 2026-11-13 · `facts/perplexity-sspu-standing-soleus-skill-2026-11-13.md` · `facts/perplexity-sspu-trunk-tilt-quads-2026-11-13.md` · Hamilton instructional framing as recalled by Perig (exact wording **to be sourced** from Hamilton's training material) · status: **working hypothesis** — no study tests a standing SPU directly
+
+**1. Each muscle answers its own control.** Muraoka & Suzuki (2021, *J Phys Ther Sci* 33:472–479), nine standing postures: **vastus lateralis tracked knee angle; soleus tracked trunk anterior tilt; medial gastrocnemius tracked both.** Soleus did not change with knee flexion when thigh and shank tilted alike, i.e. the soleus follows **where the centre of gravity sits over the foot**, not knee angle per se. Quiet stance is already differentiated: soleus tonic, gastrocnemius phasic (Fok et al. 2020).
+
+**2. Mechanism.** Quadriceps resist an external knee-flexion moment (vertical GRF × horizontal distance knee–GRF line). Shift the centre of mass slightly forward and the GRF line passes **in front of the knee**: gravity holds the knee in extension and the quadriceps have nothing left to do. The same shift lengthens the lever arm at the ankle → plantarflexor moment → **soleus**, plus hip extensors (posterior chain, §3.2.3). Conversely, flexing the knee does not isolate the soleus when weight-bearing (Hébert-Losier & Holmberg 2014) and multiplies quadriceps demand (VM ≈ 11 µV at 0° → 56 µV at 60°; Alrowayeh et al. 2005).
+
+**3. The complication — gastrocnemius.** Too far forward, the knee drifts toward hyperextension and the gastrocnemius is recruited to brake it; in forward-leaning models it carries most of the plantarflexion moment.
+
+**4. Hence the skill: a narrow band.** The SSPU consists in holding the centre of mass in a **narrow fore-aft band** — far enough forward to silence the thighs, not so far as to recruit the gastrocnemius. Too far back: thighs burn. Too far forward: the "wrong" calf takes over. This is exactly the oscillation observed in the depleted state (thigh block ↔ heel-dropping), and it explains why the regime demands proprioception rather than willpower.
+
+**5. Hamilton's frame — "ball of the foot, ankle forward."** In his instructional material (as recalled by Perig; exact wording to be sourced), Hamilton describes the SPU as **pushing through the ball of the foot while making as if to drive the ankle forward.** In Elek et al. (2025) the seated set-up places the **metatarsophalangeal line directly below the knee** — the load descends vertically onto the ball of the foot. Transposed upright, this frame clarifies several open points:
+
+- *Where is the band?* — **Centre of mass projected over the ball of the foot** (metatarsal heads), ahead of the ankle: plantarflexor moment for the soleus, GRF line in front of the knee for quiet thighs.
+- *The plantar sensation (1st MTP?).* — No selective sensory channel from the 1st metatarsal head to the soleus is documented (regional stimulation studies affect soleus and gastrocnemius together). But Hamilton's practical cue converges with Perig's felt intuition: the ball-of-foot pressure works as **the gauge of where one is in the band**, a mechanical target rather than a dedicated neural switch.
+- *How to avoid the gastrocnemius?* — "Ankle forward" places the lean **at the ankle** (shin inclining over the forefoot) rather than at the hip, keeping the trunk stacked (§3.2.2), and keeps the knee **softly unlocked** rather than braced back in hyperextension. A barely unlocked knee also slightly shortens the gastrocnemius (its knee action), shifting load toward the soleus — Hamilton's seated logic in miniature — provided flexion stays small enough not to wake the quadriceps.
+- *The heel → SSPU transition.* — It becomes a **migration of weight from heel to ball of the foot**: the heel primes (passive spring; heel stimulation facilitates both plantarflexors — Nakajima et al. 2006; 2022 cutaneous-stimulation study), the ball of the foot sustains (active soleus). The step not yet mastered is this migration.
+- *Unresolved tension.* — Forefoot *electrical* stimulation inhibited plantarflexors (Nakajima 2006). Electrical stimulation is not voluntary loading, but the point must be kept open.
+
+**6. Low-tech biofeedback (in lieu of EMG).** Elek's participants learned in one session *with* feedback. Without a sensor: one hand on the front of the thigh (hardening → too far back or knee too flexed); attention to the calf — soleus low and lateral, gastrocnemius the upper bulge (upper bulge hardening → too far forward / knee braced); then the **second-JP³ repeatability test** afterwards. Hypothesis: one attentive learning session, then hands off.
+
+**7. Decisive experiment (absent from the literature).** Simultaneous normalized EMG of SOL, MG, LG and VL at graded centre-of-mass positions (heel → midfoot → ball of foot) and knee states (braced / softly unlocked / flexed), with plantar pressure mapping, reporting absolute SOL activity and SOL:MG and SOL:VL ratios; then a delayed retention test without displayed feedback; barefoot vs shod as a secondary factor. Candidate protocol for the JGH (§8.4) and Hamilton (§8.5.1) contacts.
+
 ---
 
 ### §5.4 The initial segment (t < √3) — anatomy of the first minutes
@@ -1732,7 +1772,7 @@ The 9 clinical cases from published §3.2 + 2026-09 extensions. **NOT** reader p
 **Appuis empiriques :**
 
 - Hamilton SPU 2022 (*iScience*) — le SPU assis fonctionne déjà chez cette population. JP³ = extension debout quand possible.
-- Kraemer 2024 (bioRxiv), Yuwono 2025 (*Sports*) — réplications SPU chez prédiabétiques (souvent âgés).
+- Elek et al. 2025 (*Sports* 13(3):81 ; attribution « Yuwono » corrigée 2026-11-13) — réplication SPU chez prédiabétiques ; Kraemer 2024 (bioRxiv) non vérifié.
 - Nuhu & Maharaj 2017 (*Diab Res Clin Pract*) — rebounding chez sédentaires métaboliquement altérés, effets marqués.
 - Bramble & Lieberman 2004 (*Nature*) — spécialisation évolutive soléaire/glutéaux pour locomotion soutenue.
 - Lexell J et al. 1988 (*J Neurol Sci*) — différentielle fibre type I/II avec âge.
