@@ -19,3 +19,11 @@
 - Phase C sur §5 (avec propagation SSPU « compétence »), §3, §7, §4.4.
 - Passe renvois : §2.2.1–§2.2.3 et research-singularite §4.6.x cités mais inexistants dans le manuel.
 - Lignes source encore en français (« à développer », « matrice complète »).
+
+## Phase C §5 (2026-11-14 0h36) — tensions relevées, non tranchées
+- §5.3.2 « true jog with high knee lift » vs cuisses hors-jeu ; « no horizontal displacement » vs chute-avant tolérée §5.2 B.
+- §5.5.1 « maximal intensity » vs noyau via negativa (seulement « unlike the core regime » ajouté).
+- Couche 6 tissus : « calves » rangés parmi les phasiques alors que le soléaire est dans le mollet.
+- §5.2 C « la correction vient seule en quelques semaines » vs SSPU = compétence apprise.
+- Ligne source §5.3.4 « to be sourced » alors que la transcription Hamilton existe ; Sapir [wip].
+- Renvoi fascia « appel à sources » redirigé §7 → §8.5 : vérifier.
