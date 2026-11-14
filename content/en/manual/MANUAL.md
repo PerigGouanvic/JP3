@@ -1,13 +1,13 @@
 # JP³: Jogging in Place, at Your Own Pace, in Your Own Place
 ## Central EN Manual — Consolidated Source
 
-**Status** : migration massive 2026-11-04 (fenêtre bilan hebdo). Tout le contenu dispersé dans `content/en/article.md`, `content/fr/article.md`, `content/fr/research-singularite.md`, `content/fr/research-mecanismes.md`, `facts/`, les fiches mémoire projet (`~/.claude/projects/-home-perig-projects-jp3/memory/*.md`), et les drafts pertinents est versé ici dans sa section canonique selon le squelette `SKELETON.md` (validé 2026-10-08).
+**Status** : massive migration 2026-11-04 (weekly review window). All the content scattered across `content/en/article.md`, `content/fr/article.md`, `content/fr/research-singularite.md`, `content/fr/research-mecanismes.md`, `facts/`, the project memory fiches (`~/.claude/projects/-home-perig-projects-jp3/memory/*.md`), and the relevant drafts is poured here into its canonical section according to the `SKELETON.md` skeleton (validated 2026-10-08).
 
-**Principe de versement** : contenu brut copié, **pas de traduction, pas d'harmonisation de ton, pas de réécriture**. Les blocs FR restent FR, les blocs EN restent EN. Chaque bloc porte un en-tête `> **source:** <chemin ou fiche> §…` pour traçabilité. L'homogénéisation (traduction FR→EN, harmonisation, rédaction finale) est une passe ultérieure.
+**Pouring principle** : raw content copied, **no translation, no tone harmonization, no rewriting**. FR blocks remain FR, EN blocks remain EN. Each block carries a `> **source:** <chemin ou fiche> §…` header for traceability. Homogenization (FR→EN translation, harmonization, final drafting) is a later pass.
 
-**Architectural logic** (rappel SKELETON) : 3 Ps × 3 synergies × 1 confluence (7 cases, verrouillé 2026-07-30), inséré dans une architecture canonique d'article scientifique (Intro → Foundations → Mechanisms → Protocol → Doctrine → Discussion → References).
+**Architectural logic** (SKELETON reminder) : 3 Ps × 3 synergies × 1 confluence (7 cells, locked 2026-07-30), inserted into a canonical scientific-article architecture (Intro → Foundations → Mechanisms → Protocol → Doctrine → Discussion → References).
 
-**Citation policy** : voir `PILOTE-refs.md` (politique "augmented traceability"). **Note de correction** : §2.2.1 soleus porte des erreurs d'attribution identifiées dans PILOTE-refs.md §Pilote 1 — Hamilton/Zderic (pas "Raper"), iScience 25(9), article 104869 ; chiffres 52% / 60% à vérifier dans leur grandeur exacte. À corriger lors de la passe d'harmonisation.
+**Citation policy** : see `PILOTE-refs.md` ("augmented traceability" policy). **Correction note** : §2.2.1 soleus carries attribution errors identified in PILOTE-refs.md §Pilote 1 — Hamilton/Zderic (not "Raper"), iScience 25(9), article 104869 ; the 52% / 60% figures need checking for their exact magnitude. To be corrected during the harmonization pass.
 
 ---
 
@@ -38,21 +38,21 @@
 
 **Author.** Perig Gouanvic (perig.gouanvic@gmail.com).
 
-**Date.** First consolidated draft 2026-11-05 (migration massive dans le manuel central EN). Successor to the 2025-07-30 ³-centered refonte and the 2026-08 doctrinal enrichissement (research-singularite.md §4.6.x).
+**Date.** First consolidated draft 2026-11-05 (massive migration into the central EN manual). Successor to the 2025-07-30 ³-centered overhaul and the 2026-08 doctrinal enrichment (research-singularite.md §4.6.x).
 
-**Licence.** À trancher avec Perig — défaut proposé : CC BY-SA 4.0 (contenu doctrinal) + MIT (code éventuel associé : agent prompts, dérivations ada-format). Non verrouillé.
+**Licence.** To be decided with Perig — proposed default: CC BY-SA 4.0 (doctrinal content) + MIT (any associated code: agent prompts, ada-format derivations). Not locked.
 
-**Status.** Working manuscript. This is the central EN manual (source unique) dont toutes les autres productions — article FR, pitch deck JGH, leaflets patient, prompts agent, versions Hamilton/collaborative — dérivent par extraction/traduction/adaptation (voir `project_manuel_central_anglais_architecture.md` 2026-09-05 pour la décision architecturale).
+**Status.** Working manuscript. This is the central EN manual (single source) from which all other productions — FR article, JGH pitch deck, patient leaflets, agent prompts, Hamilton/collaborative versions — derive by extraction/translation/adaptation (see `project_manuel_central_anglais_architecture.md` 2026-09-05 for the architectural decision).
 
 **Abstract.**
 
-JP³ : Jogging in Place × at Your Own Pace × in Your Own Place. The "³" in JP³ is not merely symbolic; it represents a **multiplicative synergy** where each "P" exponentially amplifies the efficacy of the other two — formally, the within-session trajectory of effort is cubic (*y = x³*) rather than linear (*y = 3x*), with the paradoxical property of passing *below* the linear line for all *t < √3* before overtaking it durably (see §1.2). The contemporary landscape of physical activity is characterized by a striking paradox: a pervasive social discourse glorifying intense, performance-driven exercise, yet an alarming reality where the vast majority of the global population fails to meet minimal physical activity guidelines. This creates a cycle of inactivity, particularly for vulnerable populations facing amplified barriers. JP³ emerges as a revolutionary exercise modality that, through its inherently accessible, self-paced, and private nature, **eliminates 80% of traditional exercise obstacles**. This protocol leverages biomechanical (soleus activation via standing SPU-family logic, spring-mass ankle-dominant regime, deep postural chain reactivation), physiological (aerobic metabolism, slow VO2 kinetics, osteogenic loading via heel-activator), and psychological principles (behavioral activation, anxiety reduction, "ego and echo" doctrine of body-autonomous / mind-free). It is designed to be a pragmatic tool for diverse healthcare professionals, offering a unique and robust entry point to movement for all, including those traditionally excluded from physical activity — notably older adults (sarcopenia/osteoporosis, cf. JGH strategic voie), people with chronic fatigue (CFS/ME, post-COVID), individuals with social anxiety or body-image barriers, and anyone in a depleted starting state where the conventional *3x* regime is physically unreachable. Key benefits include improved exercise adherence, emotional regulation, behavioral activation, and broad physiological gains across the full stack documented in §4.
+JP³ : Jogging in Place × at Your Own Pace × in Your Own Place. The "³" in JP³ is not merely symbolic; it represents a **multiplicative synergy** where each "P" exponentially amplifies the efficacy of the other two — formally, the within-session trajectory of effort is cubic (*y = x³*) rather than linear (*y = 3x*), with the paradoxical property of passing *below* the linear line for all *t < √3* before overtaking it durably (see §1.2). The contemporary landscape of physical activity is characterized by a striking paradox: a pervasive social discourse glorifying intense, performance-driven exercise, yet an alarming reality where the vast majority of the global population fails to meet minimal physical activity guidelines. This creates a cycle of inactivity, particularly for vulnerable populations facing amplified barriers. JP³ emerges as a revolutionary exercise modality that, through its inherently accessible, self-paced, and private nature, **eliminates 80% of traditional exercise obstacles**. This protocol leverages biomechanical (soleus activation via standing SPU-family logic, spring-mass ankle-dominant regime, deep postural chain reactivation), physiological (aerobic metabolism, slow VO2 kinetics, osteogenic loading via heel-activator), and psychological principles (behavioral activation, anxiety reduction, "ego and echo" doctrine of body-autonomous / mind-free). It is designed to be a pragmatic tool for diverse healthcare professionals, offering a unique and robust entry point to movement for all, including those traditionally excluded from physical activity — notably older adults (sarcopenia/osteoporosis, cf. JGH strategic pathway), people with chronic fatigue (CFS/ME, post-COVID), individuals with social anxiety or body-image barriers, and anyone in a depleted starting state where the conventional *3x* regime is physically unreachable. Key benefits include improved exercise adherence, emotional regulation, behavioral activation, and broad physiological gains across the full stack documented in §4.
 
 **Keywords.** behavioral activation ; soleus ; SPU (soleus pushup) ; sarcopenia ; osteoporosis ; proprioception ; barefoot training ; home exercise adherence ; self-paced exercise ; Zone 2 ; Hamilton muscle tuning ; deep postural chain ; via negativa ; cubic trajectory ; priming ; AI coaching.
 
 **Citation.** Gouanvic, P. (2026). *JP³ : Jogging in Place, at Your Own Pace, in Your Own Place — central EN manual.* First consolidated draft, 2026-11-05.
 
-**Note to readers.** This manuscript is in **migration-draft state**. Content from multiple sources (research-singularite.md, research-mecanismes.md, memory fiches, facts/, drafts/) has been versed verbatim per section — FR blocks remain FR, EN blocks remain EN, each block carries a `> **source:**` header for traceability. Harmonization (FR→EN translation, redundancy pruning, final editorial pass) is a subsequent phase. Reading order recommended: §1 (singularity framing) → §2 (via negativa anatomy of the 3 Ps) → §4.6.x (deep postural chain and cubic-trajectory mechanisms) for the theoretical core ; §5 (protocol) + §7 (applied cases) for clinical use ; §8.4 (JGH strategic voie) + §8.5 (Hamilton outreach + research agenda) for collaborative/academic context.
+**Note to readers.** This manuscript is in **migration-draft state**. Content from multiple sources (research-singularite.md, research-mecanismes.md, memory fiches, facts/, drafts/) has been versed verbatim per section — FR blocks remain FR, EN blocks remain EN, each block carries a `> **source:**` header for traceability. Harmonization (FR→EN translation, redundancy pruning, final editorial pass) is a subsequent phase. Reading order recommended: §1 (singularity framing) → §2 (via negativa anatomy of the 3 Ps) → §4.6.x (deep postural chain and cubic-trajectory mechanisms) for the theoretical core ; §5 (protocol) + §7 (applied cases) for clinical use ; §8.4 (JGH strategic pathway) + §8.5 (Hamilton outreach + research agenda) for collaborative/academic context.
 
 ---
 
@@ -178,7 +178,8 @@ Three consequences organize the rest of this document:
 - Cross-references § 2 (via negativa), § 3.4 (confluence), § 4.4 (neuro-circulatory substrates), § 5.4 (initial segment, empirical test), § 6.1 (liberating weakness), § 8.2 (comparison with adjacent practices) must be resolved once the full manual numbering is locked.
 - References Poe 2020, Aston-Jones & Cohen 2005, Canolty & Knight, Buzsáki, and the partial-rivals block need full PILOTE-refs expansion (bibliography + type + access + extract + author gloss + counter-reading). Current citations are placeholder short-forms.
 
-**Pivot pédagogique (fiche project_axe_c_courbure_x2) :** *"Les 3 P ne s'ajoutent pas — ils se multiplient. Le produit est un volume, pas une somme. Le nom encodait la loi."* — Rivaux à réfuter par structure : Zone 2 (droite 3x prescrite), niko-niko (plateau horizontal), HIIT/fitness snacks (créneaux), pacing (plafonné par déf.), warm-up conventionnel (interrompu), BA (courbure inter-session pas intra-session).
+**Pedagogical pivot (fiche project_axe_c_courbure_x2) :** *"The three Ps do not add up — they multiply. The product is a volume, not a sum. The name encoded the law."* — Rivals to refute by structure: Zone 2 (prescribed 3x line), niko-niko (horizontal plateau), HIIT/fitness snacks (steps), pacing (capped by definition), conventional warm-up (interrupted), BA (inter-session curvature, not intra-session).
+> *FR original:* « Les 3 P ne s'ajoutent pas — ils se multiplient. Le produit est un volume, pas une somme. Le nom encodait la loi. »
 
 ---
 
@@ -186,18 +187,18 @@ Three consequences organize the rest of this document:
 
 > **source:** manuel central (header SKELETON) + `memory/project_manuel_central_anglais_architecture.md`
 
-Ce manuel est la **source unique canonique** du framework JP³, écrite en anglais, destinée à être lue intégralement et à servir de référence pour toutes les dérivations futures. Il consolide en un seul document l'intégralité du contenu auparavant dispersé dans `content/en/article.md`, `content/fr/article.md`, `content/fr/research-singularite.md`, `content/fr/research-mecanismes.md`, les fiches mémoire projet, les facts/ et les drafts pertinents.
+This manual is the **single canonical source** of the JP³ framework, written in English, intended to be read in full and to serve as the reference for all future derivations. It consolidates into a single document the entirety of the content previously scattered across `content/en/article.md`, `content/fr/article.md`, `content/fr/research-singularite.md`, `content/fr/research-mecanismes.md`, the project memory fiches, facts/ and the relevant drafts.
 
-**Dérivations annoncées** (à produire à partir de ce manuel, jamais l'inverse) :
+**Announced derivations** (to be produced from this manual, never the reverse) :
 
-- **FR article** (`content/fr/article.md` actuel) — traduction/adaptation grand public francophone. Déjà en circulation sous une forme antérieure ; sera refondu à partir du manuel.
-- **Clinical deck JGH** — présentation 30-45 min sarcopénie + ostéoporose, destinée à la médecine familiale et à la gériatrie de l'Hôpital général juif de Montréal (voir §7.1 pour le contexte stratégique).
-- **Patient leaflets** — one-page briefs par population clinique (sarcopénie, dépression, CFS, etc.) dérivés du §7 et calibrés pour circulation hors-expertise.
-- **Agent prompt** — le "appendix prompt" permettant à un clinicien ou à un individu de répliquer l'expérience JP³ avec assistance IA. Base technique actuelle : skill `/janus` et équivalents. Voir §6.7 (agent comme couche d'incarnation).
+- **FR article** (current `content/fr/article.md`) — translation/adaptation for a general French-speaking audience. Already in circulation in an earlier form; will be recast from the manual.
+- **Clinical deck JGH** — 30–45 min presentation on sarcopenia + osteoporosis, intended for family medicine and geriatrics at the Jewish General Hospital, Montreal (see §7.1 for the strategic context).
+- **Patient leaflets** — one-page briefs per clinical population (sarcopenia, depression, CFS, etc.) derived from §7 and calibrated for circulation outside expert circles.
+- **Agent prompt** — the "appendix prompt" enabling a clinician or an individual to replicate the JP³ experience with AI assistance. Current technical basis: the `/janus` skill and equivalents. See §6.7 (agent as embodiment layer).
 
-**Politique de citation** : voir `PILOTE-refs.md` pour la politique "augmented traceability" (bibliographie + type + accès + extrait + glose auteur + contre-lecture). Chaque référence structurelle doit être traçable et contre-lisible — ni citation ornementale, ni autorité tacite.
+**Citation policy** : see `PILOTE-refs.md` for the "augmented traceability" policy (bibliography + type + access + extract + author gloss + counter-reading). Every structural reference must be traceable and open to counter-reading — neither ornamental citation nor tacit authority.
 
-**Non-périmètre** : ce manuel n'est **pas** un article de revue à soumettre tel quel. C'est un référentiel interne d'où seront extraits des dérivés formatés pour leurs auditoires respectifs. L'homogénéisation stylistique, la traduction FR→EN complète, la condensation à format revue, sont des passes ultérieures.
+**Out of scope** : this manual is **not** a review article to be submitted as is. It is an internal reference from which derivatives formatted for their respective audiences will be extracted. Stylistic homogenization, complete FR→EN translation, and condensation to journal format are later passes.
 
 ---
 
@@ -216,17 +217,17 @@ Each sub-section houses : (a) what the P excludes; (b) what it enables; (c) its 
 
 > **source:** `memory/feedback_jp3_nommer_p123.md`
 
-Éviter les abréviations `P1` / `P2` / `P3` dans les échanges discursifs (propositions structurelles, discussions, texte de l'article). Utiliser à la place les noms explicites :
+Avoid the abbreviations `P1` / `P2` / `P3` in discursive exchanges (structural proposals, discussions, article text). Use the explicit names instead:
 
-- **sur place** (jogging sur place — anciennement P1 / In Place)
-- **à son rythme** (auto-régulation temporelle — anciennement P2 / At Your Own Pace)
-- **chez soi** (environnement domestique intime — anciennement P3 / In Your Own Place)
+- **sur place** — In Place (jogging in place — formerly P1 / In Place)
+- **à son rythme** — At Your Own Pace (temporal self-regulation — formerly P2 / At Your Own Pace)
+- **chez soi** — In Your Own Place (intimate domestic environment — formerly P3 / In Your Own Place)
 
-Pour les intersections : **sur place × rythme**, **sur place × chez soi**, **rythme × chez soi**, **confluence des trois**.
+For intersections: **In Place × Pace**, **In Place × Own Place**, **Pace × Own Place**, **confluence of the three**.
 
-**Why:** Perig oublie régulièrement quel Pi est lequel. Les abréviations forcent une charge mnésique inutile qui casse le flux de discussion, surtout en mobile-first où on ne peut pas relire facilement une définition ailleurs à l'écran.
+**Why:** Perig regularly forgets which P is which. The abbreviations impose a needless memory load that breaks the flow of discussion, especially in mobile-first use where one cannot easily reread a definition elsewhere on the screen.
 
-**How to apply:** Réserver P1/P2/P3 uniquement aux contextes de contrainte d'espace forte (tableaux, diagrammes serrés, en-têtes courts). Dans tout texte discursif, propositions et échanges, écrire les noms complets. Idem pour les intersections : « case rythme × chez soi » plutôt que « case P2∩P3 ».
+**How to apply:** Reserve P1/P2/P3 solely for contexts of strong space constraint (tables, tight diagrams, short headers). In all discursive text, proposals and exchanges, write the full names. Same for intersections: "Pace × Own Place cell" rather than "P2∩P3 cell".
 
 ---
 
@@ -244,65 +245,66 @@ Pour les intersections : **sur place × rythme**, **sur place × chez soi**, **r
 
 > **source:** `memory/project_seuil_solitude_perceptive.md`
 
-**Observation vécue (Perig, 2026-08-06)** : difficulté concrète à placer le protocole JP³ quand il y a des gens à la maison. L'espace physique privé ne suffit pas — il faut aussi un **espace social intérieur**, une forme de non-observation. Le regard des proches n'a pas besoin d'être jugeant pour peser : sa simple *possibilité* suffit à bloquer le geste.
+**Lived observation (Perig, 2026-08-06)**: concrete difficulty fitting the JP³ protocol in when there are people at home. Private physical space is not enough — an **inner social space** is also needed, a form of non-observation. The gaze of those close to us need not be judgmental to weigh on us: its mere *possibility* is enough to block the gesture.
 
-**Why** : cette observation touche potentiellement une hypothèse tacite de l'article — « chez soi = espace de liberté motrice ». Or il resterait un prérequis invisible : **une disponibilité perceptive à soi-même**, non garantie par les seuls murs privés. Contrepoint à la thèse « pas besoin de salle, pas besoin d'équipement ».
+**Why**: this observation potentially touches a tacit assumption of the article — "In Your Own Place = space of motor freedom." Yet an invisible prerequisite would remain: **a perceptive availability to oneself**, not guaranteed by private walls alone. A counterpoint to the thesis "no gym needed, no equipment needed."
 
-**How to apply** :
-- Quand Perig reviendra sur l'article, envisager un court passage honnête (§3 ou section « limites vécues ») reconnaissant ce seuil.
-- Vérifier si le pattern se confirme dans le temps ou évolue — pourrait être un obstacle contingent (moment particulier) ou une donnée structurelle du protocole.
-- Possible pont vers `physiological-rights/` : droit à un espace perceptif à soi, pas seulement à un espace physique.
+**How to apply**:
+- When Perig returns to the article, consider a short, honest passage (§3 or a "lived limits" section) acknowledging this threshold.
+- Check whether the pattern holds over time or evolves — it could be a contingent obstacle (a particular moment) or a structural feature of the protocol.
+- Possible bridge to `physiological-rights/`: a right to a perceptive space of one's own, not merely a physical one.
 
 #### §2.1.2 Own Place welcomes bodily exaggeration — the "normal" is relative to the starting state
 
 > **source:** `memory/project_own_place_exageration_relative.md`
 
-Raffinement du 3ᵉ P (In Your Own Place) issu de la Q6 du bilan 2026-09-05. Résolution du statut du draft `silly walks.md` : **ce ne sont pas des variantes attentives contradictoires avec ego/écho, ce sont la reconnaissance que "normal" est relatif à l'état de départ**.
+Refinement of the 3rd P (In Your Own Place) arising from Q6 of the 2026-09-05 review. Resolution of the status of the draft `silly walks.md`: **these are not attentive variants contradicting ego/echo; they are the recognition that "normal" is relative to the starting state**.
 
-**La formulation exacte de Perig :** *"ce ne sont pas des variantes quand on y pense parce que en fait lorsque quelqu'un commence dans un état de grande fatigue ou d'âge avancé ou de blessures etc le mouvement normal est en lui-même une contorsion. c'est ce que j'avais déjà enregistré au niveau de la dorsiflexion qui peut sembler exagérée selon qu'on la pratique au réveil ou plus tard. quelqu'un qui vit avec une cuirasse depuis des années considère le port de tête normal comme une véritable contorsion. dans la dimension du plaisir il y a aussi que certains mouvements exagérés sont plus agréables mais plus étranges. ça rentre vraiment dans le p own place."*
+**Perig's exact wording:** *"they're not variants when you think about it because actually when someone starts out in a state of great fatigue or advanced age or injuries etc the normal movement is in itself a contortion. that's what I had already recorded about dorsiflexion which can seem exaggerated depending on whether you do it on waking or later. someone who has lived with an armor for years considers normal head carriage a real contortion. in the pleasure dimension there's also the fact that some exaggerated movements are more pleasant but stranger. that really fits into the p own place."*
+> *FR original:* « ce ne sont pas des variantes quand on y pense parce que en fait lorsque quelqu'un commence dans un état de grande fatigue ou d'âge avancé ou de blessures etc le mouvement normal est en lui-même une contorsion. c'est ce que j'avais déjà enregistré au niveau de la dorsiflexion qui peut sembler exagérée selon qu'on la pratique au réveil ou plus tard. quelqu'un qui vit avec une cuirasse depuis des années considère le port de tête normal comme une véritable contorsion. dans la dimension du plaisir il y a aussi que certains mouvements exagérés sont plus agréables mais plus étranges. ça rentre vraiment dans le p own place. »
 
-**Ce que ça articule :**
+**What this articulates:**
 
-1. **Le "normal" en JP³ n'est pas absolu — il est indexé à l'état de départ du corps.** Pour un corps cuirassé, reprendre le port de tête anatomique est déjà exagéré. Pour un corps fatigué au réveil, une simple dorsiflexion est un exploit. Ce que le fitness dominant appelle "normal" est déjà silly walks pour qui n'y accède plus.
+1. **"Normal" in JP³ is not absolute — it is indexed to the body's starting state.** For an armored body (*cuirasse*, character armor, Reich), resuming anatomical head carriage is already exaggerated. For a body fatigued on waking, a simple dorsiflexion is a feat. What mainstream fitness calls "normal" is already silly walks for someone who no longer has access to it.
 
-2. **La ligne "normal / silly" est mobile selon l'état du corps.** Ce qui semble exagéré au réveil devient banal en après-midi ; ce qui paraît contorsionniste pour un débutant devient naturel pour un pratiquant régulier. Le dispositif accueille tout le spectre.
+2. **The "normal / silly" line shifts with the state of the body.** What seems exaggerated on waking becomes ordinary in the afternoon; what looks contortionist to a beginner becomes natural to a regular practitioner. The setup welcomes the whole spectrum.
 
-3. **Own Place accueille l'exagération corporelle non-normée.** Le P₃ (In Your Own Place) n'est pas seulement l'espace physique privé ni seulement l'absence de destination (chute-vers-l'avant tolérée, mémoire §4.6.6). C'est aussi **l'espace où on peut oser des mouvements laids, ridicules, contortionnistes, sans regard**. La liberté d'expression corporelle non-normée est constitutive du 3ᵉ P.
+3. **Own Place welcomes non-normed bodily exaggeration.** P₃ (In Your Own Place) is not only private physical space, nor only the absence of a destination (forward-fall tolerated, memory §4.6.6). It is also **the space where one can dare ugly, ridiculous, contortionist movements, unobserved**. Freedom of non-normed bodily expression is constitutive of the 3rd P.
 
-4. **Dimension plaisir/étrangeté.** Certains mouvements exagérés sont simplement agréables parce qu'étranges — le plaisir de l'insolite fait partie du dispositif, indépendamment de toute utilité fonctionnelle. C'est un ressort intrinsèque du JP³, à côté du plaisir de l'amorçage et de l'euphorie de destination.
+4. **Pleasure/strangeness dimension.** Some exaggerated movements are simply pleasant because they are strange — the pleasure of the unusual is part of the setup, independently of any functional utility. It is an intrinsic driver of JP³, alongside the pleasure of priming and the euphoria of destination.
 
 #### §2.1.3 Furtive JP³ / standing JP³ — variant born from perceptive-solitude constraint
 
 > **source:** `memory/project_jp3_furtif_decouverte.md`
 
-**Découverte de Perig (2026-08-07)** — née directement de la question d'actualité du 2026-08-06 (« seuil de solitude perceptive »).
+**Perig's discovery (2026-08-07)** — born directly from the topical question of 2026-08-06 ("threshold of perceptive solitude").
 
-**Contexte** : en jogging JP³ à la maison, présence d'une autre personne dans la pièce. Perig arrête pour « redevenir normal ». Puis, en faisant la vaisselle (mains occupées, corps devant rester droit et relativement fixe pour manipuler les objets), il réalise qu'il peut **continuer JP³ pendant la vaisselle** — à condition d'avoir une excellente mobilité au bassin.
+**Context**: while jogging JP³ at home, another person is present in the room. Perig stops in order to "become normal again." Then, while doing the dishes (hands busy, body needing to stay upright and relatively fixed to handle objects), he realizes he can **continue JP³ while doing the dishes** — provided he has excellent pelvic mobility.
 
-**Les insights, en ordre :**
+**The insights, in order:**
 
-1. **Le bassin comme absorbeur élastique de la course**
-   - Élément *essentiel* d'une course efficace.
-   - Sans ça, l'impact se répercute sur les articulations basses (chevilles, genoux).
-   - L'immobilité du haut du corps *force* la mobilité pelvienne — donc *enseigne* la bonne mécanique.
+1. **The pelvis as elastic absorber of the run**
+   - An *essential* element of efficient running.
+   - Without it, the impact reverberates into the lower joints (ankles, knees).
+   - Upper-body immobility *forces* pelvic mobility — and thus *teaches* the right mechanics.
 
-2. **Diagnostic personnel** : Perig découvre qu'il court **tendu et non-économique** spontanément. Le mode furtif révèle cette tension comme défaut à corriger.
+2. **Personal diagnosis**: Perig discovers that he spontaneously runs **tense and uneconomically**. The furtive mode reveals this tension as a flaw to correct.
 
-3. **Consequences en cascade** :
-   - Qualité de la course elle-même (biomécanique protectrice).
-   - Capacité d'intégrer JP³ **en présence d'autres personnes**.
-   - Capacité de **démarrer** JP³ n'importe quand, sans devoir installer une « posture de départ » qui trahit l'intention.
+3. **Cascading consequences**:
+   - Quality of the running itself (protective biomechanics).
+   - Ability to integrate JP³ **in the presence of other people**.
+   - Ability to **start** JP³ at any time, without having to set up a "starting posture" that betrays the intention.
 
-4. **Résonance anthropologique** : ressemble aux danses de peuples autochtones (voisins de Perig au Canada — pas tous, mais certains). Corps ancré, mouvement central au bassin.
+4. **Anthropological resonance**: resembles the dances of Indigenous peoples (Perig's neighbors in Canada — not all, but some). Grounded body, movement centered at the pelvis.
 
-5. **Radicalisation du protocole** : JP³ devient un **mode d'habiter le corps quotidien** plutôt qu'un moment dédié. Vaisselle, cuisine, brossage de dents, station debout au téléphone, etc.
+5. **Radicalization of the protocol**: JP³ becomes **a way of inhabiting the everyday body** rather than a dedicated moment. Dishes, cooking, tooth-brushing, standing on the phone, etc.
 
-6. **Marqueur biomécanique clé** : les **genoux sont notablement fléchis** dans cette forme. Quand ils ne le sont pas assez, on retombe dans une posture de sprinter — *pas* ce qu'on cherche.
+6. **Key biomechanical marker**: the **knees are notably flexed** in this form. When they are not flexed enough, one falls back into a sprinter's posture — *not* what we are after.
 
-**Why (importance)** :
-- **Résout partiellement le seuil de solitude perceptive** : la contrainte (« être observable ») a produit sa propre issue (« forme invisible »), et cette issue est biomécaniquement *meilleure* que la forme spontanée. L'obstacle est devenu le maître.
-- **Radicalise la promesse fondamentale** de JP³ (pas de salle, pas d'équipement, pas de moment dédié) — la portant à sa forme la plus intégrée.
-- **Ouvre potentiellement une variante formalisable** : « JP³ furtif » / « JP³ debout » / « JP³ intégré ».
+**Why (importance)**:
+- **Partially resolves the threshold of perceptive solitude**: the constraint ("being observable") produced its own way out ("invisible form"), and this way out is biomechanically *better* than the spontaneous form. The obstacle became the teacher.
+- **Radicalizes the fundamental promise** of JP³ (no gym, no equipment, no dedicated moment) — carrying it to its most integrated form.
+- **Potentially opens a formalizable variant**: "furtive JP³" / "standing JP³" / "integrated JP³".
 
 ---
 
@@ -324,70 +326,72 @@ Raffinement du 3ᵉ P (In Your Own Place) issu de la Q6 du bilan 2026-09-05. Ré
 
 **"Jogging in Place":** The movement consists of jogging or gently bouncing in place. There is no horizontal displacement, concentrating the effort on vertical push-off and activation of the posterior chain muscles, notably the soleus. The "jogging" height can range from a light vertical bounce to a true jog with high knee lift, always in a self-regulated manner.
 
-#### §2.3.1 JP³ est In Place — ne jamais parler de "rentrer"/"sortir"
+#### §2.3.1 JP³ is In Place — never speak of "coming back in"/"going out"
 
 > **source:** `memory/feedback_jp3_est_in_place.md`
 
-Le JP³ est **In Place** — c'est le deuxième P constitutif (Own Pace / In Place / In Your Own Place). Perig ne "sort" pas courir, il ne peut donc pas "rentrer". Il court sur place, chez lui (balcon, salon, terrasse). Suggérer de "rentrer faire autre chose" comme si Perig était à l'extérieur est **doctrinalement absurde** et signale une corruption de contexte franche.
+JP³ is **In Place** — it is the second constitutive P (Own Pace / In Place / In Your Own Place). Perig does not "go out" for a run, so he cannot "come back in." He runs in place, at home (balcony, living room, terrace). Suggesting he "go back inside to do something else" as if Perig were outdoors is **doctrinally absurd** and signals outright context corruption.
 
-**Why** : incident du 2026-09-14 — pendant une session de compagnonnage course JP³, j'ai suggéré à Perig de "rentrer faire du banded distraction" alors qu'il était en train de courir chez lui sur place. Perig avait pourtant explicitement écrit dans un message précédent "quand je cours sur place et que je garde les pieds en chasse-neige". J'ai laissé mon prior LLM (course = déplacement outdoor) surdéterminer ma lecture contre toutes les mémoires disponibles (In Place, spring-mass ankle-dominant, pieds nus condition d'accès, chasse-neige stationnaire, degré zéro fascia, etc.). Perig a nommé la corruption comme "signal fort" — c'est un feedback fondamental.
+**Why**: incident of 2026-09-14 — during a JP³ running companionship session, I suggested that Perig "go back inside to do some banded distraction" while he was running in place at home. Perig had nonetheless explicitly written in a previous message "when I run in place and keep my feet in snowplow" (*chasse-neige*, snowplow geometry). I let my LLM prior (running = outdoor displacement) overdetermine my reading against all available memories (In Place, ankle-dominant spring-mass regime, barefoot as access condition, stationary snowplow, fascia *degré zéro* (degree zero), etc.). Perig named the corruption a "strong signal" — this is fundamental feedback.
+> *FR original:* « quand je cours sur place et que je garde les pieds en chasse-neige » ; « signal fort »
 
-**How to apply** :
-- Ne jamais employer les verbes "rentrer", "sortir", "aller", "arriver quelque part", "raccourcir la course" comme métaphores spatiales de déplacement quand Perig fait du JP³
-- Si un dispositif complémentaire (banded distraction, foam roller, marteau massage, salle) est pertinent, le nommer comme "à faire à côté" ou "après la séance", jamais comme substitut spatial ("aller faire X ailleurs")
-- Si Perig décrit une sensation ambiguë (fatigue, résistance, cheville qui bloque), avant de recommander quoi que ce soit, **relire mentalement les mémoires du triptyque 3P** pour vérifier qu'on reste dans le régime stationnaire
-- Le JP³ est une **activité complète en elle-même**, pas un fragment d'un programme d'entraînement multi-lieux. Toute suggestion qui traite le JP³ comme "étape d'un parcours ailleurs" trahit la doctrine
+**How to apply**:
+- Never use the verbs "come back in," "go out," "go," "arrive somewhere," "shorten the run" as spatial metaphors of displacement when Perig is doing JP³
+- If a complementary tool (banded distraction, foam roller, massage gun, gym) is relevant, name it as "to do alongside" or "after the session," never as a spatial substitute ("go do X elsewhere")
+- If Perig describes an ambiguous sensation (fatigue, resistance, ankle locking up), before recommending anything, **mentally reread the memories of the three-P triptych** to check that we remain within the stationary regime
+- JP³ is a **complete activity in itself**, not a fragment of a multi-location training program. Any suggestion that treats JP³ as "a stage on a route elsewhere" betrays the doctrine
 
-**Cas plus général** : quand le prior LLM ("course = dehors", "sport = terrain", "entraînement = salle") entre en conflit avec la doctrine JP³ (**In Place, Own Pace, In Your Own Place**), c'est la doctrine qui gagne, pas le prior. Si un tour de raisonnement produit une recommandation qui contredit une des mémoires ★★ ou ★★★ du système JP³, s'arrêter et vérifier avant de la formuler.
+**More general case**: when the LLM prior ("running = outdoors," "sport = field," "training = gym") conflicts with JP³ doctrine (**In Place, Own Pace, In Your Own Place**), the doctrine wins, not the prior. If a reasoning step produces a recommendation that contradicts one of the ★★ or ★★★ memories of the JP³ system, stop and check before formulating it.
 
 #### §2.3.2 Barefoot = access condition to the regime, not amplifier
 
 > **source:** `memory/project_pieds_nus_condition_acces.md`
 
-Le cadrage actuel de l'article (§2.2.3 "Le vrai usage des pieds") traite pieds nus comme un **amplificateur** ("fortement recommandé pour maximiser le feedback proprioceptif"). L'expérience de Perig du 2026-08-27 suggère un statut plus fort : **condition permissive** du noyau JP3.
+The article's current framing (§2.2.3 "The true use of the feet") treats barefoot as an **amplifier** ("strongly recommended to maximize proprioceptive feedback"). Perig's experience of 2026-08-27 suggests a stronger status: a **permissive condition** of the JP3 core.
 
-Signal empirique : "j'ai essayé avec les chaussettes et rien n'y fait : tout est beaucoup moins facile et naturel si on est pas pieds nus."
+Empirical signal: "I tried with socks and nothing works: everything is much less easy and natural if you're not barefoot."
+> *FR original:* « j'ai essayé avec les chaussettes et rien n'y fait : tout est beaucoup moins facile et naturel si on est pas pieds nus. »
 
-**Why:** hypothèse mécanistique — sans contact plantaire nu, le cerveau ne fait pas confiance au régime rebond fascia-tendon-soléaire, et réenclenche par défaut des stratégies de contrôle actif (recrutement quads phasiques). La chaussette gomme juste assez le feedback tactile pour que le régime élastique ne s'amorce pas. La chaussure fait pire. Les découvertes du 2026-08-27 (attaque talon élastique, chute-avant médio-pied) ont probablement dépendu du sol sous pieds nus — sans lui, la chute-avant se serait transformée en "je me rattrape avec les quads".
+**Why:** mechanistic hypothesis — without bare plantar contact, the brain does not trust the fascia-tendon-soleus rebound regime, and by default re-engages active control strategies (recruitment of phasic quads). The sock blurs tactile feedback just enough that the elastic regime does not prime. The shoe does worse. The discoveries of 2026-08-27 (elastic heel strike, midfoot forward-fall) probably depended on the floor under bare feet — without it, the forward-fall would have turned into "I catch myself with my quads."
 
-Explique aussi pourquoi Perig est passé à côté de ces variantes longtemps : test antérieur avec chaussettes → pas d'amorçage du régime → variante rejetée à tort → il n'a pas repéré que c'était la chaussette qui bloquait, pas la variante.
+Also explains why Perig missed these variants for so long: earlier test with socks → no priming of the regime → variant wrongly rejected → he did not notice that it was the sock that was blocking, not the variant.
 
 **How to apply:**
-- Reformuler §2.2.3 pour distinguer deux fonctions du pieds-nus : (1) amplificateur de proprioception au long cours [statut actuel] et (2) **condition d'accès au régime spring-mass** [statut à ajouter]
-- Positionner pieds nus dans la même famille conceptuelle que les autres contraintes négatives (via negativa) — c'est ce qui *empêche* la retombée dans le régime phasique
-- Point à corroborer : littérature barefoot running sur transition foot strike et recrutement musculaire (attaque talon en chaussures vs médio/avant-pied pieds nus)
-- Recoupe la thèse chaîne posturale profonde (mémoire 2026-08-16) — le fascia plantaire est le point d'entrée bas de la chaîne
+- Reword §2.2.3 to distinguish two functions of barefoot: (1) long-term proprioception amplifier [current status] and (2) **access condition to the spring-mass regime** [status to be added]
+- Place barefoot in the same conceptual family as the other negative constraints (via negativa) — it is what *prevents* falling back into the phasic regime
+- Point to corroborate: barefoot running literature on foot-strike transition and muscle recruitment (heel strike in shoes vs. mid/forefoot barefoot)
+- Overlaps the deep postural chain thesis (memory 2026-08-16) — the plantar fascia is the chain's lower entry point
 
-**Confirmation clinique 2026-09-20** :
-**Signal fort** : impossible d'amorcer le régime même à la maison en petit jogging léger avec chaussettes ou chaussures. Le seuil et la zone de douance de Perig sont **strictement pieds nus**. L'hypothèse est passée établie.
+**Clinical confirmation 2026-09-20**:
+**Strong signal**: impossible to prime the regime even at home in a light little jog with socks or shoes. Perig's threshold and zone of giftedness are **strictly barefoot**. The hypothesis has become established.
 
-**Corollaire clinique — pattern soccer récidivant** :
-Les blessures Achille répétées en soccer depuis plusieurs mois **ne sont pas d'abord** un problème d'intensité (vs. jogging maison). Cause structurelle :
-- Crampons + semelles non-newtoniennes ultra-amortissantes + chaussettes
-- ⇒ régime spring-mass ne s'amorce pas
-- ⇒ soléaire/mollets ne réagissent pas au quart de tour
-- ⇒ Achille encaisse la charge que le rebond aurait absorbée
+**Clinical corollary — recurrent soccer pattern**:
+The repeated Achilles injuries in soccer over several months **are not primarily** a problem of intensity (vs. home jogging). Structural cause:
+- Cleats + ultra-cushioning non-Newtonian soles + socks
+- ⇒ spring-mass regime does not prime
+- ⇒ soleus/calves do not react instantly
+- ⇒ the Achilles absorbs the load the rebound would have absorbed
 
-Recoupe project_imagerie_cheville_ordonnance.md : le mécanisme causal de la tendinopathie insertionnelle Achille droit se précise.
+Overlaps project_imagerie_cheville_ordonnance.md: the causal mechanism of the right insertional Achilles tendinopathy is coming into focus.
 
-**Retrait explicite** de l'ancien bullet "ne pas confondre soccer / JP³". La séparation naïve est invalidée par l'expérience clinique : c'est justement parce que le régime JP³ pourrait protéger l'Achille en soccer, et qu'il est actuellement *gated par le pieds-nus*, qu'il y a un **pont manquant** à nommer.
+**Explicit withdrawal** of the former bullet "do not conflate soccer / JP³." The naive separation is invalidated by clinical experience: it is precisely because the JP³ regime could protect the Achilles in soccer, and because it is currently *gated by barefoot*, that there is a **missing bridge** to name.
 
-**Question ouverte — dépendance vs. étape de rééducation** :
-Deux lectures possibles de la pratique JP³ pieds-nus exclusive :
-1. Elle *groove une dépendance* au feedback plantaire nu — auquel cas le soccer chaussé reste zone de risque structurel indéfiniment
-2. Elle est l'étape de rééducation nécessaire avant transfert progressif vers chaussures minimalistes — auquel cas chantier explicite à ouvrir (ramp progressif)
+**Open question — dependence vs. rehabilitation stage**:
+Two possible readings of exclusive barefoot JP³ practice:
+1. It *grooves a dependence* on bare plantar feedback — in which case shod soccer remains a zone of structural risk indefinitely
+2. It is the necessary rehabilitation stage before progressive transfer to minimalist shoes — in which case an explicit work-stream needs opening (progressive ramp)
 
-**Résolution partielle 2026-09-20 (soir)** — voir `memory/project_warmup_piedsnus_prematch.md` :
+**Partial resolution 2026-09-20 (evening)** — see `memory/project_warmup_piedsnus_prematch.md`:
 
-La question "dépendance vs. rééducation" reçoit une **réponse hybride** via un long fil Perplexity + expérimentation clinique :
+The "dependence vs. rehabilitation" question receives a **hybrid answer** via a long Perplexity thread + clinical experimentation:
 
-**Ni l'un ni l'autre — c'est de la spécificité contextuelle normale.** Principe validé par la littérature du transfert d'entraînement (Bosch) : ce ne sont pas deux intensités du même geste mais **deux tâches motrices distinctes** du point de vue du SNC. Les populations chaussées toute leur vie n'ont pas de sur-risque relatif dans leur propre régime. Le risque de Perig vient du **différentiel** entre ses deux régimes calibrés séparément.
+**Neither — it is normal contextual specificity.** Principle validated by the training-transfer literature (Bosch): these are not two intensities of the same gesture but **two distinct motor tasks** from the CNS's point of view. Populations shod all their lives have no relative excess risk within their own regime. Perig's risk comes from the **differential** between his two separately calibrated regimes.
 
-**Mécanisme unifié précisé** : préactivation feed-forward du triceps sural déclenchée par les mécanorécepteurs plantaires. Corpuscules de Pacini = bandpass 20-1000 Hz sensibles au taux de changement (rembourrage étale l'impulsion → suppression du signal en profondeur). Robbins & Hanna 1980+ (discomfort-impact illusion). EMG barefoot vs. shod : +10-24% de pré-activation gastroc/soléaire pieds-nus.
+**Unified mechanism specified**: feed-forward pre-activation of the triceps surae triggered by plantar mechanoreceptors. Pacinian corpuscles = 20-1000 Hz bandpass sensitive to rate of change (padding spreads the impulse → suppression of the signal at depth). Robbins & Hanna 1980+ (discomfort-impact illusion). EMG barefoot vs. shod: +10-24% gastroc/soleus pre-activation barefoot.
 
-**Posture doctrinale** : assumer les deux régimes comme distincts, utiliser le pieds-nus comme **primer** immédiatement avant le régime chaussé (carry-over partiel documenté).
+**Doctrinal stance**: accept the two regimes as distinct, use barefoot as a **primer** immediately before the shod regime (partial carry-over documented).
 
-**Application clinique validée** : 5 min de warm-up pieds-nus rapide/impact léger → bondissement unipodal solide spontané = test étalon-or post-Achille (RSI>0.5). Extension du framework JP³ vers un usage de préactivation pré-activité chaussée.
+**Validated clinical application**: 5 min of fast/light-impact barefoot warm-up → spontaneous solid single-leg hopping = gold-standard post-Achilles test (RSI>0.5). Extension of the JP³ framework toward a pre-activation use before shod activity.
 
 ---
 
@@ -395,39 +399,39 @@ La question "dépendance vs. rééducation" reçoit une **réponse hybride** via
 
 > **source:** `memory/project_3P_test_definitoire_sommeil.md`
 
-Découverte 2026-08-27 en marchant à côté du vélo, en cherchant un pendant "sommeil" au JP³. Les 3 P (Jogging in Place, In Your Own Place, At Your Own Pace) ne sont pas seulement des contraintes de design du JP³ — ce sont les **conditions de l'autonomie somatique**, et leur violation simultanée produit l'expérience exactement contraire :
+Discovery 2026-08-27 while walking beside the bike, looking for a "sleep" counterpart to JP³. The three Ps (Jogging in Place, In Your Own Place, At Your Own Pace) are not only design constraints of JP³ — they are the **conditions of somatic autonomy**, and their simultaneous violation produces exactly the opposite experience:
 
-- Violer **Own Place** (sortir de chez soi) → sur-stimulation
-- Violer **Own Pace** (se laisser stimuler) → aller contre le rythme naturel
-- Violer **In Place** (être en mouvement/en scène) → perte de contrôle
+- Violating **Own Place** (leaving home) → over-stimulation
+- Violating **Own Pace** (letting oneself be stimulated) → going against the natural rhythm
+- Violating **In Place** (being in motion/on stage) → loss of control
 
-Résultat : envie de rentrer, besoin de retrouver un lieu à soi. Le corps signale que l'autonomie est compromise.
+Result: a desire to go home, a need to regain a place of one's own. The body signals that autonomy is compromised.
 
-**Corollaire — le pendant sommeil du JP³ n'a pas à être inventé** : c'est **le retour vers les 3 P**. Marche vers la maison = restauration d'Own Place. Décélération = restauration d'Own Pace. Se poser = restauration d'In Place. La sieste est ce qui se passe quand les 3 P sont restaurés après violation. Même noyau, deux directions temporelles : le JP³ active ce noyau depuis le bas de la courbe (amorçage → sortie) ; le sommeil le laisse redescendre depuis le pic de violation (retour → dépôt).
+**Corollary — the sleep counterpart of JP³ does not need to be invented**: it is **the return toward the three Ps**. Walking home = restoration of Own Place. Deceleration = restoration of Own Pace. Settling down = restoration of In Place. The nap is what happens when the three Ps are restored after violation. Same core, two temporal directions: JP³ activates this core from the bottom of the curve (priming → exit); sleep lets it descend from the peak of violation (return → settling).
 
-**Why:** Perig a inventé le JP³ à cause de ses problèmes de sommeil — un pendant "sommeil" boucle la doctrine à sa racine. Cette découverte évite de fabriquer un dispositif séparé et révèle que les 3 P sont plus fondamentaux qu'une simple recette de méthode matinale : ils décrivent une **zone protégée d'autonomie somatique** dont JP³ (activation matinale) et sommeil (descente vespérale) sont les deux modes.
+**Why:** Perig invented JP³ because of his sleep problems — a "sleep" counterpart closes the loop of the doctrine at its root. This discovery avoids building a separate device and reveals that the three Ps are more fundamental than a mere morning-method recipe: they describe a **protected zone of somatic autonomy** of which JP³ (morning activation) and sleep (evening descent) are the two modes.
 
 **How to apply:**
-- Considérer les 3 P non plus comme paramètres d'un dispositif mais comme **conditions de l'autonomie somatique** dont dérivent plusieurs états (activation, descente, sommeil)
-- Pour tout futur travail sur sommeil dans le cadre JP³ : partir de la topologie "violation → retour" plutôt que de chercher un dispositif miroir
-- Précision terminologique importante : le troisième P est **In Your Own Place**, pas "Prompted" (hallucination antérieure de l'humanoïde à corriger si elle réapparaît)
-- Piste article : cette découverte pourrait constituer une section propre sur "le JP³ comme retour aux 3 P" — cadre plus large que celui de la méthode matinale seule
+- Consider the three Ps no longer as parameters of a device but as **conditions of somatic autonomy** from which several states derive (activation, descent, sleep)
+- For any future work on sleep within the JP³ framework: start from the "violation → return" topology rather than looking for a mirror device
+- Important terminological precision: the third P is **In Your Own Place**, not "Prompted" (an earlier hallucination by the humanoid, to be corrected if it reappears)
+- Article lead: this discovery could constitute its own section on "JP³ as a return to the three Ps" — a broader frame than that of the morning method alone
 
 ---
 
-### §2.5 Modulation of the 3 P — grammar of re-pondération
+### §2.5 Modulation of the 3 P — grammar of re-weighting
 
 > **source:** `memory/project_3P_modulation_grammaire.md`
 
-Les trois P (Jogging in Place, In Your Own Place, At Your Own Pace) ne sont pas des contraintes rigides à respecter simultanément, mais des **vecteurs qui se re-pondèrent** selon les circonstances. Aujourd'hui 2026-08-27, découverte en course : Own Pace a tiré vers l'avant (chute-avant façon pose running), In Place s'est plié (déplacement horizontal), et le régime JP3 a tenu — parce que le **noyau via negativa** (spring-mass ankle-dominant, exclusion du phasique glycolytique) n'a pas été rompu.
+The three Ps (Jogging in Place, In Your Own Place, At Your Own Pace) are not rigid constraints to be respected simultaneously, but **vectors that re-weight one another** according to circumstances. Today, 2026-08-27, a discovery while running: Own Pace pulled forward (pose-running-style forward-fall), In Place bent (horizontal displacement), and the JP3 regime held — because the **via negativa core** (ankle-dominant spring-mass regime, exclusion of the phasic-glycolytic) was not broken.
 
-**Why:** cadrage antérieur traitait "In Place" comme quasi-synonyme d'immobilité horizontale. Perig a explicitement identifié ce préjugé favorable comme un biais qui l'a fait passer à côté de variantes riches (attaque talon élastique, chute-avant médio-pied). La méthode est définie comme "moins d'effort possible" — la chute-avant est *moins* d'effort (gravité fait le travail), donc elle *devrait* appartenir au JP3, et le "In Place" strict la disqualifiait à tort.
+**Why:** earlier framing treated "In Place" as a near-synonym of horizontal immobility. Perig explicitly identified this favorable prejudice as a bias that made him miss rich variants (elastic heel strike, midfoot forward-fall). The method is defined as "least possible effort" — the forward-fall is *less* effort (gravity does the work), so it *should* belong to JP3, and strict "In Place" wrongly disqualified it.
 
 **How to apply:**
-- Quand une variante réduit l'effort tout en préservant le noyau via negativa, la retenir comme JP3 valide même si elle plie un des 3 P
-- Le noyau via negativa est le juge : pas de recrutement phasique-glycolytique, spring-mass ankle-dominant préservé, cascades auto-délétères non déclenchées
-- Cohérent avec l'axe famille SPU via negativa (mémoire du 2026-08-17) : le noyau est une contrainte négative partagée, pas une équivalence positive
-- Vocabulaire proposé : "modulation entre P", "re-pondération selon circonstances", "3 P comme vecteurs et non contraintes rigides"
+- When a variant reduces effort while preserving the via negativa core, retain it as valid JP3 even if it bends one of the three Ps
+- The via negativa core is the judge: no phasic-glycolytic recruitment, ankle-dominant spring-mass preserved, self-deleterious cascades not triggered
+- Consistent with the SPU via negativa family axis (memory of 2026-08-17): the core is a shared negative constraint, not a positive equivalence
+- Proposed vocabulary: "modulation between Ps," "re-weighting according to circumstances," "three Ps as vectors and not rigid constraints"
 
 ---
 
@@ -464,7 +468,7 @@ The absence of horizontal displacement ("Jogging in Place") combined with the in
 #### §3.2.1 Soleus activation and the metabolic engine
 
 > **source:** `content/en/article.md` §2.2.1
-> **⚠ Correction note:** attribution errors flagged in `PILOTE-refs.md` §Pilote 1 — Hamilton/Zderic (not "Raper"), iScience 25(9), article 104869 ; chiffres 52% / 60% à vérifier. À corriger lors de la passe d'harmonisation.
+> **⚠ Correction note:** attribution errors flagged in `PILOTE-refs.md` §Pilote 1 — Hamilton/Zderic (not "Raper"), iScience 25(9), article 104869 ; figures 52% / 60% to be verified. To be corrected during the harmonization pass.
 
 The soleus muscle, often overlooked, is a critical component in age-related mobility decline, being the first to atrophy and losing up to 35% of its strength after age 60. The "Jogging in Place × In Your Own Place" combination is ideal for targeted activation. The absence of horizontal displacement concentrates 100% of the force into vertical plantarflexion, forcing the soleus to work continuously against gravity without the assistance of momentum. This enables **maximal activation of the slow, oxidative fibers** of the soleus, which functions as the body's "second heart" by improving venous return and maintaining the "soleus pump." A study on "soleus push-ups" (Hamilton et al., 2022) — a setup in which the soleus is solicited in a seated position for several hours — documented a **52% reduction in postprandial glucose excursion** and a **60% reduction in hyperinsulinemia**. The authors attribute these effects to sustained soleus uptake of blood glucose and to reduced insulin demand. Transposition to standing jogging in place such as JP³ remains mechanistically plausible but has not been empirically established. JP³ reproduces these conditions of intense and prolonged activation, favoring a predominantly oxidative metabolism and the use of fat as fuel. JP³ thus offers a unique intervention to counter soleus decline, improve propulsion efficiency, and stimulate fat metabolism, even in individuals with low exercise capacity.
 
@@ -474,81 +478,81 @@ The soleus muscle, often overlooked, is a critical component in age-related mobi
 
 > **source:** fiche `project_talon_activateur_stacking.md` (2026-09-25, ⚡⚡⚡)
 
-**Contexte de découverte** — 2026-09-25 matin, léger rhume. Décision de rebondir en laissant le poids tomber sur les talons pour se réveiller à minimum d'effort. La contrainte fatigue a été le *révélateur* d'un régime qui, précisé par Perig dans le même échange, s'avère être le **portail canonique** de toute session JP³ — pas une variante d'urgence.
+**Context of discovery** — 2026-09-25, morning, mild cold. Decision to bounce by letting the weight drop onto the heels, so as to wake up with minimal effort. The fatigue constraint was the *revealer* of a regime that, as Perig specified in the same exchange, turns out to be the **canonical portal** of every JP³ session — not an emergency variant.
 
-**Trois mécaniques articulées**
+**Three articulated mechanics**
 
-**1. Talon comme verrou géométrique du 2ᵉ P (In Place strict)**
-Poser le talon d'abord ≈ pratiquement reculer. La course sur place devient auto-verrouillée : impossible de dériver vers l'avant, plus besoin de tenir la strictesse cognitivement. Dès que le pattern revient vers "tendance à aller devant" (même sans déplacement réel), le seul décalage du centre de gravité et de la zone plantaire crée déjà de la fatigue. Le talon-activateur = degré zéro absolu du In Place.
+**1. Heel as geometric lock of the 2nd P (strict In Place)**
+Landing heel-first ≈ practically stepping backward. Running In Place becomes self-locking: it is impossible to drift forward, and there is no longer any need to hold strictness cognitively. As soon as the pattern reverts toward a "tendency to go forward" (even without actual displacement), the mere shift of the center of gravity and of the plantar contact zone already creates fatigue. The heel activator = absolute *degré zéro* (degree zero) of In Place.
 
-**2. Ressort élastique passif — spring-mass à minimum de recrutement**
-Le triceps sural / cheville / voûte fonctionne par pure élasticité, talon comme activateur du cycle stretch-shortening. Aucun recrutement phasique-glycolytique. Confirme et raffine `project_ankle_dominant_regime.md` — c'est le régime dans sa forme la plus économique observable à ce jour.
+**2. Passive elastic spring — spring-mass at minimal recruitment**
+The triceps surae / ankle / arch work through pure elasticity, with the heel as activator of the stretch-shortening cycle. No phasic-glycolytic recruitment. Confirms and refines `project_ankle_dominant_regime.md` — this is the regime in its most economical form observed to date.
 
-**3. Cascade d'empilement (stacking) déclenchée par le repère plantaire arrière**
-Découverte structurellement nouvelle : le talon comme point d'ancrage arrière **rappelle la verticale**. Impossible de rester tête-en-avant quand on rebondit sur talons — la tête reprend spontanément sa position normale, stacking physiologique se produit sans effort de correction posturale. La posture n'est pas **construite** par le haut, elle est **révélée** par le point d'appui. Cinématique manquante pour compléter `project_chaine_posturale_profonde.md`.
+**3. Stacking cascade triggered by the rear plantar landmark**
+Structurally new discovery: the heel, as rear anchor point, **recalls the vertical**. It is impossible to stay head-forward while bouncing on the heels — the head spontaneously returns to its normal position, and physiological stacking occurs without any effort of postural correction. Posture is not **built** from the top down; it is **revealed** by the point of support. The missing kinematics needed to complete `project_chaine_posturale_profonde.md`.
 
-**Corollaire ego-écho renforcé**
+**Reinforced ego-and-echo corollary**
 
-Bras et mains libérés pour les **activités manuelles habituelles pendant JP³ chez Perig** — vaisselle, ranger la maison, tâches domestiques concrètes (usage sédimenté et documenté depuis longtemps, cf. article FR §4.6.8 et fiches multiples). La percée talon n'introduit pas cet usage — elle en **renforce la disponibilité géométrique** : le bassin/tronc sont tenus par la cascade d'empilement, pas par une gestion active de contre-balanciers, donc les membres supérieurs sont *pleinement* dégagés (pas juste "cognitivement libres" mais mécaniquement disponibles pour des gestes fins).
+Arms and hands freed for the **usual manual activities during JP³ at Perig's home** — dishes, tidying the house, concrete household tasks (a sedimented use documented for a long time, cf. FR article §4.6.8 and multiple memory notes). The heel breakthrough does not introduce this use — it **reinforces its geometric availability**: pelvis/trunk are held by the stacking cascade, not by active management of counterweights, so the upper limbs are *fully* disengaged (not just "cognitively free" but mechanically available for fine gestures).
 
-**Signal contexte-rhume**
+**Cold-context signal**
 
-Émergé sous contrainte de minimum d'effort → variante particulièrement pertinente pour :
-- pôle sarcopénie / sujet âgé / récup (`project_sarcopenie_voie_royale.md`) — porte d'entrée plus douce encore que pointe-molle
-- amorçage matinal fatigué / lendemain de match
-- possible pont pédagogique pour désétranger le JP³ auprès de publics qui n'osent pas rebondir sur avant-pied
+Emerged under a minimal-effort constraint → a variant particularly relevant for:
+- the sarcopenia / older adult / recovery pole (`project_sarcopenie_voie_royale.md`) — an even gentler entry point than *pointe-molle* (soft-forefoot bouncing)
+- tired morning priming / the day after a match
+- a possible pedagogical bridge to make JP³ less foreign to audiences who do not dare bounce on the forefoot
 
-**Ancrages littérature (recherche Perplexity 2026-09-25)**
+**Literature anchors (Perplexity research 2026-09-25)**
 
-Quatre corpus académiques convergent sur le talon-activateur, sans se recouvrir :
+Four academic corpora converge on the heel activator, without overlapping:
 
-1. **Perry — les trois rockers de la marche** (heel rocker → ankle rocker → forefoot rocker) : la cascade d'empilement JP³ = formalisation biomécanique connue en gait analysis. Le contact talonnier n'est pas isolé mais le trigger mécanique qui met en tension la chaîne postérieure et propage vers l'avant-pied. Donne un vocabulaire clinique partagé avec les physios/podiatres.
-2. **Knutson & Söderberg — cycle étirement-raccourcissement (SSC)** : co-contraction biphasique TA + gastrocnémien + soléaire précisément au contact talonnier. Confirmation EMG que le talon-activateur est la scène où la co-contraction TA/triceps sural documentée dans `project_tibialis_anterior_co_contraction.md` se joue en pré-activation.
-3. **Nigg — "muscle tuning"** (voir `project_nigg_muscle_tuning.md`) : les forces d'impact ne sont pas des chocs délétères mais des **signaux d'entrée** utilisés par le SNC pour calibrer la raideur/amortissement du pas suivant. **Socle théorique légitimant la présupposition JP³ "impact = information, pas trauma".**
-4. **Bassey & Ramsdale — effet ostéogénique** (voir `project_osteogenic_jgh_seconde_porte.md`) : heel drop produit ~3× BW à la hanche, maintien de densité osseuse chez femmes ménopausées ; seuil ~2× BW et fréquences 10-20 Hz déclenchent formation osseuse. **Ouvre une seconde porte JGH parallèle à sarcopénie : ostéoporose.**
+1. **Perry — the three rockers of gait** (heel rocker → ankle rocker → forefoot rocker): the JP³ stacking cascade = a biomechanical formalization known in gait analysis. Heel contact is not isolated but is the mechanical trigger that tensions the posterior (back) chain and propagates toward the forefoot. Provides a clinical vocabulary shared with physios/podiatrists.
+2. **Knutson & Söderberg — stretch-shortening cycle (SSC)**: biphasic co-contraction of TA + gastrocnemius + soleus precisely at heel contact. EMG confirmation that the heel activator is the stage on which the TA/triceps surae co-contraction documented in `project_tibialis_anterior_co_contraction.md` plays out as pre-activation.
+3. **Nigg — "muscle tuning"** (see `project_nigg_muscle_tuning.md`): impact forces are not harmful shocks but **input signals** used by the CNS to calibrate the stiffness/damping of the next step. **Theoretical foundation legitimizing the JP³ presupposition "impact = information, not trauma".**
+4. **Bassey & Ramsdale — osteogenic effect** (see `project_osteogenic_jgh_seconde_porte.md`): heel drop produces ~3× BW at the hip, maintenance of bone density in postmenopausal women; a threshold of ~2× BW and frequencies of 10-20 Hz trigger bone formation. **Opens a second JGH door parallel to sarcopenia: osteoporosis.**
 
-**Vigilance de lecture** : la recherche est écrite dans un cadre chaussé implicite (impact = ce qui arrive dans une chaussure de course). Le talon-activateur JP³ est pieds-nus, ce qui change la mécanique — le muscle tuning de Nigg devrait être plus efficace pieds-nus (moins de bruit dans le signal), mais la littérature citée ne fait pas cette distinction. À thématiser explicitement dans le manuel pour éviter que le lecteur infère "talonnière en chaussures amorties".
+**Reading caveat**: the research is written within an implicit shod frame (impact = what happens inside a running shoe). The JP³ heel activator is barefoot, which changes the mechanics — Nigg's muscle tuning should be more effective barefoot (less noise in the signal), but the cited literature does not make this distinction. To be thematized explicitly in the manual so that the reader does not infer "heel striking in cushioned shoes".
 
-Source Perplexity archivée : `facts/perplexity-talon-impact-2026-09-25.md`.
+Archived Perplexity source: `facts/perplexity-talon-impact-2026-09-25.md`.
 
-**Position dans la séquence (tranché par Perig 2026-09-25)**
+**Position in the sequence (decided by Perig 2026-09-25)**
 
-**Portail systématique en début de session — quel que soit l'état de santé.** Le talon-activateur n'est ni une variante d'urgence (rhume/fatigue seulement) ni une porte d'accès à transférer ensuite vers pointe-molle. C'est le **régime d'entrée** de toute session JP³.
+**Systematic portal at the start of the session — whatever the state of health.** The heel activator is neither an emergency variant (cold/fatigue only) nor an access door to be transferred later toward *pointe-molle*. It is the **entry regime** of every JP³ session.
 
-**Prolongation variable selon état.** Dans certains états (rhume, fatigue, matin brumeux, lendemain de match probablement), le talon-activateur peut durer *toute la session*. Dans d'autres états, il ouvre puis laisse place à la variante pointe-molle (ou coexiste — reste à préciser par l'observation).
+**Variable extension depending on state.** In some states (cold, fatigue, foggy morning, probably the day after a match), the heel activator can last *the whole session*. In other states, it opens and then gives way to the *pointe-molle* variant (or coexists with it — yet to be specified through observation).
 
-**Implication doctrinale** — le talon-activateur n'est pas un cas particulier ni une variante secondaire, c'est la **cinématique canonique d'ouverture**. La pointe-molle est ce qui peut suivre (ou pas). À reformuler comme séquence, pas comme alternatives parallèles.
+**Doctrinal implication** — the heel activator is neither a special case nor a secondary variant; it is the **canonical opening kinematics**. *Pointe-molle* is what may follow (or not). To be reformulated as a sequence, not as parallel alternatives.
 
-**Second régime — talon-activateur incident**
+**Second regime — incident heel activator**
 
-Le talon-activateur a **deux régimes** doctrinalement distincts :
+The heel activator has **two doctrinally distinct regimes**:
 
-1. **Portail systématique en début de session** — décrit ci-dessus, cinématique canonique d'ouverture de toute session JP³.
-2. **Régime incident** — voir §3.2.4 ci-dessous. Le même geste (chocs de talon) exécuté au fil du quotidien, en pleine autre activité, sans changer la posture globale ni entrer en "session". Un choc = un update de calibration (via muscle tuning Nigg). Inversion figure/fond : le quotidien est primaire, JP³ s'y incruste.
+1. **Systematic portal at the start of the session** — described above, the canonical opening kinematics of every JP³ session.
+2. **Incident regime** — see §3.2.4 below. The same gesture (heel shocks) performed in the flow of daily life, in the middle of another activity, without changing overall posture or entering a "session". One shock = one calibration update (via Nigg's muscle tuning). Figure/ground inversion: daily life is primary, JP³ embeds itself in it.
 
-Les deux régimes ne sont pas concurrents : ils exploitent la même mécanique fondamentale (impact talonnier → SSC → tuning → cascade proprioceptive), mais avec des topologies temporelles opposées (bloc dédié vs. dispersion). Un utilisateur JP³ mature pratique probablement les deux.
+The two regimes do not compete: they exploit the same fundamental mechanics (heel impact → SSC → tuning → proprioceptive cascade), but with opposite temporal topologies (dedicated block vs. dispersion). A mature JP³ practitioner probably practices both.
 
-**Enrichissement recherche Perplexity 2026-11-04 (propulsion géométrique)**
+**Perplexity research enrichment 2026-11-04 (geometric propulsion)**
 
 > **source:** `facts/perplexity-propulsion-geometrie-heel-2026-11-04.md`
 
-- **SSC + stretch reflex ~40 ms (Komi 2000)** — confirme mécaniquement le ressort talon-activateur du JP³ ; soléaire = acteur central.
-- **Preactivation set before contact** — le cerveau cale le gain avant l'atterrissage ; cohérent avec le JP³ comme école de calibration.
-- **Extensor thrust / positive supporting reaction / crossed-extensor reflex** — hypothèse convergente non confirmée pour le heel strike spécifiquement ; à garder comme piste explicative du ressenti de "nécessaire propulsion forward" quand l'appui talonnier est pleinement reçu.
-- **Perry's three rockers** — vocabulaire clinique partagé, déjà noté ci-dessus.
-- **Whittington & Thelen spring-mass + roller** — soutient l'image "circular spring" (roue) vs "point foot" (pogo vertical) ; distinction pogo (propulsion vers le haut) / roue (propulsion directionnelle horizontale).
-- **Kuo, Donelan, Ruina** — heel strike dissipatif ; push-off du membre précédent restaure l'énergie ; collision economy.
-- **Holowka & Lieberman 2018 + Welte** — pied humain = **compliant at contact, stiff at push-off** ; adaptation pour course longue distance. Formulation canonique directement lisible comme description du JP³ en régime talon-activateur.
-- **Laetoli (3.6 Mya)** — heel strike + arche médiale + impression gros orteil = pattern archaïque. Argument évolutif pour le talon-activateur, désamorce le discours "le heel-strike c'est mauvais" du running moderne.
-- **Windlass contesté** — texture doctrinale à moduler : stiff plantar fascia + arch height + intrinsic foot muscles comptent tous ; pas juste windlass.
-- **🔑 Raffinement crucial** — *"In place, there is no net horizontal impulse over a cycle. What you feel as a forward drive is probably the orientation of the force and the readiness of the posterior chain."* — distingue **activation directionnelle sans translation** (In Place intact) de **translation réelle** (débordement In Place strict). Étend la grammaire de re-pondération des 3 P (★★ 2026-08-27 `project_3P_modulation_grammaire.md`) aux vecteurs appliqués en orientation sans translation.
+- **SSC + stretch reflex ~40 ms (Komi 2000)** — mechanically confirms the JP³ heel-activator spring; soleus = central actor.
+- **Preactivation set before contact** — the brain sets the gain before landing; consistent with JP³ as a school of calibration.
+- **Extensor thrust / positive supporting reaction / crossed-extensor reflex** — convergent hypothesis, not confirmed for heel strike specifically; to be kept as an explanatory lead for the felt sense of a "necessary forward propulsion" when heel loading is fully received.
+- **Perry's three rockers** — shared clinical vocabulary, already noted above.
+- **Whittington & Thelen spring-mass + roller** — supports the image of a "circular spring" (wheel) vs. a "point foot" (vertical pogo); distinction between pogo (upward propulsion) / wheel (directional horizontal propulsion).
+- **Kuo, Donelan, Ruina** — dissipative heel strike; push-off of the preceding limb restores energy; collision economy.
+- **Holowka & Lieberman 2018 + Welte** — the human foot = **compliant at contact, stiff at push-off**; an adaptation for long-distance running. A canonical formulation directly readable as a description of JP³ in the heel-activator regime.
+- **Laetoli (3.6 Mya)** — heel strike + medial arch + big-toe impression = archaic pattern. Evolutionary argument for the heel activator; defuses modern running's "heel-striking is bad" discourse.
+- **Windlass contested** — doctrinal texture to be modulated: stiff plantar fascia + arch height + intrinsic foot muscles all count; not just the windlass.
+- **🔑 Crucial refinement** — *"In place, there is no net horizontal impulse over a cycle. What you feel as a forward drive is probably the orientation of the force and the readiness of the posterior chain."* — distinguishes **directional activation without translation** (In Place intact) from **actual translation** (overflowing strict In Place). Extends the re-weighting grammar of the three Ps (★★ 2026-08-27 `project_3P_modulation_grammaire.md`) to vectors applied as orientation without translation.
 
-**Question ouverte** — Perig a couru *à l'intérieur de sa maison* le 2026-11-04 suite à l'autorisation géométrique donnée par l'appui talon. Deux lectures doctrinales possibles :
+**Open question** — Perig ran *inside his house* on 2026-11-04 following the geometric permission granted by heel loading. Two possible doctrinal readings:
 
-- **Lecture stricte** — JP³ reste In Place ; le fait que l'appui talon crée une *disponibilité* à avancer est une propriété émergente qui se manifeste quand on *laisse la vanne* s'ouvrir (course). La course reste **cousine** du JP³, pas variante.
-- **Lecture refondue** — la grammaire des 3 P absorbe cette disponibilité comme **vecteur orienté sans translation** (confirmé par Perplexity). In Place stationnaire garde l'orientation ; course dans la maison active la translation. Le dyptique devient tolérable au sein du même framework.
+- **Strict reading** — JP³ remains In Place; the fact that heel loading creates an *availability* to move forward is an emergent property that manifests when one *lets the valve* open (running). Running remains a **cousin** of JP³, not a variant.
+- **Recast reading** — the grammar of the three Ps absorbs this availability as an **oriented vector without translation** (confirmed by Perplexity). Stationary In Place keeps the orientation; running in the house activates translation. The diptych becomes tolerable within the same framework.
 
-À trancher avec Perig lors de la passe d'harmonisation (§3 / §6).
+To be decided with Perig during the harmonization pass (§3 / §6).
 
 ---
 
@@ -556,82 +560,83 @@ Les deux régimes ne sont pas concurrents : ils exploitent la même mécanique f
 
 > **source:** fiche `project_back_chain_dominance_talon.md` (2026-09-25, ⚡⚡⚡)
 
-**La percée** — dictée par Perig le 2026-09-25 à 13h19, immédiatement après la percée du régime incident : *"Un autre point absolument fondamental que je réalise c'est que le stacking grâce au talon, c'est en fait le déclenchement fondamental du back chain dominance, qui est en déficit chez pas mal tout le monde. Possiblement en partie à cause des semelles épaisses au talon."*
+**The breakthrough** — dictated by Perig on 2026-09-25 at 13:19, immediately after the incident-regime breakthrough: *"Another absolutely fundamental point I'm realizing is that stacking through the heel is in fact the fundamental trigger of back chain dominance, which is deficient in pretty much everyone. Possibly partly because of thick-heeled soles."*
+> *FR original:* « Un autre point absolument fondamental que je réalise c'est que le stacking grâce au talon, c'est en fait le déclenchement fondamental du back chain dominance, qui est en déficit chez pas mal tout le monde. Possiblement en partie à cause des semelles épaisses au talon. »
 
-**Le concept unificateur**
+**The unifying concept**
 
-**Back chain dominance** (posterior chain dominance, dominance de la chaîne postérieure) : capacité fonctionnelle à mobiliser la chaîne musculaire postérieure — mollets postérieurs (soléaire, gastrocnémien), ischio-jambiers, glutéaux, érecteurs du rachis, multifides, chaîne cervicale postérieure — comme moteur principal de l'extension et de la locomotion, plutôt que de reposer sur la chaîne antérieure (quadriceps, psoas, abdominaux droits, muscles cervicaux antérieurs).
+**Back chain dominance** (posterior chain dominance, *dominance de la chaîne postérieure*): the functional capacity to mobilize the posterior muscle chain — posterior calves (soleus, gastrocnemius), hamstrings, glutes, spinal erectors, multifidi, posterior cervical chain — as the main engine of extension and locomotion, rather than relying on the anterior chain (quadriceps, psoas, rectus abdominis, anterior cervical muscles).
 
-C'est un concept **familier en préparation physique, physiothérapie et rééducation** — pas une doctrine JP³ ad hoc. Termes cousins : "gluteal amnesia" (Bramble & Lieberman, déjà cité dans `project_chaine_posturale_profonde.md`), "quad dominance" (préparation athlétique), "posterior chain weakness" (physio rééducation), "anterior pelvic tilt" (posturologie).
+It is a concept **familiar in strength and conditioning, physiotherapy, and rehabilitation** — not an ad hoc JP³ doctrine. Cousin terms: "gluteal amnesia" (Bramble & Lieberman, already cited in `project_chaine_posturale_profonde.md`), "quad dominance" (athletic preparation), "posterior chain weakness" (rehabilitation physio), "anterior pelvic tilt" (posturology).
 
-Le déficit de back chain est **le consensus le plus solide en science du mouvement moderne** sur ce qui ne va pas structurellement chez l'humain contemporain sédentaire (avec ou sans dimension athlétique). Lombalgie chronique, tendinopathie patellaire, sous-utilisation glutéaux, foulée avant-pied inaccessible, sont tous corollaires connus.
+The back chain deficit is **the most solid consensus in modern movement science** about what is structurally wrong with sedentary contemporary humans (with or without an athletic dimension). Chronic low back pain, patellar tendinopathy, underuse of the glutes, inaccessible forefoot stride are all known corollaries.
 
-**Le talon-activateur = trigger fondamental**
+**The heel activator = fundamental trigger**
 
-Le stacking spontané décrit dans §3.2.2 — "la tête reprend spontanément sa position normale, stacking physiologique se produit sans effort de correction posturale" — **n'est pas juste une cinématique locale, c'est la chaîne postérieure entière qui se réaligne en cascade ascendante** :
+The spontaneous stacking described in §3.2.2 — "the head spontaneously returns to its normal position, physiological stacking occurs without any effort of postural correction" — **is not just local kinematics; it is the entire posterior chain realigning in an ascending cascade**:
 
-talon posé (repère plantaire arrière) → mise en tension passive triceps sural → activation soléaire (chaîne posturale profonde, § 4.1) → tension ischio-jambiers → engagement glutéaux (grand fessier + moyen fessier via `project_axe_frontal_moyen_fessier.md`) → érecteurs du rachis → multifides (chaîne posturale profonde) → tête qui reprend la verticale (chaîne cervicale postérieure)
+heel landed (rear plantar landmark) → passive tensioning of the triceps surae → soleus activation (deep postural chain, § 4.1) → hamstring tension → glute engagement (gluteus maximus + gluteus medius via `project_axe_frontal_moyen_fessier.md`) → spinal erectors → multifidi (deep postural chain) → head returning to the vertical (posterior cervical chain)
 
-**Le mot "stacking" et le concept "back chain dominance" nomment le même phénomène sous deux angles** — l'un cinématique/postural, l'autre musculaire/fonctionnel. Reconnaître cette identité renforce la doctrine : le JP³ n'invente pas une chaîne, il ré-active une chaîne connue par un input mécanique précis (le talon comme repère plantaire arrière).
+**The word "stacking" and the concept "back chain dominance" name the same phenomenon from two angles** — one kinematic/postural, the other muscular/functional. Recognizing this identity strengthens the doctrine: JP³ does not invent a chain; it re-activates a known chain through a precise mechanical input (the heel as rear plantar landmark).
 
-**L'hypothèse civilisationnelle — semelles épaisses au talon**
+**The civilizational hypothesis — thick-heeled soles**
 
-**Fait mécanique** : pratiquement toutes les chaussures modernes ont un heel drop positif de 8 à 12 mm (running, ville, "confort", chaussures de travail). Différence de hauteur talon-avant-pied qui **incline passivement et en permanence** le corps vers l'avant.
+**Mechanical fact**: virtually all modern shoes have a positive heel drop of 8 to 12 mm (running, city, "comfort", work shoes). A heel-to-forefoot height difference that **passively and permanently tilts** the body forward.
 
-**Chaîne de conséquences plausibles** :
-1. Inclinaison antérieure permanente → recentrage du poids sur l'avant-pied et les quadriceps
-2. Décharge chronique de la chaîne postérieure (triceps sural notamment, mais aussi glutéaux qui n'ont plus à contrer l'inclinaison)
-3. Raccourcissement adaptatif du triceps sural, faiblesse fonctionnelle des glutéaux
-4. Bascule structurelle vers la chaîne antérieure → quad-dominance généralisée
+**Chain of plausible consequences**:
+1. Permanent anterior tilt → recentering of weight onto the forefoot and the quadriceps
+2. Chronic unloading of the posterior chain (triceps surae in particular, but also glutes, which no longer have to counter the tilt)
+3. Adaptive shortening of the triceps surae, functional weakness of the glutes
+4. Structural shift toward the anterior chain → generalized quad-dominance
 
-**Combiné à la sédentarité** (chaise → glutéaux inhibés en position assise) : effet cumulé possiblement décisif à l'échelle civilisationnelle. L'hypothèse : **le heel drop civilisationnel est peut-être *le* facteur causal principal du déficit de back chain, plus que la sédentarité seule**.
+**Combined with sedentariness** (chair → glutes inhibited in the seated position): a cumulative effect possibly decisive at civilizational scale. The hypothesis: **civilizational heel drop may be *the* main causal factor of the back chain deficit, more than sedentariness alone**.
 
-**Statut de l'hypothèse** : forte, à sourcer. À documenter par recherche ciblée dans :
-- Lieberman *Born to Run* (2009) et papers académiques post-Born to Run
-- Corpus minimalist shoes (Vibram, Xero Shoes) — argumentaire militant à filtrer académiquement
-- Ben Patrick / ATG — protocoles cliniques (tibialis raise, sled backward) reposent explicitement sur cette hypothèse
-- Robbins et al. — "impact illusion", chaussures amorties qui trompent le SNC
-- Physiothérapie rééducation — littérature sur heel lifts, orthèses, effets postural
+**Status of the hypothesis**: strong, to be sourced. To be documented through targeted research in:
+- Lieberman *Born to Run* (2009) and post-Born to Run academic papers
+- Minimalist shoes corpus (Vibram, Xero Shoes) — activist argumentation to be filtered academically
+- Ben Patrick / ATG — clinical protocols (tibialis raise, sled backward) explicitly rest on this hypothesis
+- Robbins et al. — "impact illusion", cushioned shoes that deceive the CNS
+- Rehabilitation physiotherapy — literature on heel lifts, orthotics, postural effects
 
-Recoupe `project_pieds_nus_condition_acces.md` (pieds nus = condition d'accès), `project_warmup_piedsnus_prematch.md` (pieds nus = calibration triceps sural), et `project_nigg_muscle_tuning.md` (Nigg : impact = signal, semelle épaisse brouille le signal).
+Overlaps with `project_pieds_nus_condition_acces.md` (barefoot = access condition), `project_warmup_piedsnus_prematch.md` (barefoot = triceps surae calibration), and `project_nigg_muscle_tuning.md` (Nigg: impact = signal, thick sole scrambles the signal).
 
-**JP³ talon-activateur = antidote diffus dose-répondant**
+**JP³ heel activator = diffuse dose-responsive antidote**
 
-Le régime incident (§3.2.4) prend une **dimension médicalement précise** sous cet angle :
+The incident regime (§3.2.4) takes on a **medically precise dimension** from this angle:
 
-- **Modèle dose-réponse contre-toxique** : le heel drop civilisationnel est un stimulus chronique déchargeant la chaîne postérieure ; le talon-activateur en régime incident est un stimulus intermittent la rechargeant. Petites doses répétées tout au long de la journée, cumulées, contrent l'effet cumulé du heel drop.
-- **Ce n'est pas un exercice qu'on ajoute, c'est un antidote qu'on distille.** Cadre conceptuel radicalement différent d'un protocole d'entraînement.
-- **Le pieds-nus est probablement la condition d'accès** : chaussure = même en régime incident, le heel drop atténue le signal Nigg et bloque la cascade. Question ouverte notée dans §3.2.4 s'inscrit dans ce cadre — la lecture stricte (pieds-nus obligatoire même en incident) est cohérente avec l'hypothèse civilisationnelle.
+- **Counter-toxic dose-response model**: civilizational heel drop is a chronic stimulus unloading the posterior chain; the heel activator in incident regime is an intermittent stimulus reloading it. Small doses repeated throughout the day, accumulated, counter the cumulative effect of heel drop.
+- **It is not an exercise one adds; it is an antidote one distills.** A conceptual frame radically different from a training protocol.
+- **Barefoot is probably the access condition**: shoe = even in incident regime, heel drop attenuates the Nigg signal and blocks the cascade. The open question noted in §3.2.4 fits within this frame — the strict reading (barefoot mandatory even in incident regime) is consistent with the civilizational hypothesis.
 
-**Recoupement avec les mémoires JP³ existantes**
+**Cross-reference with existing JP³ memories**
 
-Cette mémoire est **unificatrice** — elle nomme un liant conceptuel qui traverse déjà plusieurs mémoires :
+This memory is **unifying** — it names a conceptual binder that already runs through several memories:
 
-- `project_chaine_posturale_profonde.md` — CPP inclut soléaire, glutéaux, érecteurs, multifides = presque tous les acteurs de la back chain (la CPP est plus large : elle inclut aussi TA transverse abdomen et DNF antérieurs, qui sont des stabilisateurs anti-effondrement, pas des acteurs de la locomotion postérieure)
-- `project_ankle_dominant_regime.md` — spring-mass ankle-dominant *est* un régime chaîne postérieure au niveau de la jambe (soléaire = postérieur)
-- `project_geometrie_chasse_neige_goata.md` — toes-in réaligne le trépied plantaire pour poussée synchronisée = géométrie du sprint = mobilisation back chain
-- `project_pieds_nus_condition_acces.md` — pieds nus = condition d'accès au régime spring-mass = condition d'accès à la back chain
-- `project_axe_frontal_moyen_fessier.md` — moyen fessier = acteur back chain plan frontal
-- `project_tibialis_anterior_co_contraction.md` — le TA (jambe antérieur) est le contre-partenaire *stabilisateur* de la chaîne postérieure, pas un rival. Prérequis de co-contraction, pas déviateur.
+- `project_chaine_posturale_profonde.md` — the DPC (deep postural chain) includes soleus, glutes, erectors, multifidi = almost all the actors of the back chain (the DPC is broader: it also includes TA transversus abdominis and anterior DNF, which are anti-collapse stabilizers, not actors of posterior locomotion)
+- `project_ankle_dominant_regime.md` — the ankle-dominant spring-mass regime *is* a posterior chain regime at the level of the leg (soleus = posterior)
+- `project_geometrie_chasse_neige_goata.md` — toes-in realigns the plantar tripod for synchronized push = sprint geometry = back chain mobilization
+- `project_pieds_nus_condition_acces.md` — barefoot = access condition to the spring-mass regime = access condition to the back chain
+- `project_axe_frontal_moyen_fessier.md` — gluteus medius = back chain actor in the frontal plane
+- `project_tibialis_anterior_co_contraction.md` — the TA (anterior leg) is the *stabilizing* counter-partner of the posterior chain, not a rival. A co-contraction prerequisite, not a deviator.
 
-**Back chain dominance est le concept qui les unifie tous.** À utiliser comme couche théorique de rangement, pas comme mémoire de plus qui s'empile.
+**Back chain dominance is the concept that unifies them all.** To be used as a theoretical filing layer, not as one more memory piling up.
 
-**Implication stratégique JGH**
+**JGH strategic implication**
 
-"Réhabilitation de la chaîne postérieure" est un **lexique clinique familier** en gériatrie, rééducation post-chirurgicale, physiothérapie sportive. Utiliser ce vocabulaire dans le deck JGH :
+"Posterior chain rehabilitation" is a **familiar clinical lexicon** in geriatrics, post-surgical rehabilitation, sports physiotherapy. Use this vocabulary in the JGH deck:
 
-- Désamorce d'emblée la friction "encore une théorie personnelle" — on rattache JP³ à un concept clinique déjà accepté et abondamment documenté
-- Rend l'argument transitivement défendable — si les cliniciens JGH acceptent que le déficit de back chain est un problème (ils l'accepteront, c'est consensus), le JP³ devient une modalité de réhabilitation candidate parmi d'autres, à comparer plutôt qu'à défendre
-- **Sarcopénie + ostéoporose + back chain rehabilitation** = triangle d'arguments qui se renforcent : ce sont trois problèmes distincts que JP³ adresse par le même geste (talon-activateur), avec métriques cliniques disponibles pour chacun
+- Defuses from the outset the friction of "yet another personal theory" — JP³ is attached to a clinical concept already accepted and abundantly documented
+- Makes the argument transitively defensible — if JGH clinicians accept that the back chain deficit is a problem (they will, it is consensus), JP³ becomes one candidate rehabilitation modality among others, to be compared rather than defended
+- **Sarcopenia + osteoporosis + back chain rehabilitation** = a triangle of mutually reinforcing arguments: three distinct problems that JP³ addresses through the same gesture (heel activator), with clinical metrics available for each
 
-À intégrer dans `project_jgh_presentation_voie.md` comme troisième pilier (avec sarcopénie et ostéoporose). Slide candidat : "JP³ = intervention triple-cible sur trois déficits gériatriques classiques par un geste unique."
+To be integrated into `project_jgh_presentation_voie.md` as a third pillar (alongside sarcopenia and osteoporosis). Candidate slide: "JP³ = triple-target intervention on three classic geriatric deficits through a single gesture."
 
-**À documenter / questions ouvertes**
+**To document / open questions**
 
-- **Sourçage semelles épaisses → déficit back chain** : Perplexity ciblé à lancer prochainement sur "heel drop positive effect on posterior chain activation" et "gluteal amnesia footwear"
-- **Quantification du déficit dans la population** : études prévalence lombalgie chronique, gluteal amnesia, quad-dominance ?
-- **Effet dose-réponse du régime incident** : combien de chocs par jour pour contrer le heel drop civilisationnel ? Pas de réponse a priori, à observer/tâtonner
-- **Transfert vers chaussé** : si le régime incident amorce vraiment la back chain, y a-t-il un carry-over vers la marche chaussée (posture debout améliorée même en chaussure) ? Question empirique à observer chez Perig
+- **Sourcing thick soles → back chain deficit**: targeted Perplexity search to launch soon on "heel drop positive effect on posterior chain activation" and "gluteal amnesia footwear"
+- **Quantifying the deficit in the population**: prevalence studies on chronic low back pain, gluteal amnesia, quad-dominance?
+- **Dose-response effect of the incident regime**: how many shocks per day to counter civilizational heel drop? No a priori answer; to be observed/found by trial and error
+- **Transfer to shod**: if the incident regime truly primes the back chain, is there a carry-over to shod walking (improved standing posture even in shoes)? An empirical question to observe in Perig
 
 ---
 
@@ -639,48 +644,49 @@ Cette mémoire est **unificatrice** — elle nomme un liant conceptuel qui trave
 
 > **source:** fiche `project_jp3_incident_regime.md` (2026-09-25, ⚡⚡⚡)
 
-**La percée** — dicté par Perig le 2026-09-25 à 13h08, en écho immédiat à la lecture de la recherche Perplexity sur muscle tuning : *"Si j'accepte que le rebond sur le talon déclenche toutes sortes d'adaptations, je pense qu'on peut commencer le JP³ à n'importe quel moment de la journée même quand on est en train de faire autre chose même quand on n'a pas envie simplement en donnant quelques chocs du talon, et cela ne change pas la posture comme ça le faisait avant. Avant, c'était je cours et ensuite j'essaie de faire des choses. Maintenant c'est les deux en même temps."*
+**The breakthrough** — dictated by Perig on 2026-09-25 at 13:08, as an immediate echo to reading the Perplexity research on muscle tuning: *"If I accept that bouncing on the heel triggers all sorts of adaptations, I think you can start JP³ at any moment of the day, even while you're doing something else, even when you don't feel like it, simply by giving a few heel shocks, and it doesn't change the posture the way it used to. Before, it was: I run and then I try to do things. Now it's both at the same time."*
+> *FR original:* « Si j'accepte que le rebond sur le talon déclenche toutes sortes d'adaptations, je pense qu'on peut commencer le JP³ à n'importe quel moment de la journée même quand on est en train de faire autre chose même quand on n'a pas envie simplement en donnant quelques chocs du talon, et cela ne change pas la posture comme ça le faisait avant. Avant, c'était je cours et ensuite j'essaie de faire des choses. Maintenant c'est les deux en même temps. »
 
-**Ce qui bascule**
+**What shifts**
 
-**Avant** — JP³ = *session distincte*. Modèle : je m'arrête → j'entre en mode JP³ → cascade d'empilement, spring-mass, ego-écho → je sors, envie de sortir. Le quotidien était en pause pendant JP³.
+**Before** — JP³ = *distinct session*. Model: I stop → I enter JP³ mode → stacking cascade, spring-mass, ego and echo → I come out of it, wanting to go out. Daily life was on pause during JP³.
 
-**Maintenant** — JP³ = *modalité incrustable*. Je continue ce que je fais (vaisselle, cuisine, lecture debout, marche interne), et quelques chocs de talon incidents suffisent à déclencher la cascade adaptative sous-jacente — sans reconfigurer la posture globale, sans décider "je fais du JP³ maintenant". Inversion figure/fond : le quotidien est primaire, JP³ est en filigrane.
+**Now** — JP³ = *embeddable modality*. I keep doing what I am doing (dishes, cooking, reading while standing, walking around indoors), and a few incident heel shocks suffice to trigger the underlying adaptive cascade — without reconfiguring overall posture, without deciding "I'm doing JP³ now". Figure/ground inversion: daily life is primary, JP³ runs in the background.
 
-**Le régime JP³ n'est plus binaire (dedans/dehors) mais graduel/dispersé.** Une journée peut contenir *N* micro-activations réparties, sans qu'aucune session distincte n'ait jamais eu lieu.
+**The JP³ regime is no longer binary (in/out) but graded/dispersed.** A day can contain *N* distributed micro-activations without any distinct session ever having taken place.
 
-**Trois pivots doctrinaux déplacés**
+**Three displaced doctrinal pivots**
 
-**1. Seuil d'entrée effondré à quasi-zéro.** La friction motivationnelle (fatigue, "pas envie", anhédonie, dépression légère) devient non-bloquante : un choc de talon en passant à la cuisine = déjà le début. Cf. `project_amorcage_vs_seance.md` — l'amorçage descend à *l'atome*, pas juste à "session courte".
+**1. Entry threshold collapsed to near zero.** Motivational friction (fatigue, "don't feel like it", anhedonia, mild depression) becomes non-blocking: a heel shock while passing through the kitchen = already the beginning. Cf. `project_amorcage_vs_seance.md` — priming descends to *the atom*, not just to a "short session".
 
-**2. Amorçage à granularité atomique.** L'unité JP³ n'est plus la séance ni même l'amorçage (au sens 10-30 min), c'est *le choc*. Un choc = un update de calibration proprioceptive/musculaire, disponible à tout moment sans coût décisionnel. La séance devient l'agrégation optionnelle des chocs, pas leur préalable.
+**2. Priming at atomic granularity.** The JP³ unit is no longer the session, nor even priming (in the 10-30 min sense); it is *the shock*. One shock = one proprioceptive/muscular calibration update, available at any moment with no decisional cost. The session becomes the optional aggregation of shocks, not their prerequisite.
 
-**3. Ego-écho retourné — inversion figure/fond.** La doctrine ego-écho (`project_ego_echo_doctrine.md`) disait : pendant JP³, l'esprit est libre / le corps porte. En régime incident, c'est le corps qui porte *l'activité englobante* (vaisselle, cuisine, marche), et JP³ se produit *dedans* comme fond régulateur sans attention. Inversion complète : la tâche manuelle n'est plus l'occupant permis pendant JP³, c'est l'activité primaire dans laquelle JP³ s'insère.
+**3. Ego and echo reversed — figure/ground inversion.** The ego-and-echo doctrine (`project_ego_echo_doctrine.md`) said: during JP³, the mind is free / the body carries. In the incident regime, it is the body that carries *the encompassing activity* (dishes, cooking, walking), and JP³ occurs *within* it as an attention-free regulating background. Complete inversion: the manual task is no longer the permitted occupant during JP³; it is the primary activity into which JP³ inserts itself.
 
-**Ancrage théorique — Nigg confirme**
+**Theoretical anchor — Nigg confirms**
 
-Le muscle tuning de Nigg (`project_nigg_muscle_tuning.md`) prédit exactement ceci : un petit nombre de signaux d'impact suffit à déclencher un ajustement de calibration musculaire. La percée de Perig se lit comme un raffinement pratique de Nigg — "un choc de talon = un update de calibration proprioceptive/musculaire, disponible à tout moment sans coût décisionnel". Nigg n'a probablement pas anticipé qu'on l'utilise consciemment comme dispositif, mais la mécanique est celle-là.
+Nigg's muscle tuning (`project_nigg_muscle_tuning.md`) predicts exactly this: a small number of impact signals suffices to trigger a muscular calibration adjustment. Perig's breakthrough reads as a practical refinement of Nigg — "one heel shock = one proprioceptive/muscular calibration update, available at any moment with no decisional cost". Nigg probably did not anticipate that it would be used consciously as a device, but the mechanics are those.
 
-**Implication clinique JGH — colossale (adhérence)**
+**JGH clinical implication — colossal (adherence)**
 
-Le problème le plus lourd des protocoles d'exercice chez sujets âgés (sarcopénie, ostéoporose) n'est pas la contre-indication mais **l'adhérence**. "10 min matin et soir" est un mur pour beaucoup — dépression, apathie, oubli, priorité concurrente. Ici : *quelques chocs de talon à chaque passage à la cuisine ou en attendant le micro-ondes* = protocole diffus, quasi-gratuit décisionnellement, cumul de charge probablement supérieur à une seule séance quotidienne.
+The heaviest problem of exercise protocols in older adults (sarcopenia, osteoporosis) is not contraindication but **adherence**. "10 min morning and evening" is a wall for many — depression, apathy, forgetting, competing priorities. Here: *a few heel shocks every time one passes through the kitchen or while waiting for the microwave* = a diffuse protocol, nearly free decisionally, with a cumulative load probably greater than a single daily session.
 
-**Pour l'ostéoporose** (`project_osteogenic_jgh_seconde_porte.md`) — argument encore plus fort : la littérature ostéogénique suggère que **la répétition espacée** peut battre le bloc unique quotidien à charge totale équivalente (l'os "sature" et redevient réceptif après repos). Le régime incident matche parfaitement ce pattern. À vérifier/sourcer.
+**For osteoporosis** (`project_osteogenic_jgh_seconde_porte.md`) — an even stronger argument: the osteogenic literature suggests that **spaced repetition** may beat the single daily block at equivalent total load (bone "saturates" and becomes receptive again after rest). The incident regime matches this pattern perfectly. To be verified/sourced.
 
-**Pour la sarcopénie** — le régime incident permet de solliciter le triceps sural sur *toute la journée* plutôt que sur une fenêtre unique, ce qui pourrait être décisif chez sujet fragile qui ne tolère pas une séance continue.
+**For sarcopenia** — the incident regime makes it possible to solicit the triceps surae over *the whole day* rather than over a single window, which could be decisive in frail subjects who do not tolerate a continuous session.
 
-**Question ouverte — pieds-nus vs chaussé**
+**Open question — barefoot vs. shod**
 
-La mémoire ⚡⚡⚡ `project_pieds_nus_condition_acces.md` établit que le régime spring-mass ankle-dominant ne s'amorce pas en chaussettes/chaussures pour Perig. Le régime incident soulève une question à observer plutôt qu'à trancher a priori :
+The ⚡⚡⚡ memory `project_pieds_nus_condition_acces.md` establishes that the ankle-dominant spring-mass regime does not prime in socks/shoes for Perig. The incident regime raises a question to be observed rather than decided a priori:
 
-- **Lecture stricte** — le régime incident vaut *à la maison pieds-nus*, comme le reste du framework. Chaussé, la semelle amortit le signal Nigg et le tuning ne se déclenche pas.
-- **Lecture ouverte** — le talon-activateur en régime incident est *plus tolérant* à la chaussure que le portail systématique, parce que l'input minimal (un choc) suffit à passer le seuil de tuning même si le signal est atténué.
+- **Strict reading** — the incident regime holds *at home, barefoot*, like the rest of the framework. Shod, the sole dampens the Nigg signal and tuning is not triggered.
+- **Open reading** — the heel activator in incident regime is *more tolerant* of footwear than the systematic portal, because the minimal input (one shock) suffices to cross the tuning threshold even if the signal is attenuated.
 
-**Position doctrinale actuelle** : question à observer. Enregistrer les deux hypothèses, laisser l'expérience trancher. Perig est probablement pieds-nus par défaut à la maison — c'est là que la percée est apparue —, donc la lecture stricte tient au moins pour ce contexte. L'extension au chaussé/dehors reste hypothèse à tester.
+**Current doctrinal position**: a question to observe. Record both hypotheses, let experience decide. Perig is probably barefoot by default at home — that is where the breakthrough appeared — so the strict reading holds at least for that context. Extension to shod/outdoors remains a hypothesis to test.
 
-**Nom retenu**
+**Name retained**
 
-**JP³ incident** — souligne qu'il s'incruste dans une activité englobante. Alternatives envisagées et écartées : "atomique" (souligne l'unité, plus technique), "diffus" (souligne la dispersion, moins vif). "Incident" garde le double sens : événement isolé + incident sur autre chose.
+**JP³ incident** (incident regime) — emphasizes that it embeds itself in an encompassing activity. Alternatives considered and set aside: "atomic" (emphasizes the unit, more technical), "diffuse" (emphasizes dispersion, less vivid). "Incident" keeps the double meaning: isolated event + incident upon something else.
 
 ---
 
@@ -696,16 +702,16 @@ La mémoire ⚡⚡⚡ `project_pieds_nus_condition_acces.md` établit que le ré
 
 > **back-ref:** §1.2 ("³" as cubic trajectory, y = x³ vs y = 3x)
 
-Les trois synergies dyadiques (§3.1, §3.2, §3.3) ne s'additionnent pas — elles **confluent** dans un dispositif unitaire où chaque P est à la fois conditionnant et conditionné par les deux autres. C'est la structure mathématique en *y = x³* (non *y = 3x*) qui donne au framework sa signature singulière : la trajectoire cubique nécessite les trois dimensions comme interdépendantes, pas comme vecteurs parallèles.
+The three dyadic synergies (§3.1, §3.2, §3.3) do not add up — they **converge** in a unitary device where each P is both conditioning and conditioned by the other two. It is the mathematical structure *y = x³* (not *y = 3x*) that gives the framework its singular signature: the cubic trajectory requires the three dimensions as interdependent, not as parallel vectors.
 
-**Enrichissement 2026-09-25** — Le talon-activateur (§3.2.2), la back chain dominance (§3.2.3) et le régime incident (§3.2.4) sont trois stratifications de la confluence, pas trois piliers additionnels :
+**Enrichment 2026-09-25** — The heel activator (§3.2.2), back chain dominance (§3.2.3), and the incident regime (§3.2.4) are three stratifications of the confluence, not three additional pillars:
 
-- **Théorique** (Nigg + Robbins + Perry + Welte) — impact = signal, pas trauma ; pied compliant au contact, rigide au push-off.
-- **Cinématique** (stacking par ancre arrière, cascade ascendante) — géométrie de la chaîne postérieure réalignée par un point d'appui minimal.
-- **Anatomique** (back chain dominance, heel-drop toxicity hypothesis) — déficit civilisationnel adressé par antidote diffus dose-répondant.
-- **Temporel-doctrinal** (régime incident, atom = choc) — effondrement du seuil d'entrée, inversion figure/fond, amorçage à granularité atomique.
+- **Theoretical** (Nigg + Robbins + Perry + Welte) — impact = signal, not trauma; foot compliant at contact, stiff at push-off.
+- **Kinematic** (stacking via rear anchor, ascending cascade) — geometry of the posterior chain realigned by a minimal point of support.
+- **Anatomical** (back chain dominance, heel-drop toxicity hypothesis) — civilizational deficit addressed by a diffuse dose-responsive antidote.
+- **Temporal-doctrinal** (incident regime, atom = shock) — collapse of the entry threshold, figure/ground inversion, priming at atomic granularity.
 
-Ces quatre couches ne sont pas quatre strates indépendantes mais quatre lectures du même dispositif. Elles sédimentent la confluence : la singularité JP³ n'est ni dans un P ni dans une synergie, mais dans la manière dont les trois se verrouillent en un seul geste calibratoire (le choc de talon pieds-nus en posture stacking).
+These four layers are not four independent strata but four readings of the same device. They sediment the confluence: the JP³ singularity lies neither in one P nor in one synergy, but in the way the three lock together into a single calibrating gesture (the barefoot heel shock in stacked posture).
 
 ---
 
@@ -960,148 +966,148 @@ Improving aerobic capacity is fundamental to cardiovascular health, weight manag
 
 > **source:** `content/fr/research-mecanismes.md` (integrated blocks ; text originally in French, not retranslated per brutal-migration mandate)
 
-### §4.4.1 Zones d'hypoperfusion cérébrale
+### §4.4.1 Zones of cerebral hypoperfusion
 
-Le concept intuitif de "zones d'asphyxie localisées" qui se résorberaient par le mouvement rythmique n'est **pas une spéculation** : il correspond à un champ documenté de la neurophysiologie vasculaire.
+The intuitive concept of "localized asphyxia zones" that would be resolved by rhythmic movement is **not speculation**: it corresponds to a documented field of vascular neurophysiology.
 
-**Déclin *depth-dependent* de la microcirculation cérébrale** — le vieillissement, la sédentarité, le mauvais sommeil, le stress chronique produisent un déclin **inhomogène** de la microcirculation cérébrale. Ce n'est pas une baisse globale du débit ; c'est une **hétérogénéité inter-capillaire** : certains capillaires deviennent hypoperfusés pendant que d'autres compensent. Résultat fonctionnellement équivalent à des "zones d'asphyxie" focales, alternant avec des zones normales.
+***Depth-dependent* decline of cerebral microcirculation** — aging, sedentariness, poor sleep, and chronic stress produce an **inhomogeneous** decline of cerebral microcirculation. This is not a global drop in flow; it is **inter-capillary heterogeneity**: some capillaries become hypoperfused while others compensate. The result is functionally equivalent to focal "asphyxia zones," alternating with normal zones.
 
-Structures les plus touchées : substance blanche subcorticale (vulnérabilité la plus marquée), couches corticales profondes (couche IV notamment), régions péri-ventriculaires. Équivalent clinique humain : white matter hyperintensities (WMH), cerebral small vessel disease (CSVD), chronic cerebral hypoperfusion.
+Most affected structures: subcortical white matter (most marked vulnerability), deep cortical layers (layer IV in particular), periventricular regions. Human clinical equivalent: white matter hyperintensities (WMH), cerebral small vessel disease (CSVD), chronic cerebral hypoperfusion.
 
-**Résorption par l'exercice aérobie modéré** — étude clé **Falkenhain et al., eLife 2023** — *Aerobic exercise reverses aging-induced depth-dependent decline in cerebral microcirculation*. Cinq mois de course volontaire chez souris âgées produisent :
-- Amélioration du flux capillaire RBC, surtout en substance blanche
-- Augmentation de la pO₂ tissulaire en couche IV
-- **+46 % de débit** dans les veinules ascendantes
-- **Homogénéisation** du flux inter-capillaire — l'effet-clé, plus significatif qu'une simple augmentation moyenne
-- Densité micro-vasculaire accrue (remodelage structural)
-- Amélioration mesurable des performances cognitives (reconnaissance d'objets)
+**Resolution through moderate aerobic exercise** — key study **Falkenhain et al., eLife 2023** — *Aerobic exercise reverses aging-induced depth-dependent decline in cerebral microcirculation*. Five months of voluntary running in aged mice produce:
+- Improved capillary RBC flow, especially in white matter
+- Increased tissue pO₂ in layer IV
+- **+46 % flow** in ascending venules
+- **Homogenization** of inter-capillary flow — the key effect, more significant than a simple increase in the mean
+- Increased microvascular density (structural remodeling)
+- Measurable improvement in cognitive performance (object recognition)
 
-Citation : *"microcirculatory effects were accompanied by an improvement in cognitive function... exercise decreased flow variability across capillaries, suggesting more homogeneous microvascular blood flow."*
+Quotation: *"microcirculatory effects were accompanied by an improvement in cognitive function... exercise decreased flow variability across capillaries, suggesting more homogeneous microvascular blood flow."*
 
-**Le mouvement ne fait pas *plus* de perfusion, il fait une perfusion *mieux répartie*** — précisément l'inverse d'une hypoperfusion focale.
+**Movement does not produce *more* perfusion, it produces *better-distributed* perfusion** — precisely the inverse of focal hypoperfusion.
 
-**HIIT : effet inverse au-delà du seuil anaérobie** — revue systématique Frontiers in Aging Neuroscience 2022 : l'exercice **modéré** augmente le CBF, tandis que l'exercice **au-delà du seuil anaérobie fait *baisser* le CBF**. Argument physiologique direct en faveur du régime JP³ contre l'intensité extrême.
+**HIIT: opposite effect above the anaerobic threshold** — systematic review, Frontiers in Aging Neuroscience 2022: **moderate** exercise increases CBF, whereas exercise **above the anaerobic threshold *lowers* CBF**. A direct physiological argument in favor of the JP³ regime against extreme intensity.
 
-**Réponse hippocampique aiguë** — Cerebral Cortex 2020, *Hippocampal Blood Flow Is Increased After 20 min of Moderate-Intensity Exercise*. Adulte âgé à santé cérébrovasculaire fragile, une session modérée produit : chute *atténuée* du CBF immédiatement post-effort (0-6 min), **rebond marqué** avec CBF supérieur au baseline entre 18 et 24 min post-effort, effet maintenu jusqu'à **60 min post-effort** (ASL-MRI).
+**Acute hippocampal response** — Cerebral Cortex 2020, *Hippocampal Blood Flow Is Increased After 20 min of Moderate-Intensity Exercise*. In older adults with fragile cerebrovascular health, a single moderate session produces: an *attenuated* drop in CBF immediately post-exercise (0-6 min), a **marked rebound** with CBF above baseline between 18 and 24 min post-exercise, and an effect sustained up to **60 min post-exercise** (ASL-MRI).
 
 ---
 
-### §4.4.2 Ondes de choc pédestres et perfusion cérébrale pulsée
+### §4.4.2 Foot-strike shock waves and pulsed cerebral perfusion
 
-**Le mécanisme (groupe Lohman/NMHU)** — New Mexico Highlands University (Lohman, Wasson et al.) a documenté par échographie que **chaque impact du pied** (4-5 G en course) génère une **onde de pression rétrograde** dans les artères, remontant jusqu'aux carotides et jusqu'au cerveau. Citation : *"Brain blood flow is very dynamic and depends directly on cyclic aortic pressures that interact with retrograde pressure pulses from foot impacts."*
+**The mechanism (Lohman/NMHU group)** — New Mexico Highlands University (Lohman, Wasson et al.) documented by ultrasound that **each foot impact** (4-5 G in running) generates a **retrograde pressure wave** in the arteries, travelling up to the carotids and on to the brain. Quotation: *"Brain blood flow is very dynamic and depends directly on cyclic aortic pressures that interact with retrograde pressure pulses from foot impacts."*
 
-**Synchronie fréquence cardiaque / cadence de foulée (HR-SR)** — résultat quantifié (**Wasson et al., FASEB 2012**) : quand FC et cadence sont **en phase**, vitesse du sang dans l'artère cérébrale moyenne (CBFv) passe de :
-- **56 ± 6 cm/s** (hors phase)
-- à **78 ± 8 cm/s** (en phase) — soit **+39 %**
+**Heart rate / stride rate synchrony (HR-SR)** — quantified result (**Wasson et al., FASEB 2012**): when HR and cadence are **in phase**, blood velocity in the middle cerebral artery (CBFv) goes from:
+- **56 ± 6 cm/s** (out of phase)
+- to **78 ± 8 cm/s** (in phase) — i.e. **+39 %**
 
-*Le simple fait que le rythme cardiaque et le rythme du pas soient synchronisés multiplie la perfusion cérébrale par 1,4.*
+*The mere fact that heart rhythm and step rhythm are synchronized multiplies cerebral perfusion by 1.4.*
 
 **Continuum cycling < walking < running** — *"There is a continuum of hemodynamic effects on human brain blood flow within pedaling, walking and running, and these activities may optimize brain perfusion, function, and overall sense of wellbeing during exercise."*
 
-**Question ouverte importante pour le JP³** : la biomécanique du jogging sur place (rebond vertical pur, sans dissipation horizontale d'énergie) devrait *théoriquement* maximiser l'onde de choc vs. une course horizontale à même intensité perçue. Aucune étude directe trouvée — piste de recherche originale (signature physiologique potentiellement unique du JP³).
+**Important open question for JP³**: the biomechanics of jogging In Place (pure vertical rebound, without horizontal energy dissipation) should *theoretically* maximize the shock wave compared with horizontal running at the same perceived intensity. No direct study found — an original research avenue (a potentially unique physiological signature of JP³).
 
 ---
 
-### §4.4.3 Clairance glymphatique et exercice
+### §4.4.3 Glymphatic clearance and exercise
 
-**Fondations Iliff / Nedergaard (2012-2013)** — système paravasculaire par lequel le liquide céphalo-rachidien (LCR) circule à travers le parenchyme cérébral et draine les métabolites interstitiels (dont l'amyloïde β). Fondamentalement **rythmique** — pompé par oscillations respiratoires, pulsatilité artérielle, mouvements de tête.
+**Iliff / Nedergaard foundations (2012-2013)** — a paravascular system through which cerebrospinal fluid (CSF) circulates through the brain parenchyma and drains interstitial metabolites (including amyloid β). Fundamentally **rhythmic** — pumped by respiratory oscillations, arterial pulsatility, head movements.
 
-**Preuves humaines récentes — Yoon et al., Nature Communications 2025** : *Long-term physical exercise facilitates putative glymphatic and meningeal lymphatic vessel flow in humans*. Douze semaines de cyclo-ergomètre chez l'humain :
-- Augmentation significative de l'influx glymphatique au putamen (IRM T1 contrastée dynamique)
-- Augmentation de la taille et du débit des vaisseaux lymphatiques méningés
-- Effet corrélé à une baisse mesurable de marqueurs inflammatoires plasmatiques
+**Recent human evidence — Yoon et al., Nature Communications 2025**: *Long-term physical exercise facilitates putative glymphatic and meningeal lymphatic vessel flow in humans*. Twelve weeks of cycle ergometry in humans:
+- Significant increase in glymphatic influx at the putamen (dynamic contrast-enhanced T1 MRI)
+- Increase in the size and flow of meningeal lymphatic vessels
+- Effect correlated with a measurable decrease in plasma inflammatory markers
 
-**Mécanismes moléculaires** (Yoon 2025) :
-- Down-régulation de S100A8, S100A9, PSMA3, DEFA1A3 (inflammation)
-- Up-régulation de J chain (immunoglobulines)
-- Modulation de la polarisation astrocytaire de **AQP4** (aquaporine-4), clé du couplage LCR-parenchyme
+**Molecular mechanisms** (Yoon 2025):
+- Down-regulation of S100A8, S100A9, PSMA3, DEFA1A3 (inflammation)
+- Up-regulation of J chain (immunoglobulins)
+- Modulation of astrocytic polarization of **AQP4** (aquaporin-4), key to CSF-parenchyma coupling
 
-**Chez la souris âgée** : exercice volontaire améliore la clairance de l'amyloïde β et réduit l'activation des astrocytes et de la microglie (PMC 2017).
+**In aged mice**: voluntary exercise improves amyloid β clearance and reduces astrocyte and microglia activation (PMC 2017).
 
-**Effets aigus** — une seule session d'exercice suffit à modifier la volumétrie des espaces perivasculaires (mesure IRM directe des voies glymphatiques) — étude 2024. Glymphatique **répond dans la séance elle-même**.
-
----
-
-### §4.4.4 Rythmes cérébraux et locomotion
-
-**Central Pattern Generators (CPG)** — un CPG est un ensemble de neurones capable de générer un pattern moteur rythmique **sans stimulus externe**. Grillner et collègues (années 1970) ont établi que la locomotion des vertébrés repose sur des CPG spinaux ; chez l'humain, existence d'un CPG spinal fonctionnel soutenue par évidences croissantes (Minassian et al. 2017). CPG sont **entraînables** par stimuli externes : *"Signals from the brain stem can modulate the period of oscillations to adjust walking or running speed, and a more complex behavior is the entrainment of movement to an external stimulus, such as playing or dancing to music, or walking in time with a companion."* Concept Grillner de **"unit burst generators"** — plusieurs oscillateurs couplables selon différentes configurations.
-
-**Theta hippocampique locomoteur** — un des résultats les plus solides de la neurophysiologie animale : dès que le rat se met à courir, un rythme theta puissant apparaît dans l'hippocampe, et sa fréquence corrèle avec la vitesse (Vanderwolf 1969). Chez l'humain (Goyal et al., Nature Communications 2020 ; Bush et al., PNAS 2017) :
-- Theta humain **plus lent** : centré autour de **3 Hz** (bas theta) et **8 Hz** (haut theta), vs. ~8 Hz chez le rat
-- **Deux composantes fonctionnellement distinctes** :
-  - **Theta bas (~3 Hz)** : plus antérieur, associé à la mémoire, ne varie pas avec la vitesse
-  - **Theta haut (~8 Hz)** : plus postérieur, corrèle avec la vitesse de mouvement
-- **Puissance theta** augmente dès le début du mouvement et scale avec la distance parcourue
-
-**Implication pour le JP³** : même un jogging sur place à cadence lente engage un signal cognitivo-mémoriel hippocampique massif. Ce n'est pas une conséquence de l'intensité — c'est une conséquence de **la présence du mouvement rythmique lui-même**. Cette découverte déplace la lecture des effets cognitifs de l'exercice : ils sont *portés par le rythme*, pas seulement par la charge cardio-respiratoire.
-
-**Locomotor-Respiratory Coupling (LRC)** — la respiration s'accroche au rythme locomoteur, typiquement 2:1, 3:1, ou 4:1 (pas par inspiration). Bénéfices (Frontiers in Neuroanatomy 2022 ; PLOS ONE 2012 ; PLOS ONE 2013) :
-- Réduit interférences mécaniques entre système respiratoire et locomoteur
-- Diminue coût énergétique de la ventilation
-- Améliore efficacité ventilatoire
-- Métronome externe stabilise le LRC et économise l'énergie
-- Impact loading (foulée) influence significativement dynamique respiratoire
-
-Régime préférentiel LRC = basse-à-modérée intensité. À haute intensité, respiration **se découple** du rythme locomoteur. Argument physiologique direct pour la lenteur du JP³.
-
-**Locomotor-Cardiac Coupling (LCC)** — analogue cardiaque. Documenté par groupe Lohman/NMHU — c'est précisément ce couplage qui maximise la perfusion cérébrale via ondes rétrogrades. LCC lie mécaniquement §4.4.2 (perfusion pulsée) à §4.4.4 (rythmes) : **un seul phénomène de synchronisation multi-systémique**.
-
-**Preuve par la pathologie — Parkinson et RAS** — la **Rhythmic Auditory Stimulation** (Thaut) utilise métronome ou musique pour restaurer la marche chez patients Parkinson. Mécanisme documenté : RAS **bypasse les ganglions de la base défaillants** via voies **cérébelleuses** (revue 2025). *"Music therapy provides external rhythmic stimulation, recruits neural networks to bypass the basal ganglia and synchronizes gait with external rhythms through auditory-motor neural networks."* Si le rythme peut restaurer la marche d'un parkinsonien, on peut raisonnablement supposer qu'il peut resynchroniser un cerveau simplement fatigué ou stressé.
+**Acute effects** — a single exercise session is enough to modify the volumetry of perivascular spaces (direct MRI measurement of glymphatic pathways) — 2024 study. The glymphatic system **responds within the session itself**.
 
 ---
 
-### §4.4.5 Trigger points — analogie musculaire
+### §4.4.4 Brain rhythms and locomotion
 
-**Mécanisme parallèle musculaire** éclairant par analogie la logique cérébrale : les **points-gâchettes myofasciaux** (Travell & Simons) sont des zones d'**ischémie locale** produites par contraction soutenue → épuisement ATP → ponts actomyosine bloqués → nodule douloureux. Résolution : **restauration du flux sanguin local** via mouvement doux, compression, ou libération.
+**Central Pattern Generators (CPG)** — a CPG is a set of neurons capable of generating a rhythmic motor pattern **without external stimulus**. Grillner and colleagues (1970s) established that vertebrate locomotion relies on spinal CPGs; in humans, the existence of a functional spinal CPG is supported by growing evidence (Minassian et al. 2017). CPGs are **entrainable** by external stimuli: *"Signals from the brain stem can modulate the period of oscillations to adjust walking or running speed, and a more complex behavior is the entrainment of movement to an external stimulus, such as playing or dancing to music, or walking in time with a companion."* Grillner's concept of **"unit burst generators"** — several oscillators that can be coupled in different configurations.
 
-Citation (Chinese Medicine 2011) : *"Ischemia results in the loss of ATP formation in a small region of muscle fibers, the crossbridges in this region cannot be released, and a trigger point forms... Treatment should be aimed at relieving ischemia by manual therapy that increases local blood circulation."*
+**Locomotor hippocampal theta** — one of the most robust findings in animal neurophysiology: as soon as the rat starts running, a powerful theta rhythm appears in the hippocampus, and its frequency correlates with speed (Vanderwolf 1969). In humans (Goyal et al., Nature Communications 2020; Bush et al., PNAS 2017):
+- Human theta is **slower**: centered around **3 Hz** (low theta) and **8 Hz** (high theta), vs. ~8 Hz in the rat
+- **Two functionally distinct components**:
+  - **Low theta (~3 Hz)**: more anterior, associated with memory, does not vary with speed
+  - **High theta (~8 Hz)**: more posterior, correlates with movement speed
+- **Theta power** increases from the onset of movement and scales with distance travelled
 
-Parallèle cérébral **structural** : hypoperfusion focale (§4.4.1) → dysfonction locale → résorption par restauration du flux via mouvement rythmique. Pas une preuve directe, mais un cadre théorique cohérent : le corps entier — muscle et cerveau — semble organisé selon une même logique de perfusion focale susceptible de résolution par le mouvement doux et prolongé.
+**Implication for JP³**: even jogging In Place at a slow cadence engages a massive cognitive-mnemonic hippocampal signal. This is not a consequence of intensity — it is a consequence of **the presence of rhythmic movement itself**. This finding shifts the reading of the cognitive effects of exercise: they are *carried by rhythm*, not only by cardio-respiratory load.
 
----
+**Locomotor-Respiratory Coupling (LRC)** — breathing locks onto the locomotor rhythm, typically 2:1, 3:1, or 4:1 (steps per inhalation). Benefits (Frontiers in Neuroanatomy 2022; PLOS ONE 2012; PLOS ONE 2013):
+- Reduces mechanical interference between the respiratory and locomotor systems
+- Lowers the energy cost of ventilation
+- Improves ventilatory efficiency
+- An external metronome stabilizes LRC and saves energy
+- Impact loading (foot strike) significantly influences respiratory dynamics
 
-### §4.4.6 Hiérarchie oscillatoire — spectre convergent plutôt que pacemaker
+The preferred LRC regime = low-to-moderate intensity. At high intensity, breathing **decouples** from the locomotor rhythm. A direct physiological argument for the slowness of JP³.
 
-**Question** : existe-t-il **UN** pacemaker central du cerveau qui, s'il est syntonisé, réorganiserait toute la physiologie ? **Verdict : pour les rythmes rapides, non — mais ce qui existe à la place est plus riche et plus favorable au JP³ que le concept initial.**
+**Locomotor-Cardiac Coupling (LCC)** — the cardiac analogue. Documented by the Lohman/NMHU group — it is precisely this coupling that maximizes cerebral perfusion via retrograde waves. LCC mechanically links §4.4.2 (pulsed perfusion) to §4.4.4 (rhythms): **a single phenomenon of multi-systemic synchronization**.
 
-**Le seul vrai master pacemaker anatomique : le SCN (circadien)** — noyau suprachiasmatique de l'hypothalamus antérieur. Coordonne les oscillateurs périphériques (foie, cœur, muscle, glandes). Même le SCN n'est pas un neurone unique — c'est une population d'oscillateurs cellulaires couplés qui produit une rythmicité de réseau émergente.
-
-**Pour tous les autres rythmes** — locomoteur, respiratoire, cardiaque, cognitif, corticaux — **pas de master pacemaker anatomique unique**. Le cerveau est une hiérarchie d'oscillateurs couplés.
-
-**Cadre théorique dominant — Buzsáki et la hiérarchie nichée** : oscillatory hierarchy organisée par **cross-frequency coupling**. Cascade documentée : ultra-slow (~0.01-0.1 Hz) → slow oscillations (~1 Hz) → spindles (~10-14 Hz) → gamma (~40-80 Hz) → ripples (~150-200 Hz). "Syntaxe neurale" (Buzsáki) : rythmes lents fournissent une structure temporelle qui organise les rythmes rapides comme des lettres dans des mots.
-
-**Candidats quasi-master** (aucun n'est UN pacemaker unifié, mais chacun mérite l'attention pour comprendre où le JP³ pourrait agir) :
-- **Noyau réticulaire thalamique (TRN)** — pacemaker thalamique ; génère les spindles du sommeil, module l'alpha ; domaine limité aux boucles thalamocorticales
-- **Locus coeruleus (LC)** — **candidat le plus intéressant pour le JP³**. Seul émetteur de noradrénaline pour tout le cortex ; projections extrêmement diffuses avec libération extra-synaptique de NA (*volume transmission*) ; oscillations toniques ~1-3 Hz ; **sensible à la locomotion** (documenté chez le rongeur, hypothèse chez l'humain) ; mode phasique (stress, alerte brève) vs mode tonique (arousal soutenu). Peut être vu comme un "quasi-master" de la coordination brain-wide via arousal.
-- **Ascending Reticular Activating System (ARAS)** — système distribué cholinergique + noradrénergique + sérotoninergique (mésencéphale caudal à pont supérieur), avec projections vers basal forebrain, hypothalamus, noyaux intralaminaires du thalamus. Coordonne transition entre régimes globaux (éveil/sommeil, arousal, conscience). Système d'*orchestration* plus qu'un générateur de rythme.
-- **Oscillations infra-lentes thalamiques (ISO, ~0.01-0.1 Hz)** — noyaux thalamiques dorsaux génèrent des oscillations infra-lentes couplées à l'autonome (HRV, vasomotion) et visibles en BOLD. Niveau très haut dans la hiérarchie de Buzsáki — biaisent tout ce qui est en-dessous. Une session JP³ de 30-60 min traverse plusieurs centaines de cycles ISO — condition potentiellement idéale pour un ré-entraînement des couches supérieures de la hiérarchie oscillatoire.
-- **Complexe pré-Bötzinger (preBötC)** — pacemaker respiratoire ; spécialisé ; couplé au CPG locomoteur via LRC.
-
-**La position radicale — synchronie émergente sans pacemaker** — courant important : les oscillations cérébrales n'ont besoin d'aucun pacemaker spécialisé ; la synchronie émerge du couplage collectif faible entre neurones. **"Metastable Oscillatory Modes"** (Deco et al.) — rythmes cérébraux transitoires = signature de **synchronisation métastable** dans le connectome spatio-temporel, avec des fréquences collectives émergeant des délais et des couplages, à des fréquences **plus lentes que les fréquences naturelles des oscillateurs individuels**.
-
-**Reformulation du "Saint Graal"** :
-
-> *Le vrai "Saint Graal" n'est pas un pacemaker anatomique unique — c'est plutôt : quel est le **spectre de rythmes convergents** qui, injectés simultanément depuis la périphérie, réorganise le plus efficacement toute la hiérarchie oscillatoire ?*
-
-Le JP³ semble frapper **simultanément plusieurs bandes convergentes** : ~2 Hz du pas, ~4-8 Hz du couplage respiratoire complexe, ~0.1 Hz des cycles longs de session. **Résonance multi-bandes** — précisément *parce qu'il n'y a pas de pacemaker à cibler*, mais une hiérarchie couplée à laquelle chaque bande apporte une contrainte cohérente.
-
-**Posture** du JP³ explicitement **facilitatrice** et non *directive* : il *permet* l'émergence d'un régime oscillatoire cohérent, il ne l'*impose* pas. **Inutile de chercher LE bon rythme** — ce qui compte, c'est **la cohérence transversale** entre bandes : un pas régulier, une respiration qui s'accorde, une session assez longue pour traverser plusieurs cycles ISO. Trois échelles, une seule posture.
+**Proof through pathology — Parkinson's and RAS** — **Rhythmic Auditory Stimulation** (Thaut) uses a metronome or music to restore gait in Parkinson's patients. Documented mechanism: RAS **bypasses the failing basal ganglia** via **cerebellar** pathways (2025 review). *"Music therapy provides external rhythmic stimulation, recruits neural networks to bypass the basal ganglia and synchronizes gait with external rhythms through auditory-motor neural networks."* If rhythm can restore the gait of a person with Parkinson's, one can reasonably assume it can resynchronize a brain that is simply tired or stressed.
 
 ---
 
-### §4.4.7 Cadre neuro-vasculaire pulsé — synthèse §4.4
+### §4.4.5 Trigger points — muscular analogy
 
-Les mécanismes de §4.4 forment un régime physiologique unifié : **perfusion cérébrale pulsée + clairance glymphatique + cohérence multi-oscillatoire**, dans lequel le mouvement rythmique lent est simultanément :
+**A parallel muscular mechanism** that illuminates the cerebral logic by analogy: **myofascial trigger points** (Travell & Simons) are zones of **local ischemia** produced by sustained contraction → ATP depletion → locked actomyosin crossbridges → painful nodule. Resolution: **restoration of local blood flow** via gentle movement, compression, or release.
 
-- Un **pompage vasculaire pulsé** (foot-strike waves → perfusion, pompe soléaire → retour veineux)
-- Un **pompage glymphatique** (oscillations respiratoires + pulsatilité artérielle → clairance des métabolites)
-- Une **synchronisation multi-oscillatoire** (LCC + LRC + theta hippocampique + CPG spinal)
+Quotation (Chinese Medicine 2011): *"Ischemia results in the loss of ATP formation in a small region of muscle fibers, the crossbridges in this region cannot be released, and a trigger point forms... Treatment should be aimed at relieving ischemia by manual therapy that increases local blood circulation."*
 
-Ce n'est pas trois mécanismes séparés — c'est **un seul phénomène systémique** : le corps devient une machine oscillatoire cohérente, dans laquelle chaque cycle de pas est un cycle de perfusion, de clairance et de resynchronisation neuro-cognitive.
+**Structural** cerebral parallel: focal hypoperfusion (§4.4.1) → local dysfunction → resolution by restoring flow via rhythmic movement. Not direct proof, but a coherent theoretical framework: the whole body — muscle and brain — seems organized according to a single logic of focal perfusion amenable to resolution through gentle, sustained movement.
 
-Reformulation de la question centrale :
+---
 
-> *Comment le régime rythmique-pulsé, dans lequel le JP³ nous fait entrer, restaure-t-il activement la perfusion, la clairance, et la cohérence oscillatoire — et pourquoi l'état "détruit" permet-il d'y entrer plus facilement ?*
+### §4.4.6 Oscillatory hierarchy — convergent spectrum rather than pacemaker
+
+**Question**: is there **ONE** central pacemaker of the brain which, if tuned, would reorganize the whole of physiology? **Verdict: for fast rhythms, no — but what exists instead is richer and more favorable to JP³ than the initial concept.**
+
+**The only true anatomical master pacemaker: the SCN (circadian)** — the suprachiasmatic nucleus of the anterior hypothalamus. It coordinates peripheral oscillators (liver, heart, muscle, glands). Even the SCN is not a single neuron — it is a population of coupled cellular oscillators producing an emergent network rhythmicity.
+
+**For all other rhythms** — locomotor, respiratory, cardiac, cognitive, cortical — **no single anatomical master pacemaker**. The brain is a hierarchy of coupled oscillators.
+
+**Dominant theoretical framework — Buzsáki and the nested hierarchy**: an oscillatory hierarchy organized by **cross-frequency coupling**. Documented cascade: ultra-slow (~0.01-0.1 Hz) → slow oscillations (~1 Hz) → spindles (~10-14 Hz) → gamma (~40-80 Hz) → ripples (~150-200 Hz). "Neural syntax" (Buzsáki): slow rhythms provide a temporal structure that organizes fast rhythms like letters into words.
+
+**Quasi-master candidates** (none is ONE unified pacemaker, but each deserves attention for understanding where JP³ might act):
+- **Thalamic reticular nucleus (TRN)** — thalamic pacemaker; generates sleep spindles, modulates alpha; domain limited to thalamocortical loops
+- **Locus coeruleus (LC)** — **the most interesting candidate for JP³**. Sole source of noradrenaline for the entire cortex; extremely diffuse projections with extra-synaptic NA release (*volume transmission*); tonic oscillations ~1-3 Hz; **sensitive to locomotion** (documented in rodents, hypothesized in humans); phasic mode (stress, brief alertness) vs. tonic mode (sustained arousal). Can be seen as a "quasi-master" of brain-wide coordination via arousal.
+- **Ascending Reticular Activating System (ARAS)** — a distributed cholinergic + noradrenergic + serotonergic system (caudal midbrain to upper pons), with projections to the basal forebrain, hypothalamus, and intralaminar thalamic nuclei. Coordinates transitions between global regimes (wake/sleep, arousal, consciousness). An *orchestration* system rather than a rhythm generator.
+- **Thalamic infra-slow oscillations (ISO, ~0.01-0.1 Hz)** — dorsal thalamic nuclei generate infra-slow oscillations coupled to the autonomic system (HRV, vasomotion) and visible in BOLD. Very high level in Buzsáki's hierarchy — they bias everything below. A 30-60 min JP³ session traverses several hundred ISO cycles — a potentially ideal condition for re-entraining the upper layers of the oscillatory hierarchy.
+- **Pre-Bötzinger complex (preBötC)** — respiratory pacemaker; specialized; coupled to the locomotor CPG via LRC.
+
+**The radical position — emergent synchrony without a pacemaker** — an important current: brain oscillations need no specialized pacemaker; synchrony emerges from weak collective coupling between neurons. **"Metastable Oscillatory Modes"** (Deco et al.) — transient brain rhythms = the signature of **metastable synchronization** in the spatio-temporal connectome, with collective frequencies emerging from delays and couplings, at frequencies **slower than the natural frequencies of the individual oscillators**.
+
+**Reformulating the "Holy Grail"**:
+
+> *The real "Holy Grail" is not a single anatomical pacemaker — it is rather: what is the **spectrum of convergent rhythms** which, injected simultaneously from the periphery, most effectively reorganizes the entire oscillatory hierarchy?*
+
+JP³ seems to strike **several convergent bands simultaneously**: ~2 Hz from the step, ~4-8 Hz from complex respiratory coupling, ~0.1 Hz from the long cycles of the session. **Multi-band resonance** — precisely *because there is no pacemaker to target*, but a coupled hierarchy to which each band contributes a coherent constraint.
+
+The **stance** of JP³ is explicitly **facilitative** and not *directive*: it *allows* a coherent oscillatory regime to emerge; it does not *impose* it. **No need to look for THE right rhythm** — what matters is **transversal coherence** across bands: a regular step, breathing that falls into tune, a session long enough to traverse several ISO cycles. Three scales, a single stance.
+
+---
+
+### §4.4.7 Pulsed neurovascular framework — synthesis of §4.4
+
+The mechanisms of §4.4 form a unified physiological regime: **pulsed cerebral perfusion + glymphatic clearance + multi-oscillatory coherence**, in which slow rhythmic movement is simultaneously:
+
+- A **pulsed vascular pump** (foot-strike waves → perfusion, soleus pump → venous return)
+- A **glymphatic pump** (respiratory oscillations + arterial pulsatility → metabolite clearance)
+- A **multi-oscillatory synchronization** (LCC + LRC + hippocampal theta + spinal CPG)
+
+These are not three separate mechanisms — it is **a single systemic phenomenon**: the body becomes a coherent oscillatory machine, in which each step cycle is a cycle of perfusion, clearance, and neuro-cognitive resynchronization.
+
+Reformulating the central question:
+
+> *How does the rhythmic-pulsed regime, into which JP³ brings us, actively restore perfusion, clearance, and oscillatory coherence — and why does the "wrecked" state make it easier to enter?*
 
 ---
 
@@ -1140,7 +1146,7 @@ See §2.3 (barefoot as access condition — the 4th implicit P) for the full doc
 ## § 5. The protocol
 
 **TOC §5**
-- §5.1 Degré zéro — the entry threshold (`research-singularite` §4.6.5; `project_test_escaliers_soutien_vs_mobilite`)
+- §5.1 Degree zero (*degré zéro*) — the entry threshold (`research-singularite` §4.6.5; `project_test_escaliers_soutien_vs_mobilite`)
 - §5.2 Moment 0 as diagnostic — what the threshold reveals (`research-singularite` §4.6.6)
 - §5.3 Core execution — kinematics and cues
   - §5.3.1 Heel activator opening — forward-ref §3.2.2
@@ -1152,106 +1158,114 @@ See §2.3 (barefoot as access condition — the 4th implicit P) for the full doc
   - §5.5.2 Stealth / standing JP³ (`project_jp3_furtif_decouverte`)
 - §5.6 Pre-activity use — barefoot warm-up before shod sport (`project_warmup_piedsnus_prematch`)
 
-### §5.1 Degré zéro — the entry threshold
+### §5.1 Degree zero (*degré zéro*) — the entry threshold
 
 > **source:** `content/fr/research-singularite.md` §4.6.5 ; `memory/project_test_escaliers_soutien_vs_mobilite.md`
 
-Les sections précédentes ont décrit ce qui *entre* dans la symphonie (§4.6.3) et ce qui doit *ne pas entrer* (§4.6.4). Reste à décrire ce qui *précède l'entrée du premier instrument* — le moment 0, où rien encore ne se joue mais où tout se prépare. Cette section est née d'un cas concret : un matin de démotivation aiguë (2026-08-16), la question "par où commencer ?" a rendu manifeste ce que les autres sections avaient laissé dans l'ombre — que JP³ commence bien avant le premier balancement du bassin, dans un état qu'on peut nommer le **degré zéro**.
+The preceding sections described what *enters* the symphony (§4.6.3) and what must *not enter* (§4.6.4). What remains is to describe what *precedes the entry of the first instrument* — moment 0, where nothing is yet being played but everything is being prepared. This section was born from a concrete case: on a morning of acute demotivation (2026-08-16), the question "where do I start?" made manifest what the other sections had left in the shadows — that JP³ begins well before the first sway of the pelvis, in a state that can be named the ***degré zéro*** (**degree zero**).
 
-**"Lent" est un mot piégé.**
+**"Slow" is a trap word.**
 
-L'intuition initiale — "commencer très très lentement" — induit une erreur biomécanique. Bouger lentement *augmente* la charge musculaire : un squat descendu en 5 secondes est plus dur qu'un squat descendu en 1 seconde ; le tai-chi est notoirement épuisant malgré son apparence de lenteur. La lenteur cinématique impose une **contraction musculaire soutenue** — précisément ce que le régime x³ cherche à éviter au démarrage. Si on essaie de "commencer lentement" au sens naïf, on charge immédiatement les quadriceps de manière isotonique et on paie plein tarif métabolique pour un déplacement pourtant minuscule. Le bon mot n'est pas *lent* — c'est **passif**, **élastique**, **délégué**. La faible vitesse du corps n'est pas obtenue par contrôle musculaire mais par **délégation aux structures passives** : gravité, squelette, ligaments, fascia, tendons. Le muscle ne *porte* pas — il *relâche et se laisse rappeler*. La lenteur *apparente* est une conséquence, pas une cause à imposer. Il faut donc lire les mentions de "très très lent" dans §4.6.2 et §4.6.4 comme voulant dire *très très passif, très très peu, très très délégué*.
+The initial intuition — "start very, very slowly" — induces a biomechanical error. Moving slowly *increases* muscular load: a squat lowered over 5 seconds is harder than a squat lowered in 1 second; tai chi is notoriously exhausting despite its appearance of slowness. Kinematic slowness imposes **sustained muscular contraction** — precisely what the x³ regime seeks to avoid at the start. If one tries to "start slowly" in the naïve sense, one immediately loads the quadriceps isotonically and pays the full metabolic price for a displacement that is nonetheless minuscule. The right word is not *slow* — it is **passive**, **elastic**, **delegated**. The body's low speed is obtained not through muscular control but through **delegation to passive structures**: gravity, skeleton, ligaments, fascia, tendons. The muscle does not *carry* — it *releases and lets itself be recalled*. The *apparent* slowness is a consequence, not a cause to be imposed. The mentions of "very, very slow" in §4.6.2 and §4.6.4 should therefore be read as meaning *very, very passive, very, very little, very, very delegated*.
 
-**Le degré zéro absolu : se tenir debout sur ses os.**
+**Absolute degree zero: standing on one's bones.**
 
-Avant même le premier balancement, il y a un état antérieur, plus fondamental : *se tenir debout*. Coût énergétique quasi-nul (le poids transite par le squelette, les muscles posturaux profonds font un ajustement tonique minuscule). Décision requise quasi-nulle (on est déjà debout). Aucune articulation n'a besoin de bouger, aucun tendon d'être sollicité, aucun quadriceps de se contracter au-delà de son tonus de base. C'est *déjà* JP³ — c'est même la seule action qui puisse honnêtement s'appeler "le début de JP³", parce que tout le reste dépend d'elle.
+Even before the first sway, there is an earlier, more fundamental state: *standing*. Near-zero energy cost (weight passes through the skeleton; the deep postural muscles make a minuscule tonic adjustment). Near-zero decision required (one is already standing). No joint needs to move, no tendon needs to be loaded, no quadriceps needs to contract beyond its baseline tone. This is *already* JP³ — it is even the only action that can honestly be called "the beginning of JP³", because everything else depends on it.
 
-Ce degré zéro a une propriété rare : *il n'exige pas de motivation*. On n'a pas à trouver l'énergie de commencer à bouger. On a juste à **noter qu'on est debout**. À partir de là, le poids peut basculer imperceptiblement d'un pied à l'autre — non par décision, mais par **permission**. À un moment, une articulation demandera à s'ouvrir. On la laissera. Puis un tendon voudra rebondir. On le laissera. Chaque couche annoncera son entrée. Aucune n'a à être forcée. C'est la formulation la plus exigeante et la plus douce du dispositif : le seuil d'entrée n'est plus "prendre la décision de faire du sport" — c'est simplement *ne pas résister* à ce que le corps propose de lui-même.
+This degree zero has a rare property: *it requires no motivation*. One does not have to find the energy to start moving. One simply has to **notice that one is standing**. From there, weight can shift imperceptibly from one foot to the other — not by decision, but by **permission**. At some point, a joint will ask to open. One will let it. Then a tendon will want to rebound. One will let it. Each layer will announce its entry. None has to be forced. This is the most demanding and the gentlest formulation of the framework: the entry threshold is no longer "making the decision to exercise" — it is simply *not resisting* what the body offers of its own accord.
 
-**La stratification anatomique — le fractal x³ à l'échelle des tissus.**
+**Anatomical stratification — the x³ fractal at the scale of tissues.**
 
-Ce qui se joue au degré zéro et dans les minutes qui suivent est une hiérarchie tissulaire qui reproduit à échelle fine le principe x³ des §4.6.3 et §4.6.4 : chaque couche *autorise* la suivante en fournissant la stabilité, l'élasticité, la circulation dont elle a besoin. Du plus passif (coût métabolique quasi nul) au plus actif (coût élevé) :
+What plays out at degree zero and in the minutes that follow is a tissue hierarchy that reproduces, at a fine scale, the x³ principle of §4.6.3 and §4.6.4: each layer *authorizes* the next by providing the stability, elasticity and circulation it needs. From the most passive (near-zero metabolic cost) to the most active (high cost):
 
-1. **Squelette** — se tenir debout. Poids par les os.
-2. **Ligaments, capsules articulaires, cartilage** — micro-transferts de poids. Liquide synovial redistribué, ligaments sollicités en légère traction, cartilage rechargé.
-3. **Fascia, aponévroses, tendons** — structures **élastiques passives**. Stockage et restitution d'énergie externe. Consomment très peu d'O₂.
-4. **Voûte plantaire, pompe soléaire** — pompes mécaniques activées par le geste. Retour veineux commence.
-5. **Muscles posturaux profonds** (multifidus, transverse, plancher pelvien) — toniques, coût faible.
-6. **Muscles phasiques** (quadriceps, ischio-jambiers, mollets) — actifs, coût métabolique modéré à élevé selon la sollicitation.
-7. **Système respiratoire** — accompagne la demande (LRC — locomotor-respiratory coupling s'installe).
-8. **Système cardio-vasculaire** — répond en dernier à la demande périphérique (LCC — locomotor-cardiac coupling).
+1. **Skeleton** — standing. Weight through the bones.
+2. **Ligaments, joint capsules, cartilage** — micro-transfers of weight. Synovial fluid redistributed, ligaments under light traction, cartilage recharged.
+3. **Fascia, aponeuroses, tendons** — **passive elastic** structures. Storage and return of external energy. Consume very little O₂.
+4. **Plantar arch, soleus pump** — mechanical pumps activated by the movement. Venous return begins.
+5. **Deep postural muscles** (multifidus, transversus, pelvic floor) — tonic, low cost.
+6. **Phasic muscles** (quadriceps, hamstrings, calves) — active, moderate to high metabolic cost depending on load.
+7. **Respiratory system** — accompanies demand (LRC — locomotor-respiratory coupling sets in).
+8. **Cardiovascular system** — responds last to peripheral demand (LCC — locomotor-cardiac coupling).
 
-C'est la même **logique multiplicative** que celle des 3 P : la contribution de chaque couche est *conditionnelle* à celle des couches sous-jacentes. Retire une couche, la suivante paie tout le prix. Impossible d'engager le quadriceps efficacement si la cheville et la voûte plantaire ne sont pas prêtes à restituer l'énergie ; impossible d'engager la cheville si le squelette ne porte pas correctement. Un démarrage brutal en 3x, c'est demander aux quadriceps de faire le travail que les tendons n'ont pas encore été autorisés à faire. Le fractal descend et remonte : la même loi de dépendance ordonnée s'applique aux organites (chaîne respiratoire mitochondriale, §4.6.4), aux tissus (cette section), aux systèmes (§4.6.3), aux sessions successives dans le temps (dépassement de 3x à long terme, §4.6).
+This is the same **multiplicative logic** as that of the three Ps: each layer's contribution is *conditional* on that of the underlying layers. Remove one layer, and the next pays the whole price. It is impossible to engage the quadriceps efficiently if the ankle and plantar arch are not ready to return energy; impossible to engage the ankle if the skeleton is not bearing load properly. An abrupt 3x start means asking the quadriceps to do the work the tendons have not yet been authorized to do. The fractal runs downward and upward: the same law of ordered dependence applies to organelles (mitochondrial respiratory chain, §4.6.4), to tissues (this section), to systems (§4.6.3), to successive sessions over time (long-term surpassing of 3x, §4.6).
 
-**Note importante : le rôle possiblement sous-estimé du fascia.**
+**Important note: the possibly underestimated role of fascia.**
 
-Cette hiérarchie contient un élément que la culture scientifique dominante — celle qui imprègne à la fois l'auteur humain et le LLM assistant, tous deux formés sur les mêmes corpus biomédicaux — a vraisemblablement sous-mesuré : le **fascia**. Pendant des décennies, l'anatomie l'a traité comme "tissu d'emballage" — littéralement découpé et jeté dans les dissections pour révéler les "vrais" muscles. Ce n'est que depuis les années 2000-2010 (Congrès international de recherche sur le fascia depuis 2007, travaux de Robert Schleip, Thomas Myers, Carla Stecco) qu'il commence à être étudié comme un système à part entière.
+This hierarchy contains an element that the dominant scientific culture — the one that permeates both the human author and the assisting LLM, both trained on the same biomedical corpora — has likely under-measured: **fascia**. For decades, anatomy treated it as "packing tissue" — literally cut away and discarded in dissections to reveal the "real" muscles. Only since the 2000s–2010s (International Fascia Research Congress since 2007; work by Robert Schleip, Thomas Myers, Carla Stecco) has it begun to be studied as a system in its own right.
 
-Ce qu'on sait maintenant, et qui converge de manière frappante avec le régime JP³ :
+What is now known, and which converges strikingly with the JP³ regime:
 
-- Le fascia est un **réseau continu** — il transmet la force à travers le corps entier, pas localement. Se tenir debout mobilise en réalité une organisation myofasciale globale (myofascial trains).
-- Il contient une **densité exceptionnelle de mécanorécepteurs et d'interocepteurs** — probablement plus qu'aucun autre tissu périphérique. Le sens du corps ("je réalise que je suis debout") passe possiblement d'abord par lui, avant même les fuseaux musculaires.
-- Il a des propriétés **viscoélastiques et thixotropiques** — il devient plus fluide (moins raide) sous mouvement doux répété, grâce à la redistribution de l'acide hyaluronique entre ses couches. Les *tout petits* mouvements sont particulièrement efficaces pour cette lubrification — précisément le type de sollicitation que produit le degré zéro et les premiers balancements.
-- Il stocke et rend de l'énergie élastique — pas seulement les tendons. La contribution fasciale au stretch-shortening cycle en locomotion douce est significative.
-- Il répond préférentiellement à des **chargements lents et de faible intensité** — le contraire du régime d'entraînement musculaire, qui exige des chargements courts et intenses.
+- Fascia is a **continuous network** — it transmits force across the entire body, not locally. Standing actually mobilizes a global myofascial organization (myofascial trains).
+- It contains an **exceptional density of mechanoreceptors and interoceptors** — probably more than any other peripheral tissue. Body sense ("I realize I am standing") possibly passes through it first, even before the muscle spindles.
+- It has **viscoelastic and thixotropic** properties — it becomes more fluid (less stiff) under repeated gentle movement, thanks to the redistribution of hyaluronic acid between its layers. *Very small* movements are particularly effective for this lubrication — precisely the kind of loading that degree zero and the first sways produce.
+- It stores and returns elastic energy — not only the tendons do. The fascial contribution to the stretch-shortening cycle in gentle locomotion is significant.
+- It responds preferentially to **slow, low-intensity loading** — the opposite of the muscle-training regime, which demands short, intense loading.
 
-Ces cinq propriétés font du fascia le *substrat physiologique le plus probable* du degré zéro et du segment initial x³ : la station debout organisée (myofascial trains), la perception "je suis debout" (interoception fasciale), le premier balancement tellement doux qu'il paraît improductif (stimulus optimal pour la thixotropie), le rebond élastique passif (contribution fasciale au stretch-shortening cycle), la cinétique lente d'amorçage (préférence pour chargements lents et répétés).
+These five properties make fascia the *most probable physiological substrate* of degree zero and of the initial x³ segment: organized standing (myofascial trains), the perception "I am standing" (fascial interoception), the first sway so gentle it seems unproductive (optimal stimulus for thixotropy), the passive elastic rebound (fascial contribution to the stretch-shortening cycle), the slow kinetics of priming (preference for slow, repeated loading).
 
-**Hypothèse à documenter :** l'"échauffement de l'échauffement" n'est pas un simple préambule — c'est *l'activation spécifique du système fascial*, qui à son tour autorise l'activation ordonnée des couches suivantes. Sans elle, on saute directement à l'engagement musculaire et on rate la couche qui, précisément, aurait permis au reste de fonctionner en économie élastique. Cette hypothèse est mal représentée dans la littérature du sport et de l'entraînement — la culture scientifique dominante parle en termes de muscles, VO₂max, cardio, et laisse le fascia au fitness alternatif (Pilates, yoga, Feldenkrais, Rolfing) ou aux thérapies manuelles. Il est possible que le rôle du fascia dans le degré zéro de JP³ soit *un mécanisme physiologique clé* que les §4.6.3 et §4.6.4 n'ont pas suffisamment nommé — à documenter dans une recherche ciblée (voir §7 pour appel à sources sur ce point précis).
+**Hypothesis to be documented:** the "warm-up of the warm-up" is not a mere preamble — it is *the specific activation of the fascial system*, which in turn authorizes the ordered activation of the following layers. Without it, one jumps straight to muscular engagement and misses the very layer that would have allowed the rest to function in elastic economy. This hypothesis is poorly represented in the sport and training literature — the dominant scientific culture speaks in terms of muscles, VO₂max, cardio, and leaves fascia to alternative fitness (Pilates, yoga, Feldenkrais, Rolfing) or to manual therapies. It is possible that the role of fascia in JP³'s degree zero is *a key physiological mechanism* that §4.6.3 and §4.6.4 did not sufficiently name — to be documented in targeted research (see §7 for a call for sources on this specific point).
 
-**Confirmation empirique en temps réel.**
+**Real-time empirical confirmation.**
 
-Cette section a été écrite pendant que Perig vivait littéralement le degré zéro — un matin de démotivation aiguë où l'idée même de "commencer à bouger" semblait insurmontable. La séquence a fonctionné : *remarquer qu'on est debout* → petits transferts de poids → une articulation s'ouvre → un tendon rebondit. Témoignage direct : *"je suis réellement dans l'échauffement de l'échauffement, je réalise ce que c'est que de se tenir debout"*. Valeur : celle d'un cas d'espèce — pas d'une preuve statistique, mais d'un signal fort que le dispositif tient ce qu'il promet même dans le pire état initial, celui où toute autre modalité d'exercice serait spontanément écartée.
+This section was written while Perig was literally living degree zero — a morning of acute demotivation when the very idea of "starting to move" seemed insurmountable. The sequence worked: *notice that one is standing* → small weight transfers → a joint opens → a tendon rebounds. Direct testimony: *"I am really in the warm-up of the warm-up; I am realizing what it is to stand"*. Value: that of a single case — not statistical proof, but a strong signal that the framework delivers what it promises even in the worst initial state, the one in which any other exercise modality would be spontaneously dismissed.
 
-**Ce que cette section ajoute au reste.**
+> *FR original:* « je suis réellement dans l'échauffement de l'échauffement, je réalise ce que c'est que de se tenir debout »
 
-Les §4.6.2, §4.6.3, §4.6.4 décrivaient le segment initial x³ *une fois qu'on avait commencé*. Le §4.6.5 identifie le *moment antérieur au commencement lui-même* — le degré zéro qui rend possible tout le reste. Il précise aussi la correction sémantique : ce que "très très lent" cherchait à dire, c'était *très très passif, très très délégué* — jamais "musculairement contrôlé lentement". Enfin, il pointe le fascia comme substrat physiologique probablement sous-nommé, à documenter.
+**What this section adds to the rest.**
 
-Le moment 0 n'est donc pas *avant* JP³ — il *est* JP³, dans sa forme la plus dépouillée. Toute session commence par se tenir debout sur ses os. Le reste vient tout seul si on lui donne la permission.
+§4.6.2, §4.6.3 and §4.6.4 described the initial x³ segment *once one had started*. §4.6.5 identifies the *moment prior to the start itself* — the degree zero that makes everything else possible. It also specifies the semantic correction: what "very, very slow" was trying to say was *very, very passive, very, very delegated* — never "muscularly controlled slowly". Finally, it points to fascia as a probably under-named physiological substrate, to be documented.
 
-**Test auto-administrable — descente d'escaliers pieds droits (fiche test escaliers, 2026-09-10) :**
+Moment 0 is therefore not *before* JP³ — it *is* JP³, in its most stripped-down form. Every session begins by standing on one's bones. The rest comes on its own if it is given permission.
 
-Observation du 2026-09-10. Jour 3 hors de chez lui, en contexte de fatigue accumulée (trois nuits consécutives de mauvais sommeil). L'endroit d'hébergement a plusieurs étages, escaliers fréquemment empruntés.
+**Self-administered test — descending stairs with feet straight (stairs test sheet, 2026-09-10):**
 
-La dorsiflexion en descente d'escaliers, pieds bien droits (alignement correct, pas ouverts en canard), est difficile. Le mouvement est possible en amplitude et il n'y a pas de douleur — mais la capacité à **soutenir** le corps dans cet alignement pendant la descente fait défaut.
+Observation of 2026-09-10. Day 3 away from home, in a context of accumulated fatigue (three consecutive nights of poor sleep). The lodging has several floors; stairs used frequently.
 
-Insight doctrinal : *« il ne suffit pas d'avoir la mobilité et de ne pas avoir de douleur »*. Trois strates distinctes que la médecine standard confond souvent :
+Dorsiflexion while descending stairs, feet well straight (correct alignment, not turned out like a duck), is difficult. The movement is possible in range and there is no pain — but the capacity to **support** the body in that alignment during the descent is lacking.
 
-1. Mobilité (amplitude articulaire passive)
-2. Absence de douleur
-3. **Capacité de soutien fonctionnel sous charge dans l'alignement correct**
+Doctrinal insight: *"it is not enough to have mobility and to have no pain"*. Three distinct strata that standard medicine often conflates:
 
-La strate 3 est ce que le JP³ met en évidence et travaille — c'est le versant fonctionnel du degré zéro (chaîne posturale profonde, tonus fascial, muscles-ponts type I). Ni la strate 1 ni la strate 2 ne la prédit ni ne la garantit. Co-facteur noté : fatigue accumulée (3 nuits mal dormies) rend visible ce qui est habituellement compensé. Bon désarmoir de l'objection « je n'ai pas mal, je suis mobile, donc tout va bien » — objection qu'on rencontrera dans le public sarcopénie.
+> *FR original:* « il ne suffit pas d'avoir la mobilité et de ne pas avoir de douleur »
+
+1. Mobility (passive joint range of motion)
+2. Absence of pain
+3. **Capacity for functional support under load in correct alignment**
+
+Stratum 3 is what JP³ brings to light and trains — it is the functional side of degree zero (deep postural chain, fascial tone, type I bridge muscles). Neither stratum 1 nor stratum 2 predicts or guarantees it. Co-factor noted: accumulated fatigue (3 nights of poor sleep) makes visible what is usually compensated. A good defuser of the objection "I'm not in pain, I'm mobile, so everything is fine" — an objection that will be met in the sarcopenia audience.
 
 ---
 
-### §5.2 Moment 0 as diagnostic — cuirasse caractérielle, vulnérabilité, "In Place" affiné
+### §5.2 Moment 0 as diagnostic — character armor (*cuirasse caractérielle*), vulnerability, "In Place" refined
 
 > **source:** `content/fr/research-singularite.md` §4.6.6
 
-Le §4.6.5 a décrit le degré zéro comme *seuil d'accès minimal*. Il faut ajouter ce que cet accès *révèle* — car le moment 0 n'est pas seulement une porte d'entrée : c'est un **révélateur diagnostique**. Ce qui se manifeste dans les premières minutes d'un JP³ authentique n'est pas nommé par le paradigme fitness, qui commence trop haut pour le voir.
+§4.6.5 described degree zero as the *minimal access threshold*. What this access *reveals* must be added — for moment 0 is not only an entry door: it is a **diagnostic revealer**. What manifests in the first minutes of an authentic JP³ is not named by the fitness paradigm, which starts too high to see it.
 
-**A. La cuirasse se dépose — et devient audible.**
+**A. The armor settles — and becomes audible.**
 
-Wilhelm Reich a nommé *cuirasse caractérielle* l'ensemble des contractions musculaires chroniques par lesquelles le corps se défend d'affects non-tolérés — mâchoire serrée, épaules remontées, ventre bloqué, diaphragme figé, plancher pelvien verrouillé. Ces tensions ne se sentent pas à haute intensité, parce que le mouvement volontaire les recouvre : quand on court, quand on soulève, quand on transpire, les muscles phasiques dominent la scène motrice et le tonus défensif chronique est masqué. Il devient *audible* précisément là où le mouvement est le plus faible — dans le degré zéro et le segment initial x³.
+Wilhelm Reich named *cuirasse caractérielle* (character armor) the set of chronic muscular contractions by which the body defends itself against untolerated affects — clenched jaw, raised shoulders, locked belly, frozen diaphragm, locked pelvic floor. These tensions are not felt at high intensity, because voluntary movement covers them: when one runs, lifts, sweats, the phasic muscles dominate the motor scene and the chronic defensive tone is masked. It becomes *audible* precisely where movement is weakest — at degree zero and in the initial x³ segment.
 
-Ce que Perig a nommé pendant une session : *"je réalise à quel point je suis toujours dans un rôle défensif, épaules qui protègent le cœur, cœur qui protège le ventre, ventre qui protège le petit ventre"*. C'est un enchaînement défensif en cascade — chaque couche protégeant celle du dessous. Cette perception n'est possible que parce que le mouvement volontaire est effacé : il ne reste que le fond tonique, et ce fond est *contracté*. La cuirasse **se dépose** au sens où un sédiment se dépose au fond d'un verre resté longtemps immobile : elle n'a pas été créée par JP³, elle était là ; le silence du dispositif la rend visible.
+What Perig named during a session: *"I realize how much I am always in a defensive role — shoulders protecting the heart, heart protecting the belly, belly protecting the lower belly"*. This is a cascading defensive chain — each layer protecting the one beneath. This perception is only possible because voluntary movement is erased: only the tonic background remains, and that background is *contracted*. The armor **settles** in the sense in which a sediment settles at the bottom of a glass left still for a long time: it was not created by JP³, it was already there; the silence of the framework makes it visible.
 
-Cette observation a une conséquence importante pour l'axe C. La cuirasse est *elle-même* une contribution chronique à la cascade cortisolique décrite en §4.6.4 : co-contractions permanentes = coût métabolique de base élevé = signal sympathique continu = cortisol basal élevé. Chez l'adulte moderne cuirassé, une bonne partie de la "fatigue" de fond n'est pas due à ce qu'on *fait*, mais à ce qu'on *retient*. Le degré zéro de JP³ permet ce que peu d'autres dispositifs permettent : sentir le retenu séparément de l'agissant. C'est diagnostique avant d'être thérapeutique.
+> *FR original:* « je réalise à quel point je suis toujours dans un rôle défensif, épaules qui protègent le cœur, cœur qui protège le ventre, ventre qui protège le petit ventre »
 
-**B. "In Place" affiné — chute-vers-l'avant tolérée, déplacement ego-piloté exclu.**
+This observation has an important consequence for axis C. The armor is *itself* a chronic contribution to the cortisol cascade described in §4.6.4: permanent co-contractions = high baseline metabolic cost = continuous sympathetic signal = elevated basal cortisol. In the armored modern adult, a good part of background "fatigue" is due not to what one *does*, but to what one *holds back*. JP³'s degree zero allows what few other frameworks allow: feeling the held-back separately from the acting. It is diagnostic before being therapeutic.
 
-La cuirasse déposée, quelque chose se met à bouger *sans que rien ne soit décidé*. Le corps se **penche vers l'avant**, dérive de quelques centimètres, se rattrape sur l'autre pied, dérive encore. C'est physiologique : dès qu'on relâche les extenseurs postérieurs (chaîne postérieure — mollets, ischio-jambiers, érecteurs du rachis, trapèzes), le centre de gravité, situé légèrement en avant de la cheville, entraîne le corps vers l'avant. La marche humaine est structurellement une **chute contrôlée**, comme le disait Nicolas Sapir : *"marcher, c'est se rattraper au dernier moment"* [wip — attribution à vérifier].
+**B. "In Place" refined — forward-fall tolerated, ego-piloted displacement excluded.**
 
-Le premier P est donc à préciser : *In Place* ne veut pas dire *sans déplacement* — il veut dire **sans destination**. Ce qui est exclu, ce n'est pas la dérive spatiale — c'est l'engagement de l'ego dans une trajectoire commandée ("aller à la cuisine", "atteindre le mur", "faire trois mètres"). La chute-vers-l'avant tolérée est *dans* JP³ ; le déplacement ego-piloté est *hors* JP³. C'est cette distinction qui explique pourquoi la variante *JP³ furtif* (haut du corps immobile, bassin élastique, dérive imperceptible) reste dans le dispositif : la dérive existe, mais aucun point B ne la commande. C'est aussi ce qui rend légitime l'observation empirique : plus la cuirasse se dépose, plus la chute-vers-l'avant devient facile ; on n'a plus besoin de "décider d'avancer" — on *cesse de retenir l'avancée*.
+Once the armor has settled, something begins to move *without anything being decided*. The body **leans forward**, drifts a few centimetres, catches itself on the other foot, drifts again. This is physiological: as soon as the posterior extensors are released (posterior (back) chain — calves, hamstrings, spinal erectors, trapezius), the centre of gravity, located slightly in front of the ankle, draws the body forward. Human walking is structurally a **controlled fall**, as Nicolas Sapir put it: *"to walk is to catch oneself at the last moment"* (*« marcher, c'est se rattraper au dernier moment »*) [wip — attribution to be verified].
 
-**C. Une vulnérabilité soudaine, à honorer.**
+The first P must therefore be clarified: *In Place* does not mean *without displacement* — it means **without destination**. What is excluded is not spatial drift — it is the engagement of the ego in a commanded trajectory ("go to the kitchen", "reach the wall", "do three metres"). Tolerated forward-fall is *within* JP³; ego-piloted displacement is *outside* JP³. This distinction explains why the *stealth JP³* variant (upper body still, pelvis elastic, imperceptible drift) remains within the framework: the drift exists, but no point B commands it. It is also what legitimizes the empirical observation: the more the armor settles, the easier the forward-fall becomes; one no longer needs to "decide to move forward" — one *stops holding back the forward motion*.
 
-Il y a un moment dans le segment initial où la protection de la cuirasse s'estompe et où le corps se retrouve *nu à lui-même*. Ce moment est ambivalent : soulagement (on ne portait plus la charge chronique) mais aussi **vulnérabilité perceptive aiguë** (on n'a plus la carapace qui filtrait tout). Perig, session du 2026-08-16 : *"une sensation de vulnérabilité, presque d'inquiétude ; on n'est plus derrière rien"*. Ce n'est pas un bug du dispositif — c'est une **caractéristique**. Le degré zéro *ne peut pas* être atteint sans que cette exposition apparaisse. C'est pourquoi il exige Own Place au sens le plus fort (pas de regard, y compris imaginé) — parce que la vulnérabilité perceptive ne survit à aucune surveillance externe.
+**C. A sudden vulnerability, to be honored.**
 
-Corollaire pratique : les préoccupations qui remontent à ce moment (voûte plantaire qui pronationne trop, articulation qui craque, asymétrie de bassin, tension inhabituelle) sont à *noter, pas à corriger*. Elles remontent parce que le canal perceptif est propre — elles ne sont pas causées par JP³. Vouloir les corriger réintroduit un projet, une métrique, un jugement, et referme le canal. Le dispositif demande une posture d'accueil non-interventionniste : *je vois, je note, je continue*. La correction, si elle a lieu, se fera d'elle-même sur des semaines — pas par intervention volontaire dans la session.
+There is a moment in the initial segment when the protection of the armor fades and the body finds itself *naked to itself*. This moment is ambivalent: relief (one is no longer carrying the chronic load) but also **acute perceptual vulnerability** (one no longer has the shell that filtered everything). Perig, session of 2026-08-16: *"a feeling of vulnerability, almost of unease; you're no longer behind anything"*. This is not a bug of the framework — it is a **feature**. Degree zero *cannot* be reached without this exposure appearing. That is why it requires Own Place in the strongest sense (no gaze, including an imagined one) — because perceptual vulnerability survives no external surveillance.
 
-**Ce que cette section ajoute au reste.** Les §4.6.2 à §4.6.5 décrivaient le régime x³ comme *phénomène physiologique* (interdépendance des 3 P, symphonie, cascades évitées, stratification tissulaire). Le §4.6.6 ajoute que ce même régime est *aussi* un dispositif de **révélation diagnostique** : cuirasse, chute-vers-l'avant, vulnérabilité perceptive. Ces trois éléments ne sont pas des effets secondaires — ils sont **inséparables** de l'accès au segment initial. Un protocole qui prétendrait faire du "JP³ sans cuirasse déposée, sans vulnérabilité" serait mécaniquement en 3x : le silence initial *est* ce qui rend la cuirasse audible.
+> *FR original:* « une sensation de vulnérabilité, presque d'inquiétude ; on n'est plus derrière rien »
+
+Practical corollary: the concerns that surface at this moment (plantar arch pronating too much, a joint cracking, pelvic asymmetry, unusual tension) are to be *noted, not corrected*. They surface because the perceptual channel is clean — they are not caused by JP³. Wanting to correct them reintroduces a project, a metric, a judgment, and closes the channel. The framework asks for a non-interventionist posture of welcome: *I see, I note, I continue*. Correction, if it happens, will occur on its own over weeks — not through voluntary intervention within the session.
+
+**What this section adds to the rest.** §4.6.2 to §4.6.5 described the x³ regime as a *physiological phenomenon* (interdependence of the three Ps, symphony, avoided cascades, tissue stratification). §4.6.6 adds that this same regime is *also* a framework of **diagnostic revelation**: armor, forward-fall, perceptual vulnerability. These three elements are not side effects — they are **inseparable** from access to the initial segment. A protocol claiming to do "JP³ without settled armor, without vulnerability" would mechanically be in 3x: the initial silence *is* what makes the armor audible.
 
 ---
 
@@ -1284,7 +1298,7 @@ JP³ is a minimalist yet deeply effective exercise protocol, designed to be acce
 
 > **source:** forward-ref to §3.2.4 (JP³ incident regime — already migrated in §3)
 
-See §3.2.4 for the full treatment of the incident regime — JP³ adaptations priming without changing posture, a few heel shocks suffice (via muscle tuning Nigg + SSC). Figure-ground inversion of session JP³: quotidien primary, JP³ in filigrane. Entry threshold collapsed to near-zero.
+See §3.2.4 for the full treatment of the incident regime — JP³ adaptations priming without changing posture, a few heel shocks suffice (via muscle tuning Nigg + SSC). Figure-ground inversion of session JP³: daily life primary, JP³ as a watermark (*en filigrane*). Entry threshold collapsed to near-zero.
 
 #### §5.3.4 SSPU — the skill of the narrow band (kinematics and cues)
 
@@ -1333,79 +1347,79 @@ Under (b), the heel → SSPU transition reads as a migration of weight from heel
 
 > **source:** `content/fr/research-singularite.md` §4.6.2 + §4.6.3
 
-#### §5.4.1 Anatomie du segment initial (t < √3)
+#### §5.4.1 Anatomy of the initial segment (t < √3)
 
-C'est ici, dans les premières minutes où la courbe x³ est *encore sous* la droite 3x, que la singularité se joue. Rien ne semble se passer. C'est précisément parce que rien ne semble se passer qu'il se passe quelque chose.
+It is here, in the first minutes when the x³ curve is *still below* the line 3x, that the singularity plays out. Nothing seems to happen. It is precisely because nothing seems to happen that something happens.
 
-**Le premier "pas" n'est pas un pas.** C'est un balancement, un déplacement de poids d'un pied sur l'autre. Le talon d'un pied se lève d'un centimètre. Puis l'autre. La cadence n'existe pas encore — elle se cherche. Fréquence cardiaque probablement sous 90. Un observateur extérieur ne verrait *rien de reconnaissable* : quelqu'un debout, qui hésite. C'est exactement le point. La culture fitness dirait "ça ne compte pas". Elle a raison — au sens strict de ses métriques, ça ne compte pas. C'est pourquoi le paradigme métrique ne peut pas entrer ici, et c'est pourquoi il y a une place pour un autre régime.
+**The first "step" is not a step.** It is a sway, a shift of weight from one foot to the other. The heel of one foot lifts by a centimetre. Then the other. Cadence does not exist yet — it is searching for itself. Heart rate probably under 90. An outside observer would see *nothing recognizable*: someone standing, hesitating. That is exactly the point. Fitness culture would say "that doesn't count". It is right — in the strict sense of its metrics, it doesn't count. That is why the metric paradigm cannot enter here, and why there is room for another regime.
 
-**Plus lent que racine carrée — l'échelle du très très lent.** Comparons les régimes concaves à t = 0,1 :
+**Slower than square root — the scale of the very, very slow.** Let us compare the concave regimes at t = 0.1:
 
-| Fonction | Valeur à t = 0,1 | Interprétation |
+| Function | Value at t = 0.1 | Interpretation |
 |---|---:|---|
-| Racine carrée (√t) | 0,316 | Lent — mais reconnaissable comme "une pratique" |
-| Linéaire (t) | 0,100 | Régime de référence |
-| Carré (t²) | 0,010 | Très lent |
-| **Cube (t³)** | **0,001** | **Sub-reconnaissable — pas encore "une pratique"** |
+| Square root (√t) | 0.316 | Slow — but recognizable as "a practice" |
+| Linear (t) | 0.100 | Reference regime |
+| Square (t²) | 0.010 | Very slow |
+| **Cube (t³)** | **0.001** | **Sub-recognizable — not yet "a practice"** |
 
-Le cube est *trois cents fois plus modeste* que la racine carrée au tout début. Toutes les pratiques "lentes" nommées (kinhin, Feldenkrais, slow jogging niko-niko, tai-chi) sont au mieux en régime racine carrée : lentes, mais visibles comme *une pratique en cours*. JP³ dans son segment initial est *sub-reconnaissable*. C'est cette hyperlenteur — plus radicale que √t ne le suggérerait — qui permet à la concavité cubique de s'établir ensuite. On ne peut pas y accéder par une décision volontariste ("je vais être lent") ; il faut y *tomber* par contrainte (état détruit) ou y *renoncer* délibérément à toute cadence externe. La lenteur JP³ n'est pas une lenteur choisie *dans* une gamme de vitesses — c'est un renoncement à la gamme elle-même.
+The cube is *three hundred times more modest* than the square root at the very beginning. All the named "slow" practices (kinhin, Feldenkrais, niko-niko slow jogging, tai chi) are at best in a square-root regime: slow, but visible as *a practice in progress*. JP³ in its initial segment is *sub-recognizable*. It is this hyper-slowness — more radical than √t would suggest — that allows cubic concavity to establish itself afterwards. It cannot be accessed through a voluntarist decision ("I am going to be slow"); one has to *fall* into it through constraint (a wrecked state) or deliberately *renounce* any external cadence. JP³ slowness is not a slowness chosen *within* a range of speeds — it is a renunciation of the range itself.
 
-*Correction sémantique importante* (voir §5.1 pour le développement complet) : "lent" est un mot piégé. La lenteur cinématique commandée par le muscle *augmente* la charge — le tai-chi et le squat lent le démontrent. Ce que cette section décrit sous "très très lent" doit être relu comme *très très passif, très très délégué* : la faible vitesse du corps n'est pas obtenue par contrôle musculaire mais par délégation aux structures passives (gravité, squelette, fascia, tendons). La vitesse basse est une *conséquence*, pas une intention à imposer.
+*Important semantic correction* (see §5.1 for the full development): "slow" is a trap word. Kinematic slowness commanded by the muscle *increases* load — tai chi and the slow squat demonstrate it. What this section describes as "very, very slow" must be reread as *very, very passive, very, very delegated*: the body's low speed is obtained not through muscular control but through delegation to passive structures (gravity, skeleton, fascia, tendons). Low speed is a *consequence*, not an intention to be imposed.
 
-**L'interdépendance stricte des 3 P dans ce segment.** C'est ici, plus qu'ailleurs, que retirer *un seul* P suffit à effondrer le volume à zéro. Ce n'est pas rhétorique : c'est mécanique.
+**The strict interdependence of the three Ps in this segment.** It is here, more than anywhere else, that removing *a single* P is enough to collapse the volume to zero. This is not rhetorical: it is mechanical.
 
-- **Own Pace exige Own Place.** Un seul regard extérieur, et cette lenteur "ridicule" devient impossible à maintenir plus de trente secondes. Le regard impose 3x — non par malveillance, par simple présence. La sur-lenteur ne survit qu'à l'abri d'un regard, y compris le regard imaginé. Own Pace n'a pas de sens sans Own Place.
-- **Own Place exige In Place.** Si on doit aussi *avancer* — traverser le salon, sortir dans la rue, aller à un point B — le déplacement dévore tout à ces vitesses. À un centimètre de talon toutes les deux secondes, on ne va nulle part. On devrait accélérer pour "avancer réellement" — 3x immédiat. Own Place ne libère Own Pace que si In Place rend la sur-lenteur *spatialement viable*.
-- **In Place exige Own Pace.** Marching in place prescrit (physio, Walk at Home, aérobie à la maison). Un tempo externe, même minimal, écrase le segment initial. La verticalité sans autonomie de tempo = 3x codifié. In Place tout seul ne suffit pas ; il tombe dans un protocole.
+- **Own Pace requires Own Place.** A single outside gaze, and this "ridiculous" slowness becomes impossible to sustain for more than thirty seconds. The gaze imposes 3x — not out of malice, by mere presence. Over-slowness survives only when sheltered from a gaze, including an imagined gaze. Own Pace makes no sense without Own Place.
+- **Own Place requires In Place.** If one must also *move forward* — cross the living room, go out into the street, go to a point B — displacement devours everything at these speeds. At one centimetre of heel every two seconds, one goes nowhere. One would have to speed up to "really move forward" — immediate 3x. Own Place frees Own Pace only if In Place makes over-slowness *spatially viable*.
+- **In Place requires Own Pace.** Prescribed marching in place (physio, Walk at Home, home aerobics). An external tempo, even a minimal one, crushes the initial segment. Verticality without tempo autonomy = codified 3x. In Place alone is not enough; it falls into a protocol.
 
-Chaque P défend l'inviolabilité des deux autres. La multiplication n'est pas une figure — elle est structurelle : retire une dimension et le volume x³ collapse à un plan, un plan à une droite, une droite à un point. C'est pourquoi les rivaux "1 P" ou "2 P" ne s'approchent jamais du cube. Ils n'ont pas la géométrie pour le tenir.
+Each P defends the inviolability of the other two. The multiplication is not a figure of speech — it is structural: remove one dimension and the x³ volume collapses to a plane, a plane to a line, a line to a point. That is why "1 P" or "2 P" rivals never come close to the cube. They do not have the geometry to hold it.
 
-**Ce qui se passe dans le corps pendant que rien ne se voit.** Rien à l'œil nu. Mais dans le corps, en fenêtre différée :
+**What happens in the body while nothing is visible.** Nothing to the naked eye. But in the body, in a delayed window:
 
-- Les foot-strike waves commencent à onduler à basse fréquence, pas encore synchronisées entre membres inférieurs.
-- Le LC tonique s'amorce en régime bas (Poe et al. 2020) — pas encore la phasic surge de l'effort intense, la tonic baseline qui monte doucement.
-- La respiration s'organise sans consigne, alignée sur la locomotion (couplage locomotor-respiratory qui se cherche).
-- Le cross-frequency coupling theta/gamma commence à se stabiliser — la signature EEG de l'attention distribuée qui s'installe.
-- La perfusion pulsée monte imperceptiblement à chaque foot-strike accumulé.
-- Le système glymphatique n'est pas encore activé, mais la fenêtre s'ouvre.
+- Foot-strike waves begin to undulate at low frequency, not yet synchronized between the lower limbs.
+- The tonic LC primes in a low regime (Poe et al. 2020) — not yet the phasic surge of intense effort, but the tonic baseline rising gently.
+- Breathing organizes itself without instruction, aligned with locomotion (locomotor-respiratory coupling searching for itself).
+- Theta/gamma cross-frequency coupling begins to stabilize — the EEG signature of distributed attention setting in.
+- Pulsatile perfusion rises imperceptibly with each accumulated foot-strike.
+- The glymphatic system is not yet activated, but the window is opening.
 
-Tous ces processus ont besoin *de temps pour s'amorcer sans être écrasés par une contrainte d'effort déjà présent*. C'est précisément ce que le segment initial x³ leur donne. En 3x — dès qu'une cadence externe s'impose — ils doivent s'installer sous contrainte : sous-optimaux, ou pas du tout. La physiologie a besoin du *sub-reconnaissable* pour se déployer sans hâte.
+All these processes need *time to prime without being crushed by an already-present effort constraint*. That is precisely what the initial x³ segment gives them. In 3x — as soon as an external cadence is imposed — they must set in under constraint: suboptimally, or not at all. Physiology needs the *sub-recognizable* in order to unfold without haste.
 
-**Le paradoxe subjectif — "ne rien faire" est le signe de qualité.** Toute impression de "faire quelque chose" au démarrage indique qu'on a déjà basculé en 3x, qu'on a raté le cube. L'épistémologie est inversée : *l'absence de sensation d'effort au démarrage est le critère de bonne facture*, pas le signe d'un échec. La culture fitness n'a pas de mot pour ça — pour elle, "ne rien sentir" = "ne rien faire" = "temps perdu". C'est le point aveugle exact qu'il faut nommer. Le seul indicateur fiable du segment initial correct, c'est la *persistance dans l'ennui apparent* : si on tient sans se dire "il faut que je fasse quelque chose", on est dans x³. Dès qu'on cède à l'urgence de "faire" — on a raté.
+**The subjective paradox — "doing nothing" is the sign of quality.** Any impression of "doing something" at the start indicates that one has already tipped into 3x, that one has missed the cube. The epistemology is inverted: *the absence of a sensation of effort at the start is the criterion of good workmanship*, not the sign of failure. Fitness culture has no word for this — for it, "feeling nothing" = "doing nothing" = "wasted time". This is the exact blind spot that must be named. The only reliable indicator of a correct initial segment is *persistence in apparent boredom*: if one holds on without telling oneself "I have to do something", one is in x³. As soon as one yields to the urgency of "doing" — one has missed it.
 
-**Le franchissement de √3, souvent inaperçu.** Il n'y a pas de "runner's high" au moment du croisement. Pas d'endorphines qui claquent. Le passage se fait sans annonce : on démarre, on ne s'en rend pas compte, et vingt minutes plus tard on est *encore là*, dans une modalité qu'on ne cherchait pas à atteindre et qu'on ne sait pas nommer. Le régime cubique croît doucement, comme il a commencé. C'est aussi ce qui distingue x³ des autres : la culture fitness attend un moment de bascule (endorphines, seuil ventilatoire, "the wall", "second wind"). JP³ n'a pas de moment. Ce qui bascule, c'est la *durée* — la capacité à *rester là* devient elle-même le bénéfice.
+**The crossing of √3, often unnoticed.** There is no "runner's high" at the moment of crossing. No endorphins snapping in. The passage happens without announcement: one starts, one doesn't notice, and twenty minutes later one is *still there*, in a modality one was not trying to reach and cannot name. The cubic regime grows gently, as it began. This is also what distinguishes x³ from the others: fitness culture expects a tipping point (endorphins, ventilatory threshold, "the wall", "second wind"). JP³ has no moment. What tips is *duration* — the capacity to *stay there* becomes itself the benefit.
 
-#### §5.4.2 La symphonie des mécanismes — entrée progressive des instruments
+#### §5.4.2 The symphony of mechanisms — progressive entry of the instruments
 
-Il n'y a pas de chef d'orchestre unique dans le corps. Ni le SCN circadien, ni le locus coeruleus, ni le preBötC respiratoire, ni les oscillations infra-lentes (ISO) ne dirigent seuls. Le régime x³ décrit dans les sections précédentes n'est pas produit par un mécanisme — il est produit par l'**entrée successive** de plusieurs voix qui, une fois toutes présentes, se soutiennent mutuellement. C'est une symphonie sans chef. Le rôle des 3 P est de protéger le silence initial pour que les voix entrent *dans l'ordre où elles peuvent se soutenir*, pas toutes en même temps.
+There is no single conductor in the body. Neither the circadian SCN, nor the locus coeruleus, nor the respiratory preBötC, nor infra-slow oscillations (ISO) lead on their own. The x³ regime described in the preceding sections is not produced by one mechanism — it is produced by the **successive entry** of several voices which, once all present, support one another. It is a symphony without a conductor. The role of the three Ps is to protect the initial silence so that the voices enter *in the order in which they can support one another*, not all at once.
 
-**Mesure 0 — le silence, avant le premier balancement.** Corps immobile, respiration au repos (~15/min), FC ~70, cortex en mode par défaut. La partition attend. Aucun instrument n'a encore joué.
+**Bar 0 — silence, before the first sway.** Body still, resting breathing (~15/min), HR ~70, cortex in default mode. The score waits. No instrument has played yet.
 
-**Percussion — le premier balancement (0-30 s).** Le talon d'un pied se lève. Foot-strike wave désynchronisée. La pompe soléaire s'amorce à la compression du mollet. Fuseaux neuromusculaires — proprioception discrète. C'est la première voix, une percussion mate, presque inaudible.
+**Percussion — the first sway (0–30 s).** The heel of one foot lifts. Desynchronized foot-strike wave. The soleus pump primes as the calf is compressed. Neuromuscular spindles — discreet proprioception. This is the first voice, a muted percussion, almost inaudible.
 
-**Contrebasses — respiration et cœur (30 s – 2 min).** Le rythme respiratoire s'aligne progressivement sur la cadence des pas : couplage locomotor-respiratoire (LRC) qui se cherche, pas encore verrouillé. Le cœur répond à la mécanique — locomotor-cardiac coupling (LCC), FC 85-95. La ligne de basse s'installe sous la percussion. Deux voix ; encore fragile.
+**Double basses — breathing and heart (30 s – 2 min).** Respiratory rhythm progressively aligns with step cadence: locomotor-respiratory coupling (LRC) searching for itself, not yet locked. The heart responds to the mechanics — locomotor-cardiac coupling (LCC), HR 85–95. The bass line settles beneath the percussion. Two voices; still fragile.
 
-**Bois — le tonic locus coeruleus (2-5 min).** Le LC monte en régime tonique (Poe et al. 2020), sans les phasic bursts de l'effort intense. Éveil calme, pas d'urgence. Pupillométrie légère (Yamashita et al.). L'ARAS module discrètement l'éveil cortical. Une clarinette entre. La texture s'épaissit sans devenir dense.
+**Woodwinds — the tonic locus coeruleus (2–5 min).** The LC rises into a tonic regime (Poe et al. 2020), without the phasic bursts of intense effort. Calm arousal, no urgency. Light pupillometry (Yamashita et al.). The ARAS discreetly modulates cortical arousal. A clarinet enters. The texture thickens without becoming dense.
 
-**Cordes — hippocampe et theta (5-10 min).** Le theta hippocampique se verrouille sur la cadence de pas (Kropff et al. 2023). Les cellules de lieu commencent leur phase precession. Le cross-frequency coupling theta/gamma se stabilise (Canolty & Knight). L'attention distribuée s'installe — cortex frontal en dialogue lâche avec l'hippocampe. Les cordes entrent — c'est la première nappe harmonique qui donne à l'ensemble sa forme.
+**Strings — hippocampus and theta (5–10 min).** Hippocampal theta locks onto step cadence (Kropff et al. 2023). Place cells begin their phase precession. Theta/gamma cross-frequency coupling stabilizes (Canolty & Knight). Distributed attention sets in — frontal cortex in loose dialogue with the hippocampus. The strings enter — this is the first harmonic layer, which gives the ensemble its shape.
 
-**Altos et violoncelles — perfusion pulsée (5-15 min).** Chaque foot-strike accumulée envoie une onde de pression qui remonte vers le cerveau via la colonne vertébrale et les carotides. Micro-circulation cérébrale s'ouvre (BOLD signal augmente doucement). Les zones d'hypoperfusion diurne commencent à être irriguées. Les altos rejoignent les cordes — la ligne se densifie, la trame vasculaire soutient la trame neurale.
+**Violas and cellos — pulsatile perfusion (5–15 min).** Each accumulated foot-strike sends a pressure wave travelling up toward the brain via the spinal column and the carotids. Cerebral microcirculation opens (BOLD signal rises gently). Zones of daytime hypoperfusion begin to be irrigated. The violas join the strings — the line densifies, the vascular weave supports the neural weave.
 
-**Cuivres tardifs — la fenêtre glymphatique (15-30 min).** Le système glymphatique (Iliff, Nedergaard) commence à s'activer : les pulsations artérielles régulières facilitent le flux de CSF le long des espaces péri-artériels. Le nettoyage inter-cellulaire s'amorce. Ce sont les cuivres tardifs, qui n'entrent que quand toutes les autres voix soutiennent leur entrée — parce qu'elles ont besoin du couplage vasculaire *et* du rythme cardiaque stable *et* de l'éveil tonique modéré, tout simultanément.
+**Late brass — the glymphatic window (15–30 min).** The glymphatic system (Iliff, Nedergaard) begins to activate: regular arterial pulsations facilitate CSF flow along the peri-arterial spaces. Intercellular cleansing primes. These are the late brass, which enter only when all the other voices support their entry — because they need vascular coupling *and* a stable heart rhythm *and* moderate tonic arousal, all simultaneously.
 
-**Tutti — le régime pleinement déployé (20+ min).** Toutes les voix jouent. Aucune n'est prépondérante. Chaque cycle enrichit les autres : le pas alimente la perfusion qui alimente le LC qui module le theta qui organise l'attention qui régule le pas. La boucle est fermée, chaque itération *hérite* de la précédente. La courbe cubique bat son plein. Subjectivement : "on est dans" — pas d'effort, pas de plafond, une modalité qui pourrait continuer.
+**Tutti — the fully deployed regime (20+ min).** All voices play. None predominates. Each cycle enriches the others: the step feeds perfusion, which feeds the LC, which modulates theta, which organizes attention, which regulates the step. The loop is closed; each iteration *inherits* from the previous one. The cubic curve is in full swing. Subjectively: "you're in it" — no effort, no ceiling, a modality that could go on.
 
-**Le chef d'orchestre absent.** Aucune de ces voix ne dirige les autres. Ce qui ressemblerait à une pulsation centrale (respiration, cœur, theta, ISO) est en réalité un **spectre convergent** — chaque mécanisme se synchronise avec ses voisins de fréquence, et le tout tient parce que la couche du dessus module la couche du dessous sans la contrôler. La partition est écrite par la biologie ; l'exécution est libre. Ce que JP³ apporte, c'est le *silence initial* qui permet l'entrée progressive.
+**The absent conductor.** None of these voices leads the others. What would look like a central pulse (breathing, heart, theta, ISO) is in reality a **convergent spectrum** — each mechanism synchronizes with its frequency neighbours, and the whole holds because the layer above modulates the layer below without controlling it. The score is written by biology; the performance is free. What JP³ brings is the *initial silence* that allows progressive entry.
 
-**Pourquoi les autres régimes ne laissent pas l'orchestre entrer.**
+**Why the other regimes do not let the orchestra enter.**
 
-- **3x (Zone 2, course à allure constante, marching physio prescrit).** Le chef externe frappe le premier temps — *toutes les voix doivent entrer ensemble*. FC à 130 dès la 3ᵉ minute, cadence imposée. Résultat : cacophonie. Le LC ne peut pas s'installer en tonique parce qu'il est déjà en phasique. Le theta ne peut pas se verrouiller parce que la cadence est trop rapide et trop régulière. Le glymphatique ne s'ouvre pas parce que les pulsations sont trop hautes en fréquence pour la fenêtre péri-artérielle. Tous les instruments jouent — mais aucun ne se soutient : un tutti mal ajusté qui reste sous-optimal.
-- **HIIT / fitness snacks.** Le chef arrête la musique tous les trente secondes. Aucune voix n'a le temps de finir sa phrase. On coupe. On reprend. On coupe. Le régime cubique ne peut jamais s'installer parce qu'il exige de la continuité — chaque instrument a besoin du précédent pour entrer.
-- **Warm-up conventionnel.** Bonne intuition initiale — laisser les premiers instruments entrer. Mais on coupe l'ouverture pour "attaquer" la vraie séance. Les percussions et les basses commençaient à s'installer ; on les remplace par un fortissimo. Les cordes, les bois, les cuivres tardifs n'entreront jamais.
-- **Slow jogging niko-niko.** Chef bienveillant, tempo doux mais constant. Percussions et basses ont le temps de s'installer. Mais le tempo *stable* — le plateau horizontal — empêche l'accumulation cubique. L'orchestre joue une belle mélodie répétitive, pas une symphonie qui monte.
-- **Pacing ME/CFS.** Chef qui coupe *avant* l'entrée des cuivres — pour de bonnes raisons cliniques (le PEM). Mais du coup l'orchestre reste à mi-parcours. La symphonie ne s'achève pas.
+- **3x (Zone 2, constant-pace running, prescribed physio marching).** The external conductor strikes the downbeat — *all the voices must enter together*. HR at 130 from the 3rd minute, imposed cadence. Result: cacophony. The LC cannot settle into tonic mode because it is already phasic. Theta cannot lock because the cadence is too fast and too regular. The glymphatic system does not open because the pulsations are too high in frequency for the peri-arterial window. All the instruments play — but none supports the others: a poorly tuned tutti that remains suboptimal.
+- **HIIT / fitness snacks.** The conductor stops the music every thirty seconds. No voice has time to finish its phrase. Cut. Resume. Cut. The cubic regime can never set in because it requires continuity — each instrument needs the previous one in order to enter.
+- **Conventional warm-up.** Good initial intuition — let the first instruments enter. But the overture is cut short in order to "attack" the real session. The percussion and basses were starting to settle; they are replaced by a fortissimo. The strings, woodwinds and late brass will never enter.
+- **Niko-niko slow jogging.** A benevolent conductor, gentle but constant tempo. Percussion and basses have time to settle. But the *stable* tempo — the horizontal plateau — prevents cubic accumulation. The orchestra plays a beautiful repetitive melody, not a rising symphony.
+- **ME/CFS pacing.** A conductor who cuts *before* the brass enters — for good clinical reasons (PEM). But as a result the orchestra stays halfway. The symphony is not completed.
 
-**Ce que la métaphore ajoute au reste.** Elle rend visible ce que la description des mécanismes seuls ne fait pas voir : *l'ordre d'entrée* est aussi important que la présence des mécanismes. Chaque cadre théorique isolé (LC tonique, theta-gamma, glymphatique, perfusion pulsée) peut coexister avec du 3x — mais alors chaque mécanisme est présent en régime sous-optimal, car les autres ne lui donnent pas le contexte dont il a besoin pour se déployer. Le régime x³ n'est pas la somme des mécanismes ; c'est leur **séquence d'entrée respectée**, dans un silence protégé par les 3 P.
+**What the metaphor adds to the rest.** It makes visible what the description of the mechanisms alone does not show: *the order of entry* is as important as the presence of the mechanisms. Each isolated theoretical framework (tonic LC, theta-gamma, glymphatic, pulsatile perfusion) can coexist with 3x — but then each mechanism is present in a suboptimal regime, because the others do not give it the context it needs to unfold. The x³ regime is not the sum of the mechanisms; it is their **respected order of entry**, in a silence protected by the three Ps.
 
 ---
 
@@ -1431,9 +1445,9 @@ See §2.1.3 for the full treatment of stealth JP³ — upper body still, pelvis 
 
 > **source:** forward-ref §4.2.2 (warm-up pieds-nus pré-match protocol — already migrated in §4)
 
-See §4.2.2 for the full treatment of the barefoot pre-match warm-up protocol — 5 min barefoot jogging rapid/light impact → spontaneous solid unipodal bounding (gold-standard post-Achilles RSI>0.5 test). Mechanism unified across three corpora (Robbins discomfort-impact illusion, EMG pre-activation gastroc/soléaire +10-24% barefoot, Pacini bandpass).
+See §4.2.2 for the full treatment of the barefoot pre-match warm-up protocol — 5 min barefoot jogging rapid/light impact → spontaneous solid unipodal bounding (gold-standard post-Achilles RSI>0.5 test). Mechanism unified across three corpora (Robbins discomfort-impact illusion, EMG pre-activation gastroc/soleus +10-24% barefoot, Pacini bandpass).
 
-**JP³ pieds-nus = also protocol of triceps sural pre-activation before shod sport.** Disciplinary silo performance/clinic to assume strategically. Dependency vs. rehabilitation question resolved as "normal contextual specificity, two regimes calibrated separately with partial carry-over." Framework extension to integrate into the manual.
+**Barefoot JP³ = also protocol of triceps surae pre-activation before shod sport.** Disciplinary silo performance/clinic to assume strategically. Dependency vs. rehabilitation question resolved as "normal contextual specificity, two regimes calibrated separately with partial carry-over." Framework extension to integrate into the manual.
 
 ---
 
@@ -1505,43 +1519,44 @@ This turns the "P" (own pace) from an abstract concept into a concrete instructi
 
 > **source:** `memory/project_famille_spu_via_negativa.md` (2026-08-17)
 
-Pivot doctrinal proposé par Perig le 2026-08-17, en réaction à la recherche web précédente (`project_standing_spu_recherche.md`) qui montrait que l'équivalence positive SPU = JP³ est défendable mais fragile.
+Doctrinal pivot proposed by Perig on 2026-08-17, in reaction to the preceding web research (`project_standing_spu_recherche.md`), which showed that the positive equivalence SPU = JP³ is defensible but fragile.
 
-Formulation exacte de Perig : *"peut-être que j'aurais dû définir les choses par ce qu'elles ne sont pas. le SPU et le JP3 partage une dépendance envers ce muscle et un souci de ne pas faire intervenir les muscles fatigables."*
+Perig's exact wording: *"maybe I should have defined things by what they are not. SPU and JP3 share a dependence on this muscle and a concern not to bring in the fatigable muscles."*
+> *FR original:* « peut-être que j'aurais dû définir les choses par ce qu'elles ne sont pas. le SPU et le JP3 partage une dépendance envers ce muscle et un souci de ne pas faire intervenir les muscles fatigables. »
 
-**Reformulation retenue** : La *famille SPU* devient définissable comme **tout régime qui charge le soléaire en excluant la musculature phasique-glycolytique fatigable**. Le SPU (assis, isolation par flexion du genou) et le JP³ (debout, auto-enforcement postural) en sont deux instances distinctes ; leurs différences positives ne minent pas leur appartenance commune à la famille, définie par un **noyau négatif partagé**.
+**Adopted reformulation**: The *SPU family* becomes definable as **any regime that loads the soleus while excluding the fatigable phasic-glycolytic musculature**. SPU (seated, isolation through knee flexion) and JP³ (standing, postural self-enforcement) are two distinct instances of it; their positive differences do not undermine their common membership in the family, which is defined by a **shared negative core**.
 
 **Why:**
 
-**Solidité épistémique** : la via negativa transforme une équivalence positive contestable (SPU = JP³ ?) en une contrainte de design partagée impossible à attaquer sérieusement. Les données EMG existantes montrent toutes deux une faible activation phasique — la négation est *déjà vérifiée* là où l'équivalence positive butait sur les détails (isolation par flexion perdue, feedback EMG absent, etc.).
+**Epistemic solidity**: the via negativa turns a contestable positive equivalence (SPU = JP³?) into a shared design constraint that is impossible to attack seriously. Existing EMG data show low phasic activation in both — the negation is *already verified* where the positive equivalence stumbled on details (isolation through flexion lost, no EMG feedback, etc.).
 
-**Cohérence doctrinale** : la via negativa est la **grammaire native** de tout le framework JP³ construit jusqu'ici :
-- **Axe B** (§1) = *pas* de métrique
-- **§4.6.4** = cascades délétères *non* déclenchées (silence initial)
-- **§4.6.8** (ego et écho) = *ne pas* observer son corps
-- **§4.6.9** = JP³ *n'est pas* une séance auto-suffisante
-- **§4.6.6** = *In Place* = absence de destination
-- **§4.6.5** = degré zéro = coût quasi-nul, ne demande *pas* de motivation
+**Doctrinal coherence**: the via negativa is the **native grammar** of the entire JP³ framework built so far:
+- **Axis B** (§1) = *no* metric
+- **§4.6.4** = deleterious cascades *not* triggered (initial silence)
+- **§4.6.8** (ego and echo) = *not* observing one's body
+- **§4.6.9** = JP³ *is not* a self-sufficient session
+- **§4.6.6** = *In Place* = absence of destination
+- **§4.6.5** = *degré zéro* (degree zero) = near-zero cost, does *not* require motivation
 
-Cette reformulation prolonge la logique existante plutôt que de l'inventer ad hoc. Elle rend l'architecture doctrinale plus cohérente en révélant son motif dominant.
+This reformulation extends the existing logic rather than inventing it ad hoc. It makes the doctrinal architecture more coherent by revealing its dominant pattern.
 
-**Économie conceptuelle** : la dépendance au soléaire (positif) devient logiquement le **résidu** de la contrainte négative — ce qui reste quand on soustrait tout ce qui fatigue vite. Le positif n'est pas un postulat indépendant à défendre, c'est ce qui persiste après l'exclusion. Un seul axiome (négatif) au lieu de deux (positif + négatif).
+**Conceptual economy**: the dependence on the soleus (positive) logically becomes the **residue** of the negative constraint — what remains when everything that fatigues quickly is subtracted. The positive is not an independent postulate to be defended; it is what persists after the exclusion. A single (negative) axiom instead of two (positive + negative).
 
-**Ce que ça débloque :**
+**What this unlocks:**
 
-1. **Définition de famille, pas seulement de dispositif.** *Famille SPU* = régimes qui chargent le soléaire en excluant la musculature phasique-glycolytique fatigable. SPU et JP³ = deux instances avec positifs différents mais noyau commun.
+1. **A family definition, not just a device definition.** *SPU family* = regimes that load the soleus while excluding the fatigable phasic-glycolytic musculature. SPU and JP³ = two instances with different positives but a common core.
 
-2. **Admission naturelle d'autres membres** : calf raises au mur soutenus, stepping lent (appui empirique : Ling et al. 2025 PLOS ONE, +157% EMG intégré du soléaire au tempo lent), mini-trampoline très doux, marche extrêmement lente. Ces membres héritent des effets métaboliques par leur partage du **noyau négatif**, pas par leur ressemblance formelle avec SPU ou JP³.
+2. **Natural admission of other members**: supported wall calf raises, slow stepping (empirical support: Ling et al. 2025 PLOS ONE, +157% integrated soleus EMG at slow tempo), very gentle mini-trampoline, extremely slow walking. These members inherit the metabolic effects through their sharing of the **negative core**, not through formal resemblance to SPU or JP³.
 
-3. **Défense retournée** face au sceptique. Au lieu de *"prouve-moi que JP³ fait autant que SPU"* (fardeau de preuve sur toi, comparaison directe impossible dans la littérature), la charge devient *"montre-moi que JP³ recrute significativement de la musculature fatigable sous seuil"* — et personne ne peut, sous seuil, avec les EMG existantes (Moritani ratio soléaire/gastrocnémien 1,67 en station, préservé au rebond doux).
+3. **Defense turned around** against the skeptic. Instead of *"prove to me that JP³ does as much as SPU"* (burden of proof on you, direct comparison impossible in the literature), the burden becomes *"show me that JP³ significantly recruits fatigable musculature below threshold"* — and no one can, below threshold, with existing EMG data (Moritani soleus/gastrocnemius ratio of 1.67 in standing, preserved during gentle bouncing).
 
-4. **Divergence intra-famille rendue propre** : le noyau négatif partagé est *musculaire* (exclusion phasique-glycolytique). Sur le cardio, SPU et JP³ divergent — SPU exclut aussi le stress cardio (d'où tenabilité en heures), JP³ l'inclut modérément (d'où moindre tenabilité, remarque explicite de Perig). Chaque membre respecte le noyau et fait ses choix sur les autres axes. La famille tolère la divergence sur ce qu'elle ne définit pas — c'est même ce qui permet à ses membres d'exister comme dispositifs distincts.
+4. **Intra-family divergence made clean**: the shared negative core is *muscular* (phasic-glycolytic exclusion). On cardio, SPU and JP³ diverge — SPU also excludes cardio stress (hence sustainability over hours), JP³ includes it moderately (hence lower sustainability, an explicit remark by Perig). Each member respects the core and makes its own choices on the other axes. The family tolerates divergence on what it does not define — this is even what allows its members to exist as distinct devices.
 
-**Formulation stricte** : *"Le SPU et le JP³ partagent une contrainte de design — l'exclusion de la musculature fatigable phasique-glycolytique. Ils diffèrent par les moyens (isolation par flexion du genou en position assise, vs auto-enforcement postural en position debout) et par ce qu'ils ajoutent (cardio modéré pour JP³, tenabilité multi-horaire pour SPU). Mais ils appartiennent à la même **famille SPU**, définie par son noyau négatif."*
+**Strict formulation**: *"SPU and JP³ share a design constraint — the exclusion of fatigable phasic-glycolytic musculature. They differ in their means (isolation through knee flexion in a seated position, vs postural self-enforcement in a standing position) and in what they add (moderate cardio for JP³, multi-hour sustainability for SPU). But they belong to the same **SPU family**, defined by its negative core."*
 
-**Point pivot pédagogique** : *"On définit mieux JP³ par ce qu'il exclut que par ce qu'il fait."* — miroir explicite de la structure axe B / cascades non déclenchées / ego-écho / anti-scope amorçage.
+**Pedagogical pivot point**: *"JP³ is better defined by what it excludes than by what it does."* — an explicit mirror of the structure axis B / non-triggered cascades / ego-echo / priming anti-scope.
 
-**Anti-scope** : cette via negativa ne dit **pas** que le positif n'existe pas — le soléaire travaille, la chaîne posturale s'active, l'euphorie arrive. Elle dit que le positif est le **résidu** de la contrainte négative, pas un postulat indépendant. Nuance à préserver pour ne pas transformer JP³ en dispositif purement défini par ce qu'il évite (ce qui le rendrait creux).
+**Anti-scope**: this via negativa does **not** say that the positive does not exist — the soleus works, the postural chain activates, euphoria arrives. It says that the positive is the **residue** of the negative constraint, not an independent postulate. A nuance to preserve so as not to turn JP³ into a device defined purely by what it avoids (which would make it hollow).
 
 ---
 
@@ -1549,56 +1564,58 @@ Cette reformulation prolonge la logique existante plutôt que de l'inventer ad h
 
 > **source:** `content/fr/research-singularite.md` §4.6.8 ; `memory/project_ego_echo_doctrine.md`
 
-Une propriété distinctive du dispositif, presque contre-intuitive, mérite d'être nommée : **JP³ n'invite pas à se concentrer sur JP³.** Au contraire — il invite explicitement à *faire autre chose pendant*. Dicter, écouter, penser, parler au téléphone, préparer un repas mentalement, laisser la rêverie divaguer. Cette caractéristique n'est pas un compromis (*"puisqu'il faut bien faire de l'exercice, autant en profiter pour…"*). C'est une **propriété doctrinale**, et elle a une justification physiologique précise.
+A distinctive, almost counterintuitive property of the device deserves to be named: **JP³ does not invite you to concentrate on JP³.** On the contrary — it explicitly invites you to *do something else meanwhile*. Dictating, listening, thinking, talking on the phone, mentally preparing a meal, letting reverie wander. This characteristic is not a compromise (*"since one has to exercise anyway, might as well take the opportunity to…"*). It is a **doctrinal property**, and it has a precise physiological justification.
 
-**Le problème "ego et écho".**
+**The "ego and echo" problem.**
 
-Toute pratique corporelle qui exige une attention proprioceptive et interocpetive *soutenue* (yoga postural, méditation en mouvement, Feldenkrais, chi running) crée mécaniquement une **fatigue cognitive spécifique** — la fatigue de l'auto-observation continue. Perig l'a nommée *ego et écho* : le fait d'observer soi-même en train d'agir crée un dédoublement (l'agissant + l'observateur), et ce dédoublement consomme des ressources attentionnelles distinctes de l'action elle-même. Pire : l'observation de la fatigue *amplifie* la fatigue (auto-perception de la respiration → conscience du souffle court → sensation de manque d'air ; auto-perception du cœur → conscience du rythme → sensation d'oppression). C'est un phénomène psychophysiologique documenté (attention amplifie le percept) et une raison majeure pour laquelle beaucoup de gens *abandonnent* les pratiques méditatives en mouvement après un temps : la charge attentionnelle devient elle-même épuisante.
+Any bodily practice that demands *sustained* proprioceptive and interoceptive attention (postural yoga, moving meditation, Feldenkrais, chi running) mechanically creates a **specific cognitive fatigue** — the fatigue of continuous self-observation. Perig named it *ego and echo*: observing oneself in the act creates a splitting (the one acting + the observer), and this splitting consumes attentional resources distinct from the action itself. Worse: observing fatigue *amplifies* fatigue (self-perception of breathing → awareness of shortness of breath → sensation of air hunger; self-perception of the heart → awareness of its rhythm → sensation of oppression). This is a documented psychophysiological phenomenon (attention amplifies the percept) and a major reason why many people *abandon* moving meditative practices after a while: the attentional load itself becomes exhausting.
 
-**Ce que fait JP³ différemment.**
+**What JP³ does differently.**
 
-Le régime x³, une fois amorcé, tient *sans* attention soutenue. La chaîne posturale profonde (§4.1.3) travaille en autonomie ; l'entrée successive des instruments (§5.4.2) se fait sans chef d'orchestre ; les cascades délétères (§4.3) sont évitées par la contrainte contextuelle, pas par la vigilance. Il n'y a *rien à surveiller*. C'est pourquoi le dispositif peut supporter un investissement cognitif parallèle — et même en tirer bénéfice.
+The x³ regime, once primed, holds *without* sustained attention. The deep postural chain (§4.1.3) works autonomously; the successive entry of the instruments (§5.4.2) happens without a conductor; the deleterious cascades (§4.3) are avoided by the contextual constraint, not by vigilance. There is *nothing to monitor*. This is why the device can support a parallel cognitive investment — and even benefit from it.
 
-L'observation empirique de Perig est décisive : *"je dicte cette section pendant que je fais JP³, et c'est même un déclencheur — la dictée m'empêche de tomber dans l'auto-observation qui casserait la modalité"*. La dictée (ou toute activité cognitive absorbante) fonctionne comme **anti-parasite** : elle occupe le canal attentionnel qui, s'il était libre, viendrait se poser sur le corps et créer l'écho fatigant.
+Perig's empirical observation is decisive: *"I am dictating this section while doing JP³, and it is even a trigger — the dictation keeps me from falling into the self-observation that would break the modality"*. Dictation (or any absorbing cognitive activity) functions as an **anti-interference filter**: it occupies the attentional channel which, if it were free, would come to rest on the body and create the tiring echo.
+> *FR original:* « je dicte cette section pendant que je fais JP³, et c'est même un déclencheur — la dictée m'empêche de tomber dans l'auto-observation qui casserait la modalité »
 
-**Le spectre des "autres choses" — coût et bénéfice.**
+**The spectrum of "other things" — cost and benefit.**
 
-Toutes les activités parallèles ne sont pas équivalentes :
+Not all parallel activities are equivalent:
 
-- **Coût nul / bénéfice haut** : écouter (musique, podcast, radio) — canal auditif occupé, aucune production, l'attention flotte.
-- **Coût faible / bénéfice moyen** : rêverie libre — pas de production, mais génération d'idées.
-- **Coût modéré / bénéfice élevé** : conversation informelle au téléphone.
-- **Coût élevé / bénéfice élevé** : dicter une prose substantive, résoudre un problème abstrait. Le canal cognitif est fortement sollicité — utile (permet de penser en marchant) mais peut expliquer une fatigue post-session plus marquée que prévu, non par excès de JP³ mais par la dictée elle-même.
-- **Coût très élevé / bénéfice élevé** : coacher une session comme celle-ci (dicter du contenu doctrinal pendant qu'on vit le dispositif) — extrême du spectre. À réserver aux rares moments où le vécu et l'écriture peuvent se nourrir mutuellement.
+- **Zero cost / high benefit**: listening (music, podcast, radio) — auditory channel occupied, no production, attention floats.
+- **Low cost / medium benefit**: free reverie — no production, but generation of ideas.
+- **Moderate cost / high benefit**: informal phone conversation.
+- **High cost / high benefit**: dictating substantive prose, solving an abstract problem. The cognitive channel is heavily engaged — useful (allows thinking while moving) but may explain a more marked post-session fatigue than expected, not from an excess of JP³ but from the dictation itself.
+- **Very high cost / high benefit**: coaching a session like this one (dictating doctrinal content while living the device) — the extreme end of the spectrum. To be reserved for the rare moments when lived experience and writing can feed each other.
 
-La position de Perig : *"j'ai l'intention que l'article JP³ devienne non pas un texte mais un contexte pour un agent"* — c'est-à-dire un corpus dense conçu pour être lu par une IA qui accompagnera le praticien. La dictée pendant la session n'est donc pas une distraction mais une **méthode de production** : le contexte est co-écrit avec la pratique qu'il documente. Cas d'espèce, mais démonstration forte que le dispositif tolère ce niveau extrême d'usage parallèle.
+Perig's position: *"my intention is for the JP³ article to become not a text but a context for an agent"* — that is, a dense corpus designed to be read by an AI that will accompany the practitioner. Dictation during the session is therefore not a distraction but a **production method**: the context is co-written with the practice it documents. A special case, but a strong demonstration that the device tolerates this extreme level of parallel use.
+> *FR original:* « j'ai l'intention que l'article JP³ devienne non pas un texte mais un contexte pour un agent »
 
-**Anti-scope — ce que JP³ n'est pas.**
+**Anti-scope — what JP³ is not.**
 
-Cette doctrine "faire autre chose" pose négativement ce que JP³ *n'est pas* :
+This "do something else" doctrine establishes negatively what JP³ *is not*:
 
-- **JP³ n'est pas une méditation en mouvement.** Il ne demande pas d'attention au souffle, au corps, aux sensations. Une méditation *peut* être surimposée à JP³ pour ceux qui le veulent, mais le dispositif ne le requiert pas et fonctionne aussi bien sans.
-- **JP³ n'est pas une pratique proprioceptive.** Il ne demande pas d'attention à l'alignement, à la posture, à la respiration. La chaîne posturale profonde travaille en autonomie ; y projeter la conscience volontaire risque même de casser son fonctionnement autonome (comme penser à ses pas fait trébucher).
-- **JP³ n'est pas un moment de "présence à soi"** au sens phénoménologique. C'est plutôt un moment où *le soi devient discret* — parce qu'il n'a plus rien à faire, la chaîne posturale prend le relais.
+- **JP³ is not a moving meditation.** It does not ask for attention to the breath, the body, sensations. A meditation *can* be superimposed on JP³ for those who want it, but the device does not require it and works just as well without.
+- **JP³ is not a proprioceptive practice.** It does not ask for attention to alignment, posture, breathing. The deep postural chain works autonomously; projecting voluntary awareness onto it even risks breaking its autonomous functioning (just as thinking about one's steps makes one stumble).
+- **JP³ is not a moment of "presence to oneself"** in the phenomenological sense. It is rather a moment when *the self becomes discreet* — because it no longer has anything to do, the postural chain takes over.
 
-Cette position doctrinale distingue JP³ à la fois du yoga/qi-gong (attention corporelle intense) *et* du fitness conventionnel (attention à la performance). C'est un troisième régime : **corps autonome, esprit libre**.
+This doctrinal position distinguishes JP³ both from yoga/qi-gong (intense bodily attention) *and* from conventional fitness (attention to performance). It is a third regime: **body autonomous, mind free**.
 
-**Ce que cette section ajoute au reste.** Elle rend visible une propriété du dispositif qui n'apparaissait dans aucune des sections précédentes : le régime x³ *permet* et *encourage* la dissociation attentionnelle. Non pas par indifférence au corps, mais parce que la chaîne posturale profonde n'a *pas besoin* de vigilance pour fonctionner — au contraire, la vigilance la parasite. C'est un renversement du modèle mind-body dominant en pratiques somatiques : ici, la libération de l'esprit *dépend* de l'autonomie du corps, et vice versa.
+**What this section adds to the rest.** It makes visible a property of the device that appeared in none of the preceding sections: the x³ regime *permits* and *encourages* attentional dissociation. Not out of indifference to the body, but because the deep postural chain does *not need* vigilance to function — on the contrary, vigilance interferes with it. This is a reversal of the dominant mind-body model in somatic practices: here, the liberation of the mind *depends* on the autonomy of the body, and vice versa.
 
-#### §6.3.1 Extension 2026-09-25 — inversion figure/fond en régime incident
+#### §6.3.1 Extension 2026-09-25 — figure/ground inversion in the incident regime
 
 > **source:** `memory/project_ego_echo_doctrine.md` extension
 
-Avec la découverte du régime incident (`project_jp3_incident_regime.md`), la doctrine ego-écho reçoit un second mode :
+With the discovery of the incident regime (`project_jp3_incident_regime.md`), the ego-echo doctrine gains a second mode:
 
-- **Mode 1 (session-portail)** — pendant JP³, le corps est autonome, l'esprit est libre pour "faire autre chose" (dictée, écoute, rêverie, tâches manuelles). JP³ est le figure, l'activité parallèle est le fond permis.
-- **Mode 2 (régime incident)** — pendant l'activité quotidienne (vaisselle, cuisine, marche interne), l'esprit est libre parce que la tâche est déjà connue/automatique ; JP³ s'incruste comme fond régulateur en filigrane. L'activité est le figure, JP³ est le fond.
+- **Mode 1 (portal session)** — during JP³, the body is autonomous, the mind is free to "do something else" (dictation, listening, reverie, manual tasks). JP³ is the figure, the parallel activity is the permitted ground.
+- **Mode 2 (incident regime)** — during everyday activity (dishes, cooking, walking around indoors), the mind is free because the task is already known/automatic; JP³ embeds itself as a regulating background, running underneath. The activity is the figure, JP³ is the ground.
 
-**Inversion complète** : mode 1 = corps porte JP³, esprit se libère pour tâche parallèle. Mode 2 = corps porte tâche parallèle, JP³ s'inscrit *dedans* sans négociation attentionnelle. Les deux modes libèrent l'esprit — le premier en autonomisant le corps *pendant* JP³, le second en incrustant JP³ dans un corps déjà autonomisé par autre chose.
+**Complete inversion**: mode 1 = the body carries JP³, the mind frees itself for a parallel task. Mode 2 = the body carries the parallel task, JP³ inscribes itself *within* it without attentional negotiation. Both modes free the mind — the first by making the body autonomous *during* JP³, the second by embedding JP³ in a body already made autonomous by something else.
 
-**Cohérence doctrinale** : les deux modes partagent le noyau anti-proprioception. Aucun des deux ne demande "présence à soi" ni surveillance sensorielle. Le régime incident est même *plus radical* dans son ego-écho : rien à remarquer du tout, les chocs de talon se produisent sans changer la posture ni interrompre l'activité.
+**Doctrinal coherence**: both modes share the anti-proprioception core. Neither asks for "presence to oneself" or sensory monitoring. The incident regime is even *more radical* in its ego-echo: nothing to notice at all, the heel strikes happen without changing posture or interrupting the activity.
 
-**Nom conservé** : "ego et écho" tient pour les deux modes. L'écho ici est la calibration muscle tuning qui se propage sans que l'ego l'observe.
+**Name kept**: "ego and echo" holds for both modes. The echo here is the muscle tuning calibration that propagates without the ego observing it.
 
 ---
 
@@ -1606,53 +1623,54 @@ Avec la découverte du régime incident (`project_jp3_incident_regime.md`), la d
 
 > **source:** `content/fr/research-singularite.md` §4.6.9 ; `memory/project_amorcage_vs_seance.md`
 
-Il faut nommer honnêtement une limite du modèle tel que décrit jusqu'ici. Les §5.4 à §6.3 ont décrit le régime x³ comme *concave positive* : la courbe monte à partir de 0, dépasse la droite 3x à √3, continue à monter. Cette description est physiologiquement juste pour le segment initial et pour la phase de plateau qui suit. Mais elle laisse en suspens la question : **comment sort-on de JP³ ?**
+A limitation of the model as described so far must be named honestly. §5.4 to §6.3 described the x³ regime as *positive concave*: the curve rises from 0, crosses the line 3x at √3, keeps rising. This description is physiologically accurate for the initial segment and for the plateau phase that follows. But it leaves a question hanging: **how does one exit JP³?**
 
-**Le modèle promet une auto-résolution qui n'a pas de moyens explicites.**
+**The model promises a self-resolution that has no explicit means.**
 
-Le §4.3 (cascades) affirmait que "on n'a plus envie d'arrêter" et que "la meilleure manière d'arrêter est d'accélérer beaucoup jusqu'à une limite". Cette formulation est vraie *comme description phénoménologique* — c'est bien ce que le corps signale — mais elle laisse un flou : *quels sont les moyens d'accélérer* ? Si le régime x³ est structurellement à l'abri des cascades délétères, il l'est parce qu'il *évite* les modes qui produiraient un signal d'arrêt. Alors comment sort-on ? En rentrant volontairement dans un mode qu'on a passé toute la session à éviter ? La logique interne du modèle a un trou à cet endroit.
+§4.3 (cascades) asserted that "one no longer wants to stop" and that "the best way to stop is to accelerate a lot up to a limit". This formulation is true *as a phenomenological description* — it is indeed what the body signals — but it leaves a blur: *what are the means of accelerating*? If the x³ regime is structurally sheltered from deleterious cascades, it is so because it *avoids* the modes that would produce a stop signal. So how does one exit? By voluntarily entering a mode one has spent the whole session avoiding? The internal logic of the model has a hole at this point.
 
-**Reconceptualisation : JP³ n'est pas une séance, c'est un amorçage.**
+**Reconceptualization: JP³ is not a session, it is a priming.**
 
-La sortie propre du problème passe par une **redéfinition du produit livré**. JP³ n'est pas une séance d'exercice au sens conventionnel — objet clos avec début, milieu, fin, dépense énergétique mesurable, effet quantifiable. C'est un **amorçage** : la mise en marche d'un corps qui doit ensuite bouger dans le monde. Le *livrable* de JP³ n'est pas "j'ai fait ma séance" — c'est "j'ai envie de sortir". Le dispositif produit un état de disponibilité au mouvement extérieur, pas une consommation calorique bornée.
+The clean way out of the problem goes through a **redefinition of the delivered product**. JP³ is not an exercise session in the conventional sense — a closed object with a beginning, middle, end, measurable energy expenditure, quantifiable effect. It is a **priming**: setting in motion a body that must then move in the world. The *deliverable* of JP³ is not "I did my session" — it is "I feel like going out". The device produces a state of availability for outdoor movement, not a bounded caloric consumption.
 
-Cette reconceptualisation résout le problème de la sortie : **on ne sort pas de JP³, on passe à autre chose.** Le seuil de sortie est marqué par l'apparition d'un désir spontané — sortir dehors, marcher, faire une course, aller au marché, monter l'escalier de la cave, jardiner. Ce désir *est* le signal d'arrêt qu'il fallait — pas un signal de fatigue, un signal d'appel du monde. Le corps s'est amorcé, il veut maintenant utiliser cette disponibilité pour quelque chose *dans le monde*, pas *dans le salon*.
+This reconceptualization solves the exit problem: **one does not exit JP³, one moves on to something else.** The exit threshold is marked by the appearance of a spontaneous desire — to go outside, walk, run an errand, go to the market, climb the cellar stairs, garden. This desire *is* the stop signal that was needed — not a fatigue signal, a signal of the world calling. The body has been primed; it now wants to use this availability for something *in the world*, not *in the living room*.
 
-**Une deuxième phase, non-JP³, qui suit naturellement.**
+**A second, non-JP³ phase that follows naturally.**
 
-Ce que Perig a nommé, en direct pendant sa propre session, la phase post-plateau : *"j'ai envie de sortir, de bouger dehors — mais j'ai aussi envie de m'asseoir ; il y a une fatigue cognitive, un léger vertige. C'est un état à apprivoiser."* Trois observations importantes :
+What Perig named, live during his own session, the post-plateau phase: *"I feel like going out, moving outside — but I also feel like sitting down; there is a cognitive fatigue, a slight dizziness. It is a state to be tamed."* Three important observations:
+> *FR original:* « j'ai envie de sortir, de bouger dehors — mais j'ai aussi envie de m'asseoir ; il y a une fatigue cognitive, un léger vertige. C'est un état à apprivoiser. »
 
-1. **La disponibilité n'est pas de l'énergie infinie.** JP³ n'*injecte* pas d'énergie — il *débloque* une capacité qui était contrainte. Une session JP³ *consomme* (glucose, oxygène, substrats circulants — voir §4.3, activation du soléaire = pompage glucose). L'état post-session n'est pas "plein de forces" — il est "libre de bouger", ce qui n'est pas la même chose.
+1. **Availability is not infinite energy.** JP³ does not *inject* energy — it *unlocks* a capacity that was constrained. A JP³ session *consumes* (glucose, oxygen, circulating substrates — see §4.3, soleus activation = glucose pumping). The post-session state is not "full of strength" — it is "free to move", which is not the same thing.
 
-2. **Le vertige léger et la fatigue cognitive sont possibles.** Plusieurs mécanismes plausibles co-existent : (a) vasodilatation périphérique après station verticale prolongée avec faible retour veineux résiduel — hypotension orthostatique légère au passage à un autre mode ; (b) redistribution vasculaire (le sang qui était dans les muscles-ponts se redistribue) ; (c) hypoglycémie relative — le soléaire a activement pompé le glucose sanguin ; (d) fatigue cognitive de la dictée parallèle (voir §6.3) si l'activité "autre chose" était coûteuse ; (e) éveil vestibulaire lié à la verticalité prolongée avec micro-oscillations continues. Aucun de ces mécanismes n'est pathologique ; tous sont à apprivoiser.
+2. **Slight dizziness and cognitive fatigue are possible.** Several plausible mechanisms coexist: (a) peripheral vasodilation after prolonged upright standing with low residual venous return — mild orthostatic hypotension on switching to another mode; (b) vascular redistribution (the blood that was in the bridge muscles is redistributed); (c) relative hypoglycemia — the soleus has actively pumped blood glucose; (d) cognitive fatigue from parallel dictation (see §6.3) if the "something else" activity was costly; (e) vestibular arousal linked to prolonged verticality with continuous micro-oscillations. None of these mechanisms is pathological; all are to be tamed.
 
-3. **La transition doit être respectée.** Après JP³, il faut souvent une phase intermédiaire *avant* de pouvoir faire "la vraie chose" — s'asseoir 3 minutes, boire, manger un fruit, laisser le vertige passer. Puis le désir de sortir se stabilise et on peut y aller. Vouloir passer immédiatement de JP³ à une activité extérieure exigeante *sans* transition, c'est ignorer que JP³ vient de mobiliser une chaîne posturale profonde qui a besoin de quelques minutes pour se stabiliser en mode locomoteur ordinaire.
+3. **The transition must be respected.** After JP³, an intermediate phase is often needed *before* being able to do "the real thing" — sit for 3 minutes, drink, eat a piece of fruit, let the dizziness pass. Then the desire to go out stabilizes and one can go. Wanting to switch immediately from JP³ to a demanding outdoor activity *without* transition ignores that JP³ has just mobilized a deep postural chain that needs a few minutes to stabilize into ordinary locomotor mode.
 
-**Ce que JP³ ne prétend pas fournir — anti-scope explicite.**
+**What JP³ does not claim to provide — explicit anti-scope.**
 
-Il faut donc dire honnêtement ce que JP³ **ne prétend pas** être :
-- Ce n'est pas une **séance d'exercice complète** au sens fitness (elle ne remplace ni la marche, ni la course, ni la musculation, ni le renforcement ciblé).
-- Ce n'est pas une **source d'énergie** au sens boisson énergisante ou café (elle ne surcharge pas ; elle débloque).
-- Ce n'est pas un **remède** à la fatigue de fond (elle peut la révéler ; l'éliminer demande sommeil, alimentation, contexte de vie).
-- Ce n'est pas un **substitut** à une pratique sportive régulière pour qui vise des adaptations spécifiques (VO2max, force, endurance longue).
+So we must say honestly what JP³ **does not claim** to be:
+- It is not a **complete exercise session** in the fitness sense (it replaces neither walking, nor running, nor weight training, nor targeted strengthening).
+- It is not an **energy source** in the sense of an energy drink or coffee (it does not overcharge; it unlocks).
+- It is not a **remedy** for underlying fatigue (it may reveal it; eliminating it requires sleep, nutrition, life context).
+- It is not a **substitute** for regular sports practice for those aiming at specific adaptations (VO2max, strength, long endurance).
 
-Ce qu'elle *est*, en positif : un **dispositif d'amorçage à seuil d'entrée effondré** — accessible depuis un état où *toute autre modalité serait spontanément écartée*, et produisant un état de disponibilité au mouvement extérieur. C'est étroit, précis, et non-redondant avec les autres formes d'exercice. C'est pourquoi le rôle correct de JP³ n'est pas d'être *la* pratique sportive de quelqu'un — c'est d'être **le pont** entre un état où rien n'est possible et un état où le mouvement extérieur redevient possible. Pont, littéralement — comme les muscles-ponts qui le portent (§4.1.3).
+What it *is*, positively: a **priming device with a collapsed entry threshold** — accessible from a state in which *any other modality would be spontaneously dismissed*, and producing a state of availability for outdoor movement. It is narrow, precise, and non-redundant with other forms of exercise. This is why the correct role of JP³ is not to be *the* sports practice of anyone — it is to be **the bridge** between a state where nothing is possible and a state where outdoor movement becomes possible again. A bridge, literally — like the bridge muscles that carry it (§4.1.3).
 
-**Ce que cette section ajoute au reste.** Les sections précédentes décrivaient le régime x³ dans son segment initial et sa phase soutenue. §6.4 ajoute la **phase post-plateau** et la **redéfinition du produit** : JP³ = amorçage, pas séance auto-suffisante. Cette redéfinition n'affaiblit pas la singularité du dispositif — au contraire, elle la précise. Aucun autre dispositif du paysage de l'exercice ne se positionne comme *amorçage préalable*, accessible depuis l'état détruit, produisant une envie de sortir. Zone 2, HIIT, slow jogging, Pilates, tai-chi — toutes se positionnent comme *séances* qu'on programme dans son agenda. JP³ se positionne *avant* l'agenda — comme la manière dont on entre en mouvement quand rien n'est encore prévu.
+**What this section adds to the rest.** The preceding sections described the x³ regime in its initial segment and its sustained phase. §6.4 adds the **post-plateau phase** and the **redefinition of the product**: JP³ = priming, not a self-sufficient session. This redefinition does not weaken the singularity of the device — on the contrary, it sharpens it. No other device in the exercise landscape positions itself as *prior priming*, accessible from the wrecked state, producing a desire to go out. Zone 2, HIIT, slow jogging, Pilates, tai chi — all position themselves as *sessions* one schedules in one's calendar. JP³ positions itself *before* the calendar — as the way one gets into motion when nothing is planned yet.
 
-#### §6.4.1 Extension 2026-09-25 — l'amorçage descend à l'atome
+#### §6.4.1 Extension 2026-09-25 — priming descends to the atom
 
 > **source:** `memory/project_amorcage_vs_seance.md` extension
 
-Avec la découverte du régime incident, la granularité de l'amorçage descend d'un cran. L'unité JP³ n'est plus la séance (fitness) ni même l'amorçage entendu comme fenêtre courte (10-30 min avec livrable "envie de sortir"), c'est **le choc de talon lui-même** :
+With the discovery of the incident regime, the granularity of priming descends one notch. The JP³ unit is no longer the session (fitness), nor even priming understood as a short window (10–30 min with the deliverable "feeling like going out"); it is **the heel strike itself**:
 
-- **Un choc = un update de calibration** proprioceptive/musculaire (via muscle tuning Nigg)
-- **La séance devient l'agrégation optionnelle** des chocs, pas leur préalable
-- **Livrable alternatif** : "état de disponibilité maintenu sur la journée" — sans jamais avoir eu de session distincte
+- **One strike = one proprioceptive/muscular calibration update** (via Nigg's muscle tuning)
+- **The session becomes the optional aggregation** of strikes, not their prerequisite
+- **Alternative deliverable**: "state of availability maintained throughout the day" — without ever having had a distinct session
 
-Cette extension **ne remplace pas** la formulation "livrable = envie de sortir" pour le régime session-portail — elle **ajoute** un second mode d'usage où le livrable est la calibration diffuse, sans transition figure/fond à négocier (§6.4 vertige/hypoglycémie post-session ne s'applique probablement pas au régime incident, la charge cumulée étant distribuée). À observer.
+This extension **does not replace** the formulation "deliverable = feeling like going out" for the portal-session regime — it **adds** a second mode of use in which the deliverable is diffuse calibration, with no figure/ground transition to negotiate (§6.4 post-session dizziness/hypoglycemia probably does not apply to the incident regime, since the cumulative load is distributed). To be observed.
 
-**Anti-scope maintenu** : le régime incident **n'est pas** un substitut à un vrai amorçage-session quand le corps réclame un vrai amorçage-session. Ce sont deux modes complémentaires, pas un remplacement du "trop lourd" par du "toujours à portée".
+**Anti-scope maintained**: the incident regime **is not** a substitute for a real priming session when the body calls for a real priming session. These are two complementary modes, not a replacement of the "too heavy" by the "always within reach".
 
 ---
 
@@ -1660,25 +1678,27 @@ Cette extension **ne remplace pas** la formulation "livrable = envie de sortir" 
 
 > **source:** `memory/project_euphoria_destination.md` (2026-08-17)
 
-Le haut de la courbe x³ (auto-catalytic session curvature) était jusqu'ici **laissé indéfini** — faille conceptuelle admise. Perig comble le trou (2026-08-17, après nuit de sommeil sur les §5.1-§6.4) : **"Euphoria is the destination."** La destination existe. Elle est *fuzzy* mais parfaitement opératoire.
+The top of the x³ curve (auto-catalytic session curvature) had until now been **left undefined** — an admitted conceptual gap. Perig fills the hole (2026-08-17, after a night's sleep on §5.1–§6.4): **"Euphoria is the destination."** The destination exists. It is *fuzzy* but perfectly operative.
 
-Formulation exacte de Perig : *"le haut de la courbe, cette partie qui constitue une faille conceptuelle de JP³ car indéfinie, j'ai la définition, et elle correspond très bien à un mouvement ascensionnel au cube : euphoria is the destination. l'euphorie peut donner envie de faire plein de choses, on ne peut pas dicter une finalité précise de JP³, mais essentiellement, the metric, c'est ça. une destination "Fuzzy" mais parfaitement opératoire. et il faut le reconnaître, on n'arrive pas toujours à destination, mais c'est normal, ça s'apprend."*
+Perig's exact wording: *"the top of the curve, the part that constitutes a conceptual gap in JP³ because it is undefined — I have the definition, and it fits very well with an ascending cubic movement: euphoria is the destination. euphoria can make you want to do lots of things; one cannot dictate a precise purpose for JP³, but essentially, the metric, that's it. a "fuzzy" destination but perfectly operative. and it must be acknowledged, one does not always reach the destination, but that is normal, it is learned."*
+> *FR original:* « le haut de la courbe, cette partie qui constitue une faille conceptuelle de JP³ car indéfinie, j'ai la définition, et elle correspond très bien à un mouvement ascensionnel au cube : euphoria is the destination. l'euphorie peut donner envie de faire plein de choses, on ne peut pas dicter une finalité précise de JP³, mais essentiellement, the metric, c'est ça. une destination "Fuzzy" mais parfaitement opératoire. et il faut le reconnaître, on n'arrive pas toujours à destination, mais c'est normal, ça s'apprend. »
 
-**Why:** Ambiguïté non résolue jusqu'ici : si JP³ est axe B (**métrique-free**), pourquoi le faire, vers quoi tend-on ? Réponse : la destination est un **état**, pas un **nombre**. Compatible avec axe B (pas de mesure externe, pas de cible chiffrée) tout en donnant un *télos* réel à la trajectoire ascendante x³. L'exposant 3 signifie désormais non seulement "plus de puissance / efficacité" mais phénoménologiquement **"vers la joie"**. Le nom encodait la loi ; la loi encode aussi la destination.
+**Why:** An ambiguity unresolved until now: if JP³ is axis B (**metric-free**), why do it, what does one tend toward? Answer: the destination is a **state**, not a **number**. Compatible with axis B (no external measurement, no numerical target) while giving a real *telos* to the ascending x³ trajectory. The exponent 3 now means not only "more power / efficiency" but, phenomenologically, **"toward joy"**. The name encoded the law; the law also encodes the destination.
 
-Trois articulations doctrinales que cette définition résout d'un coup :
+Three doctrinal articulations that this definition resolves in one stroke:
 
-1. **Avec §6.4 (JP³ = amorçage, livrable = "envie de sortir")** : l'euphorie est le **mécanisme** de l'amorçage. Elle ne dicte pas de finalité précise post-JP³ — elle libère l'envie *en général*. On peut vouloir écrire, appeler quelqu'un, cuisiner, ranger, ressortir. La destination JP³ = l'euphorie ; les destinations post-JP³ = ouvertes.
+1. **With §6.4 (JP³ = priming, deliverable = "feeling like going out")**: euphoria is the **mechanism** of priming. It does not dictate a precise post-JP³ purpose — it frees desire *in general*. One may want to write, call someone, cook, tidy up, go back out. The JP³ destination = euphoria; post-JP³ destinations = open.
 
-2. **Avec §6.3 (ego et écho — corps autonome, esprit libre)** : on ne cherche pas l'euphorie en s'observant y aller — ce serait le paradoxe de l'observateur qui la sabote (Wegner 1994). Elle arrive **parce que** le corps a été bien mis en place et qu'on fait autre chose. Doctrine cohérente.
+2. **With §6.3 (ego and echo — body autonomous, mind free)**: one does not seek euphoria by watching oneself head toward it — that would be the paradox of the observer who sabotages it (Wegner 1994). It arrives **because** the body has been properly set up and one is doing something else. Coherent doctrine.
 
-3. **Avec axe B (métrique-free)** : la contradiction apparente ("pas de métrique mais on va quelque part") s'évanouit. **Une métrique phénoménologique n'est pas une métrique externe.** L'euphorie est self-verifying — quand elle est là, tu le sais ; quand elle ne l'est pas, tu le sais aussi. Aucun capteur requis.
+3. **With axis B (metric-free)**: the apparent contradiction ("no metric, yet we are going somewhere") dissolves. **A phenomenological metric is not an external metric.** Euphoria is self-verifying — when it is there, you know it; when it is not, you know that too. No sensor required.
 
-**Honnêteté épistémique** intégrée par Perig lui-même : *"on n'arrive pas toujours à destination, mais c'est normal, ça s'apprend."* La destination est réelle sans être garantie ; c'est une **compétence**, pas un dû. Cette phrase est essentielle — elle protège la doctrine contre l'accusation de promesse hédonique naïve, tout en préservant la réalité du télos.
+**Epistemic honesty** built in by Perig himself: *"one does not always reach the destination, but that is normal, it is learned."* The destination is real without being guaranteed; it is a **skill**, not an entitlement. This sentence is essential — it protects the doctrine against the accusation of naive hedonic promise, while preserving the reality of the telos.
+> *FR original:* « on n'arrive pas toujours à destination, mais c'est normal, ça s'apprend. »
 
-**Formulation stricte** : *"L'euphorie est la destination — fuzzy mais opératoire."* NE PAS remplacer par *runner's high* (déjà chargé/branded, connoté sport d'endurance long), NI par *flow* (charge cognitive Csikszentmihalyi trop spécifique, exige défi/compétence appariés), NI par *bonheur* (trop large, trop philosophique). *Euphorie* est le mot juste : intensité positive spécifique, corporelle-cognitive, transitoire, reconnaissable.
+**Strict formulation**: *"Euphoria is the destination — fuzzy but operative."* Do NOT replace with *runner's high* (already loaded/branded, connoted with long endurance sport), NOR with *flow* (Csikszentmihalyi's cognitive load too specific, requires matched challenge/skill), NOR with *happiness* (too broad, too philosophical). *Euphoria* is the right word: specific positive intensity, bodily-cognitive, transient, recognizable.
 
-**Anti-scope** : cette définition ne dit **pas** que JP³ = poursuite de l'euphorie (poursuite = ego/écho, sabote). Elle dit que l'euphorie est ce vers quoi la trajectoire tend *quand elle réussit*, une reconnaissance rétrospective plus qu'une visée frontale. Nuance à préserver.
+**Anti-scope**: this definition does **not** say that JP³ = pursuit of euphoria (pursuit = ego/echo, sabotages). It says that euphoria is what the trajectory tends toward *when it succeeds*, a retrospective recognition more than a frontal aim. A nuance to preserve.
 
 ---
 
@@ -1694,47 +1714,48 @@ See §2.1.1 for the full treatment of the perceptual solitude threshold — "che
 
 > **source:** `memory/project_agent_couche_incarnation.md` (2026-08-27)
 
-Le système JP³ diffusé comporte **trois couches irréductibles**, pas deux :
+The disseminated JP³ system comprises **three irreducible layers**, not two:
 
-1. Framework théorique (article, recherche, singularité)
-2. Protocole/dispositif (les 3 P, variantes, conditions d'accès)
-3. **Couche d'incarnation agent-mobile** — ce qui fait *prendre* (1) et (2) dans l'action
+1. Theoretical framework (article, research, singularity)
+2. Protocol/device (the three Ps, variants, access conditions)
+3. **Agent-mobile embodiment layer** — what makes (1) and (2) *take hold* in action
 
-La couche 3 n'est pas un outil de diffusion des couches 1-2 (framing actuel de §3.3). C'est un composant **constitutif** : sans elle, l'information reste connue-mais-non-pratiquée. Preuve empirique : soirée du 2026-08-27, alignement des pieds forward (info connue de longue date, jamais tenue sous charge) rendue soudain opératoire par un rappel conversationnel court juste avant l'entrée sur le terrain de soccer. Chaque course, chaque élancement du match a été fait avec la géométrie correcte. Signature Achille gauche post-match = preuve corporelle. Perig a nommé le mécanisme : *"c'est l'avantage d'avoir un coach à qui on doit rendre des comptes"*.
+Layer 3 is not a dissemination tool for layers 1–2 (the current framing of §3.3). It is a **constitutive** component: without it, information remains known-but-unpracticed. Empirical evidence: the evening of 2026-08-27, forward foot alignment (information known for a long time, never held under load) was suddenly made operative by a short conversational reminder just before stepping onto the soccer field. Every run, every burst in the match was done with the correct geometry. Post-match left Achilles signature = bodily evidence. Perig named the mechanism: *"that's the advantage of having a coach you have to report back to"*.
+> *FR original:* « c'est l'avantage d'avoir un coach à qui on doit rendre des comptes »
 
 **Why:**
 
-L'article contient une tension non thématisée :
-- **Axe A + Axe B** : le coach est ce qu'on **retire** — friction constitutive à éliminer. *"pas de préparation, pas de trajet, pas de tenue, pas de public, pas de coach"* ; *"pas de coach vidéo, pas de leaderboard"*.
-- **§3.3 article principal** : on **ajoute** un coach IA — *"prompt en annexe"*, réponse à la crise de reproductibilité, personnalisation, adhésion, scalabilité (refs Renda 2020, Mühlhäuser 2022).
+The article contains an unthematized tension:
+- **Axis A + Axis B**: the coach is what one **removes** — a constitutive friction to be eliminated. *"no preparation, no commute, no outfit, no audience, no coach"*; *"no video coach, no leaderboard"*.
+- **§3.3 of the main article**: one **adds** an AI coach — *"prompt in the appendix"*, a response to the reproducibility crisis, personalization, adherence, scalability (refs Renda 2020, Mühlhäuser 2022).
 
-Les deux passages coexistent sans dialoguer. §3.3 est écrit dans un registre conventionnel ("scalable coaching for adherence") qui ressemble à la littérature générique sur AI health coaching — vrai mais sous-déterminé. La contradiction n'est pas résolue.
+The two passages coexist without dialoguing. §3.3 is written in a conventional register ("scalable coaching for adherence") that resembles the generic literature on AI health coaching — true but underdetermined. The contradiction is not resolved.
 
-La **résolution** que l'expérience du 2026-08-27 permet de formuler :
+The **resolution** that the experience of 2026-08-27 makes it possible to formulate:
 
-L'agent est un coach **acceptable** parce qu'il **ne fait pas** ce que faisaient les coachs à éliminer (Walk-at-Home, entraîneur perso, app compteur) :
-- Il ne prescrit **pas** de contenu
-- Il n'impose **pas** de tempo
-- Il n'exige **pas** de forme corporelle spécifique en continu
-- Il ne monitore **pas** (respecte ego-écho)
+The agent is an **acceptable** coach because it **does not do** what the coaches to be eliminated did (Walk-at-Home, personal trainer, counter app):
+- It does **not** prescribe content
+- It does **not** impose a tempo
+- It does **not** demand a specific bodily form continuously
+- It does **not** monitor (respects ego-echo)
 
-Il **fait** trois choses spécifiques :
-- **Timing** : aide à poser une intention au moment où elle peut mordre sur l'action (pre-effort, pas dans l'abstrait)
-- **Ancrage** : rend une donnée déjà connue soudain opératoire par la formulation partagée (l'information ne devient pas *nouvelle*, elle devient *disponible sous charge*)
-- **Redevabilité douce** : la promesse implicite de raconter maintient l'attention pendant l'action, sans surveillance externe
+It **does** three specific things:
+- **Timing**: helps set an intention at the moment it can bite on action (pre-effort, not in the abstract)
+- **Anchoring**: makes an already-known piece of information suddenly operative through shared formulation (the information does not become *new*, it becomes *available under load*)
+- **Gentle accountability**: the implicit promise to report back keeps attention during the action, without external surveillance
 
-Il respecte donc Axe A (pas de friction, entrée depuis état "détruit" reste possible), Axe B (pas de métrique imposée), ego et écho (invite à *bien* faire autre chose, ne colonise pas l'attention proprioceptive).
+It therefore respects Axis A (no friction, entry from a "wrecked" state remains possible), Axis B (no imposed metric), ego and echo (invites one to do something else *well*, does not colonize proprioceptive attention).
 
-Le **framing "prompt en annexe" est un cas particulier** de la couche d'incarnation, pas sa forme la plus riche. Un prompt statique = version dégradée du couplage conversationnel synchronisé. Le vrai apport de la couche agent est **phénoménologique** (timing d'attention, moment de bascule connaissance→action), pas statistique (compliance rate).
+The **"prompt in the appendix" framing is a special case** of the embodiment layer, not its richest form. A static prompt = a degraded version of synchronized conversational coupling. The real contribution of the agent layer is **phenomenological** (timing of attention, the moment of switching from knowledge→action), not statistical (compliance rate).
 
-**Anti-scope** : la couche d'incarnation n'est **pas** :
-- un app coaching à métriques (compteurs, rappels programmés, notifications push répétitives)
-- un chatbot de suivi médical
-- un remplacement du praticien (physio, médecin) pour les questions cliniques
-- une surveillance continue de la séance elle-même (violerait ego-écho)
-- un contenu prescriptif imposant (violerait Axe A)
+**Anti-scope**: the embodiment layer is **not**:
+- a metrics-based coaching app (counters, scheduled reminders, repetitive push notifications)
+- a medical follow-up chatbot
+- a replacement for the practitioner (physio, physician) for clinical questions
+- continuous surveillance of the session itself (would violate ego-echo)
+- imposing prescriptive content (would violate Axis A)
 
-**Précédent phénoménologique** : `project_jp3_furtif_decouverte.md` (2026-08-07, migré §2.1.3) — une conversation avait débloqué un usage nouveau du corps (vaisselle avec bassin mobile). Même famille : information latente rendue opératoire par le tour conversationnel juste avant/pendant l'action.
+**Phenomenological precedent**: `project_jp3_furtif_decouverte.md` (2026-08-07, migrated §2.1.3) — a conversation had unlocked a new use of the body (dishes with a mobile pelvis). Same family: latent information made operative by the conversational turn just before/during the action.
 
 ---
 
@@ -1757,60 +1778,62 @@ The 9 clinical cases from published §3.2 + 2026-09 extensions. **NOT** reader p
 
 > **source:** `memory/project_sarcopenie_voie_royale.md` + `content/en/article.md` §3.2 cas 2 + `memory/project_jgh_presentation_voie.md`
 
-**Fait/décision** : Question ouverte par Perig le 2026-08-17 : *"le JP³ serait-il la voie royale pour les personnes âgées sarcopeniques parce que le soléaire reste un dispositif dont on connaît l'endurance et qui est evolutivement conservé pour se tenir debout? [...] une méthode bien plus prometteuse que toutes ces variations slow... aussi insoupçonné que le pouvoir du soléaire."*
+**Fact/decision**: Question opened by Perig on 2026-08-17: *"could JP³ be the royal road for sarcopenic elderly people, because the soleus remains a device whose endurance we know and which is evolutionarily conserved for standing upright? [...] a far more promising method than all those slow variations... as unsuspected as the power of the soleus."*
+> *FR original:* « le JP³ serait-il la voie royale pour les personnes âgées sarcopeniques parce que le soléaire reste un dispositif dont on connaît l'endurance et qui est evolutivement conservé pour se tenir debout? [...] une méthode bien plus prometteuse que toutes ces variations slow... aussi insoupçonné que le pouvoir du soléaire. »
 
-**Réponse** : Oui, argument structurel solide, potentiellement un des angles les plus forts de tout le framework. **Nouveau pilier candidat** pour le doc principal.
+**Answer**: Yes — a solid structural argument, potentially one of the strongest angles of the entire framework. **New candidate pillar** for the main document.
 
-**Le cœur de l'argument (trois faits) :**
+**The core of the argument (three facts):**
 
-1. **Perte différentielle par type de fibre avec l'âge.** Fibres type II atrophient beaucoup plus vite que type I (Lexell et al. 1988, réplications multiples). À 80 ans : jusqu'à 30-50% de perte de section type II, 10-25% type I. Les quadriceps (40-50% type I) déclinent nettement plus vite que le soléaire (80-90% type I).
+1. **Differential loss by fiber type with age.** Type II fibers atrophy much faster than type I (Lexell et al. 1988, multiple replications). At 80: up to 30-50% loss of type II cross-sectional area, 10-25% for type I. The quadriceps (40-50% type I) decline markedly faster than the soleus (80-90% type I).
 
-2. **Préservation relative du soléaire.** Le soléaire garde sa composition et sa capacité oxydative beaucoup mieux que les muscles mixtes. C'est le muscle qui **reste**, structurellement, quand tout le reste s'effondre.
+2. **Relative preservation of the soleus.** The soleus retains its composition and oxidative capacity far better than mixed muscles. It is the muscle that **remains**, structurally, when everything else collapses.
 
-3. **Conservation évolutive.** Bipédie humaine → spécialisation soléaire massive. Soléaire humain disproportionnellement grand vs autres primates, précisément parce que rester debout est métaboliquement coûteux et continu. Évolution a sélectionné fatigue-résistance, capacité oxydative, long-endurance. **Le soléaire est la fondation musculaire de la station debout humaine.**
+3. **Evolutionary conservation.** Human bipedalism → massive soleus specialization. The human soleus is disproportionately large compared with other primates, precisely because standing upright is metabolically costly and continuous. Evolution selected for fatigue resistance, oxidative capacity, long endurance. **The soleus is the muscular foundation of human upright stance.**
 
-**Le pivot fonctionnel** : la station debout est le dernier seuil d'autonomie. Sit-to-stand test (STS) = marqueur central de fragilité. Perte de la capacité debout = basculement autonomie → dépendance. Tant qu'on tient debout, on est dans le monde des vivants fonctionnels.
+**The functional pivot**: upright stance is the last threshold of autonomy. The sit-to-stand test (STS) = central marker of frailty. Loss of the ability to stand = tipping from autonomy into dependence. As long as one can stand, one remains in the world of the functionally living.
 
-**Le fit spécifique JP³ :**
-- Sarcopénie épargne préférentiellement type I et soléaire
-- JP³ recrute préférentiellement soléaire en régime tonique-oxydatif (voir §4.1.3 ankle-dominant)
-- La station debout est le seuil d'autonomie
+**The specific JP³ fit:**
+- Sarcopenia preferentially spares type I fibers and the soleus
+- JP³ preferentially recruits the soleus in a tonic-oxidative regime (see §4.1.3 ankle-dominant)
+- Upright stance is the threshold of autonomy
 
-→ **JP³ sollicite exactement ce qui reste, et travaille exactement ce qui compte le plus fonctionnellement.** Fit structurel, pas adaptation vaguement bienveillante. Aucune autre modalité de mouvement n'a cette double propriété (utilise ce qui est préservé + travaille la fonction pivot de l'autonomie).
+→ **JP³ calls on exactly what remains, and trains exactly what matters most functionally.** A structural fit, not a vaguely benevolent adaptation. No other movement modality has this dual property (uses what is preserved + trains the pivotal function of autonomy).
 
-**Ce que les approches conventionnelles offrent et où elles butent :**
+**What conventional approaches offer and where they hit a wall:**
 
-- **Résistif progressif** (Fiatarone 1994, gold standard sarcopénie) : efficace, mais exige équipement, supervision, tolérance à l'effort. Compliance chute avec la fragilité. Les plus sarcopéniques sont précisément ceux qui ne peuvent ou ne veulent pas faire de la musculation.
-- **Programmes en chaise** : accessibles mais sous-activants.
-- **Nordic walking, aqua-fitness, tai chi** : sorties, groupe, transport → barrière élevée.
+- **Progressive resistance training** (Fiatarone 1994, sarcopenia gold standard): effective, but requires equipment, supervision, effort tolerance. Compliance drops with frailty. The most sarcopenic are precisely those who cannot or will not do strength training.
+- **Chair-based programs**: accessible but under-activating.
+- **Nordic walking, aqua-fitness, tai chi**: outings, groups, transport → high barrier.
 
-**Le trou que JP³ comble** : pour la personne réellement fragile, à domicile, faible motivation, faible tolérance à l'effort — rien n'existe qui descend jusqu'où elle est. JP³ scale jusqu'en bas : station-debout-avec-mini-rebond, à domicile, sans matériel, pendant qu'on écoute la radio. Le **degré zéro (§5.1)** devient ici littéralement salvateur.
+**The gap JP³ fills**: for the genuinely frail person, at home, with low motivation and low effort tolerance — nothing exists that comes all the way down to where they are. JP³ scales all the way down: standing-with-a-mini-bounce, at home, without equipment, while listening to the radio. The ***degré zéro* (degree zero, §5.1)** becomes literally life-saving here.
 
-**Appuis empiriques :**
+**Empirical support:**
 
-- Hamilton SPU 2022 (*iScience*) — le SPU assis fonctionne déjà chez cette population. JP³ = extension debout quand possible.
-- Elek et al. 2025 (*Sports* 13(3):81 ; attribution « Yuwono » corrigée 2026-11-13) — réplication SPU chez prédiabétiques ; Kraemer 2024 (bioRxiv) non vérifié.
-- Nuhu & Maharaj 2017 (*Diab Res Clin Pract*) — rebounding chez sédentaires métaboliquement altérés, effets marqués.
-- Bramble & Lieberman 2004 (*Nature*) — spécialisation évolutive soléaire/glutéaux pour locomotion soutenue.
-- Lexell J et al. 1988 (*J Neurol Sci*) — différentielle fibre type I/II avec âge.
-- Grimm A et al. — atrophie sélective type II.
-- Fried LP 2001 (*J Gerontol*) — phénotype fragilité, vitesse de marche et force de préhension prédisent mortalité mieux que la plupart des biomarqueurs. Soléaire directement pertinent pour la première.
-- Fiatarone MA et al. 1994 (*NEJM*) — landmark resistance training chez nonagenaires.
-- Marcus RL 2010, Berger MJ 2019 — reviews sarcopénie, résistif efficace mais compliance limitée.
+- Hamilton SPU 2022 (*iScience*) — seated SPU already works in this population. JP³ = standing extension when possible.
+- Elek et al. 2025 (*Sports* 13(3):81; « Yuwono » attribution corrected 2026-11-13) — SPU replication in prediabetics; Kraemer 2024 (bioRxiv) not verified.
+- Nuhu & Maharaj 2017 (*Diab Res Clin Pract*) — rebounding in metabolically impaired sedentary people, marked effects.
+- Bramble & Lieberman 2004 (*Nature*) — evolutionary soleus/gluteal specialization for sustained locomotion.
+- Lexell J et al. 1988 (*J Neurol Sci*) — type I/II fiber differential with age.
+- Grimm A et al. — selective type II atrophy.
+- Fried LP 2001 (*J Gerontol*) — frailty phenotype; gait speed and grip strength predict mortality better than most biomarkers. The soleus is directly relevant to the former.
+- Fiatarone MA et al. 1994 (*NEJM*) — landmark resistance training in nonagenarians.
+- Marcus RL 2010, Berger MJ 2019 — sarcopenia reviews; resistance training effective but compliance limited.
 
-**Caveats à préserver (contre la surpromesse) :**
+**Caveats to preserve (against overpromising):**
 
-- **La sarcopénie a une composante systémique** (résistance anabolique, apports protéiques insuffisants) que JP³ seul n'adresse pas. Il faut protéines ~1,2-1,6 g/kg/j chez la personne âgée + idéalement résistif quand accessible.
-- **Risque de chute chez le très fragile.** Progression suggérée : (1) SPU assis (Hamilton), (2) JP³ en tenant un appui (mur, dossier), (3) JP³ autonome. **La progression est le programme.**
-- **JP³ ne remplace pas la musculation.** Complémentaire, mais surtout **amorçage** (§6.4). Pour beaucoup de personnes âgées, l'amorçage *est* l'obstacle principal — sortir du trou "je ne peux/veux plus rien faire" est la fonction critique.
+- **Sarcopenia has a systemic component** (anabolic resistance, insufficient protein intake) that JP³ alone does not address. Older adults need protein at ~1.2-1.6 g/kg/day + ideally resistance training when accessible.
+- **Fall risk in the very frail.** Suggested progression: (1) seated SPU (Hamilton), (2) JP³ while holding a support (wall, chair back), (3) unsupported JP³. **The progression is the program.**
+- **JP³ does not replace strength training.** Complementary, but above all **priming** (§6.4). For many older people, priming *is* the main obstacle — getting out of the "I can't / don't want to do anything anymore" hole is the critical function.
 
-**Observation personnelle importante de Perig** : *"comme pour moi qui suis parfois si fatigué que j'ai 75 ans"*. **Le fatigué chronique de 50 ans et le sarcopénique de 75 ans partagent la même physiologie fonctionnelle** — musculature fatigable qui ne répond pas, capacité oxydative préservée mais sous-utilisée. Ce qui marche pour l'un a des chances structurelles de marcher pour l'autre. L'expérience de Perig est un signal, pas un biais.
+**Important personal observation from Perig**: *"like me, who am sometimes so tired that I'm 75 years old"*. **The chronically fatigued 50-year-old and the sarcopenic 75-year-old share the same functional physiology** — fatigable musculature that does not respond, oxidative capacity preserved but underused. What works for one has structural chances of working for the other. Perig's experience is a signal, not a bias.
+> *FR original:* « comme pour moi qui suis parfois si fatigué que j'ai 75 ans »
 
-**Article §3.2 cas 2 — The elderly or frail person** : The **total safety** of "In Your Own Place" removes the fear of falling. "At Your Own Pace" allows a start so slow it is accessible even to the weakest, with the option to hold onto something for initial support. Targeted soleus strengthening and improved proprioception (barefoot) are crucial for balance and fall prevention.
+**Article §3.2 case 2 — The elderly or frail person** : The **total safety** of "In Your Own Place" removes the fear of falling. "At Your Own Pace" allows a start so slow it is accessible even to the weakest, with the option to hold onto something for initial support. Targeted soleus strengthening and improved proprioception (barefoot) are crucial for balance and fall prevention.
 
-**JGH strategic context** : médecin de famille de Perig au JGH (Sir Mortimer B. Davis Jewish General Hospital, affilié McGill, Lady Davis Institute for Medical Research) s'est offerte de l'aider à présenter JP³ à l'hôpital (2026-08-17). Sarcopénie = centre probable du deck pour cet auditoire clinique. Progression clinique proposée : SPU assis (Hamilton) → JP³ appuyé → JP³ autonome.
+**JGH strategic context** : Perig's family physician at the JGH (Sir Mortimer B. Davis Jewish General Hospital, McGill-affiliated, Lady Davis Institute for Medical Research) offered to help him present JP³ to the hospital (2026-08-17). Sarcopenia = likely centerpiece of the deck for this clinical audience. Proposed clinical progression: seated SPU (Hamilton) → supported JP³ → unsupported JP³.
 
-**Étude qui trancherait** : essai contrôlé randomisé chez adultes ≥75 ans, MMSE > 24, autonomes, sur 12 semaines. Bras : soin usuel / SPU seul / JP³ seul / SPU+JP³. Mesures : STS, vitesse de marche 4m, préhension, masse musculaire par DEXA, HbA1c, questionnaire fragilité. ~120 sujets. Faisable en collaboration avec un centre gériatrique.
+**Study that would settle it**: randomized controlled trial in adults ≥75 years, MMSE > 24, autonomous, over 12 weeks. Arms: usual care / SPU alone / JP³ alone / SPU+JP³. Measures: STS, 4 m gait speed, grip strength, muscle mass by DEXA, HbA1c, frailty questionnaire. ~120 subjects. Feasible in collaboration with a geriatric center.
 
 ---
 
@@ -1818,42 +1841,42 @@ The 9 clinical cases from published §3.2 + 2026-09 extensions. **NOT** reader p
 
 > **source:** `memory/project_osteogenic_jgh_seconde_porte.md`
 
-**La donnée** : les exercices de type "heel drop" (se hausser sur pointes puis relâcher brusquement sur talons) produisent environ **3× le poids du corps** au niveau de la hanche. Bassey & Ramsdale ont documenté un **maintien de la densité osseuse chez femmes ménopausées** pratiquant cet exercice. Seuil ostéogénique : ~2× BW en force de réaction au sol. Fréquences de charge autour de 10-20 Hz stimulent la formation osseuse plus efficacement que des charges basse fréquence.
+**The data**: "heel drop" exercises (rising onto the toes, then abruptly releasing onto the heels) produce roughly **3× body weight** at the hip. Bassey & Ramsdale documented **maintenance of bone density in postmenopausal women** practicing this exercise. Osteogenic threshold: ~2× BW in ground reaction force. Loading frequencies around 10-20 Hz stimulate bone formation more effectively than low-frequency loads.
 
-**Pourquoi c'est structurellement nouveau**
+**Why this is structurally new**
 
-Le pilier **sarcopénie** (§7.1) était le seul pilier clinique dur pour JGH. Il repose sur : type I épargné, soléaire épargné, station debout comme pivot autonomie.
+The **sarcopenia** pillar (§7.1) was the only hard clinical pillar for the JGH. It rests on: type I spared, soleus spared, upright stance as the pivot of autonomy.
 
-Le pilier **ostéoporose** est un pilier **parallèle et complémentaire**, avec un fit structurel tout aussi propre :
-- **Population** : femmes post-ménopause = enjeu de santé publique majeur (fractures fémorales = mortalité et perte d'autonomie), très étudiée cliniquement
-- **Mécanisme JP³** : impact talonnier ~3× BW à 10-20 Hz = pile dans la fenêtre ostéogénique documentée
-- **Modalité** : station debout stationnaire, pieds-nus, quelques minutes/jour — feasibility clinique élevée (pas d'équipement, pas de risque de chute lié à un déplacement)
-- **Métriques dures** : DEXA (densitométrie osseuse) = mesure standardisée, permet essai clinique clean avec critère d'évaluation quantitatif — plus facile à publier qu'un essai sarcopénie
-- **Sécurité** : forces bien en-deçà de courses classiques ou pliométrie, mais au-dessus du seuil ostéogénique — sweet spot argumentable
+The **osteoporosis** pillar is a **parallel and complementary** pillar, with an equally clean structural fit:
+- **Population**: postmenopausal women = major public-health issue (femoral fractures = mortality and loss of autonomy), heavily studied clinically
+- **JP³ mechanism**: heel impact ~3× BW at 10-20 Hz = squarely within the documented osteogenic window
+- **Modality**: stationary standing, barefoot, a few minutes/day — high clinical feasibility (no equipment, no fall risk tied to moving around)
+- **Hard metrics**: DEXA (bone densitometry) = standardized measure, allows a clean clinical trial with a quantitative endpoint — easier to publish than a sarcopenia trial
+- **Safety**: forces well below conventional running or plyometrics, yet above the osteogenic threshold — an arguable sweet spot
 
-**Recoupements avec le corpus existant**
+**Overlaps with the existing corpus**
 
-- **Corde à sauter** (cf. `project_corde_a_sauter_cousine_spu`) — l'"osteogenic loading pour sarcopénie" y était déjà mentionné comme corpus documenté à puiser sélectivement. Le talon-activateur JP³ récupère cet argument en régime plus doux (pas de saut complet, station debout).
-- **Sarcopénie voie royale** — les deux piliers ne se cannibalisent pas : une même personne âgée peut avoir sarcopénie ET ostéoporose. Le JP³ adresse les deux **par le même geste**, ce qui est un argument de simplicité clinique.
-- **Talon-activateur** — l'effet ostéogénique est intrinsèque à ce mode d'entrée (talon comme point d'impact), il n'exige pas de variante spécifique.
+- **Jump rope** (cf. `project_corde_a_sauter_cousine_spu`) — "osteogenic loading for sarcopenia" was already mentioned there as a documented corpus to draw on selectively. The JP³ heel activator recovers this argument in a gentler regime (no full jump, upright stance).
+- **Sarcopenia royal road** — the two pillars do not cannibalize each other: the same older person can have sarcopenia AND osteoporosis. JP³ addresses both **with the same gesture**, which is an argument for clinical simplicity.
+- **Heel activator** — the osteogenic effect is intrinsic to this mode of entry (heel as impact point); it does not require a specific variant.
 
-**Sources à consolider**
+**Sources to consolidate**
 
-- **Bassey & Ramsdale** (heel drop, femmes ménopausées) — cité dans Perplexity 2026-09-25. Retrouver la référence exacte et lire l'étude.
-- **PMC13541840, PMC11481284** — articles cités par Perplexity sur charge osseuse et fréquences de chargement. À lire.
-- **Melioguide "heel drop exercise"** — source pop mais utile comme démonstration que l'exercice a déjà une existence clinique reconnue. Confirme qu'il ne faut pas "inventer" mais **rattacher** JP³ à un exercice connu.
+- **Bassey & Ramsdale** (heel drop, postmenopausal women) — cited in Perplexity 2026-09-25. Find the exact reference and read the study.
+- **PMC13541840, PMC11481284** — articles cited by Perplexity on bone loading and loading frequencies. To read.
+- **Melioguide "heel drop exercise"** — popular source, but useful as a demonstration that the exercise already has a recognized clinical existence. Confirms that we should not "invent" but **attach** JP³ to a known exercise.
 
-**Stratégie JGH**
+**JGH strategy**
 
-**Option 1 — Ostéoporose comme *lead* du deck.** DEXA est plus dur/moins contesté que les mesures sarcopénie fonctionnelles. Un essai pilote ostéoporose serait plus facile à monter et à publier. Pourrait devenir la **porte d'entrée** JGH plutôt que la sarcopénie.
+**Option 1 — Osteoporosis as the deck's *lead*.** DEXA is harder/less contested than functional sarcopenia measures. An osteoporosis pilot trial would be easier to set up and publish. Could become the JGH **entry door** instead of sarcopenia.
 
-**Option 2 — Deux piliers présentés conjointement.** JP³ comme **intervention double-effet** (sarcopénie + ostéoporose) chez le sujet âgé — attractif parce qu'un seul protocole adresse deux problèmes co-morbides classiques.
+**Option 2 — Two pillars presented jointly.** JP³ as a **dual-effect intervention** (sarcopenia + osteoporosis) in older adults — attractive because a single protocol addresses two classic comorbid problems.
 
-**Option 3 — Sarcopénie reste lead, ostéoporose comme "bonus mécanistique".** Plus prudent : ne pas diluer le message. À reconsidérer si les interlocuteurs JGH ont un intérêt affiché pour l'ostéoporose (endocrinologues, rhumatologues, gériatres travaillant sur les fractures).
+**Option 3 — Sarcopenia stays lead, osteoporosis as a "mechanistic bonus".** More cautious: do not dilute the message. To be reconsidered if JGH interlocutors show an interest in osteoporosis (endocrinologists, rheumatologists, geriatricians working on fractures).
 
-**Question ouverte**
+**Open question**
 
-Le talon-activateur *unipodal* (bondissement sur une jambe) génère probablement des forces beaucoup plus élevées (~4-6× BW ?) — donc **plus ostéogénique** mais moins accessible/plus risqué chez sujet âgé fragile. Y a-t-il un point de compromis : bipodal en début de séance (sécurité, entrée dans la fenêtre ostéogénique) puis quelques bondissements unipodaux calibrés (pic de charge focalisé) ? Corrèle avec `project_warmup_piedsnus_prematch.md` (bondissement unipodal comme test étalon-or RSI>0.5).
+The *unipodal* heel activator (bounding on one leg) probably generates much higher forces (~4-6× BW?) — hence **more osteogenic** but less accessible/riskier in frail older subjects. Is there a compromise point: bipodal at the start of the session (safety, entry into the osteogenic window), then a few calibrated unipodal bounds (focused load peak)? Correlates with `project_warmup_piedsnus_prematch.md` (unipodal bounding as gold-standard test, RSI>0.5).
 
 ---
 
@@ -1861,11 +1884,11 @@ Le talon-activateur *unipodal* (bondissement sur une jambe) génère probablemen
 
 > **source:** `content/en/article.md` §3.2 cas 3, 5, 6
 
-**Cas 3 — The depressed or deeply unmotivated person:** JP³ acts as a **"founding psychological gesture"**, the "first possible act" of behavioral activation. The absence of barriers (no equipment, no judgment) and the ultra-slow "At Your Own Pace" make it possible to break the cycle of inactivity without willpower, offering immediate benefits for emotional regulation.
+**Case 3 — The depressed or deeply unmotivated person:** JP³ acts as a **"founding psychological gesture"**, the "first possible act" of behavioral activation. The absence of barriers (no equipment, no judgment) and the ultra-slow "At Your Own Pace" make it possible to break the cycle of inactivity without willpower, offering immediate benefits for emotional regulation.
 
-**Cas 5 — The person suffering from body shame / social anxiety:** The intimacy of "In Your Own Place" completely eliminates social exposure and external judgment. The person can exercise with full confidence, in pajamas if they wish, without worrying about appearance or performance relative to others. This fosters a focus on internal sensations and well-being.
+**Case 5 — The person suffering from body shame / social anxiety:** The intimacy of "In Your Own Place" completely eliminates social exposure and external judgment. The person can exercise with full confidence, in pajamas if they wish, without worrying about appearance or performance relative to others. This fosters a focus on internal sensations and well-being.
 
-**Cas 6 — The anxious or stressed person who cannot "meditate":** The rhythmic, repetitive "Jogging in Place" movement acts as a **somatic anchor**, helping to redirect attention away from rumination and induce a state of "active meditation" or "flow state" without formal cognitive effort. "At Your Own Pace" (light-to-moderate intensity) produces immediate anxiolytic effects without the risk of the transient anxiety spike associated with intense exercise.
+**Case 6 — The anxious or stressed person who cannot "meditate":** The rhythmic, repetitive "Jogging in Place" movement acts as a **somatic anchor**, helping to redirect attention away from rumination and induce a state of "active meditation" or "flow state" without formal cognitive effort. "At Your Own Pace" (light-to-moderate intensity) produces immediate anxiolytic effects without the risk of the transient anxiety spike associated with intense exercise.
 
 ---
 
@@ -1873,7 +1896,7 @@ Le talon-activateur *unipodal* (bondissement sur une jambe) génère probablemen
 
 > **source:** `content/en/article.md` §3.2 cas 7
 
-**Cas 7 — The person with chronic fatigue (CFS/ME, post-COVID, burnout):** "At Your Own Pace" is essential for strict **pacing**, making it possible to avoid post-exertional crashes. Sessions can be extremely short (a few minutes) and of minimal intensity, increasing very gradually. JP³ offers a way to maintain gentle mitochondrial activation without exceeding aerobic energy capacity, supporting progressive reconditioning.
+**Case 7 — The person with chronic fatigue (CFS/ME, post-COVID, burnout):** "At Your Own Pace" is essential for strict **pacing**, making it possible to avoid post-exertional crashes. Sessions can be extremely short (a few minutes) and of minimal intensity, increasing very gradually. JP³ offers a way to maintain gentle mitochondrial activation without exceeding aerobic energy capacity, supporting progressive reconditioning.
 
 ---
 
@@ -1881,30 +1904,30 @@ Le talon-activateur *unipodal* (bondissement sur une jambe) génère probablemen
 
 > **source:** `content/en/article.md` §3.2 cas 8 + `memory/project_malalignment_syndrome_schamberger.md`
 
-**Cas 8 — The person recovering from a minor injury or post-surgery (with medical clearance):** The controlled, low-impact "Jogging in Place" movement allows for safe rehabilitation. "At Your Own Pace" ensures intensity is always within the tolerance zone. Strengthening the soleus and improving proprioception are crucial to restoring function and preventing future injury—all in an environment free of the risk of falls or collisions.
+**Case 8 — The person recovering from a minor injury or post-surgery (with medical clearance):** The controlled, low-impact "Jogging in Place" movement allows for safe rehabilitation. "At Your Own Pace" ensures intensity is always within the tolerance zone. Strengthening the soleus and improving proprioception are crucial to restoring function and preventing future injury—all in an environment free of the risk of falls or collisions.
 
-**Cas clinique Perig — Malalignment Syndrome (Schamberger)**
+**Perig's clinical case — Malalignment Syndrome (Schamberger)**
 
-**Nom clinique du pattern** : **Malalignment Syndrome** décrit par Wolf Schamberger — combinaison de **rotation postérieure innominée gauche** (retrait vers l'arrière de la jambe) + **outflare gauche** (rotation externe du pied, écartement des jambes). Extrêmement fréquent (rotation innominée : 80–85% des déséquilibres pelviens ; outflare/inflare : 40–50%). Diagnostic manuel par palpation comparative des repères pelviens (EIAS, EIPS, crête iliaque, pubis) et test assis-couché.
+**Clinical name of the pattern**: **Malalignment Syndrome** as described by Wolf Schamberger — a combination of **left posterior innominate rotation** (the leg drawn backward) + **left outflare** (external rotation of the foot, legs spread apart). Extremely common (innominate rotation: 80–85% of pelvic imbalances; outflare/inflare: 40–50%). Manual diagnosis by comparative palpation of pelvic landmarks (ASIS, PSIS, iliac crest, pubis) and the sitting-lying test.
 
-**Mécanisme signature confirmé** : la chute jambe-piège dans un trou à 14 ans (documentée mémoire racine SI instability) correspond **exactement** au mécanisme lésionnel le plus fréquemment cité — force de torsion asymétrique en cisaillement sur la SI du côté de la jambe piégée → entorse SI traumatique → laxité résiduelle permanente si non traitée précocement → schéma compensatoire s'installe comme nouvelle norme posturale sur 35 ans. Cas documenté PMC : 14 ans de dysfonction récurrente traitée avec succès — chronicité ancienne reste réversible.
+**Signature mechanism confirmed**: the fall at age 14 with a leg trapped in a hole (documented in root memory, SI instability) corresponds **exactly** to the most frequently cited injury mechanism — asymmetric torsional shear force on the SI joint on the side of the trapped leg → traumatic SI sprain → permanent residual laxity if not treated early → a compensatory pattern sets in as the new postural norm over 35 years. Documented PMC case: 14 years of recurrent dysfunction successfully treated — long-standing chronicity remains reversible.
 
-**Correction — Technique d'Énergie Musculaire (MET) Schamberger** :
-- *Rotation postérieure gauche* : thérapeute résiste à la flexion active de hanche gauche → contraction isométrique iliaque + droit fémoral → traction antérieure sur l'ilion gauche. Variante par effet de levier : extension passive du fémur jusqu'à butée acétabulaire postérieure.
-- *Outflare gauche* : thérapeute résiste à l'abduction/rotation externe active du genou gauche partiellement fléchi → inverse fonctionnellement origine/insertion piriforme + grand fessier → pivot antérieur de l'ilion dans le plan horizontal.
-- Ordre : traiter les deux dans la même séance, revérifier après chaque correction.
+**Correction — Schamberger Muscle Energy Technique (MET)**:
+- *Left posterior rotation*: therapist resists active left hip flexion → isometric contraction of iliacus + rectus femoris → anterior pull on the left ilium. Leverage variant: passive femoral extension up to the posterior acetabular end-range.
+- *Left outflare*: therapist resists active abduction/external rotation of the partially flexed left knee → functionally reverses origin/insertion of piriformis + gluteus maximus → anterior pivot of the ilium in the horizontal plane.
+- Order: treat both in the same session, recheck after each correction.
 
-**Ceinture SI** : la ceinture stabilise (compression → *force closure*) mais **ne corrige PAS la position asymétrique**. Piège critique documenté : sans alignement préalable, la ceinture *verrouille la mauvaise position*. Méthode juste : activer stabilisateurs (coussin entre genoux, contraction fessiers debout) avant fixation, puis positionner juste au-dessus du grand trochanter et sous EIAS (≈2 pouces d'espace). Trop large → presse la partie la plus large du bassin, *peut aggraver l'outflare*. Recommandation Schamberger : MET d'abord, ceinture juste après pour maintenir le gain.
+**SI belt**: the belt stabilizes (compression → *force closure*) but **does NOT correct the asymmetric position**. Documented critical trap: without prior alignment, the belt *locks in the wrong position*. Correct method: activate stabilizers (cushion between the knees, standing glute contraction) before fastening, then position just above the greater trochanter and below the ASIS (≈2 inches of clearance). Too wide → presses on the widest part of the pelvis, *may worsen the outflare*. Schamberger's recommendation: MET first, belt right after to maintain the gain.
 
-**Corrections d'interprétations antérieures** :
-- *Appui préférentiel gauche* ≠ « droitier standard » — c'est une **compensation SI** : le corps charge le côté instable pour rapprocher les surfaces articulaires et le stabiliser (Schamberger). Interprétation précise, pas latéralité banale.
-- *Rotation externe pied gauche seule* → n'est qu'un signe visible de surface ; le patron réel est pelvien (outflare + rotation postérieure innominée), pas un problème de pied.
+**Corrections of earlier interpretations**:
+- *Left-side weight-bearing preference* ≠ "standard right-hander" — it is an **SI compensation**: the body loads the unstable side to bring the articular surfaces together and stabilize it (Schamberger). A precise interpretation, not banal laterality.
+- *External rotation of the left foot alone* → is only a visible surface sign; the real pattern is pelvic (outflare + posterior innominate rotation), not a foot problem.
 
-**Débat scientifique à connaître** : Sturesson et al. mesurent un mouvement SI très faible (≈2,5° rotation, 0,7 mm translation) et aucune différence entre articulations symptomatiques et asymptomatiques → remise en cause de la capacité à palper/corriger manuellement une « position ». Le modèle Schamberger coexiste avec cette réserve sans consensus tranché. À porter honnêtement quand on présentera ce cadre à un professionnel — pas comme dogme.
+**Scientific debate to be aware of**: Sturesson et al. measure very small SI motion (≈2.5° rotation, 0.7 mm translation) and no difference between symptomatic and asymptomatic joints → calls into question the ability to palpate/manually correct a "position". The Schamberger model coexists with this reservation without settled consensus. To be carried honestly when presenting this framework to a professional — not as dogma.
 
-**Action recommandée** : évaluation directe du bassin par ostéopathe ou physio **formé au modèle Schamberger** (pas juste ostéo générique). À rappeler proactivement au prochain RDV médecin famille JGH — cadre à mentionner par nom, avec référence à la chute, pour orienter l'ordonnance.
+**Recommended action**: direct pelvic assessment by an osteopath or physiotherapist **trained in the Schamberger model** (not just a generic osteopath). To be raised proactively at the next JGH family physician appointment — framework to be mentioned by name, with reference to the fall, to guide the referral.
 
-**Pointeur document Perplexity** : `facts/perplexity-malalignment-schamberger-2026-09-28.md` — conversation complète en 6 tours avec Perplexity le 2026-09-28 : identification du syndrome, corrections MET détaillées, vidéos (YouTube + Michigan State University College of Osteopathic Medicine), lien instabilité SI + laxité, mécanisme chute, ceinture SI. Contient 26+ références académiques et cliniques.
+**Perplexity document pointer**: `facts/perplexity-malalignment-schamberger-2026-09-28.md` — full 6-turn conversation with Perplexity on 2026-09-28: identification of the syndrome, detailed MET corrections, videos (YouTube + Michigan State University College of Osteopathic Medicine), link between SI instability + laxity, fall mechanism, SI belt. Contains 26+ academic and clinical references.
 
 ---
 
@@ -1912,7 +1935,7 @@ Le talon-activateur *unipodal* (bondissement sur une jambe) génère probablemen
 
 > **source:** *à développer — pas de source consolidée en mémoire à ce jour*
 
-Section en attente de matériau. L'extension JP³ à l'adolescent (sédentarité scolaire, lien avec l'école primaire et le lycée, intégration à la pause déjeuner, variante "furtif" en chambre pour l'ado qui refuse l'exposition sociale corporelle) est à construire en lien avec un terrain. Candidat naturel : école ou clinique pédiatrique via introduction JGH.
+Section awaiting material. Extending JP³ to adolescents (school sedentariness, links with primary and secondary school, integration into the lunch break, a "stealth" variant in the bedroom for the teenager who refuses bodily social exposure) is to be built in connection with a field site. Natural candidate: a school or pediatric clinic via a JGH introduction.
 
 ---
 
@@ -1920,7 +1943,7 @@ Section en attente de matériau. L'extension JP³ à l'adolescent (sédentarité
 
 > **source:** *à développer — pas de source consolidée en mémoire à ce jour*
 
-Section en attente de matériau. Angles plausibles à documenter : (1) grossesse — alternative à la marche extérieure quand mobilité/équilibre deviennent limitants, régime spring-mass doux adapté, degré zéro accessible jusqu'au terme ; (2) postpartum — récupération plancher pelvien, remise en charge progressive, intégration avec soin nourrisson (bébé porté, pendant sieste). À documenter en lien avec kinésithérapeute périnatal.
+Section awaiting material. Plausible angles to document: (1) pregnancy — an alternative to outdoor walking when mobility/balance become limiting, a gentle adapted spring-mass regime, *degré zéro* accessible up to term; (2) postpartum — pelvic floor recovery, progressive return to loading, integration with infant care (baby carried, during naps). To be documented in collaboration with a perinatal physiotherapist.
 
 ---
 
@@ -1928,16 +1951,16 @@ Section en attente de matériau. Angles plausibles à documenter : (1) grossesse
 
 > **source:** `content/fr/research-mecanismes.md` §3.4.5 RAS/Parkinson (lignes 219-226)
 
-#### Preuve par la pathologie — Parkinson et Rhythmic Auditory Stimulation
+#### Proof by pathology — Parkinson and Rhythmic Auditory Stimulation
 
-La **RAS** (Rhythmic Auditory Stimulation, développée par Thaut) utilise un métronome ou de la musique pour restaurer la marche chez les patients Parkinson. Mécanisme documenté : la RAS **bypasse les ganglions de la base défaillants** via les voies **cérébelleuses** (revue 2025).
+**RAS** (Rhythmic Auditory Stimulation, developed by Thaut) uses a metronome or music to restore gait in Parkinson's patients. Documented mechanism: RAS **bypasses the failing basal ganglia** via **cerebellar** pathways (2025 review).
 
-Extrait :
+Excerpt:
 > *"Music therapy provides external rhythmic stimulation, recruits neural networks to bypass the basal ganglia and synchronizes gait with external rhythms through auditory-motor neural networks."*
 
-Cette preuve par la pathologie est puissante : elle démontre que **le rythme est un mécanisme régulateur primaire**, capable de compenser une défaillance neurologique majeure. Si le rythme peut restaurer la marche d'un parkinsonien, on peut raisonnablement supposer qu'il peut resynchroniser un cerveau simplement fatigué ou stressé.
+This proof by pathology is powerful: it shows that **rhythm is a primary regulatory mechanism**, capable of compensating for a major neurological failure. If rhythm can restore gait in a Parkinson's patient, one can reasonably assume it can resynchronize a brain that is merely tired or stressed.
 
-**Application JP³** : le pattern rythmique spontané du régime spring-mass ankle-dominant (fréquence propre de rebond ~2-3 Hz) fournit un entraînement locomoteur-rythmique à domicile, sans la contrainte du déplacement (risque de chute écarté par le "In Place"). Pour le patient Parkinson, JP³ pourrait servir de rail rythmique quotidien, cumulatif, administré à l'autonomie du patient — complémentaire aux séances supervisées de physiothérapie-RAS.
+**JP³ application**: the spontaneous rhythmic pattern of the ankle-dominant spring-mass regime (natural bounce frequency ~2-3 Hz) provides locomotor-rhythmic training at home, without the constraint of moving around (fall risk ruled out by "In Place"). For the Parkinson's patient, JP³ could serve as a daily, cumulative rhythmic rail, self-administered at the patient's own discretion — complementary to supervised RAS physiotherapy sessions.
 
 ---
 
@@ -1945,13 +1968,13 @@ Cette preuve par la pathologie est puissante : elle démontre que **le rythme es
 
 > **source:** `content/en/article.md` §3.2 cas 1, 4, 9 + forward-ref §4.3 (bénéfices multi-domaines métaboliques)
 
-**Cas 1 — The "hyper-busy" person:** The "Jogging in Place × In Your Own Place" synergy enables **seamless integration** with household tasks (dishes, laundry, reading). Exercise is no longer a "waste of time" but a "productivity amplifier." **Micro-bouts** (2–5 minutes) are ideal for turning downtime into productive movement sessions.
+**Case 1 — The "hyper-busy" person:** The "Jogging in Place × In Your Own Place" synergy enables **seamless integration** with household tasks (dishes, laundry, reading). Exercise is no longer a "waste of time" but a "productivity amplifier." **Micro-bouts** (2–5 minutes) are ideal for turning downtime into productive movement sessions.
 
-**Cas 4 — The overweight or obese person:** The low-impact "Jogging in Place" movement reduces joint stress, allowing exercise without excessive pain. "At Your Own Pace" enables a progression in which intensity is always matched to current capacity, avoiding injury and discouragement. **Maximal proprioceptive feedback** (barefoot, mirror) helps correct dysfunctional gait patterns reinforced by thousands of incorrect repetitions.
+**Case 4 — The overweight or obese person:** The low-impact "Jogging in Place" movement reduces joint stress, allowing exercise without excessive pain. "At Your Own Pace" enables a progression in which intensity is always matched to current capacity, avoiding injury and discouragement. **Maximal proprioceptive feedback** (barefoot, mirror) helps correct dysfunctional gait patterns reinforced by thousands of incorrect repetitions.
 
-**Cas 9 — The person with chronic sleep debt or in stimulant withdrawal:** JP³ helps **reconnect with the body's fatigue signals** and regulate emotions, which can foster more restorative sleep. By avoiding overexertion (thanks to "At Your Own Pace"), it supports recovery and recalibration of the nervous system.
+**Case 9 — The person with chronic sleep debt or in stimulant withdrawal:** JP³ helps **reconnect with the body's fatigue signals** and regulate emotions, which can foster more restorative sleep. By avoiding overexertion (thanks to "At Your Own Pace"), it supports recovery and recalibration of the nervous system.
 
-**Forward-ref §4.3** : bénéfices métaboliques détaillés — HbA1c, soleus pump, glycémie postprandiale, famille SPU (Hamilton), régime tonique-oxydatif non-fatigant compatible avec usage quotidien pluriquotidien.
+**Forward-ref §4.3** : detailed metabolic benefits — HbA1c, soleus pump, postprandial glycemia, SPU family (Hamilton), non-fatiguing tonic-oxidative regime compatible with daily, multiple-times-a-day use.
 
 ---
 
@@ -1959,7 +1982,7 @@ Cette preuve par la pathologie est puissante : elle démontre que **le rythme es
 
 **TOC §8**
 - §8.1 Paradigm shift *(migrated from article.md §5.1)*
-- §8.2 Comparison with adjacent practices *(migrated from article.md §5.2; `research-singularite` §2–3 matrice complète; jump-rope cousin, slow jogging, mindful walking)*
+- §8.2 Comparison with adjacent practices *(migrated from article.md §5.2; `research-singularite` §2–3 full matrix; jump-rope cousin, slow jogging, mindful walking)*
 - §8.3 Limitations and open questions *(migrated from article.md §5.3)*
 - §8.4 Implications for clinical practice — JGH as first live test *(migrated from article.md §5.4; `project_jgh_presentation_voie`)*
 - §8.5 Research agenda
@@ -1990,106 +2013,106 @@ Although jogging in place or walking in place already exist, JP³ stands apart t
 - **Differentiation from Walking in Place:** Walking in place is often used for functional mobility or warm-up. JP³, with its focus on self-regulated "Pace," barefoot practice, and the goal of emotional regulation and sustained metabolic activation, goes far beyond a simple functional exercise. It targets deeper neurophysiological and biomechanical mechanisms.
 - **Differentiation from Exercise-as-Chore:** Many interventions aim to "motivate" people to exercise. JP³ aims to make exercise intrinsically rewarding and frictionless, capitalizing on boredom as the driver of increased intensity and on neurochemical release to create a euphoric experience—the "runner's high."
 
-**Research-singularite §2 — dépouillement par famille (verbatim FR)**
+**Research-singularite §2 — review by family (FR verbatim)**
 
-Neuf pratiques et courants ont été investigués (recherche web dédouble, citations directes). Ils se regroupent en quatre familles selon leur mode de convergence potentielle avec JP³.
+Nine practices and movements were investigated (dedicated web research, direct citations). They fall into four families according to their mode of potential convergence with JP³.
 
-#### 2.1 Rivaux locomoteurs — la famille la plus proche
+#### 2.1 Locomotor rivals — the closest family
 
-**2.1.1 Slow jogging (Hiroaki Tanaka, "niko-niko pace") — rival majeur**
+**2.1.1 Slow jogging (Hiroaki Tanaka, "niko-niko pace") — major rival**
 
-Méthode d'exercice japonaise développée par le Pr Hiroaki Tanaka (Fukuoka University). Le protocole tient en une phrase : *courir aussi lentement qu'on puisse tenir un sourire* ("niko niko" = sourire). Intensité ~50% VO2 max. Frappe mid-foot. Aucune cadence prescrite, aucun FC cible, aucune montre requise.
+A Japanese exercise method developed by Prof. Hiroaki Tanaka (Fukuoka University). The protocol fits in a single sentence: *run as slowly as you can while still holding a smile* ("niko niko" = smile). Intensity ~50% VO2 max. Mid-foot strike. No prescribed cadence, no target HR, no watch required.
 
-Citation-clé (Magical Shoes / NFPT) :
+Key quotation (Magical Shoes / NFPT):
 > *"Niko niko pace encompasses what Tanaka considers a smiling cadence that helps lower blood pressure while boosting fitness. Tanaka's theory: Run only as fast as your body lets you smile. For most beginners it means jogging at a walking pace."*
 
-Positionnement A/B/C : A ✓ · B ✓ · C ~ (plateau niko-niko, pas trajectoire x³)
+A/B/C positioning: A ✓ · B ✓ · C ~ (niko-niko plateau, not an x³ trajectory)
 
-Convergences avec JP³ : lenteur radicale, feedback non-métrique, doctrine anti-"no pain no gain", intention de "déplaisir zéro", ancienneté. Divergences : **déplacement spatial** vs. verticalité pure ; codification "niko niko" vs. protocole anonyme ; visée souvent progressive vs. absence totale de destination.
+Convergences with JP³: radical slowness, non-metric feedback, anti-"no pain no gain" doctrine, intention of "zero displeasure", long track record. Divergences: **spatial displacement** vs. pure verticality; "niko niko" codification vs. anonymous protocol; often progressive aim vs. total absence of a destination.
 
-**Verdict** : rival le plus sérieux. **Sur les axes A et B, slow jogging est quasi-équivalent à JP³.** La divergence "in place vs. déplacement" est matérielle mais non-décisive du point de vue du dispositif d'accès.
+**Verdict**: the most serious rival. **On axes A and B, slow jogging is quasi-equivalent to JP³.** The "in place vs. displacement" divergence is material but not decisive from the standpoint of the access device.
 
-**2.1.2 Marching in place (protocole physiothérapie / ACSM) — précédent institutionnel**
+**2.1.2 Marching in place (physiotherapy / ACSM protocol) — institutional precedent**
 
-Marche sur place prescrite dans les protocoles de réhabilitation et de fitness grand public. A ✓✓ · B ~ · C ✓ (dosé, plafonné). Précédent institutionnel le plus proche de JP³ sur les 3 P mais reste encadré, protocolisé.
+Marching in place as prescribed in rehabilitation and mainstream fitness protocols. A ✓✓ · B ~ · C ✓ (dosed, capped). The closest institutional precedent to JP³ on the three Ps, but it remains supervised and protocolized.
 
-**2.1.3 Walk at Home (Leslie Sansone) — précédent commercial**
+**2.1.3 Walk at Home (Leslie Sansone) — commercial precedent**
 
-Franchise fitness US. Marche sur place vidéo avec coach. A ~ · B ✗✗ · C ✗. Satisfait 2 des 3 P mais échoue sur "at your own pace" (tempo imposé) et maintient une métrique forte.
+US fitness franchise. Video-led marching in place with a coach. A ~ · B ✗✗ · C ✗. Satisfies 2 of the three Ps but fails on "at your own pace" (imposed tempo) and keeps a strong metric.
 
-**2.1.4 Rebounding / mini-trampoline — fausse proximité**
+**2.1.4 Rebounding / mini-trampoline — false proximity**
 
-Saut vertical sur mini-trampoline. A ~ · B ✗ · C ✗. L'équipement interfère avec l'écoute du corps et supprime les foot-strike waves.
+Vertical jumping on a mini-trampoline. A ~ · B ✗ · C ✗. The equipment interferes with listening to the body and suppresses the foot-strike waves.
 
-**2.1.5 Chi Running (Danny Dreyer) — convergence philosophique, divergence structurelle**
+**2.1.5 Chi Running (Danny Dreyer) — philosophical convergence, structural divergence**
 
-Principes Tai-chi appliqués à la course. A ~ · B ✗ · C ✗. Cadence prescrite (170-180 pas/min) = paradigme métrique même si "mindful".
+Tai-chi principles applied to running. A ~ · B ✗ · C ✗. Prescribed cadence (170-180 steps/min) = metric paradigm, even if "mindful".
 
-#### 2.2 Rivaux méditatifs — parents lointains
+#### 2.2 Meditative rivals — distant relatives
 
-**2.2.1 Kinhin (zen)** — A ✓ · B ✓ · C ~ — faux ami structurel, intensité physique quasi-nulle.
-**2.2.2 Mindful walking (MBSR, Kabat-Zinn)** — A ~ · B ✓ · C ~ (réfute plutôt) — 23-61% dropout chez déprimés.
-**2.2.3 Tai-chi** — A ✓ · B ✓ · C ~ — concurrent sérieux A/B, réfute C (pas inversion épistémologique).
-**2.2.4 Qi-gong** — A ✓ · B ✓ · C ✗ — aucune donnée en dépression sévère.
-**2.2.5 Feldenkrais / Alexander** — A ~ · B ✓ · C ✗ — faux amis, cognitifs, intensité physique quasi-nulle.
+**2.2.1 Kinhin (zen)** — A ✓ · B ✓ · C ~ — structural false friend, near-zero physical intensity.
+**2.2.2 Mindful walking (MBSR, Kabat-Zinn)** — A ~ · B ✓ · C ~ (rather refutes it) — 23-61% dropout among depressed participants.
+**2.2.3 Tai-chi** — A ✓ · B ✓ · C ~ — serious competitor on A/B, refutes C (no epistemological inversion).
+**2.2.4 Qi-gong** — A ✓ · B ✓ · C ✗ — no data in severe depression.
+**2.2.5 Feldenkrais / Alexander** — A ~ · B ✓ · C ✗ — false friends, cognitive, near-zero physical intensity.
 
-#### 2.3 Rivaux philosophiques — courants récents anti-métriques
+#### 2.3 Philosophical rivals — recent anti-metric movements
 
-**2.3.1 Intuitive Exercise / Intuitive Movement** — A ✓ · B ✓✓✓ · C ✓✓ — cadre large, pas vertical ni spécifique. JP³ comme instanciation cardiovasculaire spécifique.
-**2.3.2 Joyful Movement** — A ✓ · B ✓✓✓ · C ✓✓ — cadre philosophique large popularisé TikTok/Instagram depuis 2023.
-**2.3.3 "Quiet fitness" / "Slow fitness"** — tendance d'industrie post-COVID, pas précédent codifié.
+**2.3.1 Intuitive Exercise / Intuitive Movement** — A ✓ · B ✓✓✓ · C ✓✓ — broad framework, neither vertical nor specific. JP³ as a specific cardiovascular instantiation.
+**2.3.2 Joyful Movement** — A ✓ · B ✓✓✓ · C ✓✓ — broad philosophical framework popularized on TikTok/Instagram since 2023.
+**2.3.3 "Quiet fitness" / "Slow fitness"** — post-COVID industry trend, not a codified precedent.
 
-#### 2.4 Rivaux "populations à haut seuil d'entrée" — le vrai gisement conceptuel
+#### 2.4 "High entry threshold populations" rivals — the real conceptual deposit
 
-**Découverte majeure** : la classe conceptuelle "exercice praticable depuis l'état détruit" existe dans la littérature, fragmentée en silos disjoints sans terminologie unifiée.
+**Major discovery**: the conceptual class "exercise practicable from the destroyed state" exists in the literature, fragmented into disjoint silos with no unified terminology.
 
 **2.4.1 Pacing (ME/CFS, Long COVID) — Energy Envelope Theory (Leonard Jason)**
 
-Principe : rester en-dessous du seuil d'exacerbation symptomatique (PEM). PACELOC trial (2024-2025) : réduction 15%/semaine de fréquence des crashes. WHO et NICE : GET non recommandé/contre-indiqué en PEM. Convergence forte avec JP³ (écoute intéroceptive sous seuil, rejet intensité, effets par durée). Divergence : très prudent (sub-marche), hautement cognitif. **Point d'articulation** : si JP³ fonctionne en dépression, ce n'est pas comme GET — c'est comme pacing.
+Principle: stay below the threshold of symptomatic exacerbation (PEM). PACELOC trial (2024-2025): 15%/week reduction in crash frequency. WHO and NICE: GET not recommended/contraindicated in PEM. Strong convergence with JP³ (sub-threshold interoceptive listening, rejection of intensity, effects through duration). Divergence: very cautious (sub-walking), highly cognitive. **Articulation point**: if JP³ works in depression, it is not as GET — it is as pacing.
 
-**2.4.2 Behavioral Activation (dépression — Jacobson, Martell, 2001+)**
+**2.4.2 Behavioral Activation (depression — Jacobson, Martell, 2001+)**
 
-"Change will be easier when starting small". Décomposition en étapes atomiques. **Verdict** : **JP³ peut être décrit comme l'instanciation cardiovasculaire du principe BA**.
+"Change will be easier when starting small". Breakdown into atomic steps. **Verdict**: **JP³ can be described as the cardiovascular instantiation of the BA principle**.
 
-**2.4.3 Minimum Effective Dose (Fisher, Steele)** — force training, divergence : dédié force, hautement dosé.
+**2.4.3 Minimum Effective Dose (Fisher, Steele)** — strength training; divergence: dedicated to strength, highly dosed.
 
-**2.4.4 Chair-based cardio / seated aerobics (gériatrie)** — A ✓✓✓ · B ~ · C ✓✓✓ — divergence critique : pas vertical (centrale pour perfusion pulsée).
+**2.4.4 Chair-based cardio / seated aerobics (geriatrics)** — A ✓✓✓ · B ~ · C ✓✓✓ — critical divergence: not vertical (central for pulsed perfusion).
 
-**2.4.5 Daoyin adaptatif (TCM classique — 2000+ ans)** — *"reinforcing Daoyin for deficient people, treating Daoyin for people who are ill"*. Point d'ancrage historique.
+**2.4.5 Adaptive Daoyin (classical TCM — 2000+ years)** — *"reinforcing Daoyin for deficient people, treating Daoyin for people who are ill"*. Historical anchor point.
 
-**2.4.6 NEAT (Levine, Mayo Clinic)** — A ✓✓✓ · B ✓ · C ✓✓✓ — dispersé (pas protocole localisé), non-vertical structurellement.
+**2.4.6 NEAT (Levine, Mayo Clinic)** — A ✓✓✓ · B ✓ · C ✓✓✓ — dispersed (not a localized protocol), structurally non-vertical.
 
-#### 3. Matrice synthétique — les 3 axes contre les 21 pratiques
+#### 3. Synthetic matrix — the 3 axes against the 21 practices
 
-| Pratique | A | B | C (x³) | Verticalité | Cardio | Précédent | Dépression sévère |
+| Practice | A | B | C (x³) | Verticality | Cardio | Precedent | Severe depression |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **JP³ (hypothèse)** | ✓✓✓ | ✓✓✓ | ✓✓✓ | ✓ | ✓ | **NON** | À tester |
-| Slow jogging (Tanaka) | ✓ | ✓ | ~ | ✗ | ✓ | Oui | Non |
-| Marching in place (physio) | ✓✓ | ~ | ~ | ✓ | ✓ | Oui | Non |
-| Walk at Home | ~ | ✗✗ | ✗ | ✓ | ✓ | Oui | Non |
-| Rebounding | ~ | ✗ | ~ | ✓ | ✓ | Oui | Non |
-| Chi Running | ~ | ✗ | ~ | ✗ | ✓ | Oui | Non |
-| Kinhin | ✓ | ✓ | ✗ | ~ | ✗ | Oui | Non |
-| Mindful walking (MBSR) | ~ | ✓ | ✗ | ✗ | ✗ | Oui | Oui — dropout ↑ |
-| Tai-chi | ✓ | ✓ | ~ | ~ | ~ | Oui | Oui — effet oui, C non |
-| Qi-gong | ✓ | ✓ | ~ | ~ | ~ | Oui | Non |
-| Feldenkrais / Alexander | ~ | ✓ | ✗ | ~ | ✗ | Oui | Non |
-| **Intuitive Exercise** | ✓ | ✓✓✓ | ~ | ✗ | ~ | Oui | Non |
-| **Joyful Movement** | ✓ | ✓✓✓ | ~ | ✗ | ~ | Oui | Non |
-| Peloton / digital fitness | ✗✗ | ✗✗✗ | ✗ | ~ | ✓✓ | Oui | Non |
-| Fitness snacks (Gibala) | ~ | ✗ | ✗ | ~ | ✓✓ | Oui | Non |
-| Zone 2 (San Millán / Attia) | ✗ | ✗ | ✗ | — | ✓✓ | Oui | Non |
-| Warm-up conventionnel | ~ | ✗ | ✗ | — | ~ | Oui | Non |
-| NEAT | ✓✓✓ | ✓ | ✗ | ✗ | ~ | Oui | Non |
-| Chair-based cardio | ✓✓✓ | ~ | ~ | ✗ | ~ | Oui | Non |
-| **Pacing (ME/CFS)** | ✓✓ | ~ | ✗ | ✗ | ~ | Oui | Oui (CFS, Long COVID) |
-| **Behavioral Activation** | ✓ | ✓ | ✓ | ~ | ~ | Oui | Oui |
-| Minimum Effective Dose | ~ | ✗ | ✗ | ✗ | ✗ | Oui | Non |
-| Daoyin adaptatif (TCM) | ✓ | ✓ | ~ | ~ | ~ | Oui (2000 ans) | Non |
+| **JP³ (hypothesis)** | ✓✓✓ | ✓✓✓ | ✓✓✓ | ✓ | ✓ | **NO** | To be tested |
+| Slow jogging (Tanaka) | ✓ | ✓ | ~ | ✗ | ✓ | Yes | No |
+| Marching in place (physio) | ✓✓ | ~ | ~ | ✓ | ✓ | Yes | No |
+| Walk at Home | ~ | ✗✗ | ✗ | ✓ | ✓ | Yes | No |
+| Rebounding | ~ | ✗ | ~ | ✓ | ✓ | Yes | No |
+| Chi Running | ~ | ✗ | ~ | ✗ | ✓ | Yes | No |
+| Kinhin | ✓ | ✓ | ✗ | ~ | ✗ | Yes | No |
+| Mindful walking (MBSR) | ~ | ✓ | ✗ | ✗ | ✗ | Yes | Yes — dropout ↑ |
+| Tai-chi | ✓ | ✓ | ~ | ~ | ~ | Yes | Yes — effect yes, C no |
+| Qi-gong | ✓ | ✓ | ~ | ~ | ~ | Yes | No |
+| Feldenkrais / Alexander | ~ | ✓ | ✗ | ~ | ✗ | Yes | No |
+| **Intuitive Exercise** | ✓ | ✓✓✓ | ~ | ✗ | ~ | Yes | No |
+| **Joyful Movement** | ✓ | ✓✓✓ | ~ | ✗ | ~ | Yes | No |
+| Peloton / digital fitness | ✗✗ | ✗✗✗ | ✗ | ~ | ✓✓ | Yes | No |
+| Fitness snacks (Gibala) | ~ | ✗ | ✗ | ~ | ✓✓ | Yes | No |
+| Zone 2 (San Millán / Attia) | ✗ | ✗ | ✗ | — | ✓✓ | Yes | No |
+| Conventional warm-up | ~ | ✗ | ✗ | — | ~ | Yes | No |
+| NEAT | ✓✓✓ | ✓ | ✗ | ✗ | ~ | Yes | No |
+| Chair-based cardio | ✓✓✓ | ~ | ~ | ✗ | ~ | Yes | No |
+| **Pacing (ME/CFS)** | ✓✓ | ~ | ✗ | ✗ | ~ | Yes | Yes (CFS, Long COVID) |
+| **Behavioral Activation** | ✓ | ✓ | ✓ | ~ | ~ | Yes | Yes |
+| Minimum Effective Dose | ~ | ✗ | ✗ | ✗ | ✗ | Yes | No |
+| Adaptive Daoyin (TCM) | ✓ | ✓ | ~ | ~ | ~ | Yes (2000 years) | No |
 
-**Lecture** : aucune pratique ne combine A + B + C x³. JP³ est le seul candidat au triplet complet.
+**Reading**: no practice combines A + B + C x³. JP³ is the only candidate for the complete triplet.
 
-**Verdict honnête — §4.4 research-singularite : JP³ comme point de synthèse trans-silo** — pas un mécanisme nouveau, mais une **cristallisation** de principes dispersés (inversion épistémologique du pacing, "starting small" de la BA, minimum viable du MED, écoute non-métrique de l'intuitive movement, verticalité pulsée de la course lente, accessibilité radicale du Daoyin adaptatif) en un dispositif praticable.
+**Honest verdict — research-singularite §4.4: JP³ as a trans-silo synthesis point** — not a new mechanism, but a **crystallization** of dispersed principles (the epistemological inversion of pacing, the "starting small" of BA, the minimum viable of MED, the non-metric listening of intuitive movement, the pulsed verticality of slow running, the radical accessibility of adaptive Daoyin) into a practicable device.
 
 ---
 
@@ -2104,11 +2127,11 @@ Despite its advantages, JP³ has certain limitations and requires clinical consi
 - **Perceived Monotony:** For some, the repetitive nature of jogging in place may initially generate boredom. However, experience shows that this boredom is often transient and turns into a driver of optimization or an opportunity for a "flow state."
 - **Environmental Quality:** Although "In Your Own Place" is an advantage, an unsafe environment (slippery floors, clutter) or an excessively noisy one could detract from the experience.
 
-**Open empirical questions (consolidées) :**
+**Open empirical questions (consolidated):**
 
-- Tanaka a-t-il testé slow jogging en dépression sévère ou état détruit ? (Pas trouvé en recherche 2026-08-15 ; à vérifier plus finement.)
-- "Slow jogging pratiqué sur place" est-il déjà une variante nommée par Tanaka ou ses successeurs ?
-- **Aucun silo ne teste directement l'hypothèse que l'état détruit *facilite* l'entrée** (axe C trajectoire x³). Si JP³ était empiriquement validé sur ce point, ce serait une contribution scientifique originale indépendamment des mécanismes physiologiques (déjà connus).
+- Did Tanaka test slow jogging in severe depression or in the destroyed state? (Not found in the 2026-08-15 research; to be checked more finely.)
+- Is "slow jogging practiced in place" already a variant named by Tanaka or his successors?
+- **No silo directly tests the hypothesis that the destroyed state *facilitates* entry** (axis C, x³ trajectory). If JP³ were empirically validated on this point, it would be an original scientific contribution independently of the physiological mechanisms (already known).
 
 ---
 
@@ -2116,7 +2139,7 @@ Despite its advantages, JP³ has certain limitations and requires clinical consi
 
 > **source:** `content/en/article.md` §5.4 + `memory/project_jgh_presentation_voie.md`
 
-**Article §5.4** : JP³ offers significant opportunities for various healthcare professionals:
+**Article §5.4**: JP³ offers significant opportunities for various healthcare professionals:
 
 - **General Practitioners and Geriatricians:** A simple tool to prescribe to counter sedentariness, prevent falls, and improve metabolic health, even in frail or poorly mobile patients.
 - **Psychiatrists and Psychologists:** A powerful behavioral-activation modality for depression and anxiety, offering immediate emotional benefits and improved adherence.
@@ -2124,39 +2147,40 @@ Despite its advantages, JP³ has certain limitations and requires clinical consi
 - **Exercise Specialists:** An innovative approach for reaching populations far removed from exercise and for integrating physical activity into daily life in a sustainable way.
 - **AI Coaching Potential:** The integration of AI prompts offers a scalable solution for personalizing coaching, improving protocol fidelity, and supporting self-regulation, making JP³ applicable at scale.
 
-**Voie stratégique JGH (fiche project_jgh_presentation_voie, 2026-08-17)**
+**JGH strategic path (memory note project_jgh_presentation_voie, 2026-08-17)**
 
-Perig a révélé le 2026-08-17 que sa **médecin de famille**, qui travaille à l'**Hôpital général juif de Montréal** (Sir Mortimer B. Davis Jewish General Hospital / HGJ / JGH), lui a offert de l'aider à **présenter son travail sur JP³ à l'hôpital**. Formulation : *"j'ai complètement oublié de dire que mon médecin de famille qui travaille à l'hôpital juif de Montréal m'a dit qu'elle allait m'aider à présenter mon travail à l'hôpital. il est là le chemin."*
+On 2026-08-17 Perig revealed that his **family doctor**, who works at the **Jewish General Hospital in Montreal** (Sir Mortimer B. Davis Jewish General Hospital / HGJ / JGH), had offered to help him **present his work on JP³ at the hospital**. Wording: *"I completely forgot to say that my family doctor, who works at the Jewish hospital in Montreal, told me she would help me present my work at the hospital. That's the path."*
+> *FR original:* « j'ai complètement oublié de dire que mon médecin de famille qui travaille à l'hôpital juif de Montréal m'a dit qu'elle allait m'aider à présenter mon travail à l'hôpital. il est là le chemin. »
 
-**Pourquoi le JGH est un terrain particulièrement fertile :**
+**Why the JGH is particularly fertile ground:**
 
-1. **Institution académique affiliée McGill** avec le **Lady Davis Institute for Medical Research** — recherche substantielle en vieillissement et métabolique.
-2. **Division de médecine gériatrique active** — la thèse "JP³ voie royale sarcopénie" (§7.1) tombe pile dans leur champ d'intérêt clinique.
-3. **Environnement bilingue** — correspond au contexte francophone/anglophone de Perig.
-4. **Écosystème clinique diversifié** — endocrinologie, cardiologie, médecine interne, médecine familiale coexistent.
+1. **McGill-affiliated academic institution** with the **Lady Davis Institute for Medical Research** — substantial research in aging and metabolism.
+2. **Active Division of Geriatric Medicine** — the "JP³ royal road for sarcopenia" thesis (§7.1) falls squarely within their field of clinical interest.
+3. **Bilingual environment** — matches Perig's francophone/anglophone context.
+4. **Diversified clinical ecosystem** — endocrinology, cardiology, internal medicine, and family medicine coexist.
 
-**Format livrable** : deck 30-45 min (grand rounds ou seminar interdépartemental) + éventuellement one-page brief pour circulation préparatoire. Article existant reste référence de fond.
+**Deliverable format**: 30-45 min deck (grand rounds or interdepartmental seminar) + possibly a one-page brief for preparatory circulation. The existing article remains the background reference.
 
-**Structure suggérée pour le deck :**
+**Suggested structure for the deck:**
 
-1. **Le trou clinique** : fragilité + problème de compliance à la musculation chez la personne âgée → non-couvert par les approches existantes.
-2. **Le fit physiologique** : sarcopénie épargne préférentiellement type I / soléaire préservé / station debout = pivot autonomie / JP³ recrute exactement ce qui reste.
-3. **Le dispositif** : brève description JP³, degré zéro, auto-enforcement postural, 3 P.
-4. **Placement dans l'écosystème thérapeutique** : amorçage complémentaire, pas substitut à la musculation ni aux protéines. Progression clinique SPU assis → JP³ appuyé → JP³ autonome.
-5. **Proposition concrète** : pilote de faisabilité, étude observationnelle chez patients gériatriques du JGH, ou collaboration ciblée à définir selon l'intérêt.
-6. **Ce que Perig apporte / ce qu'il demande** — question ouverte, format d'engagement discuté.
+1. **The clinical gap**: frailty + the problem of compliance with strength training in older adults → not covered by existing approaches.
+2. **The physiological fit**: sarcopenia preferentially spares type I / soleus preserved / standing posture = pivot of autonomy / JP³ recruits exactly what remains.
+3. **The device**: brief description of JP³, *degré zéro* (degree zero), postural self-enforcement, the three Ps.
+4. **Placement in the therapeutic ecosystem**: complementary priming, not a substitute for strength training or protein. Clinical progression: seated SPU → supported JP³ → autonomous JP³.
+5. **Concrete proposal**: feasibility pilot, observational study in JGH geriatric patients, or targeted collaboration to be defined according to interest.
+6. **What Perig brings / what he asks** — open question, format of engagement to be discussed.
 
-**Enrichissement 2026-09-25 — deux ajouts substantiels** :
-1. **Ostéoporose comme seconde porte parallèle à sarcopénie** (§7.2). Talon-activateur JP³ génère ~3× BW à 10-20 Hz (Bassey & Ramsdale), pile dans la fenêtre ostéogénique. DEXA = métrique dure.
-2. **Argument adhérence renforcé par le régime incident** (§5.6). "10 min matin et soir" est un mur pour beaucoup ; le régime incident propose quelques chocs de talon à chaque passage à la cuisine — protocole diffus, quasi-gratuit décisionnellement.
+**Enrichment 2026-09-25 — two substantial additions**:
+1. **Osteoporosis as a second door parallel to sarcopenia** (§7.2). The JP³ heel activator generates ~3× BW at 10-20 Hz (Bassey & Ramsdale), squarely within the osteogenic window. DEXA = hard metric.
+2. **Adherence argument reinforced by the incident regime** (§5.6). "10 min morning and evening" is a wall for many; the incident regime offers a few heel strikes every time one passes through the kitchen — a diffuse protocol, nearly free in decision cost.
 
-**Anti-scope** : ne PAS présenter comme "j'ai découvert un traitement pour la sarcopénie". Formulation cible : *"un dispositif candidat, avec un fit structurel prometteur pour cette population, qui mérite une évaluation pilote"*.
+**Anti-scope**: do NOT present it as "I have discovered a treatment for sarcopenia". Target wording: *"a candidate device, with a promising structural fit for this population, that warrants a pilot evaluation"*.
 
-**Réordonnancement de la stratégie phasée :**
+**Reordering of the phased strategy:**
 
-1. **JGH présentation** (semaines/mois qui viennent, avec la médecin de famille) → écho, questions, partenaires de recherche potentiellement identifiés
-2. **Pilote institutionnellement facilité** — si le JGH accroche, un pilote CGM ou observationnel devient beaucoup plus faisable.
-3. **Hamilton** avec appui institutionnel réel (co-signature d'un chercheur du Lady Davis ou de gériatrie), pas cold outreach.
+1. **JGH presentation** (in the coming weeks/months, with the family doctor) → echo, questions, potential research partners identified
+2. **Institutionally facilitated pilot** — if the JGH takes interest, a CGM or observational pilot becomes much more feasible.
+3. **Hamilton** with real institutional backing (co-signature by a Lady Davis or geriatrics researcher), not cold outreach.
 
 ---
 
@@ -2166,28 +2190,29 @@ Perig a révélé le 2026-08-17 que sa **médecin de famille**, qui travaille à
 
 > **source:** `memory/project_version_article_hamilton.md`
 
-**Action à réaliser** : créer une version dédiée de l'article JP³ (en plus de la version publique standard) conçue pour une **prise de contact directe avec Marc Hamilton** — l'auteur du Soleus Pushup (SPU, iScience 2022) — et lui proposer une collaboration.
+**Action to carry out**: create a dedicated version of the JP³ article (in addition to the standard public version) designed for **direct contact with Marc Hamilton** — the author of the Soleus Pushup (SPU, iScience 2022) — and propose a collaboration to him.
 
-Formulation exacte de Perig (2026-08-17) : *"à noter : créer une version de l'article expressément pour demander une collaboration avec Hamilton."*
+Perig's exact wording (2026-08-17): *"to note: create a version of the article expressly to ask Hamilton for a collaboration."*
+> *FR original:* « à noter : créer une version de l'article expressément pour demander une collaboration avec Hamilton. »
 
-**Why:** Le cluster de recherche 2026-08-15/17 a fait émerger que JP³ est probablement un **membre de la famille SPU en régime debout** (`project_famille_spu_via_negativa.md`, §6.2), avec plusieurs ajouts que le SPU sacrifie par design :
-1. Auto-enforcement postural (adresse la dépendance au feedback EMG identifiée par les réplications Kraemer 2024, Yuwono 2025)
-2. Engagement de la chaîne posturale profonde (§4.1)
-3. Accessibilité motivationnelle (envie de sortir, jamais assis devant un écran)
-4. Composante cardio modérée (hypothèse de potentiation métabolique)
+**Why:** The 2026-08-15/17 research cluster brought out that JP³ is probably a **member of the SPU family in a standing regime** (`project_famille_spu_via_negativa.md`, §6.2), with several additions that the SPU sacrifices by design:
+1. Postural self-enforcement (addresses the dependence on EMG feedback identified by the Kraemer 2024 and Yuwono 2025 replications)
+2. Engagement of the deep postural chain (§4.1)
+3. Motivational accessibility (*envie de sortir* — the urge to go out; never seated in front of a screen)
+4. Moderate cardio component (metabolic potentiation hypothesis)
 
-**Ce que la version dédiée doit contenir :**
+**What the dedicated version must contain:**
 
-- **Cadre d'ouverture** : reconnaissance explicite du travail de Hamilton comme fondation ; positionnement de JP³ comme extension de la famille SPU, pas comme dispositif rival.
-- **Formulation via negativa** : SPU et JP³ partagent un noyau négatif de design (exclusion de la musculature phasique-glycolytique fatigable) ; diffèrent sur les positifs (isolation par flexion du genou vs auto-enforcement postural).
-- **Les 3 additions de JP³** présentées comme complémentaires au programme SPU plutôt que comme corrections.
-- **La question ouverte de la potentiation cardio** : formulée comme hypothèse testable, en reconnaissant explicitement que Hamilton lui-même a montré que l'effet SPU est indépendant du débit cardiaque.
-- **Proposition d'étude concrète** : OGTT crossover à 4 bras (sitting / SPU assis / calf raises debout / JP³ ultra-léger sous 2,5 METs), monitoré EMG soléaire vs gastrocnémien vs vaste latéral, postprandial 3h, glucose + insuline + VLDL. ~30 sujets, faisable en ~1 an.
-- **Positionnement de complémentarité** : le programme Hamilton établit la physiologie ; JP³ apporte une doctrine d'usage phénoménologique et une accessibilité motivationnelle qui pourraient faciliter l'adoption publique des trouvailles SPU.
+- **Opening frame**: explicit acknowledgment of Hamilton's work as the foundation; positioning of JP³ as an extension of the SPU family, not as a rival device.
+- **Via negativa formulation**: SPU and JP³ share a negative design core (exclusion of the fatigable phasic-glycolytic musculature); they differ on the positives (isolation through knee flexion vs. postural self-enforcement).
+- **The 3 additions of JP³** presented as complementary to the SPU program rather than as corrections.
+- **The open question of cardio potentiation**: formulated as a testable hypothesis, while explicitly acknowledging that Hamilton himself showed the SPU effect to be independent of cardiac output.
+- **Concrete study proposal**: 4-arm OGTT crossover (sitting / seated SPU / standing calf raises / ultra-light JP³ below 2.5 METs), with EMG monitoring of soleus vs. gastrocnemius vs. vastus lateralis, 3 h postprandial, glucose + insulin + VLDL. ~30 subjects, feasible in ~1 year.
+- **Complementarity positioning**: the Hamilton program establishes the physiology; JP³ contributes a phenomenological doctrine of use and a motivational accessibility that could facilitate public adoption of the SPU findings.
 
-**Format** : fichier séparé dans `content/en/` (Hamilton lit en anglais), pas dans les articles publiés du site. Peut-être `content/en/collaboration-proposal-hamilton.md`, non lié depuis le site public, envoyé par courriel avec PDF/lien. Contact : Marc T. Hamilton, University of Houston, affilié au Texas Obesity Research Center.
+**Format**: separate file in `content/en/` (Hamilton reads English), not among the site's published articles. Perhaps `content/en/collaboration-proposal-hamilton.md`, not linked from the public site, sent by email with PDF/link. Contact: Marc T. Hamilton, University of Houston, affiliated with the Texas Obesity Research Center.
 
-**Anti-scope** : cette version dédiée n'est pas un article scientifique à soumettre pour publication ; c'est un **document de prise de contact**. Différent registre, différentes attentes.
+**Anti-scope**: this dedicated version is not a scientific article to be submitted for publication; it is a **contact document**. Different register, different expectations.
 
 #### §8.5.2 Open empirical questions
 
@@ -2199,15 +2224,15 @@ Formulation exacte de Perig (2026-08-17) : *"à noter : créer une version de l'
 - **Comparison with Other Interventions:** Compare JP³ with other forms of light/moderate exercise or with meditation interventions to assess its superiority or complementarity.
 - **Proprioception and Balance Measures:** Use objective tools to measure improvements in proprioception and balance with barefoot practice.
 
-**Test empirique minute-par-minute (research-singularite §1.2.7)** : à *t = 5 min*, JP³ values de HR, HRV, et énergie subjective sont **inférieures** à une session Zone 2 appariée (concavité positive) ; à *t = 20–30 min*, elles sont **supérieures** (dépassement durable) ; la trace d'énergie subjective est **monotone croissante** (contra Zone 2). Si la prédiction tient, la trajectoire cubique cesse d'être une analogie et devient une observation.
+**Minute-by-minute empirical test (research-singularite §1.2.7)**: at *t = 5 min*, JP³ values of HR, HRV, and subjective energy are **lower** than in a matched Zone 2 session (positive concavity); at *t = 20–30 min*, they are **higher** (durable overtaking); the subjective-energy trace is **monotonically increasing** (contra Zone 2). If the prediction holds, the cubic trajectory ceases to be an analogy and becomes an observation.
 
-**Étude JGH sarcopénie qui trancherait** : essai contrôlé randomisé chez adultes ≥75 ans, MMSE > 24, autonomes, sur 12 semaines. Bras : soin usuel / SPU seul / JP³ seul / SPU+JP³. Mesures : STS, vitesse de marche 4m, préhension, masse musculaire par DEXA, HbA1c, questionnaire fragilité. ~120 sujets.
+**JGH sarcopenia study that would settle it**: randomized controlled trial in adults ≥75 years, MMSE > 24, autonomous, over 12 weeks. Arms: usual care / SPU alone / JP³ alone / SPU+JP³. Measures: STS, 4 m gait speed, grip strength, muscle mass by DEXA, HbA1c, frailty questionnaire. ~120 subjects.
 
 #### §8.5.3 The `.ada` format as native anti-hallucination carrier
 
 > **source:** à développer — pointeur `drafts/jp3-resume-ada.md`
 
-Section en attente de rédaction consolidée. Thèse de travail : le format `.ada` (voir `~/projects/ada-format/`) sert de **porteur natif anti-hallucination** pour les contenus JP³ dérivés — notamment pour les leaflets patient et les prompts agent, où la fidélité au framework compte plus que la variation stylistique. À approfondir avec Perig.
+Section awaiting consolidated drafting. Working thesis: the `.ada` format (see `~/projects/ada-format/`) serves as a **native anti-hallucination carrier** for derived JP³ content — notably for patient leaflets and agent prompts, where fidelity to the framework matters more than stylistic variation. To be deepened with Perig.
 
 ---
 
