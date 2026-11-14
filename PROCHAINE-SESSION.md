@@ -4,6 +4,9 @@
 - `e21cb34` Phase A : tout MANUAL.md en anglais (§1–§9). 78 lignes source gardées ; 21 citations verbatim de Perig avec `> *FR original:*`.
 - `f54a7dc` Phase C pilote : §2 Three Ps et §6 Doctrine réécrits en prose continue ; sources regroupées en fin de section ; numérotation § conservée.
 
+## Tranché 2026-11-14 0h32 (« Oui go », propositions Claude appliquées)
+- 1 → « increasing barrier » ; 2 → numéros abandonnés dans le texte courant (« 2nd P » retiré §3), §2.0 garde l'historique ; 3 → §2.5 : sur place reste le pôle définitoire, la flexion est une re-pondération locale ; §2.3.1 : portée de l'interdit = parole du compagnon pendant la pratique, l'envie de sortir = effet après coup (§6.4) ; 5 → « rising and convex ».
+
 ## Décisions doctrinales en attente (Perig)
 1. §2 : l'ordre des 3 P est dit « barrière décroissante » mais va de la plus basse à la plus haute → corriger l'étiquette ou l'ordre ?
 2. §2.3.1 dit sur place = 2ᵉ P ; la convention dit ex-P1 ; §2.3 le traite 3ᵉ → rang canonique ?

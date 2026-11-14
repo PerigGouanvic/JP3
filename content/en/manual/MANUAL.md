@@ -204,7 +204,7 @@ This manual is the **single canonical source** of the JP³ framework, written in
 
 ## § 2. The Three Ps — anatomy of the constraint
 
-JP³ is defined by three constraints: **In Your Own Place** (*chez soi*), **At Your Own Pace** (*à son rythme*) and **In Place** (*sur place*). This section takes them one at a time, in an order fixed in 2026-07 ("order B") and described as an order of *decreasing barrier*: first In Your Own Place, which lifts the geographic threshold (the lowest barrier); then At Your Own Pace, which lifts the constraint of an imposed rhythm (an intermediate barrier); finally In Place, which abolishes the spatial destination altogether (the highest barrier).
+JP³ is defined by three constraints: **In Your Own Place** (*chez soi*), **At Your Own Pace** (*à son rythme*) and **In Place** (*sur place*). This section takes them one at a time, in an order fixed in 2026-07 ("order B") and ordered by *increasing barrier* (each step lifts a higher one): first In Your Own Place, which lifts the geographic threshold (the lowest barrier); then At Your Own Pace, which lifts the constraint of an imposed rhythm (an intermediate barrier); finally In Place, which abolishes the spatial destination altogether (the highest barrier).
 
 Each sub-section answers the same three questions: what the P excludes, what it makes possible, and what mechanistic function it performs. The barefoot condition is treated under In Place (§2.3.2), because it is what allows that P to produce its regime. Two cross-cutting sections close the chapter. §2.4 gives a definitional test of the three Ps by *via negativa*, the sleep test. §2.5 shows that the Ps are vectors that re-weight one another rather than rigid rules, and names the core that must hold while they do.
 
@@ -298,6 +298,8 @@ JP³ is stationary by definition. The practitioner does not "go out" for a run, 
 - If the practitioner describes an ambiguous sensation (fatigue, resistance, the ankle locking up), first check against the three-P triptych that the reasoning stays within the stationary regime, and only then recommend anything.
 - JP³ is **a complete activity in itself**, not a fragment of a training programme spread over several locations. Any suggestion that treats it as "a stage on a route elsewhere" betrays the doctrine.
 
+**Scope of the prohibition.** The rule governs what a companion says *during* the practice. It does not contradict the priming doctrine (§6.4), whose legitimate deliverable is "the urge to go out": that urge is an *after-effect* that arises once JP³ has done its work, felt and decided by the practitioner. The sleep test (§2.4) likewise speaks of going out and coming home as a description of what violates or restores the three Ps, not as an instruction given mid-session.
+
 **The general rule.** When a generic prior ("running = outdoors", "sport = field", "training = gym") conflicts with JP³ doctrine (In Place, At Your Own Pace, In Your Own Place), the doctrine wins. If a line of reasoning produces a recommendation that contradicts an established core tenet of the system, stop and check before saying it.
 
 #### §2.3.2 Barefoot — access condition to the regime, not an amplifier
@@ -361,7 +363,7 @@ A terminological reminder: the P concerned with home is **In Your Own Place**. A
 
 The three Ps are not rigid constraints that must all be met at once. They are **vectors that re-weight one another** according to circumstances. This was discovered on 2026-08-27 while running. Own Pace pulled forward into a pose-running-style forward-fall, In Place bent into horizontal displacement, and yet the JP³ regime held, because the **via negativa core** was not broken: the ankle-dominant spring-mass regime was maintained and the phasic-glycolytic system stayed excluded.
 
-The earlier framing treated In Place as almost synonymous with horizontal immobility. Perig identified this attachment as a bias that had made him miss rich variants (elastic heel strike, midfoot forward-fall). The method is defined as "least possible effort". The forward-fall costs *less* effort, since gravity does the work, so it *should* belong to JP³, and a strict reading of In Place wrongly disqualified it. "Least effort" is not passivity, however. Keeping the fatigable, phasic muscles out of the movement is itself the skill at the heart of the singularity (the standing soleus push-up, §1.2.8). The core is something one maintains, not something that happens on its own.
+The earlier framing treated In Place as almost synonymous with horizontal immobility. Perig identified this attachment as a bias that had made him miss rich variants (elastic heel strike, midfoot forward-fall). The method is defined as "least possible effort". The forward-fall costs *less* effort, since gravity does the work, so it *should* belong to JP³, and a strict reading of In Place wrongly disqualified it. This does not dissolve stationarity: In Place remains the defining pole of JP³ (§2.3). The bend is a local re-weighting around a stationary centre, never a route or a destination; what was a bias was treating strict immobility as the *criterion*, when the criterion is the via negativa core. "Least effort" is not passivity, however. Keeping the fatigable, phasic muscles out of the movement is itself the skill at the heart of the singularity (the standing soleus push-up, §1.2.8). The core is something one maintains, not something that happens on its own.
 
 **The rule.** A variant that reduces effort while preserving the via negativa core is valid JP³, even if it bends one of the three Ps. The core is the judge, and it has three criteria:
 
@@ -435,7 +437,7 @@ The soleus muscle, often overlooked, is a critical component in age-related mobi
 
 **Three articulated mechanics**
 
-**1. Heel as geometric lock of the 2nd P (strict In Place)**
+**1. Heel as geometric lock of In Place (strict In Place)**
 Landing heel-first ≈ practically stepping backward. Running In Place becomes self-locking: it is impossible to drift forward, and there is no longer any need to hold strictness cognitively. As soon as the pattern reverts toward a "tendency to go forward" (even without actual displacement), the mere shift of the center of gravity and of the plantar contact zone already creates fatigue. The heel activator = absolute *degré zéro* (degree zero) of In Place.
 
 **2. Passive elastic spring — spring-mass at minimal recruitment**
@@ -1556,7 +1558,7 @@ Both modes share the same anti-proprioceptive core: neither asks for presence to
 
 #### A hole in the model
 
-A limitation of the model as described so far must be named honestly. The preceding sections (§5.4 to §6.3) describe the x³ regime as positive concave: the curve rises from 0, crosses the line 3x at √3, and keeps rising. This is physiologically accurate for the initial segment and for the plateau phase that follows. But it leaves a question hanging: **how does one exit JP³?**
+A limitation of the model as described so far must be named honestly. The preceding sections (§5.4 to §6.3) describe the x³ regime as rising and convex (y = x³ for x > 0): the curve rises from 0, crosses the line 3x at √3, and keeps rising. This is physiologically accurate for the initial segment and for the plateau phase that follows. But it leaves a question hanging: **how does one exit JP³?**
 
 The model promises a self-resolution for which it supplies no explicit means. §4.3 (cascades) asserts that "one no longer wants to stop" and that "the best way to stop is to accelerate a lot up to a limit". As a phenomenological description this is true — it is what the body signals — but it leaves a blur: *what are the means of accelerating?* If the x³ regime is structurally sheltered from deleterious cascades, it is because it *avoids* the modes that would produce a stop signal. Does one exit, then, by voluntarily entering a mode one has spent the whole session avoiding? At this point the internal logic of the model has a hole.
 
