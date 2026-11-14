@@ -204,234 +204,187 @@ This manual is the **single canonical source** of the JP³ framework, written in
 
 ## § 2. The Three Ps — anatomy of the constraint
 
-Order by *decreasing barrier* (locked 2026-07-30, order B).
+JP³ is defined by three constraints: **In Your Own Place** (*chez soi*), **At Your Own Pace** (*à son rythme*) and **In Place** (*sur place*). This section takes them one at a time, in an order fixed in 2026-07 ("order B") and described as an order of *decreasing barrier*: first In Your Own Place, which lifts the geographic threshold (the lowest barrier); then At Your Own Pace, which lifts the constraint of an imposed rhythm (an intermediate barrier); finally In Place, which abolishes the spatial destination altogether (the highest barrier).
 
-**TOC §2**
-- §2.1 In Your Own Place (lowest barrier — geographic threshold lifted)
-- §2.2 At Your Own Pace (intermediate barrier — imposed-rhythm constraint lifted)
-- §2.3 In Place (highest barrier — spatial destination abolished)
-
-Each sub-section houses : (a) what the P excludes; (b) what it enables; (c) its own mechanistic function. Includes definitional test by *via negativa*, legitimate modulations, barefoot condition under §2.3 as the P-producer.
+Each sub-section answers the same three questions: what the P excludes, what it makes possible, and what mechanistic function it performs. The barefoot condition is treated under In Place (§2.3.2), because it is what allows that P to produce its regime. Two cross-cutting sections close the chapter. §2.4 gives a definitional test of the three Ps by *via negativa*, the sleep test. §2.5 shows that the Ps are vectors that re-weight one another rather than rigid rules, and names the core that must hold while they do.
 
 ### §2.0 Naming convention
 
-> **source:** `memory/feedback_jp3_nommer_p123.md`
+In discursive text (structural proposals, discussions, manual and article prose) the three Ps are written out in full, never abbreviated:
 
-Avoid the abbreviations `P1` / `P2` / `P3` in discursive exchanges (structural proposals, discussions, article text). Use the explicit names instead:
+- **In Place** (*sur place*) — jogging in place; formerly numbered P1.
+- **At Your Own Pace** (*à son rythme*) — temporal self-regulation; formerly P2.
+- **In Your Own Place** (*chez soi*) — the intimate domestic environment; formerly P3.
 
-- **sur place** — In Place (jogging in place — formerly P1 / In Place)
-- **à son rythme** — At Your Own Pace (temporal self-regulation — formerly P2 / At Your Own Pace)
-- **chez soi** — In Your Own Place (intimate domestic environment — formerly P3 / In Your Own Place)
+Their pairwise intersections are named the same way: **In Place × Pace**, **In Place × Own Place**, **Pace × Own Place**, and the **confluence of the three**. So one writes "the Pace × Own Place cell", not "the P2∩P3 cell".
 
-For intersections: **In Place × Pace**, **In Place × Own Place**, **Pace × Own Place**, **confluence of the three**.
-
-**Why:** Perig regularly forgets which P is which. The abbreviations impose a needless memory load that breaks the flow of discussion, especially in mobile-first use where one cannot easily reread a definition elsewhere on the screen.
-
-**How to apply:** Reserve P1/P2/P3 solely for contexts of strong space constraint (tables, tight diagrams, short headers). In all discursive text, proposals and exchanges, write the full names. Same for intersections: "Pace × Own Place cell" rather than "P2∩P3 cell".
+The numbers impose a needless memory load that breaks the flow of reasoning. Perig himself regularly forgets which P is which, and the problem is worse when reading on a phone, where a definition elsewhere on the screen cannot easily be reread. The abbreviations P1/P2/P3 are therefore kept only where space is genuinely tight: tables, dense diagrams, short headers.
 
 ---
 
 ### §2.1 In Your Own Place — chez soi
 
-> **source:** `content/en/article.md` §3.1 extract (In Your Own Place)
+**What it excludes.** In Your Own Place means that the individual chooses the environment, typically at home and in a minimal space: one square metre is enough. This removes the usual barriers to exercise: cost, equipment, weather, travel time, special shoes or clothing.
 
-**"In Your Own Place":** The environment is chosen by the individual, typically at home, in a minimal space (one square meter is enough).
+**What it enables.** A controlled environment. Silence can be adjusted, temperature controlled, external distraction reduced to zero, and safety is total. Together these favour a state of "meditation in motion" or "flow state". The home also allows tools of self-correction that would be awkward elsewhere. A mirror can be used, and the eyes can be closed to heighten proprioception. Barefoot practice, which is easy at home, has long been strongly recommended to maximise proprioceptive feedback and strengthen the intrinsic foot muscles. §2.3.2 shows that barefoot is in fact more than an amplifier: it is the access condition for the regime itself.
 
-- **Zero barriers:** This eliminates major obstacles such as cost, equipment needs, weather, travel time, and the need for special shoes or clothing.
-- **Controlled environment:** Allows for adjustable silence, controlled temperature, zero external distraction, and total safety, fostering a state of "meditation in motion" or "flow state."
-- **Barefoot practice:** Strongly recommended to maximize proprioceptive feedback and strengthen the intrinsic foot muscles. Using a mirror and the option of closing the eyes are additional tools for self-correction and heightened proprioception.
+Three refinements show that In Your Own Place means more than "private walls".
 
-#### §2.1.1 Threshold of perceptive solitude — a tacit prerequisite
+#### §2.1.1 The threshold of perceptive solitude — a tacit prerequisite
 
-> **source:** `memory/project_seuil_solitude_perceptive.md`
+In 2026-08, Perig observed a concrete difficulty: fitting the JP³ protocol in when other people are at home. A private physical space is not enough. An **inner social space** is also needed, a form of non-observation. The gaze of those close to us does not have to be judgmental to weigh on us. Its mere *possibility* is enough to block the gesture.
 
-**Lived observation (Perig, 2026-08-06)**: concrete difficulty fitting the JP³ protocol in when there are people at home. Private physical space is not enough — an **inner social space** is also needed, a form of non-observation. The gaze of those close to us need not be judgmental to weigh on us: its mere *possibility* is enough to block the gesture.
+This touches a tacit assumption of the framework, that "In Your Own Place = a space of motor freedom". Behind it lies an invisible prerequisite: **perceptive availability to oneself**, which private walls alone do not guarantee. The observation is a counterpoint to the promise "no gym needed, no equipment needed", and it deserves to be acknowledged honestly as a lived limit of the practice. It is still open whether the threshold is contingent (tied to a particular period of life) or a structural feature of the protocol, and whether it holds or changes over time. One possible extension, towards the *physiological rights* project, is a right to a *perceptive* space of one's own, not merely a physical one.
 
-**Why**: this observation potentially touches a tacit assumption of the article — "In Your Own Place = space of motor freedom." Yet an invisible prerequisite would remain: **a perceptive availability to oneself**, not guaranteed by private walls alone. A counterpoint to the thesis "no gym needed, no equipment needed."
+The threshold has already produced its own partial answer: the furtive form described in §2.1.3. See also §6.6.
 
-**How to apply**:
-- When Perig returns to the article, consider a short, honest passage (§3 or a "lived limits" section) acknowledging this threshold.
-- Check whether the pattern holds over time or evolves — it could be a contingent obstacle (a particular moment) or a structural feature of the protocol.
-- Possible bridge to `physiological-rights/`: a right to a perceptive space of one's own, not merely a physical one.
+#### §2.1.2 Own Place welcomes bodily exaggeration — "normal" is relative to the starting state
 
-#### §2.1.2 Own Place welcomes bodily exaggeration — the "normal" is relative to the starting state
+A second refinement settles the status of the exaggerated, odd-looking movements gathered under the working name "silly walks". These are not attentive variants that contradict the ego/echo doctrine (§6.3). They recognise that "normal" is relative to the body's starting state. Perig's own wording:
 
-> **source:** `memory/project_own_place_exageration_relative.md`
-
-Refinement of the 3rd P (In Your Own Place) arising from Q6 of the 2026-09-05 review. Resolution of the status of the draft `silly walks.md`: **these are not attentive variants contradicting ego/echo; they are the recognition that "normal" is relative to the starting state**.
-
-**Perig's exact wording:** *"they're not variants when you think about it because actually when someone starts out in a state of great fatigue or advanced age or injuries etc the normal movement is in itself a contortion. that's what I had already recorded about dorsiflexion which can seem exaggerated depending on whether you do it on waking or later. someone who has lived with an armor for years considers normal head carriage a real contortion. in the pleasure dimension there's also the fact that some exaggerated movements are more pleasant but stranger. that really fits into the p own place."*
+> *"they're not variants when you think about it because actually when someone starts out in a state of great fatigue or advanced age or injuries etc the normal movement is in itself a contortion. that's what I had already recorded about dorsiflexion which can seem exaggerated depending on whether you do it on waking or later. someone who has lived with an armor for years considers normal head carriage a real contortion. in the pleasure dimension there's also the fact that some exaggerated movements are more pleasant but stranger. that really fits into the p own place."*
 > *FR original:* « ce ne sont pas des variantes quand on y pense parce que en fait lorsque quelqu'un commence dans un état de grande fatigue ou d'âge avancé ou de blessures etc le mouvement normal est en lui-même une contorsion. c'est ce que j'avais déjà enregistré au niveau de la dorsiflexion qui peut sembler exagérée selon qu'on la pratique au réveil ou plus tard. quelqu'un qui vit avec une cuirasse depuis des années considère le port de tête normal comme une véritable contorsion. dans la dimension du plaisir il y a aussi que certains mouvements exagérés sont plus agréables mais plus étranges. ça rentre vraiment dans le p own place. »
 
-**What this articulates:**
+Four points follow from this.
 
-1. **"Normal" in JP³ is not absolute — it is indexed to the body's starting state.** For an armored body (*cuirasse*, character armor, Reich), resuming anatomical head carriage is already exaggerated. For a body fatigued on waking, a simple dorsiflexion is a feat. What mainstream fitness calls "normal" is already silly walks for someone who no longer has access to it.
+1. **In JP³, "normal" is not absolute. It is indexed to the starting state.** For an armoured body (*cuirasse*, character armour in Reich's sense; see §5.2), returning to anatomical head carriage already feels exaggerated. For a body fatigued on waking, a simple dorsiflexion is a feat. What mainstream fitness calls "normal" is already a silly walk for someone who no longer has access to it.
+2. **The line between normal and silly moves with the state of the body.** What seems exaggerated on waking becomes ordinary in the afternoon. What looks contortionist to a beginner becomes natural to a regular practitioner. The practice welcomes the whole spectrum.
+3. **Own Place welcomes non-normed bodily exaggeration.** In Your Own Place is not only a private physical space, and not only the absence of a destination (the tolerated forward-fall; see §2.5). It is also **the space where one can dare ugly, ridiculous, contortionist movements without being observed**. Freedom of non-normed bodily expression is part of what this P is. This is also why the threshold of perceptive solitude (§2.1.1) matters so much.
+4. **Pleasure and strangeness.** Some exaggerated movements are pleasant simply because they are strange. The pleasure of the unusual is part of the practice, whatever its functional use. It is an intrinsic driver of JP³, alongside the pleasure of priming and the euphoria of destination (§6.5).
 
-2. **The "normal / silly" line shifts with the state of the body.** What seems exaggerated on waking becomes ordinary in the afternoon; what looks contortionist to a beginner becomes natural to a regular practitioner. The setup welcomes the whole spectrum.
+#### §2.1.3 Furtive JP³ / standing JP³ — a variant born from the solitude constraint
 
-3. **Own Place welcomes non-normed bodily exaggeration.** P₃ (In Your Own Place) is not only private physical space, nor only the absence of a destination (forward-fall tolerated, memory §4.6.6). It is also **the space where one can dare ugly, ridiculous, contortionist movements, unobserved**. Freedom of non-normed bodily expression is constitutive of the 3rd P.
+The day after the perceptive-solitude threshold was first observed (2026-08-07), the constraint produced a variant. Perig was jogging at home when another person came into the room, and he stopped in order to "become normal again". Then, while doing the dishes, with his hands busy and his body needing to stay upright and fairly fixed to handle objects, he realised he could **continue JP³ while doing the dishes**, provided his pelvis was very mobile.
 
-4. **Pleasure/strangeness dimension.** Some exaggerated movements are simply pleasant because they are strange — the pleasure of the unusual is part of the setup, independently of any functional utility. It is an intrinsic driver of JP³, alongside the pleasure of priming and the euphoria of destination.
+Several insights followed, in order:
 
-#### §2.1.3 Furtive JP³ / standing JP³ — variant born from perceptive-solitude constraint
+1. **The pelvis as the elastic absorber of the run.** Pelvic elasticity is an *essential* element of efficient running. Without it, the impact reverberates into the lower joints (ankles, knees). Keeping the upper body still *forces* the pelvis to move, and so *teaches* the right mechanics.
+2. **A personal diagnosis.** Perig found that he spontaneously runs **tense and uneconomically**. The furtive mode reveals this tension as a flaw to correct.
+3. **Cascading consequences**: better running in itself (protective biomechanics); the ability to practise JP³ **in the presence of other people**; and the ability to **start** JP³ at any moment, without adopting a "starting posture" that gives the intention away.
+4. **An anthropological resonance.** The form resembles the dances of some (not all) of the Indigenous peoples who are Perig's neighbours in Canada: a grounded body, movement centred at the pelvis.
+5. **A radicalisation of the protocol.** JP³ becomes **a way of inhabiting the everyday body** rather than a dedicated moment: dishes, cooking, brushing teeth, standing on the phone.
+6. **The key biomechanical marker.** In this form the **knees are clearly flexed**. When they are not flexed enough, one falls back into a sprinter's posture, which is *not* what is wanted.
 
-> **source:** `memory/project_jp3_furtif_decouverte.md`
-
-**Perig's discovery (2026-08-07)** — born directly from the topical question of 2026-08-06 ("threshold of perceptive solitude").
-
-**Context**: while jogging JP³ at home, another person is present in the room. Perig stops in order to "become normal again." Then, while doing the dishes (hands busy, body needing to stay upright and relatively fixed to handle objects), he realizes he can **continue JP³ while doing the dishes** — provided he has excellent pelvic mobility.
-
-**The insights, in order:**
-
-1. **The pelvis as elastic absorber of the run**
-   - An *essential* element of efficient running.
-   - Without it, the impact reverberates into the lower joints (ankles, knees).
-   - Upper-body immobility *forces* pelvic mobility — and thus *teaches* the right mechanics.
-
-2. **Personal diagnosis**: Perig discovers that he spontaneously runs **tense and uneconomically**. The furtive mode reveals this tension as a flaw to correct.
-
-3. **Cascading consequences**:
-   - Quality of the running itself (protective biomechanics).
-   - Ability to integrate JP³ **in the presence of other people**.
-   - Ability to **start** JP³ at any time, without having to set up a "starting posture" that betrays the intention.
-
-4. **Anthropological resonance**: resembles the dances of Indigenous peoples (Perig's neighbors in Canada — not all, but some). Grounded body, movement centered at the pelvis.
-
-5. **Radicalization of the protocol**: JP³ becomes **a way of inhabiting the everyday body** rather than a dedicated moment. Dishes, cooking, tooth-brushing, standing on the phone, etc.
-
-6. **Key biomechanical marker**: the **knees are notably flexed** in this form. When they are not flexed enough, one falls back into a sprinter's posture — *not* what we are after.
-
-**Why (importance)**:
-- **Partially resolves the threshold of perceptive solitude**: the constraint ("being observable") produced its own way out ("invisible form"), and this way out is biomechanically *better* than the spontaneous form. The obstacle became the teacher.
-- **Radicalizes the fundamental promise** of JP³ (no gym, no equipment, no dedicated moment) — carrying it to its most integrated form.
-- **Potentially opens a formalizable variant**: "furtive JP³" / "standing JP³" / "integrated JP³".
+The episode matters for three reasons. First, it **partly resolves the threshold of perceptive solitude**: the constraint (being observable) produced its own way out (an invisible form), and that way out is biomechanically *better* than the spontaneous form. The obstacle became the teacher. Second, it takes the basic promise of JP³ (no gym, no equipment, no dedicated moment) to its most integrated form. Third, it opens a variant that can be formalised, called "furtive", "standing" or "integrated" JP³ (see §5.5.2, and the incident regime in §3.2.4).
 
 ---
 
 ### §2.2 At Your Own Pace — à son rythme
 
-> **source:** `content/en/article.md` §3.1 extract (At Your Own Pace)
+At Your Own Pace is the heart of JP³'s adaptability. **What it excludes** is any imposed rhythm. **What it enables** is intensity regulated entirely by the individual. Its **mechanistic function** depends on three elements.
 
-**"At Your Own Pace":** This is the heart of JP³'s adaptability. Intensity is entirely self-regulated by the individual.
-
-- **Ultra-slow start:** The protocol begins at a "barely perceptible," "too easy," even "boring" pace for the first 10–15 minutes. This slow start aims to contain the oxygen deficit, stabilize ventilation, and preserve tissues.
-- **Listening to sensations:** The individual is encouraged to rely on their sensations, on the ability to speak in full sentences ("talk test"), and on the overall feeling of being able to sustain the intensity for 60–90 minutes. Any sudden acceleration of breathing should prompt them to slow down.
-- **Progression through boredom:** Intensity can increase naturally, not through willpower, but through a "self-regulation" in which boredom prompts an increase in tempo. This progression occurs without decisional friction.
+- **An ultra-slow start.** For the first 10–15 minutes the protocol runs at a "barely perceptible", "too easy", even "boring" pace. This slow start is meant to contain the oxygen deficit, stabilise ventilation and protect the tissues.
+- **Listening to sensations.** The practitioner relies on bodily sensations: the ability to speak in full sentences (the "talk test") and the overall sense of being able to keep up this intensity for 60–90 minutes. Any sudden acceleration of breathing is a signal to slow down.
+- **Progression through boredom.** Intensity can rise naturally, through self-regulation rather than willpower: boredom prompts an increase in tempo. The progression happens without any friction of decision.
 
 ---
 
 ### §2.3 In Place — sur place
 
-> **source:** `content/en/article.md` §3.1 extract (Jogging in Place)
+In Place means jogging or gently bouncing on the spot. **What it excludes** is horizontal displacement and, more fundamentally, any spatial destination. **What it enables** is a concentration of effort on vertical push-off and on activation of the posterior-chain muscles, notably the soleus. The height of the "jog" can range from a light vertical bounce to a true jog with high knee lift, always self-regulated. Its **mechanistic function**, the ankle-dominant spring-mass regime, depends on a condition treated in §2.3.2: bare feet.
 
-**"Jogging in Place":** The movement consists of jogging or gently bouncing in place. There is no horizontal displacement, concentrating the effort on vertical push-off and activation of the posterior chain muscles, notably the soleus. The "jogging" height can range from a light vertical bounce to a true jog with high knee lift, always in a self-regulated manner.
+#### §2.3.1 JP³ is In Place — never speak of "coming back in" or "going out"
 
-#### §2.3.1 JP³ is In Place — never speak of "coming back in"/"going out"
+JP³ is stationary by definition. The practitioner does not "go out" for a run, and so cannot "come back in". Perig runs in place at home, on a balcony, in the living room or on a terrace. Any suggestion that treats him as being outdoors is doctrinally absurd, and when it comes from a companion it is a sign of outright context corruption. This note is aimed at companions, whether human or AI, and especially at the agent layer of the JP³ system (§6.7).
 
-> **source:** `memory/feedback_jp3_est_in_place.md`
+**The incident.** On 2026-09-14, during a running companionship session, an AI companion suggested that Perig "go back inside to do some banded distraction" while he was in fact running in place at home. He had just written that he was running in place with his feet in snowplow geometry (*chasse-neige*; see §4.2.3). The companion let its prior (running = outdoor displacement) override everything the doctrine provided: In Place, the ankle-dominant spring-mass regime, barefoot as access condition, the stationary snowplow, fascia at *degré zéro* (degree zero). Perig called the error a "strong signal".
 
-JP³ is **In Place** — it is the second constitutive P (Own Pace / In Place / In Your Own Place). Perig does not "go out" for a run, so he cannot "come back in." He runs in place, at home (balcony, living room, terrace). Suggesting he "go back inside to do something else" as if Perig were outdoors is **doctrinally absurd** and signals outright context corruption.
-
-**Why**: incident of 2026-09-14 — during a JP³ running companionship session, I suggested that Perig "go back inside to do some banded distraction" while he was running in place at home. Perig had nonetheless explicitly written in a previous message "when I run in place and keep my feet in snowplow" (*chasse-neige*, snowplow geometry). I let my LLM prior (running = outdoor displacement) overdetermine my reading against all available memories (In Place, ankle-dominant spring-mass regime, barefoot as access condition, stationary snowplow, fascia *degré zéro* (degree zero), etc.). Perig named the corruption a "strong signal" — this is fundamental feedback.
 > *FR original:* « quand je cours sur place et que je garde les pieds en chasse-neige » ; « signal fort »
 
-**How to apply**:
-- Never use the verbs "come back in," "go out," "go," "arrive somewhere," "shorten the run" as spatial metaphors of displacement when Perig is doing JP³
-- If a complementary tool (banded distraction, foam roller, massage gun, gym) is relevant, name it as "to do alongside" or "after the session," never as a spatial substitute ("go do X elsewhere")
-- If Perig describes an ambiguous sensation (fatigue, resistance, ankle locking up), before recommending anything, **mentally reread the memories of the three-P triptych** to check that we remain within the stationary regime
-- JP³ is a **complete activity in itself**, not a fragment of a multi-location training program. Any suggestion that treats JP³ as "a stage on a route elsewhere" betrays the doctrine
+**Guidance for companions:**
 
-**More general case**: when the LLM prior ("running = outdoors," "sport = field," "training = gym") conflicts with JP³ doctrine (**In Place, Own Pace, In Your Own Place**), the doctrine wins, not the prior. If a reasoning step produces a recommendation that contradicts one of the ★★ or ★★★ memories of the JP³ system, stop and check before formulating it.
+- Never use "come back in", "go out", "go", "arrive somewhere" or "shorten the run" as spatial metaphors of displacement while JP³ is under way.
+- If a complementary tool is relevant (banded distraction, foam roller, massage gun, gym), present it as something "to do alongside" or "after the session", never as a spatial substitute ("go do X elsewhere").
+- If the practitioner describes an ambiguous sensation (fatigue, resistance, the ankle locking up), first check against the three-P triptych that the reasoning stays within the stationary regime, and only then recommend anything.
+- JP³ is **a complete activity in itself**, not a fragment of a training programme spread over several locations. Any suggestion that treats it as "a stage on a route elsewhere" betrays the doctrine.
 
-#### §2.3.2 Barefoot = access condition to the regime, not amplifier
+**The general rule.** When a generic prior ("running = outdoors", "sport = field", "training = gym") conflicts with JP³ doctrine (In Place, At Your Own Pace, In Your Own Place), the doctrine wins. If a line of reasoning produces a recommendation that contradicts an established core tenet of the system, stop and check before saying it.
 
-> **source:** `memory/project_pieds_nus_condition_acces.md`
+#### §2.3.2 Barefoot — access condition to the regime, not an amplifier
 
-The article's current framing (§2.2.3 "The true use of the feet") treats barefoot as an **amplifier** ("strongly recommended to maximize proprioceptive feedback"). Perig's experience of 2026-08-27 suggests a stronger status: a **permissive condition** of the JP3 core.
+The earlier framing, carried over from the article (§2.1 above; the article's §2.2.3, "The true use of the feet"), treated bare feet as an **amplifier**, "strongly recommended to maximise proprioceptive feedback". Experience since 2026-08 supports a stronger status. Barefoot is a **permissive condition** of the JP³ core. Bare feet therefore have two distinct functions:
 
-Empirical signal: "I tried with socks and nothing works: everything is much less easy and natural if you're not barefoot."
+1. a long-term **amplifier of proprioception** (the earlier status, still valid);
+2. the **access condition to the spring-mass regime** (the stronger status).
+
+In the second function, barefoot belongs with the other negative constraints of the framework (*via negativa*, §6.2). It is what *prevents* a fall back into the phasic regime.
+
+**The empirical signal (2026-08-27):**
+
+> "I tried with socks and nothing works: everything is much less easy and natural if you're not barefoot."
 > *FR original:* « j'ai essayé avec les chaussettes et rien n'y fait : tout est beaucoup moins facile et naturel si on est pas pieds nus. »
 
-**Why:** mechanistic hypothesis — without bare plantar contact, the brain does not trust the fascia-tendon-soleus rebound regime, and by default re-engages active control strategies (recruitment of phasic quads). The sock blurs tactile feedback just enough that the elastic regime does not prime. The shoe does worse. The discoveries of 2026-08-27 (elastic heel strike, midfoot forward-fall) probably depended on the floor under bare feet — without it, the forward-fall would have turned into "I catch myself with my quads."
+**Mechanistic hypothesis.** Without bare plantar contact, the brain does not trust the fascia–tendon–soleus rebound regime, and by default it re-engages active control strategies, recruiting the phasic quadriceps. A sock blurs tactile feedback just enough to keep the elastic regime from priming; a shoe does worse. The variants discovered in 2026-08 (elastic heel strike, midfoot forward-fall; §2.5) probably depended on the floor under bare feet. Without it, the forward-fall would have turned into "I catch myself with my quads". This also explains why Perig missed these variants for so long. An earlier test in socks failed to prime the regime, so the variant was wrongly rejected, and he did not notice that the sock, not the variant, was the problem.
 
-Also explains why Perig missed these variants for so long: earlier test with socks → no priming of the regime → variant wrongly rejected → he did not notice that it was the sock that was blocking, not the variant.
+The hypothesis overlaps the deep postural chain thesis (§4.1.3): the plantar fascia is the chain's lower entry point. One line of corroboration remains to be followed up: the barefoot-running literature on foot-strike transition and muscle recruitment (heel strike in shoes versus mid/forefoot strike barefoot).
 
-**How to apply:**
-- Reword §2.2.3 to distinguish two functions of barefoot: (1) long-term proprioception amplifier [current status] and (2) **access condition to the spring-mass regime** [status to be added]
-- Place barefoot in the same conceptual family as the other negative constraints (via negativa) — it is what *prevents* falling back into the phasic regime
-- Point to corroborate: barefoot running literature on foot-strike transition and muscle recruitment (heel strike in shoes vs. mid/forefoot barefoot)
-- Overlaps the deep postural chain thesis (memory 2026-08-16) — the plantar fascia is the chain's lower entry point
+**Clinical confirmation (2026-09-20).** It proved impossible to prime the regime even at home, in a light jog, in socks or shoes. Perig's threshold and zone of giftedness are **strictly barefoot**. The hypothesis is now established.
 
-**Clinical confirmation 2026-09-20**:
-**Strong signal**: impossible to prime the regime even at home in a light little jog with socks or shoes. Perig's threshold and zone of giftedness are **strictly barefoot**. The hypothesis has become established.
+**Clinical corollary: the recurrent soccer pattern.** Over several months, Perig's repeated Achilles injuries in soccer were **not primarily** a problem of intensity (compared with home jogging). The cause is structural:
 
-**Clinical corollary — recurrent soccer pattern**:
-The repeated Achilles injuries in soccer over several months **are not primarily** a problem of intensity (vs. home jogging). Structural cause:
-- Cleats + ultra-cushioning non-Newtonian soles + socks
-- ⇒ spring-mass regime does not prime
-- ⇒ soleus/calves do not react instantly
-- ⇒ the Achilles absorbs the load the rebound would have absorbed
+- cleats + ultra-cushioning non-Newtonian soles + socks
+- ⇒ the spring-mass regime does not prime
+- ⇒ the soleus and calves do not react instantly
+- ⇒ the Achilles absorbs the load that the rebound would have absorbed.
 
-Overlaps project_imagerie_cheville_ordonnance.md: the causal mechanism of the right insertional Achilles tendinopathy is coming into focus.
+This brings into focus a causal mechanism for his right insertional Achilles tendinopathy. It also invalidates the naive rule "do not conflate soccer and JP³", which is explicitly withdrawn. The two cannot be kept apart, precisely because the JP³ regime could protect the Achilles in soccer and is currently *gated by barefoot*. There is a **missing bridge** to name.
 
-**Explicit withdrawal** of the former bullet "do not conflate soccer / JP³." The naive separation is invalidated by clinical experience: it is precisely because the JP³ regime could protect the Achilles in soccer, and because it is currently *gated by barefoot*, that there is a **missing bridge** to name.
+**Dependence or rehabilitation stage?** Exclusive barefoot practice can be read in two ways. (1) It *grooves a dependence* on bare plantar feedback, in which case shod soccer stays a zone of structural risk indefinitely. (2) It is the necessary rehabilitation stage before a progressive transfer to minimalist shoes, in which case an explicit work-stream (a progressive ramp) is needed.
 
-**Open question — dependence vs. rehabilitation stage**:
-Two possible readings of exclusive barefoot JP³ practice:
-1. It *grooves a dependence* on bare plantar feedback — in which case shod soccer remains a zone of structural risk indefinitely
-2. It is the necessary rehabilitation stage before progressive transfer to minimalist shoes — in which case an explicit work-stream needs opening (progressive ramp)
+**A hybrid answer (2026-09-20, evening).** Further reading and clinical experimentation gave a hybrid answer: **neither, it is normal contextual specificity.** The training-transfer literature (Bosch) supports the principle that, for the central nervous system, these are not two intensities of the same gesture but **two distinct motor tasks**. Populations who have worn shoes all their lives carry no relative excess risk within their own regime. Perig's risk comes from the **differential** between his two separately calibrated regimes.
 
-**Partial resolution 2026-09-20 (evening)** — see `memory/project_warmup_piedsnus_prematch.md`:
+The unified mechanism is feed-forward pre-activation of the triceps surae, triggered by plantar mechanoreceptors (developed in §4.2.2). Pacinian corpuscles act as a 20–1000 Hz band-pass filter sensitive to rate of change. Padding spreads the impulse, which suppresses the signal at depth. Robbins & Hanna (1980 onwards) describe the discomfort–impact illusion. EMG comparisons show 10–24% more gastrocnemius/soleus pre-activation barefoot than shod.
 
-The "dependence vs. rehabilitation" question receives a **hybrid answer** via a long Perplexity thread + clinical experimentation:
-
-**Neither — it is normal contextual specificity.** Principle validated by the training-transfer literature (Bosch): these are not two intensities of the same gesture but **two distinct motor tasks** from the CNS's point of view. Populations shod all their lives have no relative excess risk within their own regime. Perig's risk comes from the **differential** between his two separately calibrated regimes.
-
-**Unified mechanism specified**: feed-forward pre-activation of the triceps surae triggered by plantar mechanoreceptors. Pacinian corpuscles = 20-1000 Hz bandpass sensitive to rate of change (padding spreads the impulse → suppression of the signal at depth). Robbins & Hanna 1980+ (discomfort-impact illusion). EMG barefoot vs. shod: +10-24% gastroc/soleus pre-activation barefoot.
-
-**Doctrinal stance**: accept the two regimes as distinct, use barefoot as a **primer** immediately before the shod regime (partial carry-over documented).
-
-**Validated clinical application**: 5 min of fast/light-impact barefoot warm-up → spontaneous solid single-leg hopping = gold-standard post-Achilles test (RSI>0.5). Extension of the JP³ framework toward a pre-activation use before shod activity.
+**Doctrinal stance.** The two regimes are accepted as distinct, and barefoot is used as a **primer** immediately before the shod regime, since partial carry-over is documented. **Validated clinical application:** five minutes of fast, light-impact barefoot warm-up was followed by spontaneous, solid single-leg hopping, which is the gold-standard post-Achilles test (RSI > 0.5). This extends the JP³ framework to a pre-activation use before shod activity (§5.6).
 
 ---
 
 ### §2.4 Definitional test by via negativa — the sleep test
 
-> **source:** `memory/project_3P_test_definitoire_sommeil.md`
+On 2026-08-27, walking beside his bike and looking for a "sleep" counterpart to JP³, Perig found that the three Ps are more than design constraints. They are the **conditions of somatic autonomy**, and violating all three at once produces exactly the opposite experience:
 
-Discovery 2026-08-27 while walking beside the bike, looking for a "sleep" counterpart to JP³. The three Ps (Jogging in Place, In Your Own Place, At Your Own Pace) are not only design constraints of JP³ — they are the **conditions of somatic autonomy**, and their simultaneous violation produces exactly the opposite experience:
+- violating **In Your Own Place** (leaving home) → over-stimulation;
+- violating **At Your Own Pace** (letting oneself be stimulated) → going against one's natural rhythm;
+- violating **In Place** (being in motion, or on stage) → loss of control.
 
-- Violating **Own Place** (leaving home) → over-stimulation
-- Violating **Own Pace** (letting oneself be stimulated) → going against the natural rhythm
-- Violating **In Place** (being in motion/on stage) → loss of control
+The result is a desire to go home, a need to get back to a place of one's own. The body is signalling that its autonomy is compromised.
 
-Result: a desire to go home, a need to regain a place of one's own. The body signals that autonomy is compromised.
+**Corollary: the sleep counterpart of JP³ does not need to be invented.** It is **the return towards the three Ps**. Walking home restores In Your Own Place, slowing down restores At Your Own Pace, and settling down restores In Place. The nap is what happens when the three Ps are restored after being violated. The core is the same, run in two temporal directions. JP³ activates it from the bottom of the curve (priming → exit). Sleep lets it descend from the peak of violation (return → settling).
 
-**Corollary — the sleep counterpart of JP³ does not need to be invented**: it is **the return toward the three Ps**. Walking home = restoration of Own Place. Deceleration = restoration of Own Pace. Settling down = restoration of In Place. The nap is what happens when the three Ps are restored after violation. Same core, two temporal directions: JP³ activates this core from the bottom of the curve (priming → exit); sleep lets it descend from the peak of violation (return → settling).
+This closes the doctrine's loop at its root, because Perig invented JP³ in response to his sleep problems. It also avoids building a separate device, and it shows that the three Ps are more fundamental than a morning-method recipe. They describe a **protected zone of somatic autonomy**, of which JP³ (morning activation) and sleep (evening descent) are two modes. The three Ps should therefore be understood not as parameters of a device but as conditions from which several states derive: activation, descent, sleep. This is a broader frame than the morning method alone: JP³ as a return to the three Ps. Any future work on sleep within the framework should start from the topology "violation → return" rather than look for a mirror device.
 
-**Why:** Perig invented JP³ because of his sleep problems — a "sleep" counterpart closes the loop of the doctrine at its root. This discovery avoids building a separate device and reveals that the three Ps are more fundamental than a mere morning-method recipe: they describe a **protected zone of somatic autonomy** of which JP³ (morning activation) and sleep (evening descent) are the two modes.
-
-**How to apply:**
-- Consider the three Ps no longer as parameters of a device but as **conditions of somatic autonomy** from which several states derive (activation, descent, sleep)
-- For any future work on sleep within the JP³ framework: start from the "violation → return" topology rather than looking for a mirror device
-- Important terminological precision: the third P is **In Your Own Place**, not "Prompted" (an earlier hallucination by the humanoid, to be corrected if it reappears)
-- Article lead: this discovery could constitute its own section on "JP³ as a return to the three Ps" — a broader frame than that of the morning method alone
+A terminological reminder: the P concerned with home is **In Your Own Place**. A spurious label, "Prompted", has appeared in some generated text and should be corrected wherever it reappears.
 
 ---
 
-### §2.5 Modulation of the 3 P — grammar of re-weighting
+### §2.5 Modulation of the three Ps — a grammar of re-weighting
 
-> **source:** `memory/project_3P_modulation_grammaire.md`
+The three Ps are not rigid constraints that must all be met at once. They are **vectors that re-weight one another** according to circumstances. This was discovered on 2026-08-27 while running. Own Pace pulled forward into a pose-running-style forward-fall, In Place bent into horizontal displacement, and yet the JP³ regime held, because the **via negativa core** was not broken: the ankle-dominant spring-mass regime was maintained and the phasic-glycolytic system stayed excluded.
 
-The three Ps (Jogging in Place, In Your Own Place, At Your Own Pace) are not rigid constraints to be respected simultaneously, but **vectors that re-weight one another** according to circumstances. Today, 2026-08-27, a discovery while running: Own Pace pulled forward (pose-running-style forward-fall), In Place bent (horizontal displacement), and the JP3 regime held — because the **via negativa core** (ankle-dominant spring-mass regime, exclusion of the phasic-glycolytic) was not broken.
+The earlier framing treated In Place as almost synonymous with horizontal immobility. Perig identified this attachment as a bias that had made him miss rich variants (elastic heel strike, midfoot forward-fall). The method is defined as "least possible effort". The forward-fall costs *less* effort, since gravity does the work, so it *should* belong to JP³, and a strict reading of In Place wrongly disqualified it. "Least effort" is not passivity, however. Keeping the fatigable, phasic muscles out of the movement is itself the skill at the heart of the singularity (the standing soleus push-up, §1.2.8). The core is something one maintains, not something that happens on its own.
 
-**Why:** earlier framing treated "In Place" as a near-synonym of horizontal immobility. Perig explicitly identified this favorable prejudice as a bias that made him miss rich variants (elastic heel strike, midfoot forward-fall). The method is defined as "least possible effort" — the forward-fall is *less* effort (gravity does the work), so it *should* belong to JP3, and strict "In Place" wrongly disqualified it.
+**The rule.** A variant that reduces effort while preserving the via negativa core is valid JP³, even if it bends one of the three Ps. The core is the judge, and it has three criteria:
 
-**How to apply:**
-- When a variant reduces effort while preserving the via negativa core, retain it as valid JP3 even if it bends one of the three Ps
-- The via negativa core is the judge: no phasic-glycolytic recruitment, ankle-dominant spring-mass preserved, self-deleterious cascades not triggered
-- Consistent with the SPU via negativa family axis (memory of 2026-08-17): the core is a shared negative constraint, not a positive equivalence
-- Proposed vocabulary: "modulation between Ps," "re-weighting according to circumstances," "three Ps as vectors and not rigid constraints"
+- no phasic-glycolytic recruitment;
+- the ankle-dominant spring-mass regime is preserved;
+- self-deleterious cascades are not triggered.
+
+This matches the via negativa reading of the soleus push-up family (§6.2): what JP³ shares with the SPU is a negative constraint, not a positive equivalence. The vocabulary to use is "modulation between Ps", "re-weighting according to circumstances", and "the three Ps as vectors, not rigid constraints".
+
+> **Sources (§2):**
+> - `memory/feedback_jp3_nommer_p123.md`
+> - `content/en/article.md` §3.1 extract (In Your Own Place)
+> - `memory/project_seuil_solitude_perceptive.md`
+> - `memory/project_own_place_exageration_relative.md`
+> - `memory/project_jp3_furtif_decouverte.md`
+> - `content/en/article.md` §3.1 extract (At Your Own Pace)
+> - `content/en/article.md` §3.1 extract (Jogging in Place)
+> - `memory/feedback_jp3_est_in_place.md`
+> - `memory/project_pieds_nus_condition_acces.md`
+> - `memory/project_warmup_piedsnus_prematch.md`
+> - `project_imagerie_cheville_ordonnance.md`
+> - `memory/project_3P_test_definitoire_sommeil.md`
+> - `memory/project_3P_modulation_grammaire.md`
 
 ---
 
@@ -1453,309 +1406,318 @@ See §4.2.2 for the full treatment of the barefoot pre-match warm-up protocol �
 
 ## § 6. Doctrine
 
-Section irreducibly specific to JP³. No known rivals.
+This section is irreducibly specific to JP³; no known rival framework holds these positions. The preceding sections describe what the body does during JP³; this one states what the practice *is*, what it refuses to be, and why.
 
-**TOC §6**
-- §6.1 The paradox of liberating weakness *(migrated from article.md §3.4)*
-- §6.2 *Via negativa* — the design constraint (`project_famille_spu_via_negativa`)
-- §6.3 Ego and echo — body autonomous, mind free (`research-singularite` §4.6.8; `project_ego_echo_doctrine`; incident mode = mode 2 return)
-- §6.4 Priming, not session — the post-plateau phase (`research-singularite` §4.6.9; `project_amorcage_vs_seance`)
-- §6.5 Euphoria as destination (`project_euphoria_destination`)
-- §6.6 Perceptual solitude threshold (`project_seuil_solitude_perceptive`)
-- §6.7 The agent as embodiment layer (`project_agent_couche_incarnation`)
+The seven doctrines hang together as a single argument. It starts from an observation: people in their weakest states often have their best sessions, because weakness makes it physically impossible for the ego to sabotage a natural progression (§6.1). Generalised, that observation becomes a design principle: JP³ is defined less by what it does than by what it excludes — fatigable phasic-glycolytic recruitment first, but also metrics, destinations and self-monitoring (§6.2). The attentional consequence of that exclusion is the doctrine of ego and echo: because the primed regime needs no vigilance, the body can run autonomously while the mind is free, and JP³ actively invites the practitioner to do something else (§6.3). The product is then redefined: JP³ is not a self-sufficient session but a priming, whose deliverable is the urge to go out, and whose anti-scope is stated explicitly (§6.4). What the ascending trajectory tends toward when it succeeds is named: euphoria, a destination that is fuzzy but operative (§6.5). Two conditions make all of this possible in practice. One is perceptual: the practitioner must feel unobserved (§6.6). The other is relational: a conversational agent acts as a constitutive third layer of the system, supplying timing, anchoring and gentle accountability without prescribing or monitoring (§6.7).
+
+**Contents**
+- §6.1 The paradox of liberating weakness
+- §6.2 *Via negativa* — the design constraint
+- §6.3 Ego and echo — body autonomous, mind free (with §6.3.1, the incident regime as mode 2)
+- §6.4 Priming, not session — the post-plateau phase (with §6.4.1, priming at the scale of the single strike)
+- §6.5 Euphoria as destination — fuzzy but operative
+- §6.6 The perceptual solitude threshold
+- §6.7 The agent as embodiment layer — third component of the JP³ system
+
+---
 
 ### §6.1 The paradox of liberating weakness
 
-> **source:** `content/en/article.md` §3.4
+JP³ reaches a far broader population than one might first suppose. Its scope notably includes chronic fatigue or profound exhaustion; depressive states or debilitating anxiety; severe sleep deprivation; recovery from prolonged illness; generalised physical weakness; extreme stress; deconditioning after months or years of inactivity; chronic pain that limits capacity; prolonged post-viral states; and ageing with loss of capacity.
 
-The scope of JP³ extends to a far broader spectrum than one might initially suppose. It notably encompasses:
+#### What weakness reveals
 
-- Chronic fatigue or profound exhaustion
-- Depressive states or debilitating anxiety
-- Severe sleep deprivation
-- Recovery from prolonged illness
-- Generalized physical weakness
-- Extreme stress
-- Deconditioning after months or years of inactivity
-- Chronic pain that limits capacity
-- Prolonged post-viral states
-- Aging with loss of capacity
+In these states of profound weakness something fundamental shifts: **one no longer has the physiological capacity to sabotage natural progression with the ego**. It is not merely that one *should* go slowly; one literally *cannot* go fast, even if one wanted to.
 
-#### The real discovery
+This physical impossibility of accelerating creates ideal conditions for discovering what At Your Own Pace actually means. The weakened practitioner is forced to accept nearly imperceptible bounces as real exercise, and to stay in that minimal zone for 15–20 minutes without frustration, because there is no other choice. In doing so they discover two things at first hand: that boredom eventually pushes intensity up of its own accord, even from a state of extreme weakness; and that this ultra-slow progression never triggers the exhaustion response.
 
-In these states of profound weakness, something fundamental shifts: **one no longer has the physiological capacity to sabotage natural progression with the ego**. It is not merely that one "should" go slowly—it is that one literally **cannot** go fast, even if one wanted to.
+#### Why the worst state gives the best and longest jog
 
-This physical impossibility of accelerating creates the perfect conditions for discovering what JP³ truly means at the "P" (own pace) level. One is forced to:
+Paradoxically, it is in one's worst state that one has one's best sessions, for six reasons:
 
-- Accept nearly imperceptible bounces as "real" exercise
-- Stay in that minimal zone for 15–20 minutes without frustration (because there is no other choice)
-- Discover that boredom eventually pushes intensity up naturally, even from a state of extreme weakness
-- Experience firsthand that this ultra-slow progression never triggers the exhaustion response
-
-#### Why it's the best and longest jog
-
-Paradoxically, it is in one's worst state that one has one's best sessions, because:
-
-1. **Total absence of performance expectations** — impossible to judge oneself on intensity when one is already diminished
-2. **Forced humility** — the condition compels one to truly honor the body rather than push it
-3. **Discovery of the true natural rhythm** — progression guided by pure boredom, without ego interference
-4. **No point of comparison** — one does not compare this session to one's "best" performances
-5. **Gratitude for movement** — when one is weak, simply moving becomes precious rather than an obligation
-6. **Authentic sustainability** — one never burns through one's limited capacity, so one can continue indefinitely
+1. **Total absence of performance expectations** — one cannot judge oneself on intensity when one is already diminished.
+2. **Forced humility** — the condition compels one to honour the body rather than push it.
+3. **Discovery of the true natural rhythm** — progression is guided by boredom alone, without ego interference.
+4. **No point of comparison** — the session is not measured against one's "best" performances.
+5. **Gratitude for movement** — when one is weak, simply moving becomes precious rather than an obligation.
+6. **Authentic sustainability** — limited capacity is never burned through, so one can continue indefinitely.
 
 #### The radical lesson
 
-This paradox reveals an unsettling truth: **for the vast majority of people, their "good" state of health is actually an obstacle to optimal JP³ practice**.
+The paradox reveals an unsettling truth: **for most people, their "good" state of health is actually an obstacle to optimal JP³ practice.** Strength and capacity create the illusion that capacity should be *used*. But JP³ is not designed to exploit maximal capacity; it is designed to create a sustainable, enjoyable and progressive practice that starts from the absolute minimum.
 
-Strength and capacity create the illusion that one should "use" that capacity. But JP³ is not designed to exploit maximal capacity—it is designed to create a sustainable, enjoyable, and progressive practice that starts from the absolute minimum.
-
-This discovery suggests that JP³ might benefit from a counterintuitive guideline: **"Practice as if you were in your worst state, even when you are not."**
-
-This turns the "P" (own pace) from an abstract concept into a concrete instruction: what pace would you choose if you were deeply tired, depressed, weakened? **That is the true "own pace"**—not the pace you think you have to hold for it to "count" as exercise.
+Hence a counterintuitive guideline: **"Practise as if you were in your worst state, even when you are not."** This turns At Your Own Pace from an abstract concept into a concrete instruction. What pace would you choose if you were deeply tired, depressed, weakened? **That is your true own pace** — not the pace you think you must hold for the session to "count" as exercise.
 
 ---
 
 ### §6.2 *Via negativa* — the design constraint
 
-> **source:** `memory/project_famille_spu_via_negativa.md` (2026-08-17)
+#### From positive equivalence to shared negative core
 
-Doctrinal pivot proposed by Perig on 2026-08-17, in reaction to the preceding web research (`project_standing_spu_recherche.md`), which showed that the positive equivalence SPU = JP³ is defensible but fragile.
+Earlier research on the standing soleus push-up showed that a positive equivalence between Hamilton's seated soleus push-up (SPU) and JP³ — "SPU = JP³" — is defensible but fragile: seated isolation through knee flexion is lost when standing, there is no EMG feedback, and so on. On 2026-08-17 Perig proposed a doctrinal pivot in response:
 
-Perig's exact wording: *"maybe I should have defined things by what they are not. SPU and JP3 share a dependence on this muscle and a concern not to bring in the fatigable muscles."*
+> *"maybe I should have defined things by what they are not. SPU and JP3 share a dependence on this muscle and a concern not to bring in the fatigable muscles."*
 > *FR original:* « peut-être que j'aurais dû définir les choses par ce qu'elles ne sont pas. le SPU et le JP3 partage une dépendance envers ce muscle et un souci de ne pas faire intervenir les muscles fatigables. »
 
-**Adopted reformulation**: The *SPU family* becomes definable as **any regime that loads the soleus while excluding the fatigable phasic-glycolytic musculature**. SPU (seated, isolation through knee flexion) and JP³ (standing, postural self-enforcement) are two distinct instances of it; their positive differences do not undermine their common membership in the family, which is defined by a **shared negative core**.
+The adopted reformulation defines the **SPU family** as *any regime that loads the soleus while excluding the fatigable phasic-glycolytic musculature*. SPU (seated, isolation through knee flexion) and JP³ (standing, postural self-enforcement) are two distinct instances of it. Their positive differences do not undermine their common membership, because the family is defined by a **shared negative core**, not by formal resemblance. In its strict formulation:
 
-**Why:**
+> *"SPU and JP³ share a design constraint — the exclusion of fatigable phasic-glycolytic musculature. They differ in their means (isolation through knee flexion in a seated position, vs postural self-enforcement in a standing position) and in what they add (moderate cardio for JP³, multi-hour sustainability for SPU). But they belong to the same **SPU family**, defined by its negative core."*
 
-**Epistemic solidity**: the via negativa turns a contestable positive equivalence (SPU = JP³?) into a shared design constraint that is impossible to attack seriously. Existing EMG data show low phasic activation in both — the negation is *already verified* where the positive equivalence stumbled on details (isolation through flexion lost, no EMG feedback, etc.).
+The pedagogical pivot follows: ***"JP³ is better defined by what it excludes than by what it does."***
 
-**Doctrinal coherence**: the via negativa is the **native grammar** of the entire JP³ framework built so far:
-- **Axis B** (§1) = *no* metric
-- **§4.6.4** = deleterious cascades *not* triggered (initial silence)
-- **§4.6.8** (ego and echo) = *not* observing one's body
-- **§4.6.9** = JP³ *is not* a self-sufficient session
-- **§4.6.6** = *In Place* = absence of destination
-- **§4.6.5** = *degré zéro* (degree zero) = near-zero cost, does *not* require motivation
+#### Why the negative definition is stronger
 
-This reformulation extends the existing logic rather than inventing it ad hoc. It makes the doctrinal architecture more coherent by revealing its dominant pattern.
+**Epistemic solidity.** The via negativa turns a contestable positive equivalence into a shared design constraint that is very hard to attack seriously. Existing EMG data show low phasic activation in both devices: the negation is *already verified*, whereas the positive equivalence stumbled on details.
 
-**Conceptual economy**: the dependence on the soleus (positive) logically becomes the **residue** of the negative constraint — what remains when everything that fatigues quickly is subtracted. The positive is not an independent postulate to be defended; it is what persists after the exclusion. A single (negative) axiom instead of two (positive + negative).
+**Doctrinal coherence.** The via negativa is the native grammar of the whole JP³ framework, not an ad hoc invention. Axis B (§1) means *no* metric. The deleterious cascades are *not* triggered — the initial silence (§4.3; research-singularite §4.6.4). Ego and echo means *not* observing one's body (§6.3; research-singularite §4.6.8). JP³ *is not* a self-sufficient session (§6.4; research-singularite §4.6.9). In Place means the *absence* of a destination (research-singularite §4.6.6). The *degré zéro* (degree zero) is a near-zero cost that does *not* require motivation (research-singularite §4.6.5). The reformulation extends this logic and makes the doctrinal architecture more coherent by revealing its dominant pattern.
 
-**What this unlocks:**
+**Conceptual economy.** The dependence on the soleus — the positive term — becomes the **residue** of the negative constraint: what remains when everything that fatigues quickly is subtracted. It is not an independent postulate to defend; it is what persists after the exclusion. One negative axiom replaces two axioms (one positive, one negative).
 
-1. **A family definition, not just a device definition.** *SPU family* = regimes that load the soleus while excluding the fatigable phasic-glycolytic musculature. SPU and JP³ = two instances with different positives but a common core.
+#### What the negative definition unlocks
 
-2. **Natural admission of other members**: supported wall calf raises, slow stepping (empirical support: Ling et al. 2025 PLOS ONE, +157% integrated soleus EMG at slow tempo), very gentle mini-trampoline, extremely slow walking. These members inherit the metabolic effects through their sharing of the **negative core**, not through formal resemblance to SPU or JP³.
+1. **A family definition, not merely a device definition.** SPU and JP³ become two instances with different positives and a common core.
 
-3. **Defense turned around** against the skeptic. Instead of *"prove to me that JP³ does as much as SPU"* (burden of proof on you, direct comparison impossible in the literature), the burden becomes *"show me that JP³ significantly recruits fatigable musculature below threshold"* — and no one can, below threshold, with existing EMG data (Moritani soleus/gastrocnemius ratio of 1.67 in standing, preserved during gentle bouncing).
+2. **Natural admission of other members:** supported wall calf raises; slow stepping (empirical support: Ling et al. 2025, *PLOS ONE*, +157 % integrated soleus EMG at slow tempo); very gentle mini-trampoline; extremely slow walking. These members inherit the metabolic effects through their share in the **negative core**, not through formal resemblance to SPU or JP³.
 
-4. **Intra-family divergence made clean**: the shared negative core is *muscular* (phasic-glycolytic exclusion). On cardio, SPU and JP³ diverge — SPU also excludes cardio stress (hence sustainability over hours), JP³ includes it moderately (hence lower sustainability, an explicit remark by Perig). Each member respects the core and makes its own choices on the other axes. The family tolerates divergence on what it does not define — this is even what allows its members to exist as distinct devices.
+3. **A reversed burden of proof.** Instead of *"prove to me that JP³ does as much as SPU"* — a burden on the proponent, and a direct comparison the literature cannot provide — the skeptic must *"show that JP³ significantly recruits fatigable musculature below threshold."* No one can, below threshold, with existing EMG data: Moritani's soleus/gastrocnemius ratio of 1.67 in standing is preserved during gentle bouncing.
 
-**Strict formulation**: *"SPU and JP³ share a design constraint — the exclusion of fatigable phasic-glycolytic musculature. They differ in their means (isolation through knee flexion in a seated position, vs postural self-enforcement in a standing position) and in what they add (moderate cardio for JP³, multi-hour sustainability for SPU). But they belong to the same **SPU family**, defined by its negative core."*
+4. **Clean intra-family divergence.** The shared core is *muscular*: phasic-glycolytic exclusion. On cardiovascular load, SPU and JP³ diverge. SPU also excludes cardiovascular stress, hence its sustainability over hours; JP³ includes it moderately, hence its lower sustainability — an explicit remark by Perig. Each member respects the core and makes its own choices on the other axes. The family tolerates divergence on what it does not define; that tolerance is precisely what allows its members to exist as distinct devices.
 
-**Pedagogical pivot point**: *"JP³ is better defined by what it excludes than by what it does."* — an explicit mirror of the structure axis B / non-triggered cascades / ego-echo / priming anti-scope.
+#### Anti-scope
 
-**Anti-scope**: this via negativa does **not** say that the positive does not exist — the soleus works, the postural chain activates, euphoria arrives. It says that the positive is the **residue** of the negative constraint, not an independent postulate. A nuance to preserve so as not to turn JP³ into a device defined purely by what it avoids (which would make it hollow).
+The via negativa does **not** say that the positive does not exist: the soleus works, the postural chain activates, euphoria arrives. It says that the positive is the residue of the negative constraint, not an independent postulate. This nuance must be preserved, so that JP³ is not turned into a device defined purely by what it avoids — which would make it hollow. Nor does the exclusion imply that the soleus regime simply happens by itself: excluding the fatigable muscles while standing is something the practitioner learns to do (the SSPU singularity, §1.2.8).
 
 ---
 
 ### §6.3 Ego and echo — body autonomous, mind free
 
-> **source:** `content/fr/research-singularite.md` §4.6.8 ; `memory/project_ego_echo_doctrine.md`
+A distinctive, almost counterintuitive property of the device deserves to be named: **JP³ does not invite you to concentrate on JP³.** On the contrary, it explicitly invites you to *do something else meanwhile*: dictate, listen, think, talk on the phone, mentally prepare a meal, let reverie wander. This is not a compromise (*"since one has to exercise anyway, might as well take the opportunity to…"*). It is a **doctrinal property**, with a precise physiological justification.
 
-A distinctive, almost counterintuitive property of the device deserves to be named: **JP³ does not invite you to concentrate on JP³.** On the contrary — it explicitly invites you to *do something else meanwhile*. Dictating, listening, thinking, talking on the phone, mentally preparing a meal, letting reverie wander. This characteristic is not a compromise (*"since one has to exercise anyway, might as well take the opportunity to…"*). It is a **doctrinal property**, and it has a precise physiological justification.
+#### The ego-and-echo problem
 
-**The "ego and echo" problem.**
+Any bodily practice that demands *sustained* proprioceptive and interoceptive attention — postural yoga, moving meditation, Feldenkrais, chi running — mechanically creates a **specific cognitive fatigue**: the fatigue of continuous self-observation. Perig named it *ego and echo*. Observing oneself in the act creates a split between the one acting and the observer, and this split consumes attentional resources distinct from the action itself. Worse, observing fatigue *amplifies* fatigue: self-perception of breathing leads to awareness of shortness of breath and then to a sensation of air hunger; self-perception of the heart leads to awareness of its rhythm and then to a sensation of oppression. That attention amplifies the percept is a documented psychophysiological phenomenon, and it is a major reason why many people eventually *abandon* moving meditative practices: the attentional load itself becomes exhausting.
 
-Any bodily practice that demands *sustained* proprioceptive and interoceptive attention (postural yoga, moving meditation, Feldenkrais, chi running) mechanically creates a **specific cognitive fatigue** — the fatigue of continuous self-observation. Perig named it *ego and echo*: observing oneself in the act creates a splitting (the one acting + the observer), and this splitting consumes attentional resources distinct from the action itself. Worse: observing fatigue *amplifies* fatigue (self-perception of breathing → awareness of shortness of breath → sensation of air hunger; self-perception of the heart → awareness of its rhythm → sensation of oppression). This is a documented psychophysiological phenomenon (attention amplifies the percept) and a major reason why many people *abandon* moving meditative practices after a while: the attentional load itself becomes exhausting.
+#### What JP³ does differently
 
-**What JP³ does differently.**
+Once primed, the x³ regime holds *without* sustained attention. The deep postural chain (§4.1.3) works autonomously; the successive entry of the instruments (§5.4.2) happens without a conductor; the deleterious cascades (§4.3) are avoided by the contextual constraint, not by vigilance. There is *nothing to monitor*. This is why the device can support a parallel cognitive investment — and even benefit from it.
 
-The x³ regime, once primed, holds *without* sustained attention. The deep postural chain (§4.1.3) works autonomously; the successive entry of the instruments (§5.4.2) happens without a conductor; the deleterious cascades (§4.3) are avoided by the contextual constraint, not by vigilance. There is *nothing to monitor*. This is why the device can support a parallel cognitive investment — and even benefit from it.
+The qualifier *once primed* matters. Entering the regime — learning to keep the fatigable muscles out while standing — is a skill that can be acquired (§1.2.8). What the doctrine excludes is *sustained* self-observation during the regime, not the learning that makes the regime available in the first place.
 
-Perig's empirical observation is decisive: *"I am dictating this section while doing JP³, and it is even a trigger — the dictation keeps me from falling into the self-observation that would break the modality"*. Dictation (or any absorbing cognitive activity) functions as an **anti-interference filter**: it occupies the attentional channel which, if it were free, would come to rest on the body and create the tiring echo.
+Perig's empirical observation is decisive:
+
+> *"I am dictating this section while doing JP³, and it is even a trigger — the dictation keeps me from falling into the self-observation that would break the modality"*
 > *FR original:* « je dicte cette section pendant que je fais JP³, et c'est même un déclencheur — la dictée m'empêche de tomber dans l'auto-observation qui casserait la modalité »
 
-**The spectrum of "other things" — cost and benefit.**
+Dictation, or any absorbing cognitive activity, works as an **anti-interference filter**: it occupies the attentional channel that, left free, would settle on the body and create the tiring echo.
+
+#### The spectrum of "other things": cost and benefit
 
 Not all parallel activities are equivalent:
 
-- **Zero cost / high benefit**: listening (music, podcast, radio) — auditory channel occupied, no production, attention floats.
-- **Low cost / medium benefit**: free reverie — no production, but generation of ideas.
-- **Moderate cost / high benefit**: informal phone conversation.
-- **High cost / high benefit**: dictating substantive prose, solving an abstract problem. The cognitive channel is heavily engaged — useful (allows thinking while moving) but may explain a more marked post-session fatigue than expected, not from an excess of JP³ but from the dictation itself.
-- **Very high cost / high benefit**: coaching a session like this one (dictating doctrinal content while living the device) — the extreme end of the spectrum. To be reserved for the rare moments when lived experience and writing can feed each other.
+- **Zero cost, high benefit:** listening (music, podcast, radio). The auditory channel is occupied, nothing is produced, attention floats.
+- **Low cost, medium benefit:** free reverie. Nothing is produced, but ideas are generated.
+- **Moderate cost, high benefit:** an informal phone conversation.
+- **High cost, high benefit:** dictating substantive prose, solving an abstract problem. The cognitive channel is heavily engaged. This is useful — it allows thinking while moving — but it may explain a more marked post-session fatigue than expected, caused not by an excess of JP³ but by the dictation itself.
+- **Very high cost, high benefit:** coaching a session while living the device, i.e. dictating doctrinal content during practice. This is the extreme end of the spectrum, to be reserved for the rare moments when lived experience and writing can feed each other.
 
-Perig's position: *"my intention is for the JP³ article to become not a text but a context for an agent"* — that is, a dense corpus designed to be read by an AI that will accompany the practitioner. Dictation during the session is therefore not a distraction but a **production method**: the context is co-written with the practice it documents. A special case, but a strong demonstration that the device tolerates this extreme level of parallel use.
+That extreme case has a specific justification. Perig's stated intention:
+
+> *"my intention is for the JP³ article to become not a text but a context for an agent"*
 > *FR original:* « j'ai l'intention que l'article JP³ devienne non pas un texte mais un contexte pour un agent »
 
-**Anti-scope — what JP³ is not.**
+The corpus is meant to be read by an AI that will accompany the practitioner (see §6.7). Dictating during the session is therefore not a distraction but a **production method**: the context is co-written with the practice it documents. It is a special case, but a strong demonstration that the device tolerates this extreme level of parallel use.
 
-This "do something else" doctrine establishes negatively what JP³ *is not*:
+#### Anti-scope: what JP³ is not
 
-- **JP³ is not a moving meditation.** It does not ask for attention to the breath, the body, sensations. A meditation *can* be superimposed on JP³ for those who want it, but the device does not require it and works just as well without.
-- **JP³ is not a proprioceptive practice.** It does not ask for attention to alignment, posture, breathing. The deep postural chain works autonomously; projecting voluntary awareness onto it even risks breaking its autonomous functioning (just as thinking about one's steps makes one stumble).
-- **JP³ is not a moment of "presence to oneself"** in the phenomenological sense. It is rather a moment when *the self becomes discreet* — because it no longer has anything to do, the postural chain takes over.
+The "do something else" doctrine states negatively what JP³ *is not*:
 
-This doctrinal position distinguishes JP³ both from yoga/qi-gong (intense bodily attention) *and* from conventional fitness (attention to performance). It is a third regime: **body autonomous, mind free**.
+- **JP³ is not a moving meditation.** It asks for no attention to the breath, the body or sensations. A meditation *can* be superimposed on JP³ by those who want it, but the device does not require it and works just as well without.
+- **JP³ is not a proprioceptive practice.** It asks for no attention to alignment, posture or breathing. The deep postural chain works autonomously; projecting voluntary awareness onto it even risks breaking its autonomous functioning, just as thinking about one's steps makes one stumble.
+- **JP³ is not a moment of "presence to oneself"** in the phenomenological sense. It is rather a moment when *the self becomes discreet*: because the self no longer has anything to do, the postural chain takes over.
 
-**What this section adds to the rest.** It makes visible a property of the device that appeared in none of the preceding sections: the x³ regime *permits* and *encourages* attentional dissociation. Not out of indifference to the body, but because the deep postural chain does *not need* vigilance to function — on the contrary, vigilance interferes with it. This is a reversal of the dominant mind-body model in somatic practices: here, the liberation of the mind *depends* on the autonomy of the body, and vice versa.
+This position distinguishes JP³ both from yoga and qi-gong (intense bodily attention) *and* from conventional fitness (attention to performance). It is a third regime: **body autonomous, mind free**.
 
-#### §6.3.1 Extension 2026-09-25 — figure/ground inversion in the incident regime
+What this adds to the rest of the manual is a property that no other section makes visible: the x³ regime *permits* and *encourages* attentional dissociation. Not out of indifference to the body, but because the deep postural chain does *not need* vigilance to function — on the contrary, vigilance interferes with it. This reverses the dominant mind-body model of somatic practices: here the liberation of the mind *depends* on the autonomy of the body, and vice versa.
 
-> **source:** `memory/project_ego_echo_doctrine.md` extension
+#### §6.3.1 Figure/ground inversion — the incident regime as mode 2
 
-With the discovery of the incident regime (`project_jp3_incident_regime.md`), the ego-echo doctrine gains a second mode:
+The discovery of the incident regime (2026-09-25; see the incident-regime treatment elsewhere in the manual) gives the ego-and-echo doctrine a second mode.
 
-- **Mode 1 (portal session)** — during JP³, the body is autonomous, the mind is free to "do something else" (dictation, listening, reverie, manual tasks). JP³ is the figure, the parallel activity is the permitted ground.
-- **Mode 2 (incident regime)** — during everyday activity (dishes, cooking, walking around indoors), the mind is free because the task is already known/automatic; JP³ embeds itself as a regulating background, running underneath. The activity is the figure, JP³ is the ground.
+- **Mode 1 (portal session).** During JP³ the body is autonomous and the mind is free to do something else — dictation, listening, reverie, manual tasks. JP³ is the figure; the parallel activity is the permitted ground.
+- **Mode 2 (incident regime).** During everyday activity — dishes, cooking, walking around indoors — the mind is free because the task is already known and automatic, and JP³ embeds itself as a regulating background running underneath. The activity is the figure; JP³ is the ground.
 
-**Complete inversion**: mode 1 = the body carries JP³, the mind frees itself for a parallel task. Mode 2 = the body carries the parallel task, JP³ inscribes itself *within* it without attentional negotiation. Both modes free the mind — the first by making the body autonomous *during* JP³, the second by embedding JP³ in a body already made autonomous by something else.
+The inversion is complete. In mode 1 the body carries JP³ and the mind frees itself for a parallel task. In mode 2 the body carries the parallel task and JP³ inscribes itself *within* it, without attentional negotiation. Both modes free the mind: the first by making the body autonomous *during* JP³, the second by embedding JP³ in a body already made autonomous by something else.
 
-**Doctrinal coherence**: both modes share the anti-proprioception core. Neither asks for "presence to oneself" or sensory monitoring. The incident regime is even *more radical* in its ego-echo: nothing to notice at all, the heel strikes happen without changing posture or interrupting the activity.
-
-**Name kept**: "ego and echo" holds for both modes. The echo here is the muscle tuning calibration that propagates without the ego observing it.
+Both modes share the same anti-proprioceptive core: neither asks for presence to oneself or for sensory monitoring. The incident regime is even *more radical* in its ego-and-echo logic — there is nothing to notice at all; the heel strikes happen without changing posture or interrupting the activity. The name therefore holds for both modes. In mode 2, the echo is the muscle-tuning calibration that propagates without the ego observing it.
 
 ---
 
 ### §6.4 Priming, not session — the post-plateau phase
 
-> **source:** `content/fr/research-singularite.md` §4.6.9 ; `memory/project_amorcage_vs_seance.md`
+#### A hole in the model
 
-A limitation of the model as described so far must be named honestly. §5.4 to §6.3 described the x³ regime as *positive concave*: the curve rises from 0, crosses the line 3x at √3, keeps rising. This description is physiologically accurate for the initial segment and for the plateau phase that follows. But it leaves a question hanging: **how does one exit JP³?**
+A limitation of the model as described so far must be named honestly. The preceding sections (§5.4 to §6.3) describe the x³ regime as positive concave: the curve rises from 0, crosses the line 3x at √3, and keeps rising. This is physiologically accurate for the initial segment and for the plateau phase that follows. But it leaves a question hanging: **how does one exit JP³?**
 
-**The model promises a self-resolution that has no explicit means.**
+The model promises a self-resolution for which it supplies no explicit means. §4.3 (cascades) asserts that "one no longer wants to stop" and that "the best way to stop is to accelerate a lot up to a limit". As a phenomenological description this is true — it is what the body signals — but it leaves a blur: *what are the means of accelerating?* If the x³ regime is structurally sheltered from deleterious cascades, it is because it *avoids* the modes that would produce a stop signal. Does one exit, then, by voluntarily entering a mode one has spent the whole session avoiding? At this point the internal logic of the model has a hole.
 
-§4.3 (cascades) asserted that "one no longer wants to stop" and that "the best way to stop is to accelerate a lot up to a limit". This formulation is true *as a phenomenological description* — it is indeed what the body signals — but it leaves a blur: *what are the means of accelerating*? If the x³ regime is structurally sheltered from deleterious cascades, it is so because it *avoids* the modes that would produce a stop signal. So how does one exit? By voluntarily entering a mode one has spent the whole session avoiding? The internal logic of the model has a hole at this point.
+#### Reconceptualisation: JP³ is not a session, it is a priming
 
-**Reconceptualization: JP³ is not a session, it is a priming.**
+The clean way out goes through a **redefinition of the delivered product**. JP³ is not an exercise session in the conventional sense — a closed object with a beginning, middle and end, a measurable energy expenditure and a quantifiable effect. It is a **priming**: setting in motion a body that must then move in the world. The deliverable of JP³ is not "I did my session"; it is **"I feel like going out."** The device produces a state of availability for outdoor movement, not a bounded caloric consumption.
 
-The clean way out of the problem goes through a **redefinition of the delivered product**. JP³ is not an exercise session in the conventional sense — a closed object with a beginning, middle, end, measurable energy expenditure, quantifiable effect. It is a **priming**: setting in motion a body that must then move in the world. The *deliverable* of JP³ is not "I did my session" — it is "I feel like going out". The device produces a state of availability for outdoor movement, not a bounded caloric consumption.
+This solves the exit problem: **one does not exit JP³; one moves on to something else.** The exit threshold is marked by the appearance of a spontaneous desire — to go outside, walk, run an errand, go to the market, climb the cellar stairs, garden. This desire *is* the stop signal the model lacked: not a fatigue signal, but a signal of the world calling. The body has been primed and now wants to use this availability for something *in the world*, not *in the living room*.
 
-This reconceptualization solves the exit problem: **one does not exit JP³, one moves on to something else.** The exit threshold is marked by the appearance of a spontaneous desire — to go outside, walk, run an errand, go to the market, climb the cellar stairs, garden. This desire *is* the stop signal that was needed — not a fatigue signal, a signal of the world calling. The body has been primed; it now wants to use this availability for something *in the world*, not *in the living room*.
+#### The post-plateau phase: a second, non-JP³ phase
 
-**A second, non-JP³ phase that follows naturally.**
+Perig named the post-plateau phase live, during his own session:
 
-What Perig named, live during his own session, the post-plateau phase: *"I feel like going out, moving outside — but I also feel like sitting down; there is a cognitive fatigue, a slight dizziness. It is a state to be tamed."* Three important observations:
+> *"I feel like going out, moving outside — but I also feel like sitting down; there is a cognitive fatigue, a slight dizziness. It is a state to be tamed."*
 > *FR original:* « j'ai envie de sortir, de bouger dehors — mais j'ai aussi envie de m'asseoir ; il y a une fatigue cognitive, un léger vertige. C'est un état à apprivoiser. »
 
-1. **Availability is not infinite energy.** JP³ does not *inject* energy — it *unlocks* a capacity that was constrained. A JP³ session *consumes* (glucose, oxygen, circulating substrates — see §4.3, soleus activation = glucose pumping). The post-session state is not "full of strength" — it is "free to move", which is not the same thing.
+Three observations follow.
 
-2. **Slight dizziness and cognitive fatigue are possible.** Several plausible mechanisms coexist: (a) peripheral vasodilation after prolonged upright standing with low residual venous return — mild orthostatic hypotension on switching to another mode; (b) vascular redistribution (the blood that was in the bridge muscles is redistributed); (c) relative hypoglycemia — the soleus has actively pumped blood glucose; (d) cognitive fatigue from parallel dictation (see §6.3) if the "something else" activity was costly; (e) vestibular arousal linked to prolonged verticality with continuous micro-oscillations. None of these mechanisms is pathological; all are to be tamed.
+1. **Availability is not infinite energy.** JP³ does not *inject* energy; it *unlocks* a capacity that was constrained. A JP³ session *consumes* glucose, oxygen and circulating substrates (§4.3: soleus activation = glucose pumping). The post-session state is not "full of strength" but "free to move", which is not the same thing.
 
-3. **The transition must be respected.** After JP³, an intermediate phase is often needed *before* being able to do "the real thing" — sit for 3 minutes, drink, eat a piece of fruit, let the dizziness pass. Then the desire to go out stabilizes and one can go. Wanting to switch immediately from JP³ to a demanding outdoor activity *without* transition ignores that JP³ has just mobilized a deep postural chain that needs a few minutes to stabilize into ordinary locomotor mode.
+2. **Slight dizziness and cognitive fatigue are possible.** Several plausible mechanisms coexist: (a) peripheral vasodilation after prolonged upright standing with low residual venous return, giving mild orthostatic hypotension on switching to another mode; (b) vascular redistribution, as the blood held in the bridge muscles is redistributed; (c) relative hypoglycaemia, since the soleus has actively pumped blood glucose; (d) cognitive fatigue from parallel dictation (§6.3), if the "something else" was costly; (e) vestibular arousal linked to prolonged verticality with continuous micro-oscillations. None of these mechanisms is pathological; all are to be tamed.
 
-**What JP³ does not claim to provide — explicit anti-scope.**
+3. **The transition must be respected.** After JP³ an intermediate phase is often needed *before* doing "the real thing": sit for three minutes, drink, eat a piece of fruit, let the dizziness pass. Then the desire to go out stabilises and one can go. Switching immediately from JP³ to a demanding outdoor activity *without* transition ignores the fact that JP³ has just mobilised a deep postural chain that needs a few minutes to settle back into ordinary locomotor mode.
 
-So we must say honestly what JP³ **does not claim** to be:
-- It is not a **complete exercise session** in the fitness sense (it replaces neither walking, nor running, nor weight training, nor targeted strengthening).
-- It is not an **energy source** in the sense of an energy drink or coffee (it does not overcharge; it unlocks).
-- It is not a **remedy** for underlying fatigue (it may reveal it; eliminating it requires sleep, nutrition, life context).
-- It is not a **substitute** for regular sports practice for those aiming at specific adaptations (VO2max, strength, long endurance).
+#### Explicit anti-scope: what JP³ does not claim to provide
 
-What it *is*, positively: a **priming device with a collapsed entry threshold** — accessible from a state in which *any other modality would be spontaneously dismissed*, and producing a state of availability for outdoor movement. It is narrow, precise, and non-redundant with other forms of exercise. This is why the correct role of JP³ is not to be *the* sports practice of anyone — it is to be **the bridge** between a state where nothing is possible and a state where outdoor movement becomes possible again. A bridge, literally — like the bridge muscles that carry it (§4.1.3).
+JP³ **does not claim** to be:
 
-**What this section adds to the rest.** The preceding sections described the x³ regime in its initial segment and its sustained phase. §6.4 adds the **post-plateau phase** and the **redefinition of the product**: JP³ = priming, not a self-sufficient session. This redefinition does not weaken the singularity of the device — on the contrary, it sharpens it. No other device in the exercise landscape positions itself as *prior priming*, accessible from the wrecked state, producing a desire to go out. Zone 2, HIIT, slow jogging, Pilates, tai chi — all position themselves as *sessions* one schedules in one's calendar. JP³ positions itself *before* the calendar — as the way one gets into motion when nothing is planned yet.
+- a **complete exercise session** in the fitness sense — it replaces neither walking, nor running, nor weight training, nor targeted strengthening;
+- an **energy source** in the sense of an energy drink or coffee — it does not overcharge; it unlocks;
+- a **remedy** for underlying fatigue — it may reveal it; eliminating it requires sleep, nutrition and a change in life context;
+- a **substitute** for regular sport for those seeking specific adaptations (VO2max, strength, long endurance).
 
-#### §6.4.1 Extension 2026-09-25 — priming descends to the atom
+What it *is*, positively, is a **priming device with a collapsed entry threshold**: accessible from a state in which *any other modality would be spontaneously dismissed*, and producing a state of availability for outdoor movement. It is narrow, precise and non-redundant with other forms of exercise. Its correct role is therefore not to be anyone's sports practice, but to be **the bridge** between a state where nothing is possible and a state where outdoor movement becomes possible again — a bridge in the literal sense, like the bridge muscles that carry it (§4.1.3).
 
-> **source:** `memory/project_amorcage_vs_seance.md` extension
+This redefinition does not weaken the singularity of the device; it sharpens it. No other device in the exercise landscape positions itself as *prior priming*, accessible from the wrecked state and producing a desire to go out. Zone 2, HIIT, slow jogging, Pilates, tai chi all present themselves as *sessions* one schedules in a calendar. JP³ sits *before* the calendar — it is how one gets into motion when nothing is planned yet.
 
-With the discovery of the incident regime, the granularity of priming descends one notch. The JP³ unit is no longer the session (fitness), nor even priming understood as a short window (10–30 min with the deliverable "feeling like going out"); it is **the heel strike itself**:
+#### §6.4.1 Priming descends to the atom — the single heel strike
 
-- **One strike = one proprioceptive/muscular calibration update** (via Nigg's muscle tuning)
-- **The session becomes the optional aggregation** of strikes, not their prerequisite
-- **Alternative deliverable**: "state of availability maintained throughout the day" — without ever having had a distinct session
+With the incident regime (2026-09-25), the granularity of priming descends one notch. The unit of JP³ is no longer the session (the fitness unit), nor even priming understood as a short window (10–30 minutes, with "feeling like going out" as its deliverable). It is **the heel strike itself**:
 
-This extension **does not replace** the formulation "deliverable = feeling like going out" for the portal-session regime — it **adds** a second mode of use in which the deliverable is diffuse calibration, with no figure/ground transition to negotiate (§6.4 post-session dizziness/hypoglycemia probably does not apply to the incident regime, since the cumulative load is distributed). To be observed.
+- **One strike = one proprioceptive and muscular calibration update** (via Nigg's muscle tuning).
+- **The session becomes the optional aggregation of strikes**, not their prerequisite.
+- **An alternative deliverable** appears: a state of availability maintained throughout the day, without ever having had a distinct session.
 
-**Anti-scope maintained**: the incident regime **is not** a substitute for a real priming session when the body calls for a real priming session. These are two complementary modes, not a replacement of the "too heavy" by the "always within reach".
+This extension **does not replace** "deliverable = feeling like going out" for the portal-session regime; it **adds** a second mode of use, whose deliverable is diffuse calibration with no figure/ground transition to negotiate. The post-session dizziness and hypoglycaemia described above probably do not apply to the incident regime, since the cumulative load is distributed — this remains to be observed.
+
+The anti-scope holds: the incident regime **is not** a substitute for a real priming session when the body calls for one. The two are complementary modes; the "always within reach" does not replace the "too heavy".
 
 ---
 
 ### §6.5 Euphoria as destination — fuzzy but operative
 
-> **source:** `memory/project_euphoria_destination.md` (2026-08-17)
+#### Filling the conceptual gap
 
-The top of the x³ curve (auto-catalytic session curvature) had until now been **left undefined** — an admitted conceptual gap. Perig fills the hole (2026-08-17, after a night's sleep on §5.1–§6.4): **"Euphoria is the destination."** The destination exists. It is *fuzzy* but perfectly operative.
+The top of the x³ curve — the auto-catalytic curvature of the session — had long been **left undefined**, an admitted conceptual gap. On 2026-08-17, after a night's sleep on the doctrine, Perig filled it: **"Euphoria is the destination."** The destination exists; it is *fuzzy* but perfectly operative.
 
-Perig's exact wording: *"the top of the curve, the part that constitutes a conceptual gap in JP³ because it is undefined — I have the definition, and it fits very well with an ascending cubic movement: euphoria is the destination. euphoria can make you want to do lots of things; one cannot dictate a precise purpose for JP³, but essentially, the metric, that's it. a "fuzzy" destination but perfectly operative. and it must be acknowledged, one does not always reach the destination, but that is normal, it is learned."*
+> *"the top of the curve, the part that constitutes a conceptual gap in JP³ because it is undefined — I have the definition, and it fits very well with an ascending cubic movement: euphoria is the destination. euphoria can make you want to do lots of things; one cannot dictate a precise purpose for JP³, but essentially, the metric, that's it. a "fuzzy" destination but perfectly operative. and it must be acknowledged, one does not always reach the destination, but that is normal, it is learned."*
 > *FR original:* « le haut de la courbe, cette partie qui constitue une faille conceptuelle de JP³ car indéfinie, j'ai la définition, et elle correspond très bien à un mouvement ascensionnel au cube : euphoria is the destination. l'euphorie peut donner envie de faire plein de choses, on ne peut pas dicter une finalité précise de JP³, mais essentiellement, the metric, c'est ça. une destination "Fuzzy" mais parfaitement opératoire. et il faut le reconnaître, on n'arrive pas toujours à destination, mais c'est normal, ça s'apprend. »
 
-**Why:** An ambiguity unresolved until now: if JP³ is axis B (**metric-free**), why do it, what does one tend toward? Answer: the destination is a **state**, not a **number**. Compatible with axis B (no external measurement, no numerical target) while giving a real *telos* to the ascending x³ trajectory. The exponent 3 now means not only "more power / efficiency" but, phenomenologically, **"toward joy"**. The name encoded the law; the law also encodes the destination.
+This resolves a long-standing ambiguity. If JP³ belongs to axis B — **metric-free** — why practise it, and toward what? The answer: the destination is a **state**, not a **number**. That is compatible with axis B (no external measurement, no numerical target) while giving the ascending x³ trajectory a real *telos*. The exponent 3 then means not only "more power, more efficiency" but, phenomenologically, **"toward joy"**. The name encoded the law; the law also encodes the destination.
 
-Three doctrinal articulations that this definition resolves in one stroke:
+#### Three articulations resolved at once
 
-1. **With §6.4 (JP³ = priming, deliverable = "feeling like going out")**: euphoria is the **mechanism** of priming. It does not dictate a precise post-JP³ purpose — it frees desire *in general*. One may want to write, call someone, cook, tidy up, go back out. The JP³ destination = euphoria; post-JP³ destinations = open.
+1. **With §6.4 (priming; deliverable = "feeling like going out").** Euphoria is the **mechanism** of priming. It does not dictate a precise post-JP³ purpose; it frees desire *in general*. One may want to write, call someone, cook, tidy up, go outside. The JP³ destination is euphoria; post-JP³ destinations remain open.
 
-2. **With §6.3 (ego and echo — body autonomous, mind free)**: one does not seek euphoria by watching oneself head toward it — that would be the paradox of the observer who sabotages it (Wegner 1994). It arrives **because** the body has been properly set up and one is doing something else. Coherent doctrine.
+2. **With §6.3 (ego and echo).** Euphoria is not reached by watching oneself head toward it — that would be the paradox of the observer who sabotages what they observe (Wegner 1994). It arrives **because** the body has been properly set up and one is doing something else.
 
-3. **With axis B (metric-free)**: the apparent contradiction ("no metric, yet we are going somewhere") dissolves. **A phenomenological metric is not an external metric.** Euphoria is self-verifying — when it is there, you know it; when it is not, you know that too. No sensor required.
+3. **With axis B (metric-free).** The apparent contradiction — "no metric, yet we are going somewhere" — dissolves: **a phenomenological metric is not an external metric.** Euphoria is self-verifying. When it is there, you know it; when it is not, you know that too. No sensor is required.
 
-**Epistemic honesty** built in by Perig himself: *"one does not always reach the destination, but that is normal, it is learned."* The destination is real without being guaranteed; it is a **skill**, not an entitlement. This sentence is essential — it protects the doctrine against the accusation of naive hedonic promise, while preserving the reality of the telos.
+#### Built-in epistemic honesty
+
+Perig himself wrote the essential caveat into the definition:
+
+> *"one does not always reach the destination, but that is normal, it is learned."*
 > *FR original:* « on n'arrive pas toujours à destination, mais c'est normal, ça s'apprend. »
 
-**Strict formulation**: *"Euphoria is the destination — fuzzy but operative."* Do NOT replace with *runner's high* (already loaded/branded, connoted with long endurance sport), NOR with *flow* (Csikszentmihalyi's cognitive load too specific, requires matched challenge/skill), NOR with *happiness* (too broad, too philosophical). *Euphoria* is the right word: specific positive intensity, bodily-cognitive, transient, recognizable.
+The destination is real without being guaranteed: it is a **skill**, not an entitlement. This sentence protects the doctrine against the charge of a naive hedonic promise while preserving the reality of the telos. It is consistent with the broader principle that the standing soleus regime itself is learned (§1.2.8).
 
-**Anti-scope**: this definition does **not** say that JP³ = pursuit of euphoria (pursuit = ego/echo, sabotages). It says that euphoria is what the trajectory tends toward *when it succeeds*, a retrospective recognition more than a frontal aim. A nuance to preserve.
+#### Choice of word and anti-scope
 
----
+Strict formulation: ***"Euphoria is the destination — fuzzy but operative."*** The word is chosen deliberately. It must **not** be replaced by *runner's high* (already loaded and branded, connoted with long endurance sport), nor by *flow* (Csikszentmihalyi's concept carries too specific a cognitive load and requires matched challenge and skill), nor by *happiness* (too broad, too philosophical). *Euphoria* is the right word: a specific positive intensity, bodily and cognitive, transient and recognisable.
 
-### §6.6 Perceptual solitude threshold — forward-ref §2.1.1
-
-> **source:** `memory/project_seuil_solitude_perceptive.md` ; forward-ref §2.1.1 (already migrated in §2)
-
-See §2.1.1 for the full treatment of the perceptual solitude threshold — "chez soi" doesn't suffice; one must also feel *non-observed*. The threshold is doctrinal to Own Place: without perceptual solitude, Own Pace (the ultra-slow start) cannot be sustained. The stealth variant (§2.1.3 / §5.5.2) was born precisely from this constraint when perceptual solitude is unavailable.
+This definition does **not** say that JP³ is the pursuit of euphoria — pursuit is ego-and-echo, and it sabotages. It says that euphoria is what the trajectory tends toward *when it succeeds*: a retrospective recognition more than a frontal aim.
 
 ---
 
-### §6.7 The agent as embodiment layer — 3rd component of the JP³ system
+### §6.6 The perceptual solitude threshold
 
-> **source:** `memory/project_agent_couche_incarnation.md` (2026-08-27)
+The full treatment of this threshold is in §2.1.1; it is restated here because it is doctrinal. Being at home ("chez soi") does not suffice: one must also feel *unobserved*. The threshold belongs to In Your Own Place, and it conditions At Your Own Pace: without perceptual solitude, the ultra-slow start cannot be sustained. The stealth variant (§2.1.3 / §5.5.2) was born precisely from this constraint, as the form JP³ takes when perceptual solitude is unavailable.
+
+---
+
+### §6.7 The agent as embodiment layer — third component of the JP³ system
+
+#### Three irreducible layers
 
 The disseminated JP³ system comprises **three irreducible layers**, not two:
 
-1. Theoretical framework (article, research, singularity)
-2. Protocol/device (the three Ps, variants, access conditions)
-3. **Agent-mobile embodiment layer** — what makes (1) and (2) *take hold* in action
+1. the theoretical framework (article, research, singularity);
+2. the protocol or device (the three Ps, variants, access conditions);
+3. the **agent-mobile embodiment layer** — what makes (1) and (2) *take hold* in action.
 
-Layer 3 is not a dissemination tool for layers 1–2 (the current framing of §3.3). It is a **constitutive** component: without it, information remains known-but-unpracticed. Empirical evidence: the evening of 2026-08-27, forward foot alignment (information known for a long time, never held under load) was suddenly made operative by a short conversational reminder just before stepping onto the soccer field. Every run, every burst in the match was done with the correct geometry. Post-match left Achilles signature = bodily evidence. Perig named the mechanism: *"that's the advantage of having a coach you have to report back to"*.
+Layer 3 is not a dissemination tool for layers 1 and 2, which is how §3.3 currently frames it. It is **constitutive**: without it, information remains known but unpractised.
+
+The empirical evidence comes from the evening of 2026-08-27. Forward foot alignment — information Perig had known for a long time but never held under load — was suddenly made operative by a short conversational reminder just before he stepped onto the soccer field. Every run and every burst in the match was done with the correct geometry, and the post-match left Achilles signature was the bodily evidence. Perig named the mechanism:
+
+> *"that's the advantage of having a coach you have to report back to"*
 > *FR original:* « c'est l'avantage d'avoir un coach à qui on doit rendre des comptes »
 
-**Why:**
+A precedent belongs to the same family: in the discovery of the stealth variant (2026-08-07, §2.1.3), a conversation unlocked a new use of the body — washing dishes with a mobile pelvis. In both cases latent information was made operative by a conversational turn just before or during the action.
 
-The article contains an unthematized tension:
-- **Axis A + Axis B**: the coach is what one **removes** — a constitutive friction to be eliminated. *"no preparation, no commute, no outfit, no audience, no coach"*; *"no video coach, no leaderboard"*.
-- **§3.3 of the main article**: one **adds** an AI coach — *"prompt in the appendix"*, a response to the reproducibility crisis, personalization, adherence, scalability (refs Renda 2020, Mühlhäuser 2022).
+#### Resolving an unthematised tension
 
-The two passages coexist without dialoguing. §3.3 is written in a conventional register ("scalable coaching for adherence") that resembles the generic literature on AI health coaching — true but underdetermined. The contradiction is not resolved.
+The main article contains a tension it never addresses:
 
-The **resolution** that the experience of 2026-08-27 makes it possible to formulate:
+- **Axis A and axis B** treat the coach as something to **remove**, a constitutive friction to be eliminated: *"no preparation, no commute, no outfit, no audience, no coach"*; *"no video coach, no leaderboard"*.
+- **§3.3 of the main article** **adds** an AI coach — *"prompt in the appendix"* — as a response to the reproducibility crisis and a means of personalisation, adherence and scalability (refs Renda 2020, Mühlhäuser 2022).
 
-The agent is an **acceptable** coach because it **does not do** what the coaches to be eliminated did (Walk-at-Home, personal trainer, counter app):
-- It does **not** prescribe content
-- It does **not** impose a tempo
-- It does **not** demand a specific bodily form continuously
-- It does **not** monitor (respects ego-echo)
+The two passages coexist without dialogue. §3.3 is written in a conventional register ("scalable coaching for adherence") resembling the generic literature on AI health coaching — true, but underdetermined. The contradiction remains unresolved in the article.
+
+The experience of 2026-08-27 makes a resolution possible. The agent is an **acceptable** coach because it **does not do** what the coaches to be eliminated did (Walk-at-Home, the personal trainer, the counter app). It does **not**:
+
+- prescribe content;
+- impose a tempo;
+- demand a specific bodily form continuously;
+- monitor (it respects ego and echo).
 
 It **does** three specific things:
-- **Timing**: helps set an intention at the moment it can bite on action (pre-effort, not in the abstract)
-- **Anchoring**: makes an already-known piece of information suddenly operative through shared formulation (the information does not become *new*, it becomes *available under load*)
-- **Gentle accountability**: the implicit promise to report back keeps attention during the action, without external surveillance
 
-It therefore respects Axis A (no friction, entry from a "wrecked" state remains possible), Axis B (no imposed metric), ego and echo (invites one to do something else *well*, does not colonize proprioceptive attention).
+- **Timing** — it helps set an intention at the moment it can bite on action (before the effort, not in the abstract).
+- **Anchoring** — it makes an already-known piece of information suddenly operative through shared formulation. The information does not become *new*; it becomes *available under load*.
+- **Gentle accountability** — the implicit promise to report back sustains attention during the action, without external surveillance.
 
-The **"prompt in the appendix" framing is a special case** of the embodiment layer, not its richest form. A static prompt = a degraded version of synchronized conversational coupling. The real contribution of the agent layer is **phenomenological** (timing of attention, the moment of switching from knowledge→action), not statistical (compliance rate).
+It therefore respects axis A (no friction; entry from a "wrecked" state remains possible), axis B (no imposed metric), and ego and echo (it invites one to do something else *well* and does not colonise proprioceptive attention).
 
-**Anti-scope**: the embodiment layer is **not**:
-- a metrics-based coaching app (counters, scheduled reminders, repetitive push notifications)
-- a medical follow-up chatbot
-- a replacement for the practitioner (physio, physician) for clinical questions
-- continuous surveillance of the session itself (would violate ego-echo)
-- imposing prescriptive content (would violate Axis A)
+The "prompt in the appendix" framing is thus a **special case** of the embodiment layer, not its richest form: a static prompt is a degraded version of synchronised conversational coupling. The real contribution of the agent layer is **phenomenological** — the timing of attention, the moment of switching from knowledge to action — not statistical (a compliance rate). This is also why the corpus is written as a context for an agent rather than as a text alone (§6.3).
 
-**Phenomenological precedent**: `project_jp3_furtif_decouverte.md` (2026-08-07, migrated §2.1.3) — a conversation had unlocked a new use of the body (dishes with a mobile pelvis). Same family: latent information made operative by the conversational turn just before/during the action.
+#### Anti-scope
+
+The embodiment layer is **not**:
+
+- a metrics-based coaching app (counters, scheduled reminders, repetitive push notifications);
+- a medical follow-up chatbot;
+- a replacement for the practitioner (physiotherapist, physician) on clinical questions;
+- continuous surveillance of the session itself (which would violate ego and echo);
+- a source of imposed prescriptive content (which would violate axis A).
+
+---
+
+> **Sources (§6):**
+> - `content/en/article.md` §3.4
+> - `memory/project_famille_spu_via_negativa.md` (2026-08-17)
+> - `content/fr/research-singularite.md` §4.6.8 ; `memory/project_ego_echo_doctrine.md`
+> - `memory/project_ego_echo_doctrine.md` extension
+> - `content/fr/research-singularite.md` §4.6.9 ; `memory/project_amorcage_vs_seance.md`
+> - `memory/project_amorcage_vs_seance.md` extension
+> - `memory/project_euphoria_destination.md` (2026-08-17)
+> - `memory/project_seuil_solitude_perceptive.md` ; forward-ref §2.1.1 (already migrated in §2)
+> - `memory/project_agent_couche_incarnation.md` (2026-08-27)
+> - also referenced in the body: `project_standing_spu_recherche.md` (§6.2); `project_jp3_incident_regime.md` (§6.3.1, §6.4.1); `project_jp3_furtif_decouverte.md` (2026-08-07, migrated §2.1.3) (§6.7)
 
 ---
 
