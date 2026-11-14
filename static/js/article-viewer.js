@@ -11,27 +11,25 @@
   const articlePath = container && container.dataset.articlePath;
   if (!articlePath) return;
 
+  // GitHub-compatible slugs, so TOC links in MANUAL.md work both on GitHub and here
   function slugify(text) {
     return text
       .toString()
-      .toLowerCase()
-      .normalize('NFD')
-      .replace(/[̀-ͯ]/g, '')
-      .replace(/[^a-z0-9\s-]/g, '')
       .trim()
-      .replace(/\s+/g, '-')
-      .replace(/-+/g, '-');
+      .toLowerCase()
+      .replace(/[^\p{L}\p{M}\p{N}\p{Pc}\- ]/gu, '')
+      .replace(/ /g, '-');
   }
 
   function buildToc(root) {
     if (!tocList) return;
-    const headings = root.querySelectorAll('h2, h3, h4');
+    const headings = root.querySelectorAll('h2, h3, h4, h5, h6');
     const usedIds = new Set();
     tocList.innerHTML = '';
     headings.forEach((h) => {
       let base = h.id || slugify(h.textContent);
       let id = base;
-      let i = 2;
+      let i = 1;
       while (usedIds.has(id)) id = base + '-' + i++;
       usedIds.add(id);
       h.id = id;
